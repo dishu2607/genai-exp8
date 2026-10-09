@@ -1,0 +1,2947 @@
+--- PAGE 1 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Sem-V
+
+--- PAGE 2 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+PC Analog and Digital
+Communication
+3 0 2 5 10 3 0 1 4
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+EC301
+Theory 20 20 60 100
+Laboratory 70 -- 30 100
+Pre-requisite Course Codes, if any. Electronic devices, Probability and random process and Signals
+and Systems
+Course Objective: The objective is to equip the students with basic knowledge for analyzing analog and
+digital communication systems ranging from data networks and internet to mobile data communication systems
+such as cellular and WiFi systems. Specifically, the students will learn how to manage communication system
+resources including bandwidth and power by selecting a proper signaling and/or analog/pulse/digital
+modulation scheme
+Course Outcomes (CO): At the End of the course students will be able to
+CO.1 Describe various entities of analog/pulse/ digital communication system
+CO.2 Apply mathematical concepts and compute performance parameters of various analog/pulse/digital modulation schemes
+CO.3 Analyze system performance of various analog/pulsed/digital modulation
+methods in time domain/ frequency domain/ signal space
+CO.4 Analyze the behavior of a various analog/pulse/digital modulation schemes
+with and without noise
+CO.5 Compare various modulation/demodulation techniques
+CO.6 Examine various wired and wireless applications and further infer health/ safety/environment
+aspects of wired and wireless systems
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO.1 3 - - -
+CO.2 2 2 3 3 3
+CO.3 2 2 3 3 3 1
+CO.4 3 3 3 3 3 1
+CO.5 2 2 3 3 3
+CO.6 1 1 1 1 1 3 3 3
+overall
+strength
+3 3 3 1 1 1 2 2 2
+
+--- PAGE 3 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Mapping of CO with PO:(correlation/ strength matrix)
+Correlation Levels: 1(weak) 2( medium) 3(strong)
+It is decided on based on depth of the teaching -learning required and questions he/she plans to ask in
+exams in the various assessment modes during a semester.
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+CO.1 2 2
+CO.2 2 2 2 1
+CO.3 2 2 2 1
+CO.4 2 2 2 1
+CO.5 2 2
+CO.6 1 1
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1
+2
+Title Continuous-Wave Modulation 1
+08 1.1 Review of signals and systems, Frequency domain
+representation of signals,classification of Frequency
+spectrum,Need for modulation,Block diagram of an analog
+and digital communication system.
+1.2 Amplitude modulation,Linear modulation schemes,
+Frequency translation,FDM
+1.3 Frequency modulation,Spectral characteristics of angle
+modulated signals,Generation of FM signals:Indirect method,
+FM demodulation: Frequency discriminator
+1.4 Super heterodyne receiver
+2 Title Pulse Modulation 1 06
+
+--- PAGE 4 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+2.1 Sampling process. Pulse Amplitude modulation,SNR, Noise
+BW trade off
+2.2 Pulse code modulation (PCM),Differential pulse code
+modulation.
+2.2 Delta modulation, Noise considerations in PCM,Time
+Division multiplexing, Digital Multiplexers
+3 Source Coding and Error correction coding 1 08
+3.1 Uncertainty, Information, Entropy, Source coding theorem,
+Huffmann encoding, Shannon Fano coding
+3.2 Discrete memory less channels, Channel capacity Theorem,
+Linear block codes, Convolutional codes ( Shift Register
+approach and Code tree)
+4 Title Baseband Pulse Transmission 1,2 8
+4.1 Based band receiver, Probability of error of integrate and
+dump receiver, Matched filter, optimum filter
+4.2 Line coding and Power spectral density (PSD) of line codes,
+Inter symbol Interference and Nyquist criterion, Raised
+cosine filter,
+4.3 Duobinary encoding, Introduction to linear and adaptive
+equalization
+5 Title Pass band Digital Modulation schemes
+1,2 12
+5.1 BPSK,DPSK,QPSK,M-aryPSK,QAM,BFSK,M-ary
+FSK,MSK-Principle of working, PSD and Signal space
+analysis
+5.2 Digital Modulation tradeoffs, Probability of Error
+evaluations of various modulations.( derivation not expected)
+5.3 Synchronization and Carrier Recovery for Digital
+modulation.
+6 Self
+Study
+a.Case study ( any one)
+b. Research article (any one )
+06
+Total 42+06
+
+--- PAGE 5 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Laboratory Component, if any. (Minimum 10 Laboratory experiments are expected)
+Sr.
+No Title of the Experiment
+1 Simulation and implementation of double sideband full carrier for various modulation index
+2
+Implement the frequency modulation circuit to obtain FM waveforms and calculate
+modulation index
+3 Analyze effect of pre-emphasis and de-emphasis on FM waveforms
+4 Implementation of natural sampling and reconstruction of waveforms
+5 Implementation and detection of pulse amplitude modulation.
+6 Implementation of Binary Phase Shift Keying
+7 Implementation of Binary Frequency shift keying
+8 Duo binary Encoder
+9 Simulation of digital modulation scheme and analysis of Power spectral density
+10 Simulation and analysis of signal space of various modulations in presence of noise
+11 Signal transmission through Raised cosine filter and eye pattern analysis
+12 Simulation of OFDM
+13 Mini project in analog/pulse/digital modulation methods
+Text Books
+Sr. No Title Edition Authors Publisher Year
+1 Communications
+Systems
+4th Haykin S John Wiley
+and Sons
+2001
+2 Principles of
+Communication
+Systems
+2nd Taub H. and
+Schilling D.L
+Tata McGraw
+Hill
+2001
+
+--- PAGE 6 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Reference Books
+Sr. No Title Edition Authors Publisher Year
+1 Digital
+Communication.
+3rd Haykin S John Wiley
+and Sons
+2001
+2. Communication
+Systems Engineering
+4th Proakis J. G.
+and Salehi M.
+Pearson
+Education
+2002.
+3. Digital and Analog
+Communication
+4th B.P.Lathi Oxford 2017
+
+--- PAGE 7 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+PC
+Control Systems
+3 0 2 6 11 3 0 1 4
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+EC302 Theory 20 20 60 100
+Laboratory 80 -- 20 100
+Pre-requisite Course Codes, if any. MA101: Engineering Calculus
+MA102: Differential Equations and Complex Analysis
+EC 101: Digital Systems and Microprocessors
+EC 203: Probability and Stochastic Processes
+EC 204: Electronic Instruments and Measurement Lab
+Course Objectives: To develop a system for real life application by applying the concepts of control
+system theory and allied techniques for system performance evaluation.
+Course Outcomes (CO): At the end of the course students will be able to
+EC302.1 Classify different types of control systems, component of control system and formulate
+mathematical modeling of the given system.
+EC302.2 Apply various methods for representation of the given control system.
+EC302.3 Analyze the transient and steady state behavior of given system for standard test inputs.
+EC302.4 Analyze the stability of systems in time domain and frequency domain.
+EC302.5 Discuss the concept of controllability and observability using state variable model.
+EC302.6 Evaluate the system performance with the use of compensators & controllers.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC302.1 3 2 3 3 2 2 2
+EC302.2 3 2 3 3 2 2 2
+EC302.3 3 2 3 3 2 2 2
+EC302.4 3 2 3 3 2 2 2
+EC302.5 3 2 3 3 2 2 2
+EC302.6 3 2 2 3 3 2 2 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC302.1 1 1 2 -
+EC302.2 1 1 2 -
+EC302.3 1 1 2 2
+EC302.4 1 1 2 2
+EC302.5 1 1 2 2
+EC302.6 1 1 2 2
+
+--- PAGE 8 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate  Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1 Title Introduction to control system and system Modeling
+10 1.1 Introduction to control system:
+Definition of system, Notion of feedback, Open loop and closed
+loop systems; feedback and feed forward control structure;
+Examples of control systems.
+1,2
+1.2 Dynamic Response: Standard test signals; Transient and steady
+state behavior of first and second order systems; Generalized
+error coefficients, steady state errors in feedback control systems
+and their types.
+1,2
+1.3 Control System Modeling: Types of model’s Impulse response
+model, State variable model, Transfer function model, Modeling
+of electrical systems and translational mechanical systems.
+1,2
+2 Title Representation of Control System and State Space Analysis 10
+2.1 Block diagram representation of systems, Block diagram
+reduction methods, closed loop transfer function, signal flow
+graph. Mason’s gain rule
+1,2
+2.2 State Space Analysis: Concepts of state space, State equations,
+State transition matrix, properties of state transition matrix,
+Solution of homogeneous systems.
+1,2
+2.3 Controllability and Observability: Concept of controllability,
+Controllability analysis of LTI systems, Concept of observability,
+Observability analysis of LTI systems using Kalman approach.
+3,4
+3 Title Time Domain System Stability Analysis 8
+3.1 Concepts of Stability Concept of absolute, relative and robust
+stability
+1,2
+3.2 Routh-Hurwitz stability criteria 1,2
+3.3 Root Locus Analysis: Root-locus concepts; General rules for
+constructing root-locus, Root-locus analysis of control systems.
+1,2
+4 Title Frequency Domain System Stability Analysis 8
+4.1 Relation between time and frequency response 1,2
+4.2 Bode Plot: Magnitude and phase plot, Method of plotting Bode
+plot; Stability analysis by using Gain and phase margins on the
+Bode plots
+1,2
+4.3 Polar plots, Nyquist stability criterions; Nyquist plot; Gain and
+phase margins.
+1,2
+5 Title Compensators & Controllers 6
+
+--- PAGE 9 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+5.1 Types of compensators, Realization of basic compensators –
+cascade compensation in time domain and frequency domain.
+1,2
+5.2 Controllers: Concept of ON/OFF controllers; Concept of P, PI,
+PD and PID Controllers.
+1,2
+5.3 Advanced Control Systems: Introduction to Robust Control,
+Adaptive control and Model predictive control, Neuro- fuzzy
+controllers.
+3,4
+6 Self-
+Study
+Examples on open loop and closed loop control system, Modeling
+of rotational mechanical systems, Pole placement using state
+feedback Popov–Belevitch–Hautus (PBH) test in state space,
+Design of lag, lead and lag-lead compensator using Bode plot and
+Root locus techniques, Design of real-life applications of control
+system.
+1,2,3,
+4,5
+Total 42
+Laboratory Component:
+Exp.
+No.
+Experiment Details Marks
+CO
+1 To obtain the characteristics of control system components:
+i. To plot the Synchro transmitter characteristics and Synchro transmitter and
+receiver as an error detector.
+ii. To plot characteristics of Potentiometer and its loading effect for different
+conditions of load.
+05
+CO1
+2 To demonstrate the working of real-life feedback control system and obtain
+their characteristics:
+i. To plot Speed torque characteristic of DC servo motor.
+ii. To determine the line and load regulation characteristics of AC servo
+voltage stabilizer at different line and load conditions and observe the
+mechanism of AC voltage stabilization as an example of closed control
+system.
+05
+CO1
+3 To develop a program in Matlab/Scilab/LabVIEW:
+i. To define the given closed loop transfer function of system and plot their
+poles & zeros on s-plane.
+ii. To reduce the given control system block diagram or signal flow graph.
+05
+CO2
+4 To develop a program in Matlab/Scilab/LabVIEW:
+i. To obtain the step response of a given first/second order control system and
+obtain its time domain parameters from this step response. Compare these
+results with mathematical calculations.
+ii. To determine step response for a Type 0, Type 1, Type 2 systems and find
+error coefficients.
+iii. To find solution for a given control system described by its state space
+equation in terms of state transition matrix, zero input response, zero state
+response, complete response.
+10
+CO3
+5 Develop a program in Matlab/Scilab/LabVIEW:
+i. To obtain the root locus of a system described by its Transfer Function with
+10
+CO4
+
+--- PAGE 10 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+unity feedback, Comment on the stability of this given control system.
+Compare these results with mathematical calculations.
+ii. To find gain margin and phase margin of the system described by its
+Transfer Function with unity feedback using Bode/Nyquist plot. Comment on
+the stability of this given control system. Compare these results with
+mathematical calculations.
+6 Develop a program in Matlab/Scilab/LabVIEW:
+i. To find whether a given control system described by its state space
+equation is controllable or not, observable or not, to find rank of matrix and
+using rank comment on system controllability and observability.
+ii. To design a controller and observer via state space.
+10
+CO5
+7 Evaluate the effect of Compensator/PID controller on performance of the
+control system.
+5
+CO6
+ISE Evaluation: CO1-CO6
+Mini-Project: Identify the model of control system for real life application and demonstrate
+controlling action for the same.
+This is group activity. Students will form a group of minimum 3 students. Students will develop the
+block diagram of the system first, then design each block using appropriate components. Simulate the
+complete block diagram using any tool like Matlab, Scilab or LabVIEW. The duration of this activity
+is a complete semester, but evaluation will be done in phases and rubrics designed. In the first phase
+students will develop the block diagram for the given problem statement. In the second phase students
+will develop the block diagram and simulate each of the block diagrams and test it for input-output
+relationship. In the third phase students will interface all the designed blocks to obtain final inputoutput relationship of the system. Hardware implementation is optional.
+Text Books
+Sr. No. Title Edition Authors Publisher Year
+1 Control Systems Engineering Fifth I. J. Nagrath, M. Gopal New Age
+International
+2012
+2 Modern Control Engineering Fifth Ogata. K Prentice Hall
+of India
+2010
+Reference Books
+Sr. No. Title Edition Authors Publisher Year
+1 Control Systems: Principle
+and design
+First M. Gopal Tata McGraw
+Hill
+1998
+2 Modern Control System Eleventh Richard C. Dorf
+and Robert H.
+Bishop
+Pearson 2013
+3 Control Systems
+Engineering
+Sixth Norman Nise John Wiley &
+Sons
+2011
+4 Linear Control System First Constantine H. Mcgraw-Hill 1975
+
+--- PAGE 11 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Analysis and Design:
+Conventional and Modern
+Houpis and John J.
+D'Azzo
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+PC Digital Signal
+Processing
+3 0 2 5 10 3 0 1 4
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+EC303
+Theory 20 20 60 100
+Laboratory 80 -- 20 100
+Pre-requisite Course Codes, if any. EC207: Signals and Systems
+Course Objective: To develop mathematical foundation of system and design digital filters
+Course Outcomes (CO): At the end of the course students will be able to
+EC303.1 Classify and perform various operations on signals and systems.
+EC303.2 Apply DFT properties and illustrate FFT algorithms.
+EC303.3 Apply Z Transform on discrete time signals.
+EC303.4 Analyze LTI System using Z Transform.
+EC303.5 Design and Realize Digital filters.
+EC303.6 Analyze Multirate Signal Processing.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC303.1 3 1 2 2
+EC303.2 1 1 2 2
+EC303.3 1 1 2 2
+EC303.4 1 1 2 2
+EC303.5 1 1 2 2
+EC303.6 1 1 2 2 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+EC303.1 2 2
+EC303.2 2 2
+EC303.3 2 2
+EC303.4 2 2
+EC303.5 2 2
+EC303.6 1 2
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+
+--- PAGE 12 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Remember Understand  Apply  Analyze  Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1 Title Overview of Discrete Time Signals 6,7,8
+08 1.1 Sampling of Continuous Time Signal, Standard Discrete Time
+Signals: Impulse Signal, Unit Step, Unit Ramp, Sinusoidal,
+Exponential.
+1.2 Classification of Signals: Deterministic and non-deterministic,
+Periodic and a periodic, Symmetric (even) and Asymmetric (odd),
+Energy and Power, Causal and Anti-causal signals.
+1.3 Operations of Signals: Shifting, Scaling, Time Reversal, Addition
+and Multiplication, Convolution (Linear and Circular), Correlation
+2 Title Discrete Fourier Transform (DFT) 1, 3 12
+2.1 Discrete Time Fourier transform (DTFT), Discrete Fourier
+Transform (DFT), Properties of DFT, Inverse DFT.
+2.2 Fast Fourier Transform: Radix-2 Decimation in Time Fast
+Fourier Transform (DIT-FFT) and Decimation in Frequency Fast
+Fourier Transform (DIF-FFT) algorithms, Real and Complex
+Calculations using FFT, Linear and Circular Convolution using
+FFT,
+2.3 Filtering of long data sequence, Overlap Add Method, Overlap
+Save Method
+3 Title Z-Transform 6,7 04
+3.1 Z-Transform of discrete time signals, Properties of Z-Transform,
+Relation between Z-Transform and DTFT,
+3.2 Inverse Z-Transform, Long division Method, Partial Fraction
+Expansion Method
+4 Title Linear Time Invariant (LTI) Systems 1,4 08
+4.1 Classification of systems: Static and dynamic, time variant and
+time invariant, linear and nonlinear, causal and non-causal, stable
+and unstable systems.
+4.2 Impulse Response, Transfer Function, Differential Equation,
+Stability of Systems, Frequency Response, Solution of Differential
+Equation using Z-Transform
+4.3 LTI systems as frequency-selective filters like; Low pass, High
+pass, Band pass, Invertibility of LTI systems, Minimum-phase,
+Maximum-phase, Mixed-phase systems
+5 Title Design of Digital filters and Implementation 1,2 10
+5.1 Design of Infinite Impulse Response (IIR) filters using Impulse
+Invariant Method and Bilinear Transformation Method,
+Butterworth and Chebyshev Type I filter design.
+
+--- PAGE 13 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+5.2 Concepts of Finite Impulse Response (FIR) filter, symmetric and
+anti-symmetric FIR filter, FIR filter design using Window method
+and Frequency sampling method.
+5.3 Realization structures for IIR and FIR filters using direct Form
+Realization, cascade, parallel structures; Linear Phase Realization,
+Frequency Sampling Realization.
+6 Self-
+Study
+1.Multirate Signal Processing: Down-sampling and Up-sampling
+by integer factors; Decimator and Interpolator, Sampling rate
+conversion by non-integer factor.
+2. Application of Filter: Sub-band filters.
+1,5
+*5
+Total 42+*5
+Laboratory Component
+Sr. No Title of the Experiment
+1 Discrete Convolution and Correlation
+2 Discrete Fourier Transform
+3 Fast Fourier Transform
+4 Linear Filtering using Overlap Add Method/ Overlap Save Method.
+5 Design of Butterworth IIR Filter using Impulse invariant method
+6 Design of Butterworth IIR Filter using Bilinear Transformation method
+7 Linear phase FIR Filter design using Windowing method
+8 Linear phase FIR Filter design using Frequency sampling method
+9 Multirate Signal Processing
+10 Mini Project on real Time DTSP application
+Textbooks
+Sr. No Title Edition Authors Publisher Year
+1 Digital Signal Processing:
+Principles, Algorithms and
+Applications
+Fourth J. Proakis, D. G.
+Manolakis, and D. Sharma
+Pearson
+Education
+2014
+2 Digital Signal Processing Fourth Ramesh Babu Scitech 2014
+3 Digital Signal Processing - S.Salivahanan, A
+Vallavaraj, C Gnanapriya
+Tata
+McGraw Hill
+2010
+Reference Books
+Sr. No Title Edition Authors Publisher Year
+1 Signals and Systems Second Alan V Oppenheim, Alan
+S, Willsky and A Hamid
+Nawab
+Pearson 2002
+2 Signals and Systems Third Simon Haykin and Barry
+Van Veen
+John Wiley
+& Sons
+2002
+3 Theory and
+Applications of Digital
+Signal Processing
+Second L. R. Rabiner and B. Gold Prentice-
+Hall
+2006
+4 Multirate Systems and
+Filter Banks
+First P.P. Vaidyanathan, Pearson 1992
+
+--- PAGE 14 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+PC Electromagnetic
+Engineering
+3 0 2 6 11 3 0 1 4
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+EC304
+Theory 20 20 60 100
+Laboratory 80 -- 20 100
+Pre-requisite Course Codes, if any. MA101: Engineering Calculus
+MA102: Differential Equations and Complex Analysis
+MA201: Linear Algebra
+Course Objective: To teach fundamentals of Electromagnetic Waves
+Course Outcomes (CO): At the end of the course students will be able to
+EC304.1 Apply basic laws of electromagnetic and Maxwell’s equations.
+EC304.2 Illustrate the behavior of EM waves and travelling of waves in free space as well as media.
+EC304.3 Solve problems related to the propagation of electromagnetic waves.
+EC304.4 Discuss the types of antennas and their parameters.
+EC304.5 Discuss types of radio wave propagation.
+EC304.6 Design applications using Electromagnetic Waves theory.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC304.1 1 1 2 2 3
+EC304.2 1 1 2 2
+EC304.3 1 1 2 2 3
+EC304.4 1 1 3 2 1
+EC304.5 1 1 2 2
+EC304.6 1 1 3 2 2 3
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC304.1 2 2
+EC304.2 2 2
+EC304.3 2 2
+EC304.4 2 2
+EC304.5 2 2
+EC304.6 1 1
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember√ Understand√ Apply√ Analyze√ Evaluate Create
+
+--- PAGE 15 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1 Title Coordinate system transformation and vector calculus
+3 1.1 Cartesian, cylindrical and spherical coordinate, Differential length,
+area and volume, line surface and volume integrals.
+2
+1.2 Del Operator, Gradient of scalar, Divergence of a vector and
+Divergence Theorem, Curl of a Vector and Stoke’s Theorem,
+Laplacian Theorem, Classification of a Vector Field.
+2 Title Basic Laws of Electromagnetic and Maxwells Equations 1 9
+2.1 Coulombs law, Electric fields due to continuous charge distributions,
+Gauss law and its applications, Electric potential (Magnetic vector
+potential and Electrical Scalar Potential), relationship between E and
+V, Poisson and Laplace equations, Bio-Savarts law, Amperes law.
+2.2 Boundary conditions for static electric and magnetic fields
+2.3 Faradays Law, Displacement current, Maxwells Equations: Integral
+and differential form for static and time varying fields and its
+interpretation
+3 Title Electromagnetic Wave Propagation 1,2 9
+3.1 Wave equation: Derivation and its solution in Cartesian co-ordinates.
+3.2 Solution of wave equations: Partially conducting media, perfect
+dielectrics and good conductors, Concept of Skin Depth.
+3.3 Electromagnetic Power: Poynting Vector and power flow in free
+space and in dielectric, conducting media.
+3.4 Polarization of wave: Linear, Circular and Elliptical.
+3.5 Propagation in different media: Behavior of waves for normal and
+oblique incidence in dielectrics and conducting media.
+4 Title Waveguide 1,2 6
+4.1 Wave propagation in parallel plane waveguide (No derivation
+expected), Analysis of waveguide general approach (No derivation
+expected), in waveguide.
+4.2 Rectangular waveguide, Modal propagation in rectangular
+waveguide, Surface currents on the waveguide walls, Field
+visualization, Attenuation.
+5 Title Transmission Lines 1,2 9
+5.1 Power frequency lines: Representation, losses and efficiency in
+power lines, effect of length, calculation of inductance and
+capacitance.
+Radio frequency lines: Representation, propagation constant,
+attenuation constant, phase constant, group velocity, input
+impedance, characteristic impedance, trade-off between attenuation
+and power transfer, reflection coefficient, standing wave ratio,
+VSWR, ISWR, ABCD parameters of transmission line.
+
+--- PAGE 16 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+5.2 Smith Chart: Impedance locus diagram, impedance matching.
+6 Title Applications of Electromagnetics 2,3 6
+Self-
+Study
+Xerography. Laser printer, Faraday’s cage, lightning, RF MEMS,
+Magnetic levitation, Metamaterials, RFID, Stealth aircraft, remote
+sensing, radio astronomy, EMI and Electromagnetic Compatibility,
+Different types of antennas.
+1,2,6 06
+Total 42
+Laboratory Component, if any. (Minimum 10 Laboratory experiments are expected)
+Sr. No Title of the Experiment
+1 Basic operations on scalar and vectors
+Working with Numbers: Scalars and Vectors using any simulation platform or Python.
+Working with Complex Numbers using any simulation platform or Python.
+Working with Matrices using any simulation platform or Python.
+2 Curl and Divergence
+Numerical Computation of Divergence and Curl.
+Numerical Computation of Divergence and Curl for a Current Carrying Wire.
+3 Write a program that displays the distribution of the electric potential due to an electric
+dipole with a moment located at the origin of a spherical coordinate system.
+4 Numerical Integration and Calculating the Electric Field from a Ring of Charge.
+5 3-D and 2-D radiation patterns of a Hertzian dipole using MATLAB/Python.
+6 Antenna parameters
+Visualization of a wireless system with two antennas.
+Radiation patterns of a small loop antenna.
+Radiation patterns of a quarter-wave monopole.
+7 Waveguide: Verify the relationship between wavelength of an EM wave in air and inside a
+rectangular waveguide.
+8 Simulating the Two-ray Propagation Model in any simulation platform or Python.
+9 Using Virtual Lab: Introduction to Smith chart and its application for the unknown
+impedance measurement using virtual lab IIT K
+10 Measurement of Frequency and wavelength of a waveguide using Microwave bench setup.
+11 Using Virtual Lab: Study of field pattern of various modes inside a rectangular waveguide
+using virtual lab IIT K
+12 Case Study- The student is required to develop a simple tool to carry out unit conversions
+that are associated with EM-related calculations.
+Text Books:
+Sr. No. Title Edition Authors Publisher Year
+1 Electromagnetic Waves Third R.K. Shevgaonkar Tata McGraw Hill 2009
+2 Principles of
+Electromagnetics
+Sixth Matthew N.O.
+Sadiku
+Oxford International
+Student
+2015
+
+--- PAGE 17 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Reference Books:
+Sr. No. Title Edition Authors Publisher Year
+1 Engineering
+Electromagnetics
+Third W.H. Hayt, and J.A.
+Buck
+McGrawHill 2006
+2 Electromagnetic Waves and
+Radiating Systems
+Second Edward C. Jordan
+and Keth G. Balmin
+Pearson
+Publications
+2006
+3 Engineering
+Electromagnetics
+Third Nathan Ida Springer
+Publications
+2015
+4 Antennas & Wave
+Propagation
+Fourth J.D. Kraus, R.J.
+Marhefka, and A.S.
+Khan
+McGrawHill 2011
+
+--- PAGE 18 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+(SBC) Java Programming
+Lab
+0 1 2 1 4 0 1 1 2
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+EC305A Theory -- -- -- --
+Laboratory 50 -- 50 100
+Pre-requisite Course Codes, if any. CS101: Problem Solving using Imperative Programming
+CS102: Problem Solving using OOPs
+Course Objective: To learn Object-Oriented programming paradigm using Java programming
+language.
+Course Outcomes (CO): At the end of the course students will be able to
+EC305.1 Demonstrate programming using basic constructs of JA V A.
+EC305.2 Apply Inheritance and polymorphism for a given scenario.
+EC305.3 Apply abstraction and exception handling to create an efficient program.
+EC305.4 Use Generic classes and collection for solving problem.
+EC305.5 Develop a mini project based on the real-world problem.
+Note:
+*= Tutorial-50 marks and Mini Project-50 marks (Preferably based on real-world problem statement
+from Industry/Academia/Research)
+#= oral exam-20 marks and Lab experiment-30 marks
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC305.1 3 2 2
+EC305.2 2 2 2
+EC305.3 2 2 2
+EC305.4 2 2 2
+EC305.5 2 1 1 1 2 1 2 2 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC305.1 2 2
+EC305.2 2 2
+EC305.3 2 2
+EC305.4 2 2
+EC305.5 2 2
+
+--- PAGE 19 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create 
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1 Title Introduction to JA V A 1,2,3 3
+1.1 Fundamentals of Java Programming: Classes, JDK, JRE, JVM,
+Unicode system, I/O using Scanner class and Buffered Reader
+class.
+1.2 Instance variables, Methods, Constructors.
+1.3 Object class, Nested class, Access Specifiers, Abstract Classes
+and Wrapper Classes.
+2 Title OOP Concepts Mapping to JA V A 1,2,3 4
+2.1 Inheritance (IS – A), Aggregation & Composition (Has – A)
+Method overloading & overriding, this, super, final keyword,
+Static.
+2.2 Autoboxing and Unboxing, Polymorphism.
+2.3 Packages and Interfaces: Package concept, creating user defined
+package, Access control protection, Interface.
+3 Title Exception Handling and Multithreading 1,2,3 4
+3.1 Try and catch block, Multiple catch block, Nested try, finally
+block, Throw, Throws keywords, Exception propagation,
+Custom exception.
+3.2 Create thread using Thread and Runnable class. Thread methods,
+schedule, sleep, join, Thread priority, Thread group, perform
+multiple tasks using multiple thread Thread synchronization.
+4 Title Generics and Collection 1,2,3 3
+4.1 Creating Generic Classes, Generic Methods, Bounded Type
+4.2 Collection’s framework, methods of collection interface (Array
+list, Linked list, Queue etc.)
+Total 14
+Laboratory Component, if any.
+Sr. No Title of the Experiment
+1 Program on I/O using command line arguments, scanner class, Buffered Reader etc.
+2 Program on Constructor, types of constructors and constructor overloading.
+3 Program on Polymorphism, Runtime polymorphism.
+4 Program on Inheritance, Abstract Class, Interface.
+5 Program on Nested Class, Aggregation, Composition.
+
+--- PAGE 20 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+6 Program on Multithreading.
+7 Program on Exception Handling. (built in and User defined)
+8 Program on Package and access modifiers.
+9 Program on Generics
+10 Program on Collection
+Textbooks
+Sr. No Title Edition Authors Publisher Year
+1 Java Programming
+From the Group Up
+First Ralph
+Bravaco, Shai
+Simoson
+Tata McGraw-
+Hill
+2009
+2 Java The Complete
+Reference
+Eleventh Herbert
+Schildt
+Tata McGraw-
+Hill
+2019
+Reference Books
+Sr. No Title Edition Authors Publisher Year
+1 An introduction to
+Programming and Object
+Oriented Design using Java
+Third Jaime Nino,
+Frederick A. Hosch
+Wiley Student
+Edition
+2008
+2 Java Programming A
+Practical Approach
+First C Xavier Tata McGraw-
+Hill
+2011
+3 Java ™ Programming
+Language
+Fourth Ken Arnold, James
+Gosling, David
+Holmes
+The (Java
+Series) by Sun
+2005
+
+--- PAGE 21 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+SBC
+Internet of Things
+Laboratory
+-- 1 2 2 5 -- 1 1 2
+Examination Scheme
+Component ISE% MSE% ESE% Total
+EC305B Theory -- -- -- --
+Laboratory 75 -- 25 100
+Pre-requisite Course Codes, if any. EC101: Digital Systems and Microprocessors
+EC201: Computer Architecture and Organization
+EC206: Microcontrollers
+Course Objective: This course provides an introduction to the fundamental concepts, technologies,
+data communication protocols, data analytics, security and applications of the Internet of Things
+(IoT).
+Course Outcomes (CO): After successful completion of the course, student will be able to
+EC305B.1 Identify the key challenges and opportunities in IoT development and deployment.
+EC305B.2 Acquire real world signals and perform remote process monitoring utilizing the
+concept of IoT
+EC305B.3 Apply appropriate communication protocols for IoT devices.
+EC305B.4 Evaluate security risks and apply relevant measures to protect IoT systems
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC305B.1 2 2 2
+EC305B.2 2 2 2 2
+EC305B.3 2 2 2 2
+EC305B.4 2 2 2 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO PEO1 PEO2 PEO3 PSO1 PSO2
+EC305B.1 1 1 1
+
+--- PAGE 22 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+EC305B.2 1 1 1
+EC305B.3 1 1 1
+EC305B.4 1 1 1
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs
+1 Title Fundamentals of IOT Systems: 04
+1.3 Evolution of Internet of Things, Enabling Technologies, IoT
+Architectures: M2M, IoT configurations, IoT architecture and
+components, Gateways, Fog computing, Edge and Cloud in IoT,
+Functional blocks of an IoT ecosystem, Sensors, Actuators, Smart
+Objects and Connecting Smart Objects
+1,2
+2 Functionality based IoT Protocol Organization: 07
+2.1 Connectivity (6LoWPAN), Communication/ Transport: WiFi,
+Bluetooth, Zigbee, Z-wave,
+Data Protocols: MQTT, CoAP, Websocket, Node.
+Device Management: JSON-LD, Web Thing Model, Multilayer
+Framework.
+3
+3 Title Security, trust, and privacy issues in IoT 03
+3.1 IoT security challenges and vulnerabilities, Authentication and
+access control in IoT, Distributed Denial of service (DDoS),
+Privacy considerations and regulation
+3
+Self study on Industrial IoT- Application Domains: Oil,
+chemical and pharmaceutical industry, Applications of UAVs
+in Industries,IOT application in Home automation,
+Agriculture, Healthcare.
+1,2
+Total 14
+Reference Books
+Sr.
+No. Title Edition Author Publisher Year
+
+--- PAGE 23 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+1 Internet of Things: Architecture and
+Design Principles
+First
+edition
+Raj Kamal McGraw Hill
+Education
+2017
+2 Internet of Things, “A Hands on
+Approach
+Vijay
+Madisetti,
+ArshdeepBahga
+UniversityPress,2015.
+3 The Internet of Things: Enabling
+Technologies, Platforms and Use
+Cases
+- Pethuru Raj
+and Anupama
+C. Raman
+CRC Press 2017
+Suggested List of Laboratory Experiments:
+1. Getting started with IoT development board in the IDE and GPIO Interfacing and
+programming
+2. IoT Sensor Integration: Design and implement a small-scale IoT system that includes sensors
+such as temperature, humidity, and light sensors. Collect data from these sensors and transmit
+it wirelessly to a central hub or cloud platform for analysis and visualization.
+3. Communication Protocols:
+ Implement a simple IoT system using different communication protocols (e.g., MQTT,
+CoAP).
+ Set up a broker or server to handle the communication between IoT devices.
+ Develop programs on IoT devices to publish and subscribe to sensor data using the chosen
+protocol.
+4. Controlling devices remotely using Bluetooth link, WiFi link
+5. IoT Data Analytics:
+ Collect real-time sensor data from IoT devices or use publicly available IoT datasets.
+ Perform data preprocessing, cleaning, and transformation.
+ Apply data analytics techniques such as clustering or regression to extract insights from the
+IoT data.
+6. IoT Security and Privacy:
+ Explore security vulnerabilities in an IoT system.
+ Implement security measures such as encryption, authentication, and access control.
+ Conduct penetration testing to identify and address potential security risks.
+7. IoT Application Development:
+ Choose an IoT application domain (e.g., smart home, healthcare, agriculture).
+ Develop a prototype application using appropriate hardware components, sensors, and
+actuators.
+ Integrate the application with cloud services or a mobile app for remote monitoring and
+control.
+8. Development of Android applications suitable for IoT
+9. Implementing certificate keys to make your application secure on the cloud
+10. Developing Voice App for IoT device
+
+--- PAGE 24 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Sem-VI
+
+--- PAGE 25 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+PC Fundamentals of
+Antenna
+3 0 2 6 11 3 0 1 4
+Examination Scheme
+Component ISE (%) MSE (%) ESE(%) Total
+EC306A
+Theory 20 20 60 100
+Laboratory 80 -- 20 100
+Pre-requisite Course Codes, if any. EC304: Electromagnetic Waves
+Course Objective: The objective of the course is to provide a fundamental understanding of
+Antennas
+Course Outcomes (CO): At the end of the course students will be able to
+EC306.1 Calculate the fundamental parameters of Antenna.
+EC306.2 Describe fundamental theory of antennas.
+EC306.3 Select antenna based on applications.
+EC306.4 Evaluate antenna based on applications.
+EC306.5 Design Antenna Arrays.
+EC306.6 Design antenna based on given requirements.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC306.1 2 3 2 2 2
+EC306.2 2 3 2 2 2
+EC306.3 2 2 2 2
+EC306.4 2 2 2 2 2
+EC306.5 2 2 2 2 2
+EC306.6 2 1 2 2 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+EC306.1 2 -
+EC306.2 2 2
+EC306.3 2 2
+EC306.4 2 2
+EC306.5 2 2
+EC306.6 1 1
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+
+--- PAGE 26 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No.
+Topics Ref
+.
+Hrs.
+1
+(CO1)
+Fundamental Concepts: 1 08
+1.1 Introduction, types of Antennas, Radiation mechanism, Poynting
+vector, Steradian concept, Power intensity
+1.2 Antenna Parameter: Radiation pattern, Radiation power density,
+Radiation Intensity, Gain, Directivity, HPBW, FNBW, Beam
+efficiency, Bandwidth, Polarization, Input Impedance, Reflection
+coefficient, Return loss, VSWR, Antenna Efficiency, Effective
+Aperture, Communication link and Friis transmission equation.
+2
+(CO2,
+CO3)
+Radiation from wires and loops 1 10
+2.1 Introduction, Infinitesimal dipole: Radiation zones, Total radiated
+power, Radiation resistance, Directivity, Effective area, Short dipole,
+Finite-length dipole: Radiated power, Radiation resistance, Directivity,
+Effective area, Half-wave dipole and its properties, Loop antenna.
+3
+(CO3,
+CO4)
+Aperture Antennas 1 06
+3.1 Introduction, Field equivalence principle, Love's equivalence
+principle, Electrical and magnetic conductor equivalence principle,
+Computation of field quantities of aperture antenna, Relation between
+wire and aperture antennas, Horn antenna design principle.
+4
+(CO5)
+Antenna Arrays 1 10
+4.1 Introduction, Two-element array, Example problems, Pattern
+multiplication concept, N-element array, Uniform array, Array factor,
+Broad-side and end-fire arrays, Phased array, Directivity and pattern
+characteristic of linear uniform array, non-uniform array, Binomial
+array, Dolph-Chebyshev array concept, Design principle of Chebyshev
+array and examples, Planar arrays
+5
+(CO6)
+Microstrip Antennas
+3.1 Introduction: Rectangular Patch, Circular Patch, Parametric study,
+Circularly polarized antennas, Axial Ratio, MSA suspended
+Configuration.
+1,4 08
+3.2 MSA Arrays and Feed Networks, Corporate and Series Feeds
+6 (Self
+Study)
+Advanced Antennas:
+Reflector antenna, Dielectric Resonator antenna, Metamaterial based
+antennas, Wearable antenna, Reconfigurable antennas, Ultra-wideband
+antennas, Smart Antennas
+06
+Total 42
+
+--- PAGE 27 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Laboratory Component, if any. (Minimum 10 Laboratory experiments are expected)
+Sr. No Title of the Experiment
+1 Design a Dipole Antenna using HFSS
+2 Design a monopole Antenna using HFSS
+3 Design a Horn Antenna using HFSS
+4 Design a Helical Antenna using HFSS
+5 Design a Microstrip Patch Antenna
+6 To calculate and infer various fundamental parameters of antenna like Radiation
+pattern, Radiation power density, Radiation Intensity, Gain, Directivity, HPBW and
+FNBW using Scilab.
+7 To calculate the power delivered to the Receiver Antenna.
+8 To design a Pyramidal Horn Antenna in E-plane and H-plane
+9 To show Pattern Multiplication phenomena in an Antenna using two infinitesimal
+dipoles.
+10 To design Array factor pattern of N-element of uniform amplitude of Broadside Array.
+11 To design Array factor pattern of N-element of uniform amplitude of End-fire Array
+12 To design Array factor pattern of N-element of non-uniform amplitude of Broadside /
+End-fire Array using Binomial Array method.
+13 To design Array factor pattern of N-element of non-uniform amplitude of Broadside
+/End-fire Array using DolphTschebyscheff Array method.
+Text Books:
+S. N. Title Authors Edition Publisher Year
+1 Antenna Theory: Analysis
+and Design
+Constantine A.
+Balanis
+Fourth Wiley 1982
+Reference Books:
+S. N. Title Authors Edition Publisher Year
+1 Antennas & Wave
+Propagation
+J.D. Kraus, R.J.
+Marhefka, and
+A.S. Khan
+Fourth McGraw Hill 2011
+2 Handbook of Microstrip
+Antennas
+R. James and P.S.
+Hall
+Third Peter
+Peregrinus
+1989
+3 Antennas and Radio Wave
+Propagation
+R. E. Collin Fourth McGraw-Hill 1985
+4 Broadband Microstrip
+antennas
+Girish Kumar and
+K.P. Ray
+First Artech House 2003
+
+--- PAGE 28 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+(PC) Fundamentals of
+Power
+Electronics
+3 0 2 5 10 3 0 1 4
+Examination Scheme
+Component ISE (%) MSE (%) ESE(%) Total
+ET306B Theory 20 20 60 100
+Laboratory 50 -- 50 100
+Pre-requisite Course Codes, if any. Basic Electrical Engineering
+Course Objective: To impart knowledge on the basic topology, operation and analysis using
+performance parameters of power electronic converters.
+Course Outcomes (CO): At the End of the course students will be able to
+ET306.1 Interpret tradeoffs in power semiconductor switches.
+ET306.2 Analyze various single/ three phase AC-DC power converter circuits
+ET306.3 Illustrate the operating principle and construct a various type of DC-DC converters.
+ET306.4 Analyze various single/ three phase DC-AC power converter circuits and understand
+their typical applications.
+ET306.5 Understand the operation of AC voltage converters/ cyclo-converter by means of circuit
+topology and waveforms.
+ET-306-6 To learn using circuit simulation software for analysis and design of PE Converters
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO/PO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+ET306.1 2
+ET306.2 2 3
+ET306.3 2.5
+ET306.4 3 2.5
+ET306.5 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO/PEO/PSO PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+ET306.1 2 1
+ET306.2 2 3
+ET306.3 2 2
+ET306.4 2 2
+ET306.5
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+
+--- PAGE 29 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Remember Understand √ Apply √ Analyze √ Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1 Title Power Semiconductor Devices
+10
+1.1 Principle of operation, constructional features, characteristics,
+specification and applications of: MOSFET and IGBT, Wide Band-gap
+devices such as Ga-As and Silicon Carbide devices, traditional devices
+such as Power Diodes and Thyristor Family
+1.2 Loss Computation in Power Devices, Design of Heatsinks and other
+thermal issues, reliability and Life of Power Devices
+1.3 Gate Driver Circuits for Controllable and Latching Power devices
+2 Title AC to DC Converters
+10
+2.1 Designing Power Diode based Rectifier Circuits with Capacitive Filter
+Circuits
+2.2 Understanding Working principles, topologies and applications of
+different Phase controlled rectifier circuits using Silicon Controlled
+Rectifier
+2.3 Understanding input side Harmonic issues in AC-DC Converters with
+the exposure to IEEE Std. 519, IEC-61000
+3 Title DC to DC Converters
+12
+3.1 Principles of PWM based Power Control of switches for DC-DC
+Conversion, Buck, Boost and Buck-Boost Operation and topologies of
+non-isolated Primary Converters
+3.2 Design of Primary non-isolated DC-DC Converters using controllable
+switches with inductor and capacitor-based filter components
+3.3 Isolated DC-DC Converters such as Flyback, Forward and Push-pull
+Converter
+Title DC to AC Converters
+07
+4
+4.1 Voltage source inverters: Principle of operation and analysis of: Single
+phase Half bridge, full bridge inverters with R and R-L Load
+4.2 Operation of Three Phase Inverters with 120 degree and 180-degree
+conduction mode
+4.3 Single Phase PWM Inverter
+5 Title AC–AC converters
+06
+5.1 Principle of on-off and phase control – single-phase half and full wave
+AC voltage controller, three phase AC voltage controller.
+5.2 Buck, Boost and Buck-Boost Operation of Solid-state AC-AC
+Converters with Bidirectional Switches
+6 *Self-
+Study
+Design of Magnetic Components for High Frequency Switched Mode
+Power Converters: Design of Transformer; Design of inductors and
+Design of Current Transformers
+05
+Total Hours (*excluded) 45
+
+--- PAGE 30 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Laboratory Component (Indicative): To be completed minimum of 8 to 10 experiments with
+Computer Simulation and Laboratory Experimentation
+Sr. No Title of the Experiment
+1 Operation and characteristics of an SCR/ IGBT
+2-a Demonstration of SCR firing circuits
+2-b Demonstration of MOSFET/IGBT Gate Driver Circuits
+3 Single phase Line Commuted Semi-converter
+4 Design and Verification of Diode Rectifier Circuits and its output side performance indices
+5 To study Single phase Line Commutated Semi-converter and Fully controlled Converter with
+Thyristors
+6 Boost Converter based Power Factor Correction in Single Phase PWM Inverter
+7 Evaluation of Course Project-1 through Presentation and Report
+8 Design and Demonstration of a Buck-Converter and Boost Converter in CCM and for CV and CC
+Mode Operation
+9 Demonstration of PWM three Phase bridge Voltage Source inverter with R Load, 120 degree and
+180-degree conduction mode (Part-1)
+10 Demonstration of PWM three phase bridge Voltage Source inverter with Sinusoidal Pulse width
+Modulation (Part-2)
+11 AC-AC Buck-Boost PWM Voltage Controller with bidirectional switches
+12 To measure Harmonics and Power Quality Indices at the SPIT Electrical feeder for 24-hours using
+Fluke/Hioki/Yokogawa Power Quality Analyzer and to make a consolidated report on the same.
+13 Presentation of LAB-Course Project
+Text Books
+Sr. No Title Edition Authors Publisher Year
+1 Power Electronics:
+converters, Application and
+design
+Third Ned Mohan,
+Undeland and
+Robbin
+John Wiley and
+sons
+2003
+2 Power Electronics Circuits,
+Devices and Applications
+Fourth Rashid M.H. Pearson
+Education
+2004
+3 Power Electronics Second M D Singh and K.B
+Khanchandani
+Tata McGraw
+Hill
+2006
+Reference Books
+Sr. No Title Edition Authors Publisher Year
+1 Modern Power Electronics
+and AC Drives
+First Bimal K Bose Pearson
+Education Asia
+2002
+2 Modern Power Electronics Second P.C Sen S.chand 2005
+3 Power Electronics Eleventh P.S.Bimbra, Khanna
+Publishers
+2003
+4 Power Electronics First S. K. Mandal McGraw Hill
+Education (India)
+2014
+
+--- PAGE 31 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+PC Computer
+Communication
+Networks
+3 - 2 5 10 3 - 1 4
+Examination Scheme
+Component ISE (%) MSE (%) ESE(%) Total
+EC307 Theory 20 20 60 100
+Laboratory 50 -- 50 100
+Pre-requisite Course Codes, if any. EC301: Analog and Digital Communication
+Course Objective: The objective of the course is to provide a fundamental understanding of
+ComputerCommunication networks.
+Course Outcomes (CO): At the end of the course students will be able to
+EC307.1 Apply Conceptual understanding and functional aspects of computer communication
+and telecom networks.
+EC307.2 Analyze design and configure small and medium sized computer network that meets a
+specific need for communications.
+EC307.3 Simulate computer networks and analyze the simulation results including troubleshoot
+connectivity problem occurring at layers of TCP/IP model.
+EC307.4 Apply the principles behind the Modern Network approaches such as SDN NFV and
+IoT and security issues.
+CO-PO Correlation Matrix: (1-Weak, 2-Medium, 3-Strong)
+CO-PEO/PSO Correlation Matrix: (1-Weak, 2-Medium 3-Strong)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC307.1 3 3
+EC307.2 3 2 3 2
+EC307.3 3 3 2
+EC307.4 2 2 3 3 3
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC307.1 2
+EC307.2 2 3
+EC307.3 2 3
+EC307.4 2
+
+--- PAGE 32 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Modu
+le No.
+Unit
+No. Topics Ref
+.
+Hr
+s.
+1 Title Fundamental of Computer Networks 1 08
+1.1 Basic definitions. Networking devices. Layering architecture: The OSI
+model. Description of layers.
+1.2 The Internet protocols TCP/IP protocol suit, IP Protocol and address.
+What is the Internet? Delay in the Internet (trace route and ping). History
+of the Internet. Security in the Internet.
+2 Title Enterprise Network Design 2 06
+2.1 Network requirements, Planning and Design, Structured Wiring and
+Structured Network Design consist of Core Layer, Distribution Layer,
+and Access.
+2.2 Network Design methodology &Network Design considerations Core La
+yer Technologies. Investigating Server Farms and Security Integrating,
+Remote Sites into the Network Design.
+3 Title Transport and Application Layer 1,3 06
+3.1 Transport Protocols introduction. Reliable data transfer - Stop-and-wait
+and Go-back-N design and evaluation. TCP and UDP semantics and
+syntax. TCP RTT estimation. Principles of congestion control -
+efficiency and fairness, reactive and proactive. Socket’s programming A
+simple client-server implementation.
+3.2 Application layer: Application layer protocols, Client-server as a key
+model. Web, HTTP, FTP, SMTP, POP3, and DNS. Peer-to-peer file
+sharing networks.
+4 Title Software Defined Network and Network Function Visualization 5 10
+4.1 Network Requirements - The SDN Approach - SDN- and NFV-Related
+Standards - SDN Data Plane - OpenFlow Logical Network Device -
+OpenFlow Protocol - SDN Control Plane Architecture - REST API -
+SDN Application Plane Architecture.
+4.2 NFV Concepts - NFV Reference Architecture - NFV Infrastructure -
+Virtualized Network Functions - NFV Management and Orchestration -
+NFV Use Cases - SDN and NFV
+5 Title Internet of Things (IoT) SECURITY 1,3 10
+5.1 Threats and attacks. Symmetric and public key cryptography. IPsec-
+Authentication Header-Encapsulating security payload,
+5.2 Secure sockets-Secure Socket Layer (SSL) - Firewalls and Internet
+access- Packet filter firewall - Proxy firewall - VPNs – Mobile IP –
+
+--- PAGE 33 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Header Compression – Voice over IP –
+Title Networks 5
+6 Self-
+Study
+Types of Networks, Transmission media, Network Topologies
+Total 42
+Laboratory Component, if any. (Minimum 10 Laboratory experiments are expected)
+Sr. No Title of the Experiment
+1 Network Lab set up
+2 IP Networking & Network Commands: ifconfig, ping, traceroute, netstat, arp,nslookup dig
+& route etc.
+3 Network Protocol Analyzers: TCPDUMP & Wireshark
+4 Installation & Configuration of Web Server (at least four) using open-source tool
+5 Network Socket Programming
+6 Installation and configuration of open-source Network simulator software
+7 Firewall Implementation (IPTABLES)
+8 Implementation of SDN
+9 Implementation of VPN
+10 Cryptography using open source tools/Crypt tools and open SSL
+Text Books
+Sr.
+No
+Title Edition Authors Publisher Year
+1 TCP/IP protocol suit Fourth Behrouz A.
+Forouzan (Author)
+McGraw Hill
+Education
+2009
+2 Introducing Network
+Design Concepts
+- CCNA Discovery
+Learning Guide
+- -
+3 Computer Networking: A
+Top-Down Approach
+Fifth J. F. Kurose and K. W.
+Ross
+Prentice Hall 2009
+4 Data Communication and
+Networking
+Fourth B.A.Forouzan McGraw Hill 2017
+5 Information Security:
+Principles and Practice
+First Deven Shah Wiley 2007
+Reference Books
+Sr.
+No
+Title Edition Authors Publisher Year
+1 Foundations of Modern
+Networking: SDN, NFV,
+QoE, IoT, and Cloud
+-- William Stallings Addison-Wesley
+ISBN:
+9780134175393
+2015
+2 Computer Networks Fifth A.Tanenbaum Pearson Education 2013
+3 Data and Computer
+Communications
+Tenth William Stallings Pearson Education 2013
+
+--- PAGE 34 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs./week) Credits Assigned
+L T P O E L T P Total
+PE-I Information
+Theory &
+Coding
+2 0 2 6 11 2 0 1 3
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+EC311
+(IT11)
+Theory 20 20 60 100
+Laboratory 80 -- 20 100
+Pre-requisite Course
+Codes
+Computer Communication Networks, Analog and digital communication
+Course
+Outcomes
+3T11.1 Interpret information theory concepts and compute the capacity of various
+types of channels
+3T11.2 Analyze encoding and decoding of various source codes and error correction
+codes
+3T11.4 Estimate various performance parameters of error correction coding
+algorithms
+3T11.5 Understand basics of cryptography algorithms
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO 1 PO2 PO 3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+3T11.1 3
+3T11.2 3 2 2
+3T11.3 3 2 2 2 2 2
+3T11.4 3 3 1
+3T11.5 3 1 1 1 1
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+3T11.1 2
+
+--- PAGE 35 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+3T11.2 2 2
+3T11.3 2 2 3
+3T11.4 1
+3T11.5 1
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand
+Apply
+Analyze
+Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No.
+Topics Ref
+.
+Hrs.
+1 Information theory and source coding
+Introduction to Information Theory, Uncertainty and
+Information, Average Mutual Information and Entropy,
+Information Measures for Continuous, Random Variables,
+Source Coding Theorem, Huffman Source coding: second and
+third order, extensions, Lempel Ziv coding, Arithmetic coding
+Run length coding, Introduction to Image Compression
+The JPEG Standard for Lossless Compression, The JPEG Standard
+for Lossy Compression, Video Compression Standards, Review of
+Shannon’s Channel capacity, Discrete memoryless channels and
+capacity, Examples of channel capacity, symmetric channels, AWGN
+channel, fading channels, Channel coding theorem
+1,2 06
+
+--- PAGE 36 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+2 Linear Block Codes
+Generator and Parity check Matrices, Encoding circuits, Syndrome
+and Error Detection, Minimum Distance Considerations, Error
+detecting and Error correcting capabilities.
+Standard array and Syndrome decoding.
+Error Probability after Coding (Probability of Error Correction)
+Perfect Codes, Hamming Codes,Low Density Parity Check (LDPC)
+Codes, Optimal Linear Codes
+Maximum Distance Separable (MDS) Codes.
+1,2 06
+3 Cyclic Codes
+Introduction, Generator and Parity check· Polynomials, Systematic
+Cyclic codes – Encoding and decoding using Feedback shift register
+circuits and polynomial method.
+Generator matrix for Cyclic codes, Syndrome computation and
+Error detection, Meggitt decoder.
+Cyclic Hamming codes, Golay code, Shortened cyclic codes, Cyclic
+Redundancy Check (CRC) Codes.
+BCH codes
+1,2 06
+4 Convolution Codes
+Graphical representation for encoding and decoding using code
+tree, trellis, state diagram, polynomial and time domain method,
+Viterbi decoding.
+Introduction to Turbo coding
+1,2 06
+5 Introduction to cryptography
+Introduction, overview of various techniques
+Symmetric (Secret Key) Cryptography
+Asymmetric (Public-Key) Cryptography
+1,2 04
+6(Self
+Study)
+Cryptography Algorithms 1,2 06
+Total 28
+
+--- PAGE 37 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Laboratory Components:
+Sr. No Title of the experiment
+1 Write a simulation program to test shannon’s source coding, channel
+coding and channel capacity theorem.
+2 Write a program to encode and decode a text file and determine the code
+efficiency using Shannon – Fano coding and Huffman Coding
+3 Write a program to construct Lempel Ziv Coding and decoding and examine
+its code efficiency
+4 Write a program to examine BER performance of linear block code for a a
+coded and uncoded BPSK communication system in AWGN
+channel
+5 Write a program to examine BER performance of cyclic codes for a coded
+and uncoded BPSK and QPSK communication system in AWGN channel
+6 Write a program to examine BER performance of BPSK modulated linear
+block coded communication system in AWGN channel and fading channel
+7 Write a program to examine BER performance of convolutional
+encoder in a coded and uncoded communication system based on 802.11a
+standard with and without AWGN channel
+8 Write a program to examine BER performance of convolutional
+encoder in a coded and uncoded OFDM system with and without AWGN
+channel
+9 Write a program to examine BER performance of convolutional
+encoder in a coded and uncoded OFDM system with and without fading
+channels
+10 Simulation either turbo codes/RS codes/ LDPC codes/BCH codes and test their
+error correction capability.
+
+--- PAGE 38 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+TEXT BOOKS:
+1. Ranjan Bose “Information theory coding and cryptography” 3rd edn, McGraw
+Hill Education India Private Limited
+2. Haykin Simon, “Digital Communication Systems,” John Wiley and Sons,
+New Delhi,Fourth Edition, 2014.
+3. Lathi B P, and Ding Z., “Modern Digital and Analog Communication
+Systems,” Oxford University Press, Fourth Edition, 2009
+REFERENCE BOOKS:
+1.R. G. Gallager, “Information Theory and Reliable Communication,” Wiley,
+1968, ISBN-13: 978-0471290483
+2. Roman, Steven, “Introduction to Coding and Information Theory”, Springer,
+ISBN 978-0-387-94704-4
+3. Shu Lin & Daniel J. Costello, Jr. “Error Control Coding” Prentice Hall, Second
+Edition, 2004.
+4. S. B Wicker, Error Control Systems for Digital Communication and
+Storage, Prentice Hall International, 1995
+5. Sklar B, and Ray P. K., “Digital Communication: Fundamentals and
+applications,” Pearson, India, Second Edition, 2009
+6..Ranjan Bose, “Information theory, Coding and Cryptography,” TMH
+publication, ISBN: 978-0-07-0669017, 2008.
+
+--- PAGE 39 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+PE-I Speech and
+Audio Processing
+2 0 2 8 8 2 0 1 3
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+EC321
+(2T21)
+Theory 50 50 100 100
+Laboratory 50 -- 50 100
+Pre-requisite Course Codes, if any. EC303: Digital Signal Processing
+Course Objective: To familiarize the basic & advance mechanisms of speech and audio processing
+Course Outcomes (CO): At the end of the course students will be able to
+EC321.1 Apply concepts of speech coding.
+EC321.2 Analyze Audio Perception& psycho-acoustic model.
+EC321.3 Demonstrate parametric representation, time domain & frequency domain representation of
+speech.
+EC321.4 Analysis of predictive methods of speech.
+EC321.5 Develop systems for various applications of speech & audio processing.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC321.1 2
+EC321.2 2
+EC321.3 2
+EC321.4 2 2
+EC321.5 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC321.1 2 2
+EC321.2 2 2
+EC321.3 2 2
+EC321.4 2 2
+EC321.5 2 2
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply√ Analyze√ Evaluate√ Create
+
+--- PAGE 40 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1 Title Mechanics of speech
+8 1.1 Speech production: Mechanism of speech production, Acoustic
+phonetics – Digital models for speech signals -Sampling speech
+signals, basics of quantization, delta modulation, and Differential
+PCM
+1,2
+1.2 Signal Processing Models of Audio Perception: Basic anatomy
+of hearing System. Auditory Filter Banks, Psycho-acoustic
+analysis: Critical Band Structure, Absolute Threshold of
+Hearing, Simultaneous Masking, Temporal Masking,
+Quantization Noise Shaping, MPEG psycho-acoustic model.
+1,2
+2 Title Time domain methods for speech processing 8
+2.1 Time domain parameters of Speech signal – Methods for
+extracting the parameters Energy, Average Magnitude, zero
+crossing Rate – Silence Discrimination using ZCR and energy
+1,2
+2.2 Short Time Auto Correlation Function – Pitch period estimation
+using Auto Correlation Function.
+4
+3 Title Frequency domain method for speech processing 1,2 8
+3.1 Short Time Fourier analysis: Fourier transform and linear filtering
+interpretations.
+4
+3.2 Sampling rates - Spectrographic displays - Pitch and formant
+extraction - Analysis by Synthesis - Analysis synthesis systems:
+Phase vocoder, Channel Vocoder.
+2,3
+3.3 Homomorphic speech analysis: Cepstral analysis of Speech,
+Formant and Pitch Estimation, Homomorphic Vocoders, Speech
+coding, speech enhancement.
+3,5
+4 Title Linear predictive analysis, synthesis of speech 3,5 4
+4.1 Basic Principles of linear predictive analysis – Auto correlation
+method – Covariance method.
+4.2 Solution of LPC equations – Cholesky method – Durbin’s
+Recursive algorithm.
+4.3 Application of LPC parameters – Pitch detection using LPC
+parameters – Formant analysis – VELP – CELP, Speech synthesis:
+basics of articulatory, source-filter, and concatenative synthesis –
+VOIP.
+5 Self
+Study
+Audio compression methods, Audio quality analysis, Spatial
+Audio Perception and rendering, Speaker identification and
+verification
+Total 28
+Laboratory Component
+
+--- PAGE 41 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Sr
+No. Experiment Title
+1 Speech production
+2 Analysis of speech signal
+3 Short-time spectrum analysis of speech
+4 Spectrographic analysis of speech
+5 Linear prediction analysis of speech
+6 Formant synthesis
+7 Cepstral analysis of speech
+8 Analysis by synthesis of speech
+9 Manual speech signal-to-symbol transformation
+10 Speaker Analysis /speaker recognition
+Text Books:
+Sr.
+No
+Title Edition Authors Publisher Year
+1
+Speech Communications:
+Human & Machine
+Second
+Douglas
+O'Shaughnessy
+IEEE Press, Hardcover
+2/e, ISBN:
+0780334493.
+1999
+2
+Discrete-Time Speech
+Signal Processing
+First Thomas F,
+Quatieri,
+Prentice Hall /Pearson
+Education
+2004
+Reference Books:
+Sr.
+No
+Title Edition Authors Publisher Year
+1
+Speech Processing and
+Synthesis Toolboxes
+First Donald G.
+Childers
+John Wiley
+&Sons,September
+ISBN:0471349593
+1999
+2
+Fundamentals of Speech
+Recognition
+First L.R. Rabiner
+and B. H. Juang
+Prentice Hall
+2009
+3
+Speech and Audio Signal
+Processing
+Second Ben Gold and
+Nelson Morgan
+John Wiley and
+Sons Inc., Singapore 2011
+4 Discrete Time
+Processing of Speech
+Signals
+First J.R. Deller,
+J.H.L. Hansen
+and J.G. Proakis
+John Wiley, IEEE Press
+1999
+5 Digital Processing of
+Speech Signals
+First L.R.Rabiner and
+R.W.Schaffer.
+Prentice Hall
+1979
+
+--- PAGE 42 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs./week) Credits Assigned
+L T P O E L T P Total
+PE-II
+Optical Fiber
+Communication
+2 0 2 6 11 2 0 1 3
+Examination Scheme
+Component ISE MSE ESE Total
+EC312
+(1T12)
+Theory 50 50 100 100
+Laboratory 50 -- 50 100
+Pre-requisite Course Codes, if any. AS101: Engineering Physics
+EC304: Electromagnetic Waves
+Course Objective: The objective of the course is to provide an understanding of usage of optical fiber
+for communication.
+Course Outcomes (CO): At the End of the course students will be able to
+EC322.1 Apply EM Wave theory to understand nature of Optical Signal and their corresponding
+guiding structures.
+EC322.2 Identify Passive Optical Components, Sources and Detectors.
+EC322.3 Analyze Passive Optical Components, Sources and Detectors.
+EC322.4 Evaluate losses in the optical systems.
+EC322.5 Compare different Optical Networks.
+EC322.6 Design optical Link Budget system.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC322.1 3 3 3 1 3 3
+EC322.2 2 2 2 2 3 3
+EC322.3 2 2 2 2 3 3
+EC322.4 2 2 2 2 3 3
+EC322.5 2 2 2 2 3 3
+EC322.6 3 3 3 3 3
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC322.1 2 2
+EC322.2 2 2
+EC322.3 2 2
+EC322.4 2 2
+EC322.5 2 2
+EC322.6 2 1
+
+--- PAGE 43 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember√ Understand√ Apply√ Analyze√ Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No.
+Topics Ref
+.
+Hrs.
+1 Optical communication fundamentals 1 10
+1.1 Block diagram of Optical Communication system, advantages, loss
+and bandwidth window, ray theory transmission, total internal
+reflection, acceptance angle, numerical aperture, skew rays and
+meridional rays
+1.2 EM waves, modes in planar guide, phase and group velocities, types of
+fiber according to refractive index profile and mode transmission.
+1.3 Couplers, Isolators, circulators, multiplexers, filters, fiber gratings,
+Fabry Perot filters, arrayed waveguide grating, switches and
+wavelength converters
+2 Optical communication Components 1 08
+2.1 Sources (LED, LASER), Detectors (PIN, APD) and Amplifiers
+3 Optical Networks and losses in the system 1 10
+3.1 Attenuation, absorption, linear and nonlinear scattering losses, bending
+losses, modal dispersion, waveguide dispersion, dispersion and pulse
+broadening, dispersion shifted, and dispersion flattened fibers, and
+nonlinear effects Measurements of attenuation, dispersion and OTDR
+3.2 Optical Networks: Link budget, SONET, SDH, WDM, DWDM
+4(Self
+Study)
+Review of latest optical fiber application and research 06
+Total 28
+Laboratory Component, if any. (Minimum 10 Laboratory experiments are expected)
+Sr. No Title of the Experiment
+1 Setup of Optical fiber communication link and measurement of Bit Error Rate (BER) and
+Eye pattern analysis
+A) Setup of analog fiber optic communication link
+B) Setup of digital fiber optic communication link
+C)Measurement of Bit Error Rate
+D)Study and measurement of Eye pattern
+2 Measurement of Numerical Aperture (NA) of optical fiber
+3 Measurement of Losses in Optical Fiber
+4 Study characteristic of LED and Photo detector in optical fiber communication link.
+5 To verify the Brewster's law and to find the Brewster's angle
+6 Michelson's Interferometer- Refractive index of glass plate: To determine the refractive
+
+--- PAGE 44 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+index of a thin glass plate.
+7 To Demonstrate the working of LASER using Phet virtual Lab
+8 Measure propagation loss in plastic fiber and to measurethe bending loss.
+9 Plotting optical link power budget.
+10 Mini project on optical network.
+Textbooks:
+S. N. Title Authors Edition Publisher Year
+1 Optical Fiber
+Communication
+John M. Senior Fourth Prentice Hall of
+India
+Publication
+2013
+2 Optical Fiber
+Communication
+Gred Keiser Third Mc-Graw Hill
+Publication
+2012
+3 Optical Networks: A
+Practical Perspective
+Rajiv Ramaswamy
+and Kumar N.
+Sivarajan
+Third Elsevier
+Publication
+2010
+
+--- PAGE 45 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course(Category)
+Code Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+PE-II
+Wavelet Transform
+and Applications
+2 0 2 4 8 2 0 1 3
+Examination Scheme
+Component ISE MSE ESE Total
+EC322
+(2T22)
+Theory 50 50 100 100
+Laboratory 50 -- 50 100
+Pre-requisite Course Codes, if any. Foundation of Signal Processing OR Digital Signal
+Processing
+Course Objective:
+Course Outcomes (CO):At the End of the course students will be able to
+1 Analyze the terminology that are used in the wavelets literature
+2 justify why wavelets provide the right tool
+3 Apply wavelets, filter banks, and multiresolution techniques to signal processing problem
+justify why wavelets provide the right tool.
+4 Develop wavelet based applications
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+1 3 2 2 3 2
+2 3 2 3 3 1
+3 3 2 3 2 3 1
+4 3 3 3 2 3 3 3 2 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+1
+2 3
+3
+4 3
+
+--- PAGE 46 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1 Title Fundamentals of Wavelets and Short Time Fourier Transform
+06
+1.1 Introduction to Wavelets, The concept of scale and resolution,
+uncertainty, History of wavelet, Different types of wavelets (e.g.,
+Haar, Daubechies, Morlet), Orthogonal and Biorthogonal wavelet
+bases, Multiresolution analysis and scaling functions.
+1.2 Short Time Fourier Transform (STFT), Signal representation
+with continuous and discrete STFT, concept of time-frequency
+resolution, Resolution problem associated with STFT, Heisenberg's
+Uncertainty principle and time frequency tiling, lacunas of STFT
+and necessity of wavelet transform.
+2 Title Continuous Wavelet Transform
+04 2.1 Wavelet transform-A first level introduction, Continuous timefrequency representation of signals, Definition and formulation of
+the continuous wavelet transform
+2.2 Properties of wavelets used in continuous wavelet transform,
+Condition of admissibility and its implications. Discretization of
+scale - generalized filter bank. Discretization of translation -
+generalized output sampling. Discretization of time/ space
+(independent variable) - sampled inputs.
+3 Discrete Wavelet Transform
+06 3.1 Introduction to discrete wavelet transform, Haar scaling functions
+and function spaces, Translation and scaling of ϕ(t), Haar wavelet
+function, Scaled and translated Haar wavelet functions,
+Orthogonality of ϕ(t) and ψ(t), Normalization of Haar bases at
+different scales, Daubechies wavelets
+3.2 Construction and Computation of the discrete wavelet transform
+
+--- PAGE 47 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+4 Title Discrete Wavelet Transform and Relation to Filter Banks
+06
+4.1 Signal decomposition (Analysis), Relation with filter banks,
+Frequency response, Signal reconstruction: Synthesis from coarse
+scale to fine scale, Upsampling and filtering, Perfect reconstruction
+filters, QMF conditions, Concepts of Multi-Resolution Analysis
+(MRA) and Multi-rate signal processing.
+4.2 Multiresolution Analysis: Multi-resolution decomposition and
+reconstruction of 1-D and 2-D signals. The concept of Time-
+Frequency filtering.
+5 Title Applications of Wavelet Transform
+06
+5.1 One dimensional Signal Compression, Analysis and classification
+of audio signals, Wavelet based signal de-noising and energy
+compaction, Wavelets in adaptive filtering, Digital Communication
+and Multicarrier Modulation.
+5.2 Image Compression, image processing and Image fusion
+6 Self
+Study
+The wavepacket transform: Nobel identities and wavelet
+packets, the basis used. Signal representation using Wavelet Packet
+Analysis, Selection of best basis
+Laboratory Component, if any. (Minimum 10 Laboratory experiments are expected)
+Sr. No Title of the Experiment
+1 Short Time Fourier Transform
+2 Time and Frequency domain Analysis of Different Wavelets
+3 Image Compression: Investigating the use of DWT for image compression
+4 Feature Extraction: Experimenting with DWT to extract relevant features from signals or
+images, such as edges, textures, or key points, for tasks like object recognition or pattern
+analysis.
+5 Signal Analysis: Applying DWT to analyze signals in the time-frequency domain,
+examining the decomposition coefficients to identify significant frequency components or
+transient features.
+6 Biomedical Applications: Using DWT for analyzing biomedical signals like
+electrocardiograms (ECG), electroencephalograms (EEG), or medical imaging, to detect
+abnormalities, perform signal classification, or extract diagnostic features.
+7 Compression Perfo rmance Evaluation: Comparing different wavelet families,
+
+--- PAGE 48 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+decomposition levels, and coding techniques to evaluate the compression performance of
+DWT-based compression algorithms in terms of rate-distortion trade-offs.
+8 Watermarking: Experimenting with DWT for digital watermarking, embedding
+imperceptible information into signals or images to protect copyright or verify
+authenticity.
+9 Image Fusion: Exploring DWT-based image fusion techniques to combine multiple
+images while preserving important information from each source, such as in multi-modal
+medical imaging or remote sensing applications.
+10 Image Fusion: Exploring DWT-based image fusion techniques to combine multiple
+images while preserving important information from each source, Time-Frequency
+Analysis: Examining the time-frequency representation obtained by DWT to analyze nonstationary signals and capture localized frequency content over time.
+Text Books
+Sr. No Title Edition Authors Publisher Year
+1 Insight into Wavelets:
+From Theory to
+Practice,
+Third Edition K. P. Soman,
+K. I.
+Ramachandran,
+N. G. Resmi
+PHI Learning
+Pvt. Ltd.
+2010
+2 Multiresolution signal
+Decomposition:
+Transforms,
+Subbands and
+Wavelets
+-- A.N. Akansu
+and R.A.
+Haddad
+Academic
+Press, Oranld,
+Florida
+1992
+3 Introduction to
+Wavelets and
+Wavelet Transforms:
+A Primer
+Prentice Hall
+Series
+1997
+Reference Books
+Sr. No Title Edition Authors Publisher Year
+1 Fundamentals of
+Wavelets: Theory,
+Algorithms, and
+Applications
+Second
+Edition
+J.C. Goswami
+and A.K.
+Chan,
+Wiley 2011
+
+--- PAGE 49 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+2 Wavelets and their
+Applications
+--- Michel Misiti,
+Yves Misiti,
+Georges
+Oppenheim,
+JeanMichel
+Poggi
+John Wiley
+& Sons
+2010
+3 A friendly guide to
+Wavelets
+-- Gerald Keiser Springer 2011
+4 Multirate Systems
+and Filter Banks
+-- P. P.
+Vaidyanathan
+Pearson
+Education,
+2004
+5 Wavelets and signal
+processing: An
+application based
+introduction
+-- Hans-Georg
+Stark
+Springer 2005
+
+--- PAGE 50 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+PE-II
+Digital CMOS VLSI
+Design
+3 -- -- 5 8 3 -- -- 3
+Examination Scheme
+Component ISE(%) MSE(%) ESE(%) Total
+EC332
+3T32
+Theory 20 20 60 100
+Laboratory -- -- -- --
+Pre-requisite Course Codes, if any. ET101: Basic Electrical Engineering
+EC101: Digital Systems and Microprocessors
+ET202: Electronic Devices
+ET205: Analog Circuits
+Course Objective:
+Course Outcomes (CO): After successful completion of the course, student will be able to
+CO1 Explain scaling theory for MOSFET
+CO2 Design MOSFET based inverter circuits with given constraints
+CO3 Analyze MOSFET based combinational and sequential logic circuits
+CO4 Realize MOSFET based logic circuits with different design styles
+CO5 Explain principle of working of semiconductor memories
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs
+1 Title Review of MOSFET Physics 08
+1.1 Threshold Voltage Equation, MOSFET Structure and Operation,
+Current-Voltage Characteristics and MOSFET Capacitances
+1
+1.2 MOSFET Scaling, Types of scaling and Small geometry effects 1
+2 Title MOSFET Inverters 08
+2.1 Static Characteristics of resistive load and CMOS Inverter,
+comparison of all types of MOS inverters
+1
+2.2 Dynamic Characteristics of inverters, design of CMOS inverters
+with constraints
+1
+3 Title Combinational MOS Logic Circuits 1,2 08
+3.1 MOS Logic Circuits with Depletion NMOS Loads and CMOS
+Logic Circuits
+
+--- PAGE 51 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+3.2 Complex Logic Circuits and Concept of equivalent CMOS
+inverter
+4
+Title Dynamic Logic Circuits 1 08
+4.1 Static CMOS, pass transistor logic, transmission gate
+4.2 Pseudo NMOS, Domino, NORA, Zipper, C2MOS
+5
+Title Sequential MOS Logic Circuits 1,2 06
+5.1 Behavior of Bi-stable Elements
+5.2 Circuit Realization: SR Latch, JK FF, D FF, 1 Bit Shift
+Register, MUX, decoder
+6 Title Semiconductor Memories 2,3 06
+6.1 ROM Array, SRAM (operation, design strategy, leakage currents,
+read/write circuits),
+6.2 DRAM (Operation 3T, 1T, operation modes, leakage currents,
+refresh operation, Input-Output circuits),
+6.3 Flash (mechanism, NOR flash, NAND flash)
+6.4 Peripheral Circuits: Sense amplifier, decoder
+Total 42
+Reference Books
+Sr.
+No. Title Edition Author Publisher Year
+1 CMOS Digital Integrated
+Circuits Analysis and Design
+Third
+Edition
+Sung-Mo Kang,
+Yusuf Leblebici
+Tata McGraw
+Hill
+2 Digital Integrated Circuits: A
+Design Perspective
+Second
+Edition
+Jan M. Rabaey,
+Anantha
+Chandrakasan,
+Borivoje Nikolic
+Pearson
+Education
+3 Introduction to VLSI Circuits
+and Systems
+Student
+Edition
+John P. Uyemura Wiley 2013
+
+--- PAGE 52 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+PE-I Control of
+Power
+Electronics
+Converters
+3 0 2 5 10 3 0 1 4
+Examination Scheme
+Component ISE (%) MSE (%) ESE(%) Total
+EC341
+(4T41)
+Theory 20 20 60 100
+Laboratory 50 -- 50 100
+Pre-requisite Course Codes, if any. Basic Electrical Engineering
+Course Objective: To study controlling aspects of major types of power electronic converters in
+analog and digital domain with appropriate signal conditioning and sensing circuits
+Course Outcomes (CO): At the End of the course students will be able to
+ET306.1 To study design aspects of signal sensing and conditioning circuits in PE Converters
+ET306.2 To get familiar with voltage mode and current mode controllers in PE
+ET306.3 To study control strategies for stand-alone and grid connected converters used in PV
+and Power System applications
+ET306.4 To study converter control in AC Drives system
+ET306.5 To study analog and digital techniques for Battery Chargers and SMPS PE Converters
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO/PO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+ET306.1 2
+ET306.2 2 3
+ET306.3 2.5
+ET306.4 3 2.5
+ET306.5 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO/PEO/PSO PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+ET306.1 2 1
+ET306.2 2 3
+ET306.3 2 2
+ET306.4 2 2
+ET306.5
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand √ Apply √ Analyze √ Evaluate Create
+Theory Component
+
+--- PAGE 53 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1 Title Fundamental Functional Blocks in Converter Control for Discretetime implementations
+06 1.1 Low Pass and High-pass filters, Proportional Integral and Derivative
+Controller, Harmonic Oscillators, Reference frame transformations,
+Phase-shift and quadrature filters, Phase lock-loop, higher order digital
+filters, etc.
+2 Title Modulation Techniques
+2.1 Voltage Controllers
+Ramp based linear PWM, Sinusoidal PWM, Voltage Space Vector
+Modulation, Inverter Flux Vector based Modulation
+06 2.2 Current Controllers: Hysteresis Control, Linear Current Control,
+dead-beat current control, SOGI based Controller
+3 Title Control of AC to DC Converters
+09
+2.1 Control of SCR based rectifier with Cosine-wave crossing techniques
+2.2 PWM Rectifier Control, Control implementation of PFC
+2.3 Three Phase PWM Rectifier and Active Power Filter control with
+rotating reference frame method and instantaneous p-q theory
+3 Title Control of DC-to-DC Converters
+09
+3.1 Modelling of DC-DC Buck and Bosot Converter
+3.1 Conventional Constant Voltage Control with PI Controller
+3.2 Conventional Constant Current Control with PI Controller
+3.3 Implementation of CV-CC Mode of Control
+3.4 Current Mode Control
+Title DC to AC Converters
+09
+4
+4.1 Full Bridge/Half Bridge Sinusoidal Pulse Width Modulation with
+voltage mode Control
+4.2 Space Vector Modulation
+4.3 Inverter flux control method
+5 Title AC–AC converters
+06
+5.1 Principle of on-off and phase Control – single-phase half and full wave
+AC voltage controller, three phase AC voltage controller.
+5.2 Buck, Boost and Buck-Boost Operation of Solid-state AC-AC
+Converters with Bidirectional Switches
+6 *Self-
+Study
+Laplace transformations, z-transformations, s-z transformations,
+discretization techniques, control system stability in continuous and
+discrete time mode. SOGI
+05
+Total Hours (*excluded) 45
+
+--- PAGE 54 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Laboratory Component (Indicative): To be completed minimum of 4 Lab Project Assignments
+with Computer Simulation (Mandatory) and Laboratory Experimentation (optional)
+LAB Project-1
+Static Var Compensator
+Lab Project-2
+Closed Loop Control of DC-DC Converter
+Lab Project-3
+Implementation of a Sine Wave Inverter with Inverter Flux Control
+Lab Project-4
+Implementation of a Buck-Boost AC-AC PWM Voltage Controller
+Sr. No Title Edition Authors Publisher Year
+1 Power Electronics:
+converters, Application and
+design
+Third Ned Mohan,
+Undeland and
+Robbin
+John Wiley and
+sons
+2003
+2 Power Electronics Circuits,
+Devices and Applications
+Fourth Rashid M.H. Pearson
+Education
+2004
+3 Discrete Time Control
+Systems
+second
+edition,
+K. Ogata Pearson
+International
+Reference Books
+Sr. No Title Edition Authors Publisher Year
+1 Simulation of Power
+Electronic Circuits
+First M. B. Patil, V.
+Ramanarayanan,
+V.T. Ranganathan
+Narosa
+Publishing
+House
+2013
+2 The switching function
+analysis of Power Electronic
+Circuits
+First Christos Marouchos IET, Devices and
+Circuits
+2008
+3 Digital Signal Processing
+in Power Electronics Control
+Circuits
+Second Krzysztof Sozański Springer 2017
+4 Control Circuits in
+Power Electronics
+Practical issues in design
+and implementation
+First Miguel Castilla The Institution of
+Engineering and
+Technology
+2016
+
+--- PAGE 55 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+PE-II
+Real-Time
+Embedded Systems
+2 -- 2 5 8 2 -- 1 3
+Examination Scheme
+Component ISE(%) MSE(%) ESE(%) Total
+EC332
+(3T32)
+Theory 20 20 60 100
+Laboratory 80 -- 20 100
+Pre-requisite Course Codes, if any. EC101: Digital Systems and Microprocessors
+EC201: Computer Architecture and Organization
+EC206: Microcontrollers
+EC305B: Internet of Things Laboratory
+Course Objective: To impart students the fundamentals of Operating Systems, system design skills
+using modeling practices, learn key concepts in reliability, and implementation aspects of real time
+concepts with respect to Industrial standards.
+Course Outcomes (CO): After successful completion of the course, student will be able to
+CO1 Get an insight of design metrics of Embedded systems to design real-time applications to
+match recent trends in technology
+CO2 Compare and contrast various ARM architecture series
+CO3 Demonstrate the basic concept of OS and configure the System
+CO4 Apply kernel Services and Synchronization
+CO5 Apply the industry standards for assessment of embedded product
+CO6 Analyze the reliability of embedded system with respect to fault detection and fault
+tolerance
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO1 2 2 2
+CO2 2 2 2
+CO3 2 2 2
+CO4 2 2 2
+
+--- PAGE 56 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+CO5 2 2 2
+CO6 2 2 2 2 2
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+CO1 1
+CO2 1 1
+CO3 1 1
+CO4 1 1 1
+CO5 1 1
+CO6 1 1 2
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs
+1 Title Fundamentals of Embedded System: 06
+1.1 Introduction to Embedded Systems, Characteristics of
+Embedded System, Design Process, Design Metrics, and
+optimization of various parameters of embedded system. Design
+trade-offs due to process compatibility. Real-time System’s
+requirements, real-time issues.
+1,2
+1.2 Embedded Product development lifecycle.
+Program Modeling concepts with design examples: DFG, FSM,
+Petri-net and Use case.
+1,2
+2 Title ARM Architecture: 3,4 04
+2.1 Differences among ARM7, ARM9 and ARM11 architectures 3,4
+2.2 Generic architecture concepts of ARM Cortex Series (A, R and 3,4
+
+--- PAGE 57 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+M)
+2.3 ARM Cortex M3- Detailed Architecture 3,4
+3 Title Real-time Operating System concepts 08
+3.1 Tasks, Task states, Message Queue, Mailbox, Pipe Function,
+Mutex, RPC Function, Shared Resources
+2,5,6
+3.2 Inter-process Communication, Semaphore, Spinlock Semaphore,
+round-robin scheduler, Blocking Semaphore, Mailbox, Preemptive scheduler, FCFS, EDF and RMA scheduler.
+2,5,6
+4 Title Implementation of a Real-time kernel 5,6 06
+4.1 Foreground Background System, Critical Section of codes, Task
+control Blocks, Task Scheduling, Creating a Task and Deleting a
+Task.
+5,6
+4.2 Creating and Deleting Semaphore, Creating and deleting Mutex,
+creating and Deleting Mailbox, Creating and deleting Message
+Queue.
+5,6
+5 Title Industry Standards 04
+5.1 Introduction to IEC 61508, IEC 60601 and IEC 26262 standards:
+Organizing and managing the life-cycle, Requirements involving
+the specification, Requirements for design and development,
+Integration and test, Operations and maintenance, Validation,
+Modifications, Acquired sub-systems, Organizing and managing
+the software engineering
+7,8,
+9, 10
+Total 28
+Laboratory Component
+Sr. No. Title of the Experiment
+1 Implementing a basic program of “HelloWorld” in ARM Cortex M3 processor
+2
+Porting Operating System kernel on Cortex M3 architecture and understanding file
+hierarchy.
+3 Initializing the Kernel, Create Task and Start the Task in OS
+4 Implementing OS interrupt Handler
+5 Performing OS Kernel Scheduling. (Pre-emptive Scheduler)
+
+--- PAGE 58 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+6 Implementing various Kernel Services in OS
+7 Implementing Semaphore in OS
+8 Performing Shared Resources Protection in OS
+9 Implementing Mutexes in Micrium OS.
+10 Implementing Message Queues in Message Queues
+Reference Books
+Sr.
+No. Title Edition Author Publisher Year
+1 Embedded System: Architecture,
+Programming and Design
+2nd
+edition
+Rajkamal Tata McGraw-Hill 2011
+2 Introduction to Embedded Systems 2nd
+edition
+Shibu K. V Tata McGraw-Hill 2017
+3 ARM System Developer‟s Guide
+Designing and Optimizing System
+Software
+First Andrew N.
+Sloss,
+Dominic
+Sysmes and
+Chris Wright
+Elsevier Inc
+Morgan Kaufmann
+2004
+4 Embedded System: Real time
+Operating Systems for the ARM
+CortexTMM3
+Jonathan W.
+Valvano
+Create Space
+Independent
+Publishing Platform
+2012
+5 MicroC/OS-II: The Real-Time
+Kernal
+Jean J.
+Labrosse
+CRC press 2002
+6 Using the FreeRTOS Real Time
+Kernel -a Practical Guide- Cortex-M3
+Third Richard McGraw-Hill 2010
+
+--- PAGE 59 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Edition
+Barry
+7 Functional Safety, A
+Straightforward Guide to applying
+IEC 61508 and Related Standards
+2nd
+edition
+David Smith Elsevier 2004
+8 IEC 61508: IEC standard for the
+functional safety for electrical,
+electronics and programmable
+electronics equipment
+- - https://www.iec.ch/safety -
+9 IEC 60601: IEC standard on
+Medical Electric Equipment
+- - https://www.iec.ch/safety -
+10 IEC 26262: IEC standard on Road
+vehicles
+- - https://www.iec.ch/safety
+
+--- PAGE 60 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+PE-II Electric Motor
+Drive Systems
+3 0 2 5 10 3 0 1 4
+Examination Scheme
+Component ISE(%) MSE(%) ESE(%) Total
+EC342
+(4T42)
+Theory 20 20 60 100
+Laboratory 50 -- 50 100
+Pre-requisite Course Codes, if any. Basic Electrical Engineering
+Course Objective: To study controlling aspects of major types of power electronic converters in
+analog and digital domain with appropriate signal conditioning and sensing circuits
+Course Outcomes (CO): At the End of the course students will be able to
+1 To grasp fundamental concepts of modern electric motors and load characterization
+2 To study electric motor drive control system
+3 To study different applications of electric motor drives
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO/PO PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+1 2
+2 2 3
+3 2.5
+4 3 2.5
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+CO/PEO/PSO PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+1 2 1
+2 2 3
+3 2 2
+4 2 2
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand √ Apply √ Analyze √ Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+
+--- PAGE 61 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+1 Title Electric Motor Basics
+12
+1.1 Induction Motors, Brushless DC Motors, Synchronous Reluctance
+Motor, Switched Reluctance Motors, Permanent Magnet Synchronous
+Motors, Stepper Motors, Linear Motors and Actuators, Electric and
+regenerative breaking, load characterization, field of applications of
+various motors
+2 Title Electric Motor Drive Control Techniques for AC Motors
+Scalar and Vector Control of AC Electric Motors, Direct Torque control, field -
+oriented control, Sensor based and Sensor-less Control
+12
+3 Title Electric Motor Drive Control Techniques for BLDC Motors and
+Syn-RM Motors
+09 Practical implementation of sensor based and sensorless BLDC Motor Drive
+Systems, Practical implementation of Switched Reluctance Motors
+Title Control of Linear Motors and Actuators
+09
+4
+Control of Linear Motors and Actuators
+Control of Stepper Motors
+Total Hours 40
+Laboratory Component (Indicative): To be completed minimum of 4 Lab Project Assignments
+with Practical Implementation on Digital Platforms
+LAB Project-1
+Closed loop control Induction Motor with V/F Control
+Lab Project-2
+Closed loop control
+Lab Project-3
+sensor/sensorless BLDC Motor Drive
+Lab Project-4
+Implementation of drive system for Linear Motors and Actuators
+Lab Project-5
+Implementation of drive system for stepper-motor
+
+--- PAGE 62 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Reference Books:
+Books:
+1. Chang Liang Xia,”Permanent Magnet Brushless Dc Motor Drives and Controls” Wiley 2012.
+2. Rashid M.H., "Power Electronics Circuits, Devices and Applications", Prentice Hall India,
+Third Edition, New Delhi, 2011.
+3. Bimal K Bose, "Modern Power Electronics and AC Drives", Pearson Education, second
+Edition, 2003.
+4. Dubey. G.K., "Thyristorised power controllers", New age International, New Delhi, 2002.
+5. Bhimbhra P.S., "Power Electronics", Khanna Publishers, New Delhi, 2005
+6. Miller. T. J. E., "Brushless Permanent Magnet and Reluctance Motor Drives", Clarendon
+Press, Oxford, 1989.
+7. Kenjo. T and Nagamori. S, "Permanent Magnet and Brushless DC Motors", Clarendon Press,
+Oxford, 1989.
+8. Kenjo. T, "Stepping Motors and their Microprocessor Control", Clarendon Press, Oxford,
+
+--- PAGE 63 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+PROGRAM ELECTIVE COURSES
+● 4 Electives are sufficient to specialize in a particular vertical/thread/area.
+TD/ PE PE1 PE2 PE3 PE4 PE5 PE6
+THREAD 1:
+Communication
+T11:
+Information Theory
+& Coding
+T12:
+Optical Fiber
+Communication
+T13:
+Microwave
+Communicati
+on
+T14:
+Space
+Communication
+on Technologies
+T11,
+T12,
+T21,
+T22,
+T31,
+T32,
+T41,
+T42,
+X, Y
+P, Q
+T11,
+T12,
+T21,
+T22,
+T31,
+T32,
+T41,
+T42,
+X, Y
+P, Q
+THREAD 2:
+Signal Processing
+T21:
+Speech and Audio
+Processing
+T22:
+Wavelet
+Transform
+T23:
+Image &
+Video
+Processing
+T24:
+Principles Soft
+Computing
+THREAD 3:
+VLSI &
+Embedded
+Systems
+T31:
+Digital CMOS VLSI
+Design
+T32:
+Real Time
+Embedded
+Systems
+T33:
+Semiconducto
+r
+Technologies
+T34:
+Mixed VLSI
+Design
+THREAD 4:
+Power
+Electronics and
+Energy Systems
+T41:
+Control of Power
+Electronics
+Converters
+T42:
+Electric Motor
+Drive Systems
+T43:
+Embedded &
+Digital
+Control of PE
+Systems
+T44:
+Selected topic in
+Power Electronics
+& Drives
+GENERAL X:
+Computer
+Communication
+Network (Cat2)
+T11, T12,
+T21, T22,
+T31, T32,
+T41, T42
+Y:
+Fundamentals of
+Antenna (Cat2)
+T11, T12,
+T21, T22,
+T31, T32,
+T41, T42
+P:
+Artificial
+Intelligence &
+Machine
+Learning
+T13, T14
+T23, T24
+T33, T34
+T43, T44
+Q:
+Telecomm
+Network
+Operations &
+Management
+T13, T14
+T23, T24
+T33, T34
+T43, T44

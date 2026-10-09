@@ -1,0 +1,780 @@
+--- PAGE 1 ---
+ACADEMIC REGULATIONS
+Effective from Academic Year 2022
+
+--- PAGE 2 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 1
+Bharatiya Vidya Bhavan’s
+Sardar Patel Institute of Technology
+(An Autonomous Institute Affiliated to the University of Mumbai)
+[Knowledge is Nectar]
+ACADEMIC REGULATIONS (U.G.)-2022
+FOR U.G. PROGRAMS
+w.e.f. A.Y. 2022-23
+
+--- PAGE 3 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 2
+INDEX
+Section Particulars Page No.
+Preamble 2
+1. Academic Administration 3
+2. Academic Programs 4
+3. Scope of the Regulations 4
+4. Academic Calendar 4
+5. Admissions 6
+6. Attendance 6
+7. Code of Conduct and Discipline 7
+8. Change of Branch 7
+9. Curriculum 8
+10 Degree Requirements 9
+11 Course Registration for the Semester 10
+12 Promotion Rules 11
+13 Summer Term 11
+14 Temporary Withdrawal 11
+15 Termination from the Program 12
+16 Performance Assessment 12
+17 Eligibility for the CGPA improvement 12
+18 Schemes for earning MINOR, HONORS, and SCOPE Certification 13
+19 SWAYAM / NPTEL COURSES 15
+20 LLC (Life Literature Culture) Courses 16
+21 Transitory Regulations 17
+22 Malpractices 17
+Preamble
+Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology is an Autonomous Institute affiliated to the
+University of Mumbai. This document has been published to enhance education quality and reveal
+transparency, clarity, and accuracy in academic activities at the Institute.
+It provides broad information on the rules and regulations for all undergraduates (U. G.) Programs. The
+Regulations are expected to enable the students to take advantage of the various academic opportunities
+at the Institute and prepare themselves to face the challenges in their professional careers ahead. It may
+be noted that:
+(a) The provisions made herein shall appl y to all the U.G. Programs offered by the Institute, at present.
+(b) They shall also appl y to all the new U.G. Programs that may be started at the Institute in the future.
+(c) Academic and non-academic requirements prescribed in the Academic Regulations must be fulfilled
+by a student for eligibility towards the award of a B. Tech degree.
+
+--- PAGE 4 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 3
+Glossary:
+1. UG: Undergraduate
+2. BOS: Board of Studies
+3. AC: Academic Council
+4. B. Tech: Bachelor of Technology
+5. DAPC: Department Academic Program Committee
+6. DTE: Director of Technical Education (M.S.)
+7. SGPI: Semester Grade Performance Index
+8. CGPI: Cumulative Grade Performance Index
+9. COE: Controller of Examination
+10. DEC: Departmental Examination Coordinator
+11. EC: Examination Committee
+12. COMP: Computer Engineering
+13. IT: Information Technology
+14. ETRX: Electronics Engineering
+15. EXTC: Electronics & Telecommunication Engineering
+16. CSE: Computer Science and Engineering
+17. AIML: Artificial Intelligence &Machine Learning
+18. DS: Data Science
+19. HOD: Head of the Department
+20. TPO: Training and Placement Officer
+21. ISE: In Semester Evaluation
+22. MSE: Mid-Semester Examination
+23. ESE: End Semester Examination
+24. University: Mumbai University
+25. BS: Basic Sciences
+26. ES: Engineering Sciences
+27. HSS: Humanities and Social Sciences
+28. OE: Open Elective
+29. ABLL: Activity-Based Liberal Learning
+30. SCOPE: Skill Certification for Outcome-Based Professional Education
+1. Academic Administration
+The Academic Council is a statutory and supreme body that governs all academic matters of the Institute,
+and the decisions of the Chairman ( Principal of The Institute) of the Academic Council are final
+regarding all academic issues. A definite time schedule is set by the Academic Council for various
+academic activities, through an Academic Calendar issued at the beginning of each academic year. The
+Academic Council continually assesses the Academic Programs and makes appropriate revisions/
+modifications/improvements as and when required through the respective Board of Studies.
+Dean Academics and Dean Students Affairs are the two main Academic Authorities for the
+Undergraduate (UG) Programs. All the Academic matters come under the purview of Dean Academics.
+
+--- PAGE 5 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 4
+Matters pertaining to conduct, discipline, and welfare of the stu dents are supervised by the Dean
+Students’ Affairs.
+2. Academic Programs
+The following Undergraduate Programs are offered by the Institute:
+B. Tech. (Electronics Engineering)
+B. Tech. (Electronics & Telecommunication Engineering)
+B. Tech. (Computer Engineering)
+B. Tech. (Information Technology)
+B. Tech. (CSE-AIML) -Starting from AY 2021-22
+B. Tech. (CSE-Data Science)- Starting from AY 2021-22
+B. Tech. (CSE)- Starting from AY 2023-24
+3. Scope of the Regulations
+a) The provisions of this Regulation are applicable to all Programs and disciplines listed above and
+will also be applicable to new disciplines that may be introduced from time to time.
+b) The Academic Council, on the recommendation of the Board of Studies (BOS) may change any or
+all parts of this Regulation at any time considered appropriate by the Academic Council.
+4. Academic Calendar:
+The academic activities of the Institute are regulated by the Academic Calendar, approved by the
+Academic Council, and released at the beginning of each academic year. It is mandatory for
+students/faculty to strictly adhere to the academic calendar for completion of academic activities. The
+Academic Calendar must be available on the institute’s website.
+Program Duration:
+(a) The Program duration for a student to complete the academic and other requirements at the Institute
+and qualify for the award of a Degree shall be normally 8 semesters. A typical breakdown of the
+academic year for the B. Tech program at the Institute shall be as suggested (indicative) in Table 1:
+Table 1: Suggested Breakdown of Academic Year into Semesters
+1. No. of
+Semesters/
+Year:
+Total Three.
+Two Main Semesters (Odd and Even) and a Summer Term
+(Note: Summer Term is primarily for students admitted through a lateral entry or to
+assist weak and/or failed students through make -up courses, wherever possible or
+internship or project. However, the Institute may use this semester to arrange Add-On
+Courses for other students and/or for deputing them for practical training elsewhere.)
+2. Semester
+Durations:
+Main Semesters: Approx. 18 Weeks each; Summer Term: Approx. 8 Weeks;
+
+--- PAGE 6 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 5
+3. Academic
+Activities
+(Weeks):
+Main Semester (Odd or Even)
+Registration of Courses - 0.5; Course w ork- 14; Examination Pr eparation-1.0;
+Examinations- 1.5; Declaration of Results- 1.0; Total: 18;
+Summer Term (only for make-up Courses): Registration of Courses- 0.1; Course Work-
+7.0; Examination Preparation -0.2; Examinations - 0.2; Declaration of Results - 0.5;
+Total: 8;
+Inter-Semester Recess:
+Total: 14 (for regular students) and 6 (for weak students). After each Main Semester;
+After the Summer Term.
+4. Examinations:
+In-Semester Evaluation (ISE), Mid-Semester Examination (MSE), and End Semester
+Examination (ESE), with the weightage in the proportion of 20:20:60, in the students’
+performance in Theory and 80:20 in Laboratory Work and other activities. The
+concerned course coordinator can change this proportion by prior approval from the
+Dean Academics and Research.
+(Note: The proportion may change in the case of some components. The MSE and ESE
+shall be conducted on dates announced in advance in the Academic Calendar.)
+5. Other
+Activities:
+• Care shall be taken to ensure that the total number of days for academic work is not
+less than 180/year.
+• Academic schedules prescribed shall be strictly adhered to by all the Departments.
+• Failure Students can take re-examination for a maximum of THREE failed courses,
+immediately after the ESE, as announced in the Academic Calendar; in that case,
+the scores of ISE will be carried forward.
+• If a student wants to apply for grade improvement, can also appear for a reexamination. He / She will have to apply within 5 days from the declaration of the
+result. There will be a grade penalty for a Re-Exam (Makeup Exam) or grade
+improvement.
+• All students who attempt the re-examination will have a grade penalty of one grade.
+• Special Examination: A grade penalty is applicable to students who adopt unfair
+means in the examinations, and they shall appear only in the Special Examination
+to be conducted at the end of the academic year and pay the appropriate exam fee.
+• Summer Term shall be mainly for Make -up Courses and project Work, to benefit
+lateral entry, weak, or failed students to the extent possible.
+• Students who failed a course shall attend a Course fully when it is offered again and
+appear for all components of evaluation.
+(b) Each academic year shall be divided into two main semesters, each of 18 weeks, viz., odd semester (Jul.
+– Nov.) and even semester (Dec. – Apr.), and an 8-week Summer Term (May, June.).
+(c) The Institute shall arrange regular academic activities for the students during the two main semesters
+and makeup and other courses for the students during the Summer Term.
+(d) The academic activities in a semester shall normally include course registration, the teaching-learning
+process comprising of course work, In-Semester E valuation, Mid Semester Examination,
+dropping/withdrawal from courses, End-Semester Examination, and declaration of results.
+
+--- PAGE 7 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 6
+(e) The Institute shall announce the schedule for all the academic activities well before the commencement
+of the academic year and take all the necessary steps to follow them meticulously.
+(f) The Institute shall also announce adequate intra-semester and inter-semester breaks for the students and
+ensure that a minimum of 180 academic working days are available during the academic year.
+5. Admissions:
+(a) The i ntake capacity of each program, including the number of seats to be reserved for students of
+different categories shall be decided and resolved as per the directives and approval of Government /
+Regulatory bodies. The same channel shall be followed for Inception of New programs in the Institute.
+(b) Admissions to the first year of all the UG programs shall be made before the start of each academic year,
+as per the allotment of DTE, based on the Maharashtra Combined Entrance Test (MHCET) conducted
+by the Government, or any other relevant Entrance Examination as decided and published by the
+Government for that year.
+(c) The Institute shall also admit to the first year of the programs, a limited number of students (20 % of the
+total intake) as management quota, based on inter-se-merit.
+(d) There shall also be a merit -based, lateral admission of students having Diploma qualification to the
+second year of all the programs at the Institute in accordance with the Government rules applicable for
+such admissions.
+(e) The Institute reserves the right to revoke the admission made to a candidate if it is found at any time
+after admission that he/she does not fulfill all the requirements stipulated in the offer of admission.
+(f) The Institute also reserves the right to cancel the admission of any student and discontinue his/her studies
+at any stage of studentship for:
+• Unsatisfactory academic performance and/or undisciplined conduct.
+• In case the student wants to cancel his/her admission due to any personal reasons, at any juncture,
+he/she shall need to apply through the proper channel (HoD -> Dean-Academics -> Principal), with
+the application endorsed by his/her parents.
+The admission shall be canceled after obtaining ‘NO -DUES’ from ALL relevant sections of the
+Institute, as per norms.
+6. Attendance:
+(a) Attendance: A student must maintain 100% attendance separately in lectures, tutorials, and practical
+classes for a course. A relaxation of up to 25% approved by the H.O.D. is allowed for medical
+emergencies, family issues, and representing the institute in extracurricular and cocurricular activities,
+workshops, competitions, or hackathons. Students must get prior permission in writing from the
+HOD/Dean Academics to participate in the various University/State/National level, educational events.
+(b) 75% is mandatory to appear for the End Semester Examination.
+(c) Students desirous of leave of absence for less than two weeks during a semester shall apply for it in
+advance to the Head of the Department giving reasons & supporting documents, if any, and get it
+approved.
+(d) Absence due to illness or any other reason for a period less than two weeks in a semester, for which a
+student could not make a prior application, may be pardoned by the Head of the Department after proper
+verification.
+
+--- PAGE 8 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 7
+(e) The Dean Academic shall be the Authority for sanctioning the leave of students outside clauses (c) and
+(d) above, after receiving their applications along with recommendations of the Heads of Departments.
+(f) In the case of long absence of a student in a semester with prior approval or otherwise, the Dean,
+Academic shall decide whether the student be asked to withdraw from the program for that semester.
+(g) In all the cases of leave of absence as per Clauses (d)-(f) above, the period of leave taken shall not be
+condoned to fulfill the attendance requirements stipulated in the Clauses (a) (b) and (c).
+7. Code of Conduct and Discipline:
+(a) All students shall be required to conduct themselves in a manner befitting the students of an institution
+of high reputation, within and outside the precincts of the Institute.
+(b) Unsocial activities like ragging in any form shall not be tolerated within or outside the precincts of the
+Institute and the students found indulging in them shall be dealt with severely and dismissed from the
+Institute.
+(c) The following additional acts of omission and/or commission by the students within or outside the
+precincts of the Institute shall constitute a gross violation of the code of conduct punishable as
+indiscipline:
+i. Lack of courtesy and decorum, as well as indecent behavior.
+ii. Willful damage of the property of the Institute or fellow students.
+iii. Possession/consumption/distribution of alcoholic drinks and banned drugs.
+iv. Mutilation or unauthorized possession of library material, like. books.
+v. Noisy and unseemly behavior, disturbing the peace in the Institute.
+vi. Hacking in computer systems, either hardware or software or both.
+vii. Any other act considered by the Institute as gross indiscipline.
+(d) In each case above, the punishment shall be based on the gravity of the offense, covering from
+reprimand, levy of fine, debar from examination, rustication for a period, to outright expulsion.
+(e) The warning Authority for an offense committed by students in the department or the classroom shall
+be the Head of the concerned Department.
+(f) In all the cases of offense committed by students in jurisdictions outside the purview of Clause (5), the
+Dean of Students Affairs shall be the Authority to warn them.
+(g) All major acts of indiscipline involving punishment other than mere reprimand, shall be considered, and
+decided by the Chairman, Students Disciplinary Committee appointed by the principal.
+(h) All other cases of indiscipline of students, like the adoption of unfair means in the examinations shall be
+reported to the ‘Unfair Means Committee ’, to be constituted by the principal for taking appropriate
+action and deciding on the punishment to be levied.
+In all the cases of punishment levied on the students for any offense committed, the aggrieved party shall
+have the right to appeal to the principal, who shall constitute appropriate Committees to review the case.
+8. Change of Branch:
+Change of branch shall be permissible for a limited number of special cases in the third semester as
+per the following regulations:
+
+--- PAGE 9 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 8
+(a) Only those students who have completed the common credits required in the first two semesters in
+their first attempt with a minimum CGPA of 8.5 shall be eligible for making an application for a
+change of branch.
+(b) There shall be a maximum number of only two students admitted in any discipline in the third
+semester through the branch change rule.
+(c) Intending students, eligible for change of branch, shall apply for the same to the Office of Dean -
+Academics before the closing date notified at the beginning of the odd semester of each academic
+year.
+(d) Such students shall be required to indicate up to three branches, in order of preference to which
+they wish to change over, as the change shall be strictly based on their merit, subject
+to availability of the vacancies.
+(e) The change of branch shall be permitted purely on the inter-se merit of all the eligible applicants.
+The CGPA of students at the end of the second semester shall be considered for rank ordering of
+the applicants seeking change of branch and in the case of a tie, the MHCET ranks shall also be
+considered.
+(f) All the changes of branch permitted for intending students as per the above clauses shall be effective
+from their third semester only and no further change of branch shall be permitted after this.
+(g) All the changes of branch permitted at this stage shall be final and binding on the applicants and no
+student shall be permitted, under any circumstances, to refuse the change of branch offered.
+The candidates who have sought admission under the Tuition Fee Waiver Scheme are not
+eligible for the branch change.
+9. Curriculum:
+Sardar Patel Institute of Technology received autonomous status in 2017. There have been several
+revisions carried out in the curricula and assessment schemes based on the discussions carried out at
+various forums like Industry meetings, Examination Committee Meetings, Governing Board Meetings,
+and Academic Council Meetings. It has been revised yet again for the academic year 2020 -21. This
+curriculum for B. Tech. programs adheres to the 160-credit requirement according to the UGC
+guidelines. It aims at the development of an all-rounded personality. It follows a holistic
+approach to education, ensures a strong science, and mathematics foundation and program core,
+develops expertise in domain vertical th rough the sequel of electives, ensures significant
+exposure of additional discipline through a “Minor” program, collaborates with outside world
+for the imparting relevant skills through “SCOPE” courses, challenges good learners through
+“Honors” evaluation, and systematically develops soft skills, and social, physical, mental,
+spiritual personality through carefully articulated Liberal Learning and Humanities sequels.
+Thus, offers a unique, liberal “Pi-Model” of Engineering Education.
+Credit Representation: Each course shall have a certain number of credits assigned to it
+depending upon the academic load of the course assessed based on weekly contact hours and
+total engagement of a learner. Although credits are represented based on actual contact hours
+(1 credit per 1 -hour theory / 1 -hour tutorial / 2 hours laboratory), another engagement of
+the learner in the form of homework is an invariable part of credit representation. At SP-IT it
+
+--- PAGE 10 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 9
+is expected that for ordinarily 20 credits in a semester, a student’s weekly engagement including
+actual contact hours must be 50 to 55 hours.
+Course Categories: The courses included in the curriculum are divided into the following categories:
+Basic Science/Engineering Science: are common courses that ensure a strong science,
+and mathematics foundation.
+Program Core are the courses that ensure breadth and depth in a chosen domain of study. There are a
+total of 12 program core courses.
+Program Electives are arranged either to grow in a specified vertical or have diversified exposure. There
+are 6 baskets of program electives. This enables learners to grow in a domain specialization or domain
+vertical.
+Open Electives: are planned to give exposure to interdisciplinary and cross -disciplinary domains. The
+courses in these baskets are planned both at department and institute level, to get familiar with other
+domains of learning.
+Humanities and Social Science Electives: Every program at SP -IT has three baskets of humanities.
+Learners are encouraged to take diversified courses in the fields of languages, law, history, economics,
+management, finance, etc.
+ABLL@LLC (Activity-Based Liberal Learning about Life, Literature and Culture): These eight
+activity-based mini-courses are offered in all EIGHT semesters, ensuring all dimensional holistic growth
+of the learner. They are arranged in two sequels namely “SEVA” ® (Social Empowerment
+through Various Activities” and “SATVA” ® (Self-accomplishment through various Activities).
+Every Department has a prescribed course structure that prescribes the courses, labs, and other
+requirements for the award of the degree and sets out the semester-wise nominal sequence. It also gives
+the syllabus and a list of texts and reference books for each course. The Curriculum details are updated
+every semester and are made available on the Institute website.
+a) All the UG programs have common courses at the first-year level. Programs under Electronics Domain
+(Electronics and Electronics & Telecommunication) have common courses up to fifth semester.
+Programs under the Computer Domain (Computer and Information Technology) have common
+courses up to the fifth semester.
+10. DEGREE REQUIREMENTS:
+A student shall fulfill the following requirements for the award of the B.Tech. degree:
+a) Credit Requirements: The minimum Earned Credit Requirement for the award of a Degree is
+160 (* less 2/3 in the period of Covid 19 as per the Programs) with a CGPA of not less than
+4.00. Each student for the B. Tech, Degree award shall be required to earn a total of 1 60 * credits
+during his/her studentship at the Institute. While a student can register for more than 160 * credits at
+the Institute, only 160 * credits shall be considered for the Degree award.
+b) A student shall also complete the specified mandatory non-credit courses satisfactorily.
+c) The minimum duration for a student to comply with the Degree requirement is FOUR academic
+years from the date of first registration for his/her first semester.
+
+--- PAGE 11 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 10
+d) The maximum duration for a student to comply with the Degree requirement is SIX academic
+years from the date of first registration for his/her first semester.
+e) In case the student opts for an Honors certification, he/she must fulfill the requirements as mentioned
+in the respective curriculum schemes from time to time to qualify for such certification.
+f) Publication Requirement: All engineering students are required to publish project work at reputed
+conferences or Journals.
+g) For Research Honors (2023-24 onwards): Publishing a patent is a mandatory requirement for research
+honors.
+11. Course Registration for the Semester:
+Each Department shall assign Faculty Advisors for all its students in consultation with the Dean,
+of Students Affairs. It shall be the responsibility of the Faculty Advisors to help the students in planning
+their coursework and other academic activities at the Department and to regularly monitor and advise
+them on their academic and other performance at the Institute. For students of the first two semesters in
+any Department, the Dean of Students Affairs may assign Faculty Advisors from among the faculty of
+Basic Science including Mathematics and HSS Departments.
+11.1. The registration will be organized at the respective Department under the supervision of the Head
+of the Department.
+11.2. A student who does not register on the day announced for the purpose may be permitted, in
+consideration of any compelling reason, late registration within the next week on payment of
+an additional late fee as prescribed by the Institute from time to time. In special cases where the
+delay is beyond one week, Dean Academic may allow, on a case -to-case basis, for late
+registration with an appropriate fee.
+11.3. After registration for each semester, each student should collect a registration sheet, which
+indicates the courses registered by him/her in that semester, signed by the faculty advisor. The
+student should carry this registration sheet for all the examinations in that semester. This
+registration sheet along with the Institute ID card serves the purpose of a hall ticket for appearing
+for the examinations in that semester.
+11.4. If a student finds his/her load heavy in any semester, or for any other valid reason, he/she can
+add/drop some courses within one week from the commencement of the class work in the
+semester with the written approval of his/her Faculty Advisor and Head of the Department, with
+an intimation to Dean-Academic.
+11.5. Every student is required to register every semester without fail. If a student is permitted to take
+a semester break, he/she must register for that semester and complete it before registering for the
+subsequent semester.
+11.6. A student must register for the backlog courses, giving priority to the oldest backlogs. The
+students will register by default for the backlog courses being offered in a semester. The
+maximum number of credits (including backlog courses) that a student can register in the study
+mode in a semester is 30. Each student of the first year shall register for all the courses in the
+first two semesters. Similarly, directly admitted Diploma students will also register for all
+courses in the third and fourth semester s.
+11.7. Only those students will be permitted to register who have:
+I. Cleared all the dues of the previous semesters,
+
+--- PAGE 12 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 11
+II. Paid all required fees for the current semester, and
+III. Not been debarred from registering for a specified period on disciplinary or any other
+ground.
+12. PROMOTION RULES:
+a) From I Year to II Year: To be able to register in the Second Year (IIIrd semester), a student
+should have completed, with DD or better grade, at least 75% credits at the end of the first
+year including Induction program in Ist Year I Semester, IInd Semester and makeup
+examinations put together.
+b) From II Year to III Year: For promotion to Third year, a student should have (i) Cleared
+all the Course Work requirements of Ist Year including the summer project, and (ii) passed,
+with DD or better Grade, at least 75% credits in IInd Year including make-up examination.
+c) From III Year to IV Year: For promotion to Fourth year, a student should have (i) Cleared
+all the Course Work requirements of I st Year, IInd Year and (ii) passed, with DD or better
+Grade, at least 75% credits in IIIrd Year including make-up examination.
+d) ODD to EVEN Semester: There are no restrictions for promotion from odd semester to even
+semester in an academic year.
+13. Summer Term:
+(a) Departments shall conduct summer term for the supplementary courses/ for FY B. Tech
+ENGINEERING EXPLORATION, for lateral entry students of S.Y. B. Tech. as per the Academic
+Calendar. A Department shall be free to arrange any Add -On courses for its students during thi s
+semester.
+(b) The academic activity in the summer term shall be at double the contact hours compared to a normal
+semester, e.g., 1 credit of coursework shall require two hours/week in the classroom so that the
+contact hours are maintained the same as in a normal semester. It shall also be necessary to fulfil l
+the requirements of ISE, MSE, and ESE for all the courses like in a norma l semester.
+(c) Courses planned for the summer term shall be announced by the Dean, of Academics in each year,
+well before the conclusion of the Even Semester. Students intending to avail of this facility shall
+have to register for the courses offered by paying the prescribed fees (if applicable) within the
+stipulated time.
+(d) It shall be the responsibility of the Department to plan in advance the faculty and non -teaching staff
+requirements to conduct the summer term and take necessary steps including the institutional
+approvals for organizing the same.
+(e) The student who is either dropped or detained in the course/s during the regular semester is not
+allowed to register for that course/s in t h e summer.
+14. Temporary Withdrawal:
+(a) Students shall be permitted to withdraw temporarily from the Institute on grounds like prolonged
+illness, grave calamity in the family or any other serious happening. The withdrawal shall be for
+periods which are integral multiples of a semester, provided that:
+i. He / She applies (through proper channel, i.e. H.O.D., Dean Academics, Principal) to the
+
+--- PAGE 13 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 12
+Institute within at least 6 weeks of the commencement of the semester or from the date he/she
+last attended the classes, whichever is later, stating fully the reasons for such withdrawal
+together with supporting documents and endorsement of his/her guardian.
+ii. The Institute must ensure that, even by considering the expected period of withdrawal, the
+student has the possibility to complete the Program requirements of 16 0 credits within the
+time limits specified.
+iii. The student shall have settled all the dues or demands at the Institute including those of the
+Department, Library, and other units.
+(b) A student availing themselves of temporary withdrawal from the Institute under the above provision
+shall be required to pay such fees and/or charges as may be fixed by the Institute until such time as
+the student’s name appears on the Roll List. However, it should be noted that the fees/charges
+once paid shall not be refunded.
+(c) Normally, a student shall be entitled to avail of the temporary withdrawal facility only once during
+his/her studentship of the Program at the Institute.
+15. Termination from the Program:
+A student shall be terminated from the Institute on the following grounds:
+i. Absence from classes for more than six weeks at a time in a semester without leave of absence
+being approved by the competent authorities shall result in the student’s name being struck
+off the Institute rolls.
+ii. Failure to meet the standards of discipline as prescribed by the Institute from time to time shall
+also result in the student being recommended by the Students Disciplinary Committee to leave
+the Institute.
+16. Performance Assessment:
+1. Examinations: The Performance Assessment of a student attending a course component, like
+lecture, laboratory/design/ drawing, or a combination of the two shall be in three Examinations
+as follows:
+2. In-Semester Evaluation (ISE)
+3. Mid-Semester Examination (MSE).
+4. End Semester Exam inat ion (ESE)
+5. Special Examination: A grade penalty is applicable to students who adopt unfair means in the
+examinations, and they shall appear only in the Special Examination to be conducted at the end of
+the academic year and pay the appropriate exam fee.
+17. Eligibility for the CGPA improvement after completion of pre -requisite credits for
+the award of Degree:
+Students who secure a CGPA between 5 and 6.99 after completing the pre-requisite credits for the
+award of a degree and wish to improve their CGPA are permitted for CGPA improvement. Such
+students may be permitted to withdraw their grade s in each course with poor grades and
+be permitted to reappear for the examinations to improve their grades and in turn CGPA.
+a) Students can appear for grade improvement examinations within one year from the date of passing
+his/her UG Examination. He should not have taken (i) a Leaving Certificate from the Institute and
+ii) a Degree from the University of Mumbai through convocation. He/she will submit a written
+
+--- PAGE 14 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 13
+application to the controller of examinations for class improvement within one month from the
+date of declaration of result. This application will be forwarded to the dean academics through the
+respective Head of the Department. No student will be admitted once the subject registration
+process of that semester ends.
+b) For grade improvement, a student can take a maximum of 3 subjects in which he/she has secured
+DD, CD, or CC grades from the same semester in one stretch.
+c) A student can choose a maximum of three theory courses from a particular semester offered for
+T.Y and B. Tech (either odd or even) in which he/she has secured a DD, CD, or CC grade. Students
+will have to register for these courses in a particular semester in which those subjects are offered.
+d) At the time of registration, students will surrender all the original mark lists given to them by the
+institute. He/She will have to give an affidavit on 100 Rs. judicial stamp paper that he/she will not
+make any use of surrendered mark lists till he/she gets official result s of the subjects for which
+he/she wishes to appear for grade improvement. No change of subjects or drop of subjects will be
+allowed after registration.
+e) A student wishing to improve his/her grade will have to pay requisite fees as laid down by the
+institute from time to time.
+f) A student wishing to appear for grade improvement is exempted from attending regular classes as
+he/she has already undergone the course instructions, but he/she will have to appear for all -the
+evaluation tests conducted for the subjects. No re -exam or retest will be allowed for the grade
+improvement in case such a student misses any of the tests or examinations. Absence of ESE will
+automatically lead to an award of FF grade in that subject.
+g) The grading process as used for the regular students appearing in that subject will be applicable
+and no concession of any sort will be granted on account of absence from any of the examinations.
+h) A student wishing to use the facility of grade improvement will have to pass in all three subjects
+at a time for which he/she has registered. He/she will not be allowed for the summer term or re -
+examination in such cases.
+i) Only one attempt will be permissible for any candidate wishing to use the facility of grade
+improvement. If the student fails to secure higher grades resulting in a reduction in overall CGPA
+then the original result of the student before registering for grade improvement will be retained.
+j) Student who improves his/her CGPA will be issued fresh mark lists by the institute. These mark
+lists will have star against the subjects for which he/she has appeared for grade improvement and
+will state “Grade Improvement”. The date on the new mark lists will be that as issued for other
+students appearing in those subjects.
+18. Schemes for earning MINOR, HONORS and SCOPE Certification at S.P.I.T.
+(To be implemented w.e.f A.Y. 2020-21 for Third Year Students:
+SCOPE and MINORS provide an opportunity for learners to develop the learners in the additional domain of
+interest and will attract additional fees associated with it. The amount and mode of payment for
+respective courses will be notified by the Institute from time to time. HONORS certification doesn’t
+attract such charges.
+• MINOR SCOPE Certification scheme:
+– An aspiring student can broaden their knowledge domain by opting for a minor certification in a
+discipline other than his / her domain of graduation.
+– Every Department develops and submits a ‘Minor-Courses-List’ of 4 Theory courses with Titles
+and detailed syllabi, separately.
+
+--- PAGE 15 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 14
+– Students of the Electronics & Telecommunication domain (EXTC) can opt for a minor in the Computer
+Domain (COMP / CSE). A sequel of four courses (modules). A student must register for an additional
+FOUR MODULES and acquire additional (minimum) 12 credits (3 credits /course) for any ONE of the
+Schemes.
+– The Scheme would start from the 4th Semester. The host should float a SINGLE course from Minor-
+List, ONE in EVERY Semester starting from 4th Semester.
+• HONORS Certification Scheme:
+The Honors certification of SPIT gives the opportunity to well-performing learners to drive deep in
+their chosen field of study. Multiple plans/ways are planned to encourage learners to earn this
+certification which essentially excites the learners to push the envelope and go extra/deep in the
+chosen area of the study. Students earn additional stars (*) as shown in Table 3 during their program.
+If at the time of graduation student earns a total of TWELVE stars, AND an overall CGPA of 8,
+He/she will be conferred with a special “Honors” certification of SPIT.
+Table 3: Additional “STAR” Earning leading to “Honors” certification.
+Activity Definition of “STAR” Maximum
+Limit
+Earning top grade in any of the 12
+courses which constitute the program
+core.
+Top Grade: Full STAR
+Next GRADE: Half STAR
+8 STARs
+Enrolling additional “Honors” Course at
+fourth year.
+Top Grade: 3 STARs
+Next GRADE: 2 STARs
+Next GRADE: 1 STAR
+6 STARs
+Success in the GATE examination Percentile
+Score
+STARs
+Earned
+Above 99 6
+Above 98 5
+Above 95 4
+Above 90 4
+Valid score 2
+6 STARs
+Research Publication Journal*:2- 6 STARs
+SPIT supported Patent: 3 STARs
+8 STARs
+Completion of PG level on line course
+from IITs available on NPTEL
+Percentile
+Score
+STARs
+Earned
+Above 95 3
+Above 90 2
+Above 80 1
+6 STARs
+#Winning prestigious technical
+competitions at National level such as
+AICTE Hackathon, TI competition, TCS
+competition
+Rank STARs
+Earned
+1 6
+2 5
+3 4
+6 STARTs
+**Enrolling for optional “Special Honors
+Paper” in Semester 3, 4, and 5.
+Above 70%: 3 STARs
+Above 60%: 2 STARs
+Above 50%: 1 STAR
+8 STARs
+
+--- PAGE 16 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 15
+19. SWAYAM / NPTEL COURSES:
+19.1. A student may complete SWAYAM -NPTEL courses and transfer equivalent credits to
+partially complete the mandatory credit requirements of the concerned B.Tech. Program. (For
+example, 1 credit course is equivalent to a 4-week course of SWAYAM/ NPTEL)
+19.2. Before the commencement of each Semester, the Parent Department shall release a list of
+SWAYAM-NPTEL courses approved as Program Elective/ Open Elective courses /HSSE
+courses.
+19.3. A student shall request a transfer of credits from such notified SWAYAM-NPTEL Courses
+only as published by the concerned Departments.
+19.4. SWAYAM-NPTEL Courses are considered for transfer of credits only if the concerned
+student has successfully completed and obtained the SWAYAM -NPTEL Certificate to this
+effect.
+19.5. The credit equivalence for SWAYAM -NPTEL Courses: 12 weeks – 3 credits; 8
+weeks – 2 credits; 4 weeks – 1 or 0 credits.
+19.6. The grading system for such SWAYAM-NPTEL Courses with the transfer of credits
+is specified in Table 4 given below:
+Table 4: Grading System for SWAYAM-NPTEL Courses
+NPTEL courses (OE/PE/HSS) Grade
+Awarded
+86% and above AA
+From 71% to 85% AB
+From 61% to 70% BB
+From 56% to 60% BC
+From 51% to 55% CC
+From 46% to 50% CD
+From 40% to 45% DD
+No-certificate (irrespective of score more than 40) FF
+Pending NG
+
+--- PAGE 17 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 16
+19.7. A student must submit the original SWAYAM-NPTEL Course Certificates to the
+Head of the Parent Department concerned, with a written request for the transfer of the
+equivalent credits. On verification of the SWAYAM-NPTEL Course Certificates and
+approval by the Head of the Department concerned, the SWAYAM -NPTEL
+Course(s) and equivalent Credits will be included in Course (with associated Credits)
+Registration of the concerned student in the Semester immediately following the
+completion of the SWAYAM-NPTEL Course(s).
+19.8. If any faculty is assigned for the evaluation of the courses taken through these
+platforms, he/she can evaluate like any regular course by following the assessment
+and evaluation guidelines.
+19.9. A student may submit a request for credit transfer from SWAYAM-NPTEL Courses
+before the last instruction day of the eighth (8th) Semester of the B.Tech. program as
+specified in the Academic Calendar.
+19.10. The Institute shall reimburse Exam fees a student may incur for the SWAYAM -
+NPTEL Courses only after successful completion of the course and submission of the
+certificate along with the receipt of the payment.
+20. LLC (Life Literature Culture) Courses are skill-based courses focused on the actual
+activities to be performed during the sessions and their practice at home. Hence their grading
+system has little difference as compared to that of MOOC (NPTEL) courses. The table below
+indicates the proposed grading scheme for the LLC courses.
+LLC/HSS Grade Awarded
+86% and above AA/
+From 71% to 85% AB
+From 61% to 70% BB
+From 56% to 60% BC
+From 51% to 55% CC
+From 46% to 50% CD
+From 40% to 45% DD
+0-39% FF
+Pending NG
+*NG = NOT GRADED
+
+--- PAGE 18 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 17
+21. TRANSITORY REGULATIONS:
+21.1. If a student who was admitted under the old regulations with the old curriculum is
+allowed to withdraw temporarily for one or two semesters and then re -admitted, the
+new regulations with the new curriculum will apply to him/her from that semester
+onward.
+21.2. The student must continue the course work along with the regular students of the
+respective semester in which the student gets re-admission.
+21.3. Credits and grades earned under the old regulations with the old curriculum will be
+transferred to the new regulations with the new curriculum.
+21.4. The student must register for Substitute courses offered in place of courses already
+studied earlier or no longer offered in new regulations with the new curriculum and
+other Compulsory courses as specified by DAPC.
+21.5. If a student is readmitted to new regulations and a new curriculum after a temporary
+withdrawal and has not studied any courses in his/her previous regulations and
+curriculum of study, the student should be given the opportunity to register for that
+course(s) in study mode without changing the timetables.
+21.6. For the course(s) failed in earlier semesters (before re-admission), the student has to
+acquire credits from the make-up examinations as and when conducted. The question
+paper model shall remain the same as the one in which the student first appeared for
+examination in that course(s). A student can register in study mode, if he /she is
+interested, with an equivalent course suggested by DAPC for the course in which
+he/she got F grade before re-admission.
+21.7. The decision of the DAPC is final on any other clarification in this regard.
+22. MALPRACTICES:
+EXAMINATIONS:
+Students are not allowed to leave the Examination Hall without submitting the answer script.
+They will not be permitted to enter the examination hall after 30 minutes of
+the commencement of the examination and to leave the examination hall before 30 minutes
+of the closure of the examination.
+The nature of malpractice and the minimum punishment are indicated in the following table:
+
+--- PAGE 19 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 18
+Sr.
+No. Nature of the Malpractice Punishment
+1 Taking out, used or unused answer
+booklets outside the examination room.
+A fine of Rs. 1000/- per paper. In the case of
+used answer booklets, in addition to the
+above, the candidate shall be awarded an F
+Grade in that subject.
+2 Verbal or oral communication with
+neighboring students after one warning.
+Taking away the answer script and asking the
+student to leave the hall.
+3 Possession of any incriminating material
+inside the examination hall (whether
+used or not) For Example: written or
+printed materials, bits, writings on scale,
+calculator, handkerchief, dress, part of
+the body and hall ticket etc.,
+Exchange of question papers and other
+materials with some answers. Exchange
+of question papers and other materials
+with some answers.
+In case of continuous evaluation, zero marks
+will be awarded in that examination.
+In case of End semester examinations, award
+an F Grade. The candidate may be allowed to
+write a makeup examination.
+4 Possession of the answer book of
+another candidate/ Giving answer book
+to another candidate.
+The candidate shall be awarded zero marks in
+that examination, and he/she shall be awarded
+F Grade in that subject.
+5 Misbehavior in the examination hall
+(unruly conduct, threatening the
+invigilator, or any other examination
+officials or other students).
+Repeated involvement in malpractices 2
+to 4 above.
+Cancellation of all theory examinations
+registered in that semester and further
+debarring from continuing his/her studies for
+one year (two subsequent semesters).
+However, such students may be permitted to
+appear for makeup examinations of the
+previous semesters.
+6 Cases of impersonation Handing over the impersonator (outsider) to
+the police with a complaint to take appropriate
+action.
+Cancelation of all examinations (all papers
+registered) for the bonafide student for whom
+the impersonation was done and further the
+bonafide student will be debarred from
+continuing his/her studies and writing all
+examinations for two years.
+If a student at this institute is found to
+impersonate a bonafide student, the
+impersonating student will be debarred from
+continuing his/her studies and writing all
+examinations for two years.
+
+--- PAGE 20 ---
+SPIT/ACADEMIC REGULATIONS/2021-22 Page 19
+7 Physical assault causing injury to the
+invigilator or any examination officials
+or other students.
+Rustication from the Institute.
+8 Students involved in proxy attendance,
+cheating during evaluations or exams, or
+those found repeatedly defaulting in any
+academic responsibilities
+Will not receive a recommendation letter
+from their professors for higher studies. Such
+students will also be disqualified from
+participating in placements.
+For any other type of malpractices reported, The Discipline Committee may recommend
+appropriate punishment.

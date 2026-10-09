@@ -1,0 +1,523 @@
+--- PAGE 1 ---
+Bhartiya Vidya Bhavans, Sardar Patel Institute of Technology
+Internship Details
+Academic Year: 2020-21
+Sr No. Name Discipline
+Year of
+passing company name Duration
+1 Sahil Marwaha COMPS 2023 Navlakhi Education 1 month
+2 Malhar Bangdiwala COMPS 2023 Smowcode 4 months
+3 Malhar Bangdiwala COMPS 2023 KnowScape 2 weeks
+4 Malhar Bangdiwala COMPS 2023 Verzeo 2 months
+5 Manvita Joshi COMPS 2023 Smowcode 1 month
+6 Deep Nayak COMPS 2023 Smowcode 4 months
+7 Divya Shah COMPS 2023 Smowcode 2 months
+8 Rishabh Jain COMPS 2023 Flair 2 months
+9 Rishabh Jain COMPS 2023 Innovator Web Solutions Pvt Ltd. 2 months
+1 Jay Mehta COMPS 2022 Juhosi Software Technologies Private Limited6 Months
+2 Jay Mehta COMPS 2022 Modern Monk Pvt. Ltd. 3 Months
+3 Darsh Mehta COMPS 2022 Delta Apps 3 Months
+4 Prachi Mehta COMPS 2022 TheOther 2 Thirds Consulting LLP 3 Months
+5 Harsh Sandesara COMPS 2022 Abstrct 3 months
+6 Rishita Mote COMPS 2022 Arcskill Technologies 2 months
+7 Neha Kale COMPS 2022 Abstrct 3 months
+8 Yash Shah COMPS 2022 Branding Catalysts 1 month
+9 Akshat Bhat COMPS 2022 Cere Labs Pvt. Ltd. 2 months
+10 Bhushan Koyande COMPS 2022 Buddha Socio 1 month
+11 Arka Haldi COMPS 2022 UniConn -
+12 Trusha Talati COMPS 2022 Drone School India 3 months
+13 Bhargavi Poyekar COMPS 2022 Stack Nation 2 months
+14 Bhargavi Poyekar COMPS 2022 Ask In CIty 1 month
+15 Shubham Shetty COMPS 2022 VPS Techub 2 months
+16 Ritik Singh COMPS 2022 VPS Techub 2 months
+17 Priyav Mehta COMPS 2022 Infigon Futures 2 months
+18 Shubham Shetty COMPS 2022 Inaaya Foundation 2 months
+19 Varun Magotra COMPS 2022Research collaboration with Dr. Mukesh Kumar Rohil
+(Birla Institute of Technology and Science, Pilani)4 month
+20 Ritik Singh COMPS 2022 Dev Wave 3 months
+21 Chaitya Shah COMPS 2022 Dev Wave 3 months
+22 Khushi Jashnani COMPS 2022 REWFA 2 months
+23 Raj Gorhekar COMPS 2022 REWFA 2 months
+24 Ebrahim Hirani COMPS 2022 Infigon Futures 2 months
+25 Shivangi Kochrekar COMPS 2022 Protto 2 months
+26 Karan Shah COMPS 2022 Expound Technivo Pvt. Ltd. 1 month
+27 Ashutosh Naik COMPS 2022 Skinzy
+28 Ebrahim Gabajiwala COMPS 2022 S3 Infosoft 3 months
+29 Jahnvi Shah COMPS 2022 Uptodd 1 month
+30 Mahipal Purohit COMPS 2022 Coding Ninjas 3 months
+31 Parshwa Shah COMPS 2022 BChainDynamics 2 months
+32 Shivam Pawar COMPS 2022 BelkIoT -
+1 Agarwal Harsh Sanjeev COMPS 2021 ICICI Lombard 6 months
+2 Agrawal Aman Rajkumar COMPS 2021 WorkIndia 6 months
+3 Ahir Bhavya Dhirubhai COMPS 2021 ICICI Lombard 6 months
+4 Dutt Amandeep Som COMPS 2021 TFC 6 months
+5 Badve Mohit Sanjay COMPS 2021 Baker Hughes 6 months
+6 Bagaria Vinal Ramesh COMPS 2021 VMWare 6 months
+7 Barot Harshit Trilok COMPS 2021 SS&C 6 months
+8 Beldar Manasi Nimba COMPS 2021 Rian.IO 6 months
+9 Chaskar Saumitra Baban COMPS 2021 VMWare 6 months
+10 Chaudhari Apoorva Yogesh COMPS 2021 Rockmetric 6 months
+11 Chitale Pranav Shailesh COMPS 2021 JPMC (CFG) 6 months
+12 Dand Monil Nilesh COMPS 2021 JPMC (CFG) 6 months
+13 Dhope Tanvi Nitin COMPS 2021 AlphaSlate 6 months
+14 Dichwalkar Riya Santosh COMPS 2021 JPMC (CFG) 6 months
+15 Gandhi Jinang Vipul COMPS 2021 Nomura 6 months
+16 Gawde Sarah Ramesh COMPS 2021 Microsoft 6 months
+17 Ghorai Arnab Arup COMPS 2021 Nomura 6 months
+18 Gupta Rishika Anilkumar COMPS 2021 ICICI Lombard 6 months
+19 Gadekar Aumkar Makarand COMPS 2021 TheOther 2 Thirds Consulting LLP 6 months
+20 Hingorani Ishwarlal M. COMPS 2021 ISS 6 months
+
+--- PAGE 2 ---
+21 Jain Somil Kiran COMPS 2021 Oni Cares Pvt Ltd 6 months
+22 Jardosh Parth Mrudank COMPS 2021 Accolite 6 months
+23 Kandoi Aditi Rajkumar COMPS 2021 BNP 6 months
+24 Kankaria Romit Vinodkumar COMPS 2021 ISS 6 months
+25 Kanvinde Anjali Pradeep COMPS 2021 Nomura 6 months
+26 Kaushik Garima Shivsharan COMPS 2021 Morgan Stanley 6 months
+27 Khara Rushabh Vipul COMPS 2021 ARP Invest 6 months
+28 Kothari Arya Sanjay COMPS 2021 JPMC (Tech) 6 months
+29 Kudoo Ajinkya Shirish COMPS 2021 BillDesk 6 months
+30 Milkhe Sakshi Kisan COMPS 2021 Quotientica Pvt Ltd 6 months
+31 Mishra Jeet Kanhaiya COMPS 2021 LTI (L1) 6 months
+32 Padhye Anay Nitin COMPS 2021 NVent 6 months
+33 Pahurkar Aman Praveen COMPS 2021 Carwale 6 months
+34 Pandita Anmol Ashish COMPS 2021 Rian.IO 6 months
+35 Pomendkar Deepika Sitaram COMPS 2021 JPMC (CFG) 6 months
+36 Prabhu Pulin Pramod COMPS 2021 ICICI Lombard 6 months
+37 Prajapati Umang Vishnu COMPS 2021 Quantiphi 6 months
+38 Rajabally Tania Cassem COMPS 2021 SS&C 6 months
+39 Rampure Shruti Santosh COMPS 2021 AlphaSlate 6 months
+40 Ramteke Rahul Yashwant COMPS 2021 REWFA 6 months
+41 Revadekar Abhishek Santosh COMPS 2021 BNP 6 months
+42 Sangle Pooja Mahendra COMPS 2021 ARP Invest 6 months
+43 Shah Devansh Paresh COMPS 2021 Zing42 6 months
+44 Shah Dipam Hemant COMPS 2021 VMWare 6 months
+45 Shah Shloka Sanjay COMPS 2021 Hackerrank 6 months
+46 Sodhani Shyam Rajesh COMPS 2021 Dolat Capital 6 months
+47 Sonawane Siddesh Raju COMPS 2021 Clear Exam 6 months
+48 Soni Rahul Omprakash COMPS 2021 Quantiphi 6 months
+49 Soni Taksh Ashok COMPS 2021 ISS 6 months
+50 Surti Nehal Hitendra COMPS 2021 JPMC (CFG) 6 months
+51 Talekar Prathmesh Tushar COMPS 2021 GEP 6 months
+52 Tamse Mahesh Madhav COMPS 2021 Nomura 6 months
+53 Umarale Dhaval Bharat COMPS 2021 Clear Exam 6 months
+54 Sharma Tanishq Sushil COMPS 2021 Rian.IO 6 months
+55 Jagtap Nikhil COMPS 2021 WorkIndia 6 months
+56 Sahu Muskan COMPS 2021 GEP 6 months
+57 Bamble Swati COMPS 2021 IMEDMatrix LLP 6 months
+58 Barua Sujoy COMPS 2021 Markytics 6 months
+59 Davda Palak COMPS 2021 Amazon 6 months
+60 Doshi Manan COMPS 2021 TheOther 2 Thirds Consulting LLP 6 months
+61 Gavandi R Divya COMPS 2021 ICICI Lombard 6 months
+62 Gharat Anisha COMPS 2021 JPMC (CR) 6 months
+63 Kamble Siddesh COMPS 2021 Markytics 6 months
+64 Nandagiri Jayram COMPS 2021 ICICI Lombard 6 months
+65 Rajpurkar Om COMPS 2021 LTI (L1) 6 months
+66 Shah Jimil COMPS 2021 VMWare 6 months
+67 Shinde Leena COMPS 2021 REWFA 6 months
+68 Wagh Tejashri COMPS 2021 BitGenie 6 months
+1 Mohsin Chougale IT 2023 eduCBA 2 months
+2 Sarang Satishrao Yogi IT 2023 Internshala 2 Months
+3 Dishita Ashar IT 2023 The Sparks Foundation 2 months
+4 Devansh Rathod IT 2023 Personified with Sahiba 4 months
+5 Deepak Yadav IT 2022 SP-TBI 2 months
+6 Ankit Vishwakarma IT 2022 Autwn Private Limited 2 months
+7 Sagar Badlani IT 2022 The Other 2 Thirds Consulting LLP 2 months
+8 Rajat Shenoy IT 2022 Trumpet Media 2 months
+9 Abhishek Swaminathan IT 2022 Suven Consultants & Technology Pvt. Ltd. 1 months
+10 Kshitij Bakshi IT 2022 IngerSoll Rand 2 months
+11 Rounak Jaiswal IT 2022 Abstract (SP-TBI) 2 months
+12 Tanvi Aditya IT 2022 Trigital Technologies Pvt Ltd 3 months
+13 Sarthak Maniar IT 2022 Branding Catalyst Pvt. Ltd 2 months
+14 Parth Thosani IT 2021 Mobicule Technologies Pvt Ltd. 6 months
+15 Riya Bhagat IT 2021 Mobicule Technologies Pvt. Ltd. 6 months
+16 Bhavik Dinesh Sanghvi IT 2021 Reliance Jio 3 months
+17 Bhavik Sanghvi IT 2021 Work India 2 months
+1 Tiwari Jayesh Dhanpati IT 2021 Clear Exam 6 months
+2 Vinayak Iyer IT 2021 JPMC (Banking) 6 months
+3 Riya Bhagat IT 2021 Quantiphi 6 months
+
+--- PAGE 3 ---
+4 Aniket Brahmecha IT 2021 VMware 6 months
+5 Vidhi Chhatbar IT 2021 REWFA 6 months
+6 Harishankar Cranganoor IT 2021 JPMC 6 months
+7 Rahul Ramesh Dalvi IT 2021 LTI-L2 6 months
+8 Yashvi Desai IT 2021 Integration Wizard Solutions 6 months
+9 Parth Dosani IT 2021 Interactive Brokers 6 months
+10 Jaynil Atul Gaglani IT 2021 Credit Suisse 6 months
+11 Shubham Gogate IT 2021 SS&C 6 months
+12 Mihir Gondhalekar IT 2021 LTI-L2 6 months
+13 Shashank Gupta IT 2021 DigiPlus 6 months
+14 Mohd Jawwad IT 2021 LTI-L2 6 months
+15 Atul Kamble IT 2021 Filter Pixel 6 months
+16 Shubham Kejriwal IT 2021 Embedos 6 months
+17 Parth Kitawat IT 2021 Quantiphi 6 months
+18 Minakshi Kudalkar IT 2021 Accolite 6 months
+19 Dhawal Mali IT 2021 Stylabs 6 months
+20 Divya Mogaveera IT 2021 REWFA 6 months
+21 Mohammad Izhan IT 2021 Branding Catalyst 6 months
+22 Yash Muchhala IT 2021 SS&C 6 months
+23 Bhumika Narwani IT 2021 JPMC (Risk) 6 months
+24 Jatin Nawani IT 2021 JPMC (Banking) 6 months
+25 Sai Nimkar IT 2021 Nektar 6 months
+26 Shubhankar Nistane IT 2021 Oni Cares Pvt Ltd 6 months
+27 Mridul Pandey IT 2021 Markytics 6 months
+28 Vineet Pardhi IT 2021 Nuventis 6 months
+29 Tirth Parekh IT 2021 JPMC 6 months
+30 Sharvesh Patki IT 2021 ICICI 6 months
+31 Rajat Pattu IT 2021 LTI-L1 6 months
+32 vaibhav pudke IT 2021 LTI-L1 6 months
+33 Saurabh Rane IT 2021 JPMC 6 months
+34 Kareena Redij IT 2021 JPMC (Risk) 6 months
+35 Manasvi Sagathiya IT 2021 Quantiphi 6 months
+36 Bhavik Sanghvi IT 2021 Cimpress 6 months
+37 Viddhesh Sankhe IT 2021 DigiPlus 6 months
+38 Janice Shah IT 2021 ISS 6 months
+39 Kewal Shah IT 2021 Dolat Capital 6 months
+40 Kshitij Shah IT 2021 Zhiffy 6 months
+41 Naisha Shah IT 2021 Quantiphi 6 months
+42 Niti Shah IT 2021 JPMC 6 months
+43 Harsh Shelar IT 2021 Fitlete 6 months
+44 Sahil Sheth IT 2021 Work India 6 months
+45 Aakash Singh IT 2021 LTI-L2 6 months
+46 Harshit Singhania IT 2021 JPMC 6 months
+47 Manas Sinkar IT 2021 Stylabs 6 months
+48 Rahul Solanki IT 2021 Colgate 6 months
+49 Sagar Praful Waghela IT 2021 ClearExam 6 months
+50Ansari Sana Fatima Farooque Ahmed IT 2021 CSISM Technologies 6 months
+51 Yogesh Dhirendra Kamat IT 2021 REWFA 6 months
+52 Abhishek Mane IT 2021 N/A 6 months
+53 Dikshita Patel IT 2021 JPMC 6 months
+54 Shubham Prashant Phansekar IT 2021 AlphaState 6 months
+55 Shruti Pimple IT 2021 CSISM Technologies 6 months
+56 Vrushali Shah IT 2021 VMware 6 months
+57 Atique Siddiqui IT 2021 Quantiphi 6 months
+58 Hemant Upadhyay IT 2021 LTI-L1 6 months
+1 Vishrut Chokshi EXTC 2023 Programmatix Institute On going
+2 Vishrut Chokshi EXTC 2023 IFortis Corporate 1 month
+3 Keshav Thosar EXTC 2023 SmowCode 6 months
+4 Prerna Arora EXTC 2023 SmowCode 6 months
+5 Khushi Agrawal EXTC 2023 Tutedude 1.5 months
+6 Sanskruti Joshi EXTC 2023 MyCaptain 2 months
+7 Mitash Shah EXTC 2023 IFortis Corporate 1 month
+8 Sudhanshu Kulkarni EXTC 2023 Carjoz India 3 months
+9 Sneha Savarkar EXTC 2023 Unschool 1 month
+10 Anupriya Dasgupta EXTC 2023 MyCaptain 2 months
+11 Anupriya Dasgupta EXTC 2023 MyCaptain 2 months
+12 Jai Damani EXTC 2023 Infigon Futures 1 month
+1 Aishwary Jadhav EXTC 2022 TATA Motors Finance 1.5 months
+
+--- PAGE 4 ---
+2 Vyomesh Sharma EXTC 2022 1 Accord 1.5 months
+3 Aayush Bagrecha EXTC 2022 Bridged AI Going on
+4 Ankit Datta EXTC 2022 Branding Catalyst 2 months
+5 Gokul Nair EXTC 2022 Bitgenie Research 2 months
+6 Niharika Kadam EXTC 2022 IFortis Corporate 1 month approx.
+7 Amol Lashkare EXTC 2022 Bitgenie Research 2 months
+8 Pallavi Abhale EXTC 2022 Insignia Exhibitions and Events 2 months
+9 Chinmayi Rane EXTC 2022 Bitgenie Research 2 months
+10 Arseta Singh EXTC 2022 Apli.ai 3 months
+11 Sampada Deshpande EXTC 2022 Glimpse 1 month
+12 Dipankar Sen EXTC 2022 Mindgate 2 months
+13 Gauri Shetty EXTC 2022 SPJIMR 2 months
+14 Ruchika Shetty EXTC 2022 Apli.ai 3 months
+15 Rajas Chodankar EXTC 2022 Aara Education Consultancy 1 month
+16 U. S. Giridhar EXTC 2022 Apli.ai 3 months
+17 Ayush Raj EXTC 2022 Bitgenie Research 2 months
+18 Ramanansri Aiyar EXTC 2022 Bitgenie Research 2 months
+19 Shubham Chavan EXTC 2022 Clear Soln. 2 months
+20 Harsh Salkar EXTC 2022 SkyBits Technologies Pvt. Ltd. 5 months
+21 Rajat Naoghare EXTC 2022 Edurific Pvt. Ltd 8 Months
+22 Sharvari Kalgutkar EXTC 2022 Skinzy solutions 3 months
+23 Priya Agarwal EXTC 2022 Legasis Services Private Limited 1 month
+24 Vansh Jain EXTC 2022 SKINZY SOLUTIONS 3 months
+25 Nikita Chopde EXTC 2022 MyCaptain 1 month
+26 Kamal Raisinghani EXTC 2022 Edurific Pvt. Ltd 3 months
+27 Karan Kedia EXTC 2022 Towaso 2 month
+28 Karan Kedia EXTC 2022 Product Development Centre - At SPIT on going
+29 Karan Kedia EXTC 2022 Mitacs Globalink Research Internship 12 weeks
+1ABHANG PRIYANKA SANDIP EXTC 2021 DigiPlus IT 6 months
+2AGRHARKAR VINIT KISHORE EXTC 2021 Cognizant 6 months
+3 AKELLA SHRIYA MURTHY EXTC 2021 Reliance Jio 6 months
+4 BADHAN SIDDHESH VIJAY EXTC 2021 ICICI Lombard 6 months
+5 BANDI HARIT DINESH EXTC 2021 JPMC 6 months
+6BHAGAT SIDDHANT MANOJ EXTC 2021 GEP 6 months
+7 CHAUDHARI AJAY BHARAT EXTC 2021 ZS Associates 6 months
+8CHAUDHARI PRANJAL PRAMOD EXTC 2021 ICICI Lombard 6 months
+9DALVI OMKAR BHALCHANDRA EXTC 2021 ICICI Lombard 6 months
+10 DAS SIDDHARTH BHUV AN EXTC 2021 REWFA 6 months
+11 DSILV A MANISH MICHAEL EXTC 2021 Embedos 6 months
+12GUPTA ABHISHEK KANHAIYALAL EXTC 2021 JPMC 6 months
+13 GUPTE RUCHI RAJESH EXTC 2021 ONI Cares 6 months
+14 HANDOO RUPAL RAJESH EXTC 2021 KPMG 6 months
+15 HAWA SARAH YUSUF EXTC 2021 JPMC 6 months
+16JADHA V VINAYAK RAJENDRA EXTC 2021 ONI Cares 6 months
+17 JAIN MANA V SURENDAR EXTC 2021 Quantiphi 6 months
+18KARDEL ASHWINI NIVRUTTI EXTC 2021 PPM United Infra Consultants Pvt. Ltd. 6 months
+19 JHA KAUSHIK PRAMOD EXTC 2021 GEP 6 months
+20JOSHI SUYASH SUKHENDU EXTC 2021 Bitgenie 6 months
+21 JOSHI VRUSHALI MILIND EXTC 2021 Quantiphi 6 months
+22KHANDELWAL DHRUV VINOD EXTC 2021 IMEDMatrix LLP 6 months
+23KAKIRDE SHUBHAM UMESH EXTC 2021 Apli.ai 6 months
+24KAONDAL SWARAJ SARVJIT EXTC 2021 JPMC 6 months
+25KAUSHIK SHRISHTI SHIVSHARAN EXTC 2021 JPMC Tech 6 months
+26KAWARE PRATYUSH MANOJ EXTC 2021 AlphaSlate 6 months
+27KAYANDE VEDANT JAYANT EXTC 2021 DigiPlus IT 6 months
+28KHAMBETE ADITYA RAHUL EXTC 2021 Bitgenie 6 months
+29 KULKARNI URJA SAMEER EXTC 2021 Cognizant 6 months
+30LINGAYAT APURV A SATISH EXTC 2021 ZS Associates 6 months
+31 LOBO LANITA LOUIS EXTC 2021 Grab 6 months
+32 L SREEKAR L RA VI EXTC 2021 GEP 6 months
+33 MAHAJAN PRANIT NITIN EXTC 2021 JPMC 6 months
+34MANDANI KASHISH CHETAN EXTC 2021 Apli.ai 6 months
+35 MANE PRITAM ANAND EXTC 2021 ICICI Lombard 6 months
+36MEHENDALE TANAY MAHESH EXTC 2021 LTI 6 months
+37 MISHRA PIYUSH RAJESH EXTC 2021 SPJIMR 6 months
+38 PAI PRATIK MAHESH EXTC 2021 REWFA 6 months
+39PARMAR ADITI RAMNIKBHAI EXTC 2021 SP-TBI 6 months
+40PARULEKAR SHUBHAM DINESH EXTC 2021 Quantiphi 6 months
+
+--- PAGE 5 ---
+41 PATEL MIHIR RA VINDRA EXTC 2021 Bitgenie 6 months
+42PATOLE MEHUL SHRIKANT EXTC 2021 ICICI Lombard 6 months
+43 PINGE SOHAM NITIN EXTC 2021 Quantiphi 6 months
+44RAMADE ONKAR RAJENDRA EXTC 2021 Branding Catalyst 6 months
+45RAMINA VISHAL KANARAM EXTC 2021 Quantiphi 6 months
+46RANSING KETAKI SHIRISH EXTC 2021 Quantiphi 6 months
+47RAUT CHINMAY PRALHAD EXTC 2021 Clearexam 6 months
+48REGE SHAMBHA VI SACHIN EXTC 2021 Bitgenie 6 months
+49SALIAN YAGNESH HARISH EXTC 2021 ONI Cares 6 months
+50SHINGALA PARTH BHAGV ANBHAI EXTC 2021 ARCON 6 months
+51K SHREYAS KAILASANATHAN EXTC 2021 Apli.ai 6 months
+52SONAWANE YUGMESH JAYWANTRAOEXTC 2021 ONI cares 6 months
+53 SINGH AMEY KAMLESH EXTC 2021 LTI 6 months
+54SINGH AYUSH DEVENDRA KUMAR SINGHEXTC 2021 REWFA 6 months
+55SINGH PRADHUMAN GIRISH EXTC 2021 J.P Morgan 6 months
+56 SOHNI HARSH NILESH EXTC 2021 REWFA 6 months
+57TAGDE OSHIN BHAGYAWAN EXTC 2021 Colgate 6 months
+58UDHWANI PALASH SUBHASH EXTC 2021 Quotientica Pvt Ltd 6 months
+59WADHA VKAR NITISH VINIT EXTC 2021 Zargun 6 months
+60YADAHALLI SRUSHTI SANJEEV A EXTC 2021 AAS Vidyalaya 6 months
+61 ZARE AMOGH SHRIPAD EXTC 2021 JPMC (Finance) 6 months
+62CHA V AN V AISHNA VI RAJENDRA EXTC 2021 CarWale 6 months
+63CHINTRATE ANUSHKA SUDHIR EXTC 2021 ImedMatrix LLP 6 months
+64 DOGRA UNNATI RAJESH EXTC 2021 Quantiphi 6 months
+65 KAMBLE SONAL DIPAK EXTC 2021 SP-TBI 6 months
+66LAMBADE ROHIT RAMESH EXTC 2021 LTI 6 months
+67 MANE RAHUL RAJARAM EXTC 2021 Rian.IO 6 months
+68MHATRE GAURA V JANARDAN EXTC 2021 Innovation Interiors 6 months
+69 NIMBRE SHIV ANI VISHNU EXTC 2021 KPMG 6 months
+70 MORE VINAYAK RAMESH EXTC 2021 Cognizant 6 months
+71PANDYA ASHUTOSH KETAN EXTC 2021 Clear Exam 6 months
+72 SHAH RA VISH RAKESH EXTC 2021 Onicares Pvt Ltd 6 months
+73ZAMBARE PRAJAKTA SHASHIKANT EXTC 2021 LTI 6 months
+74 GADKAR MIHIR VINAYAK EXTC 2021 LTI 6 months
+76KUMAR VEDANT RAJEEV KUMAR EXTC 2021 LTI 6 months
+77 JAIN SHUBHAM HITESH EXTC 2021 Quantiphi 6 months
+79 ABHIJIT IYER EXTC 2021 SP-TBI 6 months
+1 Bhavika Vaishnavi ETRX 2023 SPJIMR 2 months (WFH)
+2 Chaitanya Padachh ETRX 2023 Fox Solutions 1 Month
+3 Prasheel Shah ETRX 2022 Unschool 1.5 months (WFH)
+4 Mohnish Sankhe ETRX 2022 Altus Global Advisors -
+5 Hrithik Jain ETRX 2022 Younity.in 1 month
+6 Hrithik Jain ETRX 2022 M.S. Advisory 2 month
+7 Hrithik Jain ETRX 2022 Youth India Foundation 3 Month
+8 Sanchit Rote ETRX 2022 TechTable, IIT M 3 months
+9 Omkar Varudkar ETRX 2022 TechTable, IIT M 3 months
+10 Abhivyakti Parihar ETRX 2022 Mastree.io 2 months
+11 Netra Trivedi ETRX 2022 TechTable, IIT M 3 months
+12 Shreya Gokhale ETRX 2022 TechTable, IIT M 3 months
+13 Aishwarya Jagare ETRX 2022 TIFR,Mumbai 6 months
+14 Rishona Daniels ETRX 2022 TIFR, Mumbai 6 months
+15 Radhika Joglekar ETRX 2022 TIFR,Mumbai 6 months
+16 Shlok Tadilkar ETRX 2022 Autodice 2 weeks
+17 Shlok Tadilkar ETRX 2022 VI Solutions 1.3 months
+18 Mohnish Sankhe ETRX 2022 XLRI, Jamshedpur -
+19 Mohnish Sankhe ETRX 2022 IIFL Securities -
+20 Kunal Sanghvi ETRX 2022 UtopiaTech Pvt. Ltd. 1.5 months
+21 Shichi Upadhyay ETRX 2022 The Juicy Mango Media 2 months
+22 Shlok Tadilkar ETRX 2022 EdGate Technologies 2 weeks
+23 Vivek Mandal ETRX 2022 TIFR,Mumbai 6 months
+24 Vedang Natu ETRX 2022 TIFR,Mumbai 6 months
+25 Chirayu Betkekar ETRX 2022 TIFR,Mumbai 6 months
+26 Shauryavir Singh Manhas ETRX 2022 Tech Mahindra 8 weeks
+27 Shrestha Agarwal ETRX 2022 Emtron 1 months
+28 Shriya Sansare ETRX 2022 Widhya 1 months
+29 Kaushik Reddy ETRX 2022 cubenama 3 months
+30 Harsh Agarwal ETRX 2022 Suven Consultants 4weeks
+31 Smiti Poddar ETRX 2022 TPM World Service 6weeks
+
+--- PAGE 6 ---
+32 Akash Junnarkar ETRX 2021 CRISIL Limited 2 months (Part time)
+33 Janhavi Bhopale ETRX 2021 AiRTH Research Pvt Ltd., Delhi 3 months (WFH)
+1 Krisha Choksi ETRX 2021 GEP 6 months
+2 Raksha Jain ETRX 2021 GEP 6 months
+3 Neelaya Tamahankar ETRX 2021 JPMC (IB) 6 months
+4 Ayusha Pendse ETRX 2021 JPMC (CR) 6 months
+5 Sahil Gharat ETRX 2021 ISS 6 months
+6 Dhrumil Parikh ETRX 2021 IVP 6 months
+7 Rahul Ramakrishnan ETRX 2021 Rian.IO 6 months
+8 Manav Jain ETRX 2021 ICICI Lombard 6 months
+9 Akash Junnarkar ETRX 2021 ICICI Lombard 6 months
+10 Sanket Adhale ETRX 2021 Dolat Capital 6 months
+11 Kriti Thakur ETRX 2021 KPMG (CCS) 6 months
+12 Sukruth Ramesh ETRX 2021 LTI (L1) 6 months
+13 Jainam Fagania ETRX 2021 LTI (L1) 6 months
+14 Tanmay Varade ETRX 2021 LTI (L1) 6 months
+15 Varun Mhatre ETRX 2021 LTI (L1) 6 months
+16 Shivani Pawar ETRX 2021 LTI (L1) 6 months
+17 Siddhant Kumar ETRX 2021 LTI (L1) 6 months
+18 Vishwesh Vispute ETRX 2021 LTI (L1) 6 months
+19 Nitin Mishra ETRX 2021 LTI (L1) 6 months
+20 Aditya Shinde ETRX 2021 Quantiphi 6 months
+21 Tanishq Salkar ETRX 2021 LTI (L1) 6 months
+22 Pratik Mane ETRX 2021 ZS Associates 6 months
+23 Shreyas Pillai ETRX 2021 LTI (L1) 6 months
+24 Prasad Paralikar ETRX 2021 LTI (L1) 6 months
+25 Neel Save ETRX 2021 LTI (L1) 6 months
+26 Omkar Gaikwad ETRX 2021 LTI (L1) 6 months
+27 Manaswi Rananavare ETRX 2021 LTI (L1) 6 months
+28 Ria Shah ETRX 2021 LTI (L1) 6 months
+29 Ishan Khichadia ETRX 2021 LTI (L1) 6 months
+30 Mansi Makwana ETRX 2021 LTI (L1) 6 months
+31 Yash Rathod ETRX 2021 Quantiphi 6 months
+32 Anushka Panwal ETRX 2021 LTI (L1) 6 months
+33 Omkar Thopate ETRX 2021 LTI (L2) 6 months
+34 Sushant Kadam ETRX 2021 LTI (L2) 6 months
+35 Sahil Bhave ETRX 2021 LTI (L2) 6 months
+36 Chetna Sharma ETRX 2021 Quantiphi 6 months
+37 Ria Motghare ETRX 2021 Quantiphi 6 months
+38 Siddhant Adhikari ETRX 2021 EAP 6 months
+39 Kritesh Raikar ETRX 2021 Deferred Placement 6 months
+40 Asmita Kajrokar ETRX 2021 Off Campus 6 months
+41 Prathmesh Dalvi ETRX 2021 Zeuva 6 months
+42 Swapnil Khandekar ETRX 2021 Clear Exam 6 months
+43 Anikait Adhya ETRX 2021 Off-Campus 6 months
+44 Chinmay Bajpai ETRX 2021 Off-Campus 6 months
+45 Devang Patani ETRX 2021 Machadalo 6 months
+46 Mandar Vaingankar ETRX 2021 Brandbuddiez 6 months
+47 Nayana Shelke ETRX 2021 Off-Campus 6 months
+48 Nikhil Barhate ETRX 2021 IISC Banglore 6 months
+49 Pooja Rathod ETRX 2021 Zargun 6 months
+50 Rushikesh Hirve ETRX 2021 IMEDMatrix LLP 6 months
+51 Shraddha Bhandare ETRX 2021 Infigon 6 months
+52 Shruti Worlikar ETRX 2021 Machadalo 6 months
+53 Urmila Patil ETRX 2021 6 months
+54 Vaibhav Waghe ETRX 2021 Infigon 6 months
+55 Shruti Mahukar ETRX 2021 Brandbuddiez 6 months
+56 Vedant Sapte ETRX 2021 Machadalo 6 months
+57 Darshan Biyani ETRX 2021 Zargun 6 months
+58 Sagar Jaybhaye ETRX 2021 Machadalo 6 months
+59 Rahul Yadav ETRX 2021 Infigon 6 months
+60 Nikhil Kawle ETRX 2021 IMEDMatrix LLP 6 months
+61 Krishnakumar Dubey ETRX 2021 Machadalo 6 months
+62 Gaurang Shete ETRX 2021 Oni Cares Pvt Ltd 6 months
+63 Rani Farde ETRX 2021 MIDC 6 months
+1 Sharma Akshat
+Yogesh MCA 2021 Rikaian Technology Pvt. Ltd. 6 months
+
+--- PAGE 7 ---
+2 Othniel Alexander MCA 2021 Colgate Global Business Services
+Private Limited 6 months
+3 More Swapnil Sanjay MCA 2021 Quotientica Pvt. Ltd 6 months
+4 Bhabal Dattatraya
+Vilas MCA 2021 Baroque Consulting Private
+Limited 6 months
+5 Rane Neha Ashok MCA 2021 BNP Paribas 6 months
+6 Rane Shardul
+Pramod MCA 2021 iFast Financial India Pvt Ltd 6 months
+7 Frank Anthony MCA 2021 BNP Paribas India Solutions 6 months
+8 Shelke Tanvi Anand MCA 2021 MSCI 6 months
+9 Arekar Mauika
+Suresh MCA 2021 Zeus Learning 6 months
+10 Kader Bazid Abdul MCA 2021 Nomura 6 months
+11 Suyash Santosh Ojha MCA 2021 Nomura 6 months
+12 Tiwari Shubham MCA 2021 Curaksha 6 months
+13 Gupta Mridul
+Pradeep MCA 2021 Nomura 6 months
+14 Patil Pooja Nilkanth MCA 2021 BNP Paribas India Solutions Pvt.
+Ltd. 6 months
+15 Thosar Chetan
+Vasant MCA 2021 General Mills 6 months
+16 Vivek Venkatesh MCA 2021 Nomura 6 months
+17 Morwekar Pradnyot
+Nagesh MCA 2021 BNP Paribas India Solutions 6 months
+18 Desale Purvesh
+Mahendra MCA 2021 Quantiphi Analytics 6 months
+19 Garje Satish Balu MCA 2021 Quantiphi 6 months
+20 PRASHANT SINGH MCA 2021 MSCI 6 months
+21 Tendolkar Shailesh
+Vitthal MCA
+2021
+QUANTIPHI ANALYTICS
+SOLUTIONS PRIV ATE
+LIMITED
+6 months
+22 Chaughule Siddhesh
+Shashikant MCA 2021 Code B 6 months
+23 Maredia Hadi Shakir MCA 2021 Nomura 6 months
+24 Kamble Sayali
+Chandrakant MCA 2021 SEAM eLearning 6 months
+25 Mhatre Akash
+Pandurang MCA 2021 Beat The Virus Startup 6 months
+26 Swapnil, Kumar MCA 2021 Bright Way Computer Institute
+PVT LTD. 6 months
+27 kamble swapnil
+bhairu MCA 2021 Crisil 6 months
+28 Bandagale Diksha
+Ravindra MCA 2021 Cognizant 6 months
+29 Kalambe Akshay
+Prabhudas MCA 2021 Prowiggle 6 months
+30 Jain Rishabh MCA 2021 BNP paribas 6 months
+31 Kulkarni Sarvesh
+Gurunath MCA 2021 CleverTap Private Limited 6 months
+32 KHATAL NILAM
+APPA MCA 2021 Brand Buddize Technologies Pvt.
+Ltd. 6 months
+33
+YADA V
+CHAITANYA
+SANJAY MCA
+2021 Insistence technology pvt ltd 6 months
+34 Shah Shailin Nikul MCA 2021 BNP Paribas India Solutions Pvt.
+Ltd. 6 months
+35 Pai Rahul Satyanath MCA 2021 Nomura 6 months
+36 Walke Prashika
+Amrendra MCA 2021 Quotientica Private Limited 6 months
+37 Sawale Akash
+Minanath MCA 2021 Sardar Patel College of
+Engineering 6 months
+38 Bodkhe Devendra
+Digambar MCA 2021 REWFA (Real Estate World For
+All) 6 months
+39 Telpande Aditya
+Sudhir MCA 2021 CRISIL Ltd 6 months
+40 Ansari Hammad
+Shahid Anwar MCA 2021 CRISIL limited 6 months
+41 Dubey Avinash MCA 2021 BNP Paribas 6 months
+42 Vaish Abhishek
+Banwarilal MCA 2021 Wissen Technology 6 months
+43 Shah Kumar Nilesh MCA 2021 BNP PARIBAS ISPL 6 months
+44 Pednekar Himanshu
+Sajjan MCA 2021 General Mills India Pvt Ltd 6 months
+45 Hatkar Divya Ajit MCA 2021 JPMorgan Chase & Co. 6 months
+
+--- PAGE 8 ---
+46 Kakade Swapnali
+Suresh MCA 2021 6 months
+47 Dhumal Preeti
+Prakash MCA 2021 REWFA Private Limited 6 months
+48 Hire Prathamesh
+Ananda MCA 2021 REWFA 6 months
+49 Barve Riya Sachin MCA 2021 Vinit group of companies 6 months
+50 Chauhan Preeti
+Mukesh MCA 2021 JP Morgan Chase & Co. 6 months
+51 Jadhav Kajal Kiran MCA 2021 Overtures Infotech 6 months
+52 Pawar Pratik Vishnu MCA 2021 Tech Mahindra 6 months
+53 Shekhar, Himanshu MCA 2021 BNP Paribas India Solutions 6 months
+54 Date Anuradha
+Sandeep MCA 2021 CleverTap 6 months
+55 Shaikh Mantasha
+Zakir Hussain MCA 2021 Sardra Patel College of
+Engineering 6 months

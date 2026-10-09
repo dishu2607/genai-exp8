@@ -1,0 +1,74 @@
+--- PAGE 1 ---
+Bhartiya Vidya Bhavans, Sardar Patel Institute of Technology
+Internship Details
+Semester: 6 Academic Year: 2021-22
+Research Internships from January 2022 to June 2022 (Batch 2023 Passouts)
+Sr. No. Name UID Branch Research Organization
+1 Aditya Motwani 2019130040 COMP IIT Bombay
+2 Ashish Rajguru 2018130042 COMP SPIT PDC
+3 Ameya Ranade 2019140053 IT IIT Bombay
+4 Arnav Ekapure 2019140017 IT SPIT PDC
+5 Rishabh Vira 2019140065 IT SPIT PDC
+6 Vishal Lohar 2019120035 EXTC IIITM Gwalior
+7 Shivam Patel 2018120047 EXTC IIT Bombay
+8 Yugandhara Wadikar 2018120062 EXTC IIT Bombay
+9 Prerna Arora 2019120003 EXTC SPIT PDC
+10 Niranjan Vijay Badhe 2019120004 EXTC SPIT PDC
+11 Hiten Bafna 2019120005 EXTC SPIT PDC
+12 Nimrat Kaur 2019120042 EXTC SPIT PDC
+13 Keshav Thosar 2019120065 EXTC SPIT PDC
+14 Purva Kale 2020201067 EXTC SPIT PDC
+15 Kaustubh Janardan Mhatre 2020201068 EXTC SPIT PDC
+16 Utsav Panchal 2020201070 EXTC SPIT PDC
+17 Mohammed Saud Sayed 2020201072 EXTC SPIT PDC
+18 Rutuja Thorat 2020201074 EXTC SPIT PDC
+19 Niraj Dhodi 2018120018 EXTC SPIT PDC
+20 Tirth Meghani 2019110032 ETRX IIT Bombay
+21 Aniket Nadkarni 2019110034 ETRX IIT Bombay
+22 Tirth Patel 2019110040 ETRX IIT Bombay
+23 Vivek Hemantsing Rajput 2019110046 ETRX IIT Bombay
+24 Pushkar Sutar 2019110060 ETRX BARC
+25 Bhavika Vaishnavi 2019110070 ETRX IIITM Gwalior
+26 Chinmay Walinjkar 2019110071 ETRX BARC
+27 Anushka Anil Pilena 2018110036 ETRX Dr. APJ Abdul Kalam International Foundation
+28 Reeshav Guha 2019110016 ETRX SPIT PDC
+29 Chetana Kamalkar 2019110022 ETRX SPIT PDC
+30 Varun Kamath 2019110023 ETRX SPIT PDC
+31 Nidhi Khanorkar 2019110025 ETRX SPIT PDC
+32 Sumit Kulkarni 2019110026 ETRX SPIT PDC
+33 Prabhat Kumar 2019110028 ETRX SPIT PDC
+34 Shivang Singh Manhas 2019110031 ETRX SPIT PDC
+35 Devansh Vinit Palliyath 2019110039 ETRX SPIT PDC
+36 Lokesh Patil 2019110041 ETRX SPIT PDC
+37 Omkar Pawar 2019110044 ETRX SPIT PDC
+38 Vinay Polewar 2019110045 ETRX SPIT PDC
+39 Bilal Sani 2019110049 ETRX SPIT PDC
+40 Shubham Sawant 2019110050 ETRX SPIT PDC
+41 Prathamesh Shelar 2019110053 ETRX SPIT PDC
+42 Renuka Dyawarkonda 2020101075 ETRX SPIT PDC
+43 Rahul Dilip Parab 2020101080 ETRX SPIT PDC
+44 Vaibhav Raina 2018110040 ETRX SPIT PDC
+
+--- PAGE 2 ---
+22
+33
+1414
+2525
+Count of Branch
+COMP
+IT
+EXTC
+ETRX
+0 5 10 15 20 25
+Student Count Branchwise
+Dr. APJ Abdul Kalam International Foundation
+2.3%
+BARC
+4.5%
+IIITM Gwalior
+4.5%
+SPIT PDC
+70.5%
+IIT Bombay
+18.2%
+Internship Organization Distribution

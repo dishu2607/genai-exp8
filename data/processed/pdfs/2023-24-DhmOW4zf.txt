@@ -1,0 +1,85 @@
+--- PAGE 1 ---
+Bhartiya Vidya Bhavans, Sardar Patel Institute of Technology
+Internship Details
+Semester: 6                                                                            Academic Year: 2023-24
+Research Internships from January 2024 to June 2024 (Batch 2025 Passouts)
+Sr. No. Name UID Branch Research Organization
+1 Aayush Nayan Patel 2022601005 AIML IIT Bombay
+2 Amey Agarwal 2021600003 AIML CDAC
+3 Arshad Mapari 2021600043 AIML IIT Bombay
+4 Chaitya Arun Dobariya 2021600017 AIML IIT Bombay
+5 Dhruv Mehta 2021600045 AIML IIT Bombay
+6 Gargi Kadam 2021600030 AIML IIT Patna
+7 Omkar Yellaram 2021600072 AIML Newel Technologies
+8 Pratham Shelke 2021600059 AIML Newel Technologies
+9 Sanika Gadkari 2021600018 AIML IIT Patna
+10 Sanika Tiwarekar 2021600067 AIML IIT Patna
+11 Sarvesh Deshpande 2021600013 AIML IIT Bombay
+12 Shubh Gupta 2021600024 AIML IIT Bombay
+13 Vidhi Gajra 2021600019 AIML CDAC
+14 Yash Sonawane 2021600063 AIML IIT Patna
+15 Allen Andrew 2021300006 COMPS IIT Bombay
+16 Anant Shah 2021300111 COMPS IIT Bombay
+17 Ansari Mohammed Shanouf Valijan 2021300004 COMPS IIT Bombay
+18 Aryaman Chokhani 2021300020 COMPS IIT Bombay
+19 Haridas Singh 2021300123 COMPS IIT Patna
+20 Harsh Vora 2021300136 COMPS IIT Bombay
+21 Harshal Chawan 2021300019 COMPS IIT Patna
+22 Hoskote Arnav Gurucharan 2021300044 COMPS IIT Patna
+23 Kevin Doshi 2021300028 COMPS IIT Bombay
+24 Krish Mehta 2021300074 COMPS IIT Patna
+25 Kunal Pasad 2021300093 COMPS IIT Varanasi (BHU)
+26 Naman Badlani 2021300008 COMPS IIT Bombay
+27 Onam Sarode 2021300106 COMPS IIT Bombay
+28 Parth Gandhi 2021300033 COMPS IIT Bombay
+29 Shaun Dsouza 2021300031 COMPS IIT Bombay
+30 Sheshasai Kumar Reddy 2021300104 COMPS CDAC
+31 Utsav Ghanshyam Avaiya 2021300005 COMPS IIT Bombay
+32 Vedant Sanjay Deshmukh 2021300025 COMPS IIT Bombay
+33 Vignesh M Shinde 2021300120 COMPS SPIT
+34 Anusha Maniar 2021700038 DS IIT Bombay
+35 Karthik Ganeshan Iyer 2021700028 DS IIT Bombay
+36 Ansh Bhansali 2021200012 EXTC IIT Bombay
+37 Ansh Singhal 2022201020 EXTC IIM SIRMAUR
+38 Bhavisha Chafekar 2021200017 EXTC SPJIMR
+39 Esha Khot 2021200058 EXTC IIT Bombay
+40 Kris Dcosta 2021200026 EXTC IIT Bombay
+41 Kunj Chauhan 2021200021 EXTC IIT Bombay
+42 Malay Phadke 2021200093 EXTC IIT Bombay
+43 Mayuresh Pitale 2021200094 EXTC IIT Bombay
+44 Neel Patel 2021200087 EXTC IIT Bombay
+45 Niranjan Devadiga 2021200027 EXTC IIT Patna
+46 Om Bhushan Patil 2021200088 EXTC SPJIMR
+47 Preyes Parab 2021200083 EXTC IIT Bombay
+
+--- PAGE 2 ---
+48 Raghavendra Joshi 2021200045 EXTC IIT Bombay
+49 Sahil Kurkure 2021200062 EXTC IIT Bombay
+50 Saket Lad 2021200063 EXTC IIT Bombay
+51 Shreejit Gherde 2021200033 EXTC IIT Bombay
+SPJIMR
+3.9%
+IIM SIRMAUR
+2.0%
+SPIT
+2.0%
+Newel Technologies
+3.9%
+IIT Patna
+17.6%
+CDAC
+5.9%
+IIT Bombay
+62.7%
+Internship Organization Distribution
+1414
+1919
+22
+1616
+Count of Branch
+AIML
+COMPS
+DS
+EXTC
+0 5 10 15 20
+Student Count Branchwise

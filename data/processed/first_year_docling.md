@@ -1,0 +1,2354 @@
+## B. Tech. (First Year Engineering)
+
+## Syllabus (Semester I-II)
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+## 2026 ITERATION: FIRST YEAR ENGINEERING
+
+(R25: For Batches of 2025-29, 2026-30, 2027-31, and 2028-32)
+
+Table 1: Nomenclature of the Courses
+
+| Groups                                                 | Abbreviation   | Course Category                                      |
+|--------------------------------------------------------|----------------|------------------------------------------------------|
+| Basic Sciences and Engineering Sciences Courses (BSES) | BSESC          | Basic Science & Engineering Science Courses          |
+| Basic Sciences and Engineering Sciences Courses (BSES) | BSESEC         | Basic Science & Engineering Science Elective Courses |
+| Skill Based Courses (SBC)                              | SEC            | Skill Enhancement Course                             |
+| Skill Based Courses (SBC)                              | LLC            | Liberal Learning Courses                             |
+| Humanities                                             | HSSMC          | Humanities, Social Science and Management Courses    |
+| Program Related Courses (PRC)                          | PCC            | Program Core Courses                                 |
+| Program Related Courses (PRC)                          | PEC            | Program Elective Courses                             |
+| Program Related Courses (PRC)                          | ELC            | Experiential Leaning Courses                         |
+| Multi-Cross-Trans disciplinary courses (MCTD)          | OEC            | Open Elective Courses                                |
+| Multi-Cross-Trans disciplinary courses (MCTD)          | MDM            | Multidisciplinary Minor                              |
+
+Table 2: Abbreviations
+
+| Abbreviations   | Abbreviations   | Abbreviations   | Abbreviations                         |
+|-----------------|-----------------|-----------------|---------------------------------------|
+| L               | Lecture Hour    | SE              | Self-Engagement of learners in Hours  |
+| T               | Tutorial Hour   | TE              | Total Engagement of learners in Hours |
+| P               | Laboratory Hour | C               | Credit Assigned                       |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+## Curriculum Structure
+
+| SEM I - Sr. No.   | SEM I - Course Category                  | SEM I - Abbr.   | SEM I - Course Code    | SEM I - Course Name                                                                                                            | SEM I - L   |   SEM I - T | SEM I - P   | SEM I - SE   |   SEM I - TE | SEM I - C   |
+|-------------------|------------------------------------------|-----------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------------|--------------|--------------|-------------|
+| 1                 | Basic & Engg. Sciences                   | BSES            | MA101                  | Engineering Calculus                                                                                                           | 3           |           1 | 0           | 7            |           11 | 4           |
+| 2                 | Basic & Engg. Sciences                   | BSES            | EC101/ EC102/ EC103    | Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE) | 3           |           0 | 2           | 6            |           11 | 4           |
+| 3                 | Basic Sciences & Engg. Sciences Elective | BSESE           | AS1XX                  | Please refer to Table 3                                                                                                        | 2/3         |           0 | 2/0         | 6/7          |           10 | 3           |
+| 4                 | Open Elective (HSSM)                     | OE-1            | OE1XX                  | Please refer to Table 4                                                                                                        | 3           |           0 | 0           | 0            |            3 | 3           |
+| 5                 | Skill Enhanceme nt Course                | SEC             | AS113/ AS114           | Design Thinking/ Engineering Exploration                                                                                       | 0           |           1 | 2           | 0            |            3 | 2           |
+| 6                 | Skill Enhanceme nt Course                | SEC             | CECS101                | Imperative Programming Lab                                                                                                     | 0           |           0 | 4           | 2            |            6 | 2           |
+| 7                 | Skill Enhanceme nt Course                | SEC             | AS115                  | Professional Communication                                                                                                     | 0           |           1 | 2           | 2            |            5 | 2           |
+| 8                 | Liberal Learning Courses (Audit)         | LLC             | LLC101/ LLC102/ LLC103 | Art of Living/ Leadership for Youth/ Harmony with Nature                                                                       | 0           |           0 | 1           | 0            |            1 | NC          |
+| Total             | Total                                    | Total           | Total                  | Total                                                                                                                          | 12/ 13      |           2 | 13/ 11      | 23/ 24       |           50 | 20          |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+| SEM II - Sr. No.   | SEM II - Course Category                | SEM II - Abbr.   | SEM II - Course Code   | SEM II - Course Name                                                                                                            | SEM II - L   | SEM II - T   | SEM II - P   | SEM II - SE   |   SEM II - TE | SEM II - C   |
+|--------------------|-----------------------------------------|------------------|------------------------|---------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|--------------|---------------|---------------|--------------|
+| 1                  | Basic & Engg. Sciences                  | BSES             | MA201                  | Differential Equations and Complex Analysis                                                                                     | 3            | 1            | 0            | 7             |            11 | 4            |
+| 2                  | Basic & Engg. Sciences                  | BSES             | EC201/ EC202/ EC203    | Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC)/ Basic Electrical & Electronics Engineering (CE & CSE) | 3            | 0            | 2            | 6             |            11 | 4            |
+| 3                  | Basic Science & Engg. Sciences Elective | BSESE            | AS2XX                  | Please refer to Table 3                                                                                                         | 2/3          |              | 2/0          | 6/7           |            10 | 3            |
+| 4                  | Open Elective                           | OE-II            | OE2XX                  | Please refer to Table 4                                                                                                         | 3            | 0            | 0            | 0             |             3 | 3            |
+| 5                  | Skill Enhanceme nt Course               | SEC              | AS213/ AS214           | Design Thinking/ Engineering Exploration                                                                                        | 0            | 1            | 2            | 0             |             3 | 2            |
+| 6                  | Skill Enhanceme nt Course               | SEC              | CECS201 /CECS20 2      | Object Oriented Programming Lab (CE & CSE)/Data Structure Lab (ECE)                                                             | 0            | 0            | 4            | 2             |             6 | 2            |
+| 7                  | Skill Enhanceme nt Course               | SEC              | AS215                  | Corporate Communication                                                                                                         | 0            | 1            | 2            | 2             |             5 | 2            |
+| 8                  | Liberal Learning Courses                | LLC              | LLC201/ LLC202/ LLC203 | Art of Living/ Leadership for Youth/ Harmony with Nature                                                                        | 0            | 0            | 1            | 0             |             1 | NC           |
+| Total              | Total                                   | Total            | Total                  | Total                                                                                                                           | Total        | 12/ 13 2     | 13/ 11       | 23/ 24        |            50 | 20           |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) - Code   | Course Name          | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|----------------------------|----------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSES                       | Engineering Calculus | 3                                | 1                                | 0                                | 7                                 | 11                                | 3                      | 1                      | 0                      | 4                          |
+| BSES                       | Engineering Calculus | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSES                       | Engineering Calculus | Component                        | Component                        | ISE(%)                           | ISE(%)                            | MSE(%)                            | MSE(%)                 | ESE(%)                 | ESE(%)                 | Total                      |
+| MA101                      |                      | Theory                           | Theory                           | 20                               | 20                                | 20                                | 20                     | 60                     | 60                     | 100                        |
+| MA101                      |                      | Laboratory                       | Laboratory                       | --                               | --                                | --                                | --                     | --                     | --                     | --                         |
+
+| Pre-requisite Course Codes, if any.                                                | Pre-requisite Course Codes, if any.                                                | Basics of derivatives and integration done earlier.                                |
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. |
+| Course Outcomes (CO): At the End of the course students will be able to:-          | Course Outcomes (CO): At the End of the course students will be able to:-          | Course Outcomes (CO): At the End of the course students will be able to:-          |
+| MA101.1 a function                                                                 | Differentiate                                                                      | partially and find extreme values of a given function.                             |
+| MA101.2 Find the nth order                                                         |                                                                                    | derivative of a given function.                                                    |
+| MA101.3 Expand a given function                                                    |                                                                                    | as a power series.                                                                 |
+| MA101.4 Calculate the value of                                                     |                                                                                    | integrals in one variable using different techniques.                              |
+| MA101.5 Solve multiple integral                                                    |                                                                                    | in various coordinate systems and use to calculate area.                           |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                                                                                             | Ref.   |   Hrs. |
+|--------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | Partial Differentiation                                                                                                                                                                                                                                                                            | 1,2,3  |     10 |
+|           1. | 1.1        | Partial derivatives of first and higher order. Partial derivatives of composite functions.                                                                                                                                                                                                         | 1,2,3  |      4 |
+|           1. | 1.2        | Euler's theorem for homogeneous functions with two and three independent variables, deductions from Euler's theorem.                                                                                                                                                                               | 1,2,3  |      3 |
+|           1. | 1.3        | Application of partial derivatives: Local Maxima and Minima of functions of two variables.                                                                                                                                                                                                         | 1,2,3  |      3 |
+|           2. | Title      | Successive Differentiation and Series                                                                                                                                                                                                                                                              | 1,2,3  |     10 |
+|           2. | 2.1        | Successive Differentiation: Proofs of nth derivatives of standard functions. Use of De Moivre's theorem and partial fractions to calculate nth derivatives of given functions.                                                                                                                     | 1,2,3  |      3 |
+|           2. | 2.2        | Leibnitz's Theorem on nth derivative of product of two functions                                                                                                                                                                                                                                   | 1,2,3  |      2 |
+|           2. | 2.3        | Infinite series: 1) McLaurin's series (without proof) and derivation of series of some standard functions using the Maclaurin series. Expansion of functions in powers of x by using i) Standard series method ii) Method of differentiation and integration. 2) Taylor's series and applications. | 1,2,3  |      5 |
+|           3. | Title      | Integral Calculus (one variable )                                                                                                                                                                                                                                                                  | 1,2,3  |      8 |
+|           3. | 3.1        | Revision: Areas, Volumes, Fundamental Theorems of Integral Calculus                                                                                                                                                                                                                                | 1,2,3  |      2 |
+|           3. | 3.2        | Gamma functions: properties of gamma functions and integrals reducible to gamma functions.                                                                                                                                                                                                         | 1,2,3  |        |
+|           3. | 3.3        | Beta functions: properties, relation between Beta and Gamma functions, integrals reducible to Beta functions, Duplication formula.                                                                                                                                                                 | 1,2,3  |      4 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+|                      | 3.4                  | Differentiation under Integral sign: differentiating integrals with constant limits of integration for one parameter.                                                                                                                               |                      | 2   |
+|----------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----|
+| 4.                   | Title                | Integral Calculus (multi variable )                                                                                                                                                                                                                 | 1,2,3                | 14  |
+| 4.                   | 4.1                  | Tracing of curves. Sketching standard solids (Spheres, Ellipsoids, Cylinders, Cones, Tetrahedrons, planes).                                                                                                                                         | 1,2,3                | 2   |
+| 4.                   | 4.2                  | Double Integration: definition and evaluation. Evaluate by changing the order of integration and by changing to polar form.                                                                                                                         | 1,2,3                | 7   |
+| 4.                   | 4.3                  | Application of double integral to finding area of given regions.                                                                                                                                                                                    | 1,2,3                | 2   |
+| 4.                   | 4.4                  | Triple integration: definition and evaluation (Cartesian and cylindrical coordinates).                                                                                                                                                              | 1,2,3                | 3   |
+| 5.                   | Self Study           | 1.1 Partial differentiation of implicit functions. 2.3 Series by method of Substitution. 3.2 Proof of Duplication Formula. 3.3 Differentiation under Integral sign using two parameters. 4.1 Finding lengths of curves in Cartesian and polar form. | 1,2,3                | 07* |
+| Total(*not included) | Total(*not included) | Total(*not included)                                                                                                                                                                                                                                | Total(*not included) | 42  |
+
+## Textbooks:
+
+|   Sr. No. | Title                            | Edition     | Authors          | Publisher           |   Year |
+|-----------|----------------------------------|-------------|------------------|---------------------|--------|
+|        1. | Higher Engineering Mathematics   | Forty Fifth | Dr. B. S. Grewal | Khanna Publications |   2023 |
+|        2. | Advanced Engineering Mathematics | Fourth      | Jain and Iyengar | Narosa Publications |   2021 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                                                | Edition       | Authors                      | Publisher                |   Year |
+|-----------|----------------------------------------------------------------------|---------------|------------------------------|--------------------------|--------|
+|        1. | Advanced Engineering Mathematics                                     | Twenty Eighth | H.K Das                      | S. Chand                 |   2022 |
+|        2. | Advanced Engineering Mathematics                                     | Tenth         | Erwin Kreyszig               | John Wiley & Sons        |   2023 |
+|        3. | Higher Engineering Mathematics                                       | Twenty Fifth  | B.V. Ramana                  | Tata McGraw- Hill        |   2022 |
+|        4. | A First Course in Differential Equations with Modelling Applications | Twelve        | Dennis G. Zill               | Cengage India            |   2024 |
+|        5. | Engineering Mathematics                                              | Eighth        | K.A. Stroud, Dexter J. Booth | Macmillan Education (UK) |   2020 |
+
+## Online Resources:
+
+- 1) [https://nptel.ac.in/courses/111105121](https://nptel.ac.in/courses/111105121)
+- 2) [https://www.khanacademy.org/math/multivariable-calculus](https://www.khanacademy.org/math/multivariable-calculus)
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name                        | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|------------------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSES                     | Differential Equations and Complex | 3                                | 1                                | 0                                | 7                                 | 11                                | 3                      | 1                      | 0                      | 4                          |
+| BSES                     | Differential Equations and Complex | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSES                     | Differential Equations and Complex | Component                        | Component                        | ISE(%)                           | ISE(%)                            | MSE(%)                            | MSE(%)                 | ESE(%)                 | Total                  | Total                      |
+| MA201                    | Analysis                           | Theory                           | Theory                           | 20                               | 20                                | 20                                | 20                     | 60                     | 100                    | 100                        |
+| MA201                    | Analysis                           | Laboratory                       | Laboratory                       | --                               | --                                | --                                | --                     | --                     | --                     | --                         |
+
+| Pre-requisite Course Codes, if any.                                                | Pre-requisite Course Codes, if any.                                                | Topics from Engineering Calculus- Semester I and basic mathematics.                |
+|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. |
+| Course Outcomes (CO): At the End of the course students will be able to:-          | Course Outcomes (CO): At the End of the course students will be able to:-          | Course Outcomes (CO): At the End of the course students will be able to:-          |
+| MA201.1                                                                            | Solve differential equations of first order.                                       | Solve differential equations of first order.                                       |
+| MA201.2                                                                            | Solve differential equations of higher analyze problems in electrical engineering. | order using operators and apply them to                                            |
+| MA201.3                                                                            | Find powers, roots & logarithm function of a complex number                        | of a complex number and to separate the into real and imaginary.                   |
+| MA201.4 Check whether a given                                                      |                                                                                    | function is analytic and construct analytic functions.                             |
+| MA201.5                                                                            | Compute integrals of complex valued                                                | functions.                                                                         |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                                 | Ref   |   Hrs. |
+|--------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|--------|
+|           1. | Title      | Linear Differential Equations of first order                                                                                                                                                                                           | 1,2,3 |     11 |
+|           1. | 1.1        | Exact Differential Equations, Integrating Factors, and equations reducible to exact form.                                                                                                                                              | 1,2,3 |      3 |
+|           1. | 1.2        | Linear differential equations (Definition), equations reducible to linear form, Bernoulli's equation.                                                                                                                                  | 1,2,3 |      2 |
+|           1. | 1.3        | Simple application of differential equations of first and second order to electrical engineering problems.                                                                                                                             | 1,2,3 |      2 |
+|           1. | 1.4        | Numerical solution of ordinary differential equations of first order and first degree using (a) Taylor's series method (b) Euler's method (c) Modified Euler method (d) Runge-Kutta fourth order formula                               | 1,2,3 |      4 |
+|           2. | Title      | Linear Differential Equations of higher order                                                                                                                                                                                          | 1,2,3 |     11 |
+|           2. | 2.1        | Linear Differential Equation with constant coefficient- complementary function, particular integrals of differential equation of the type f(D)y = X where X is 𝑒 𝑎𝑥 , sin(ax+b), cos(ax+b), 𝑥𝑚, 𝑒 𝑎𝑥V, xV, where V is a function of x. |       |      7 |
+|           2. | 2.2        | Cauchy's homogeneous linear differential equation and Method of variation of parameters for second order.                                                                                                                              |       |      2 |
+|           2. | 2.3        | System of Differential Equations.                                                                                                                                                                                                      |       |      2 |
+|           3. | Title      | Complex Numbers                                                                                                                                                                                                                        | 1,2,3 |     11 |
+|           3. | 3.1        | De Moivre's Theorem and its application to determine powers of complex numbers. Roots of complex numbers by De Moivre's Theorem.                                                                                                       | 1,2,3 |      3 |
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+|                      | 3.2                  | Expansion of sin𝑛𝜃and cos𝑛𝜃in terms of powers of sin𝜃 and 𝑐𝑜𝑠𝜃. Expansion of 𝑠𝑖𝑛𝑛 𝜃 and 𝑐𝑜𝑠 𝑛 𝜃 in terms of sines and cosines of multiples of 𝜃.                                                                                                                                                                                                                |                      | 2   |
+|----------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----|
+|                      | 3.3                  | Hyperbolic Functions: relation between circular and hyperbolic functions, Inverse hyperbolic functions. Separation into real and imaginary parts of complex functions.                                                                                                                                                                                          |                      | 4   |
+|                      | 3.4                  | Logarithm of a complex number.                                                                                                                                                                                                                                                                                                                                  |                      | 2   |
+| 4.                   | Title                | Analytic functions and Complex Integrals                                                                                                                                                                                                                                                                                                                        | 1,2,3                | 9   |
+| 4.                   | 4.1                  | Analytic functions, Cauchy Riemann equations in Cartesian and polar form, construction of analytic functions using Milne-Thompson's method.                                                                                                                                                                                                                     | 1,2,3                | 6   |
+| 4.                   | 4.2                  | Line Integral of complex valued function.                                                                                                                                                                                                                                                                                                                       | 1,2,3                | 3   |
+| 5.                   | Self Study           | 1.3 To form D.E. for given L-C-E-R circuit. 2.1 Method of undetermined coefficients to solve differential equations. 2.2 Legendre's differential equation, Method of variation of parameters for third order differential equations. 3.2 Complex examples using De Moivre's Theorem. 4.1 Construction of analytic function f(z) =u+iv when u+v or u-v is given. |                      | 07* |
+| Total(*not included) | Total(*not included) | Total(*not included)                                                                                                                                                                                                                                                                                                                                            | Total(*not included) | 42  |
+
+## Textbooks:
+
+|   Sr. No. | Title                           | Edition     | Authors          | Publisher           |   Year |
+|-----------|---------------------------------|-------------|------------------|---------------------|--------|
+|        1. | Higher Engineering Mathematics  | Forty Fifth | Dr.B.S. Grewal   | Khanna Publications |   2023 |
+|        2. | Advanced Engineering Mathematic | Fourth      | Jain and Iyengar | Narosa Publications |   2021 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                                                | Edition       | Authors                      | Publisher                |   Year |
+|-----------|----------------------------------------------------------------------|---------------|------------------------------|--------------------------|--------|
+|        1. | Advanced Engineering Mathematics                                     | Twenty Eighth | H.K Das                      | S.Chand                  |   2022 |
+|        2. | Advanced Engineering Mathematics                                     | Tenth         | Erwin Kreysizg               | John Wiley & Sons        |   2023 |
+|        3. | A First Course in Differential Equations with Modelling Applications | Twelve        | Dennis G. Zill               | Cengage India            |   2024 |
+|        4. | Engineering Mathematics                                              | Eighth        | K.A. Stroud, Dexter J. Booth | Macmillan Education (UK) |   2020 |
+
+## Online Resources:
+
+- 1) [https://nptel.ac.in/courses/111105121](https://nptel.ac.in/courses/111105121)
+- 2) [https://www.khanacademy.org/math/differential-equations](https://www.khanacademy.org/math/differential-equations)
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) - Code   | Course Name     | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|----------------------------|-----------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSES                       | Digital Systems | 3                                | 0                                | 2                                | 6                                 | 11                                | 3                      | 0                      | 1                      | 4                          |
+| BSES                       | Digital Systems | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSES                       | Digital Systems | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| EC101/201                  | Digital Systems | Theory                           | Theory                           | 20                               | 20                                | 20                                | 20                     | 60                     | 60                     | 100                        |
+| EC101/201                  | Digital Systems | Laboratory                       | Laboratory                       | 80                               | 80                                | --                                | --                     | 20                     | 20                     | 100                        |
+
+| Pre-requisite Course Codes, if any.                                     | Pre-requisite Course Codes, if any.                                                                              |
+|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Course Objective:                                                       | Course Objective:                                                                                                |
+| Course Outcomes (CO): At the end of the course students will be able to | Course Outcomes (CO): At the end of the course students will be able to                                          |
+| EC101/201.1                                                             | Explain various logic gates, SOP, POS forms and their minimization with k- map for given combinational circuits. |
+| EC101/201.2                                                             | Construct combinational circuits using given MSI devices.                                                        |
+| EC101/201.3                                                             | Apply the knowledge of flip-flops and MSI to design sequential circuits.                                         |
+| EC101/201.4                                                             | Explain and design PLD devices.                                                                                  |
+| EC101/201.5                                                             | Comprehend the architectural features of 8085 with basic assembly language programming.                          |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                                                                                                                           | Ref.   |   Hrs. |
+|--------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | Combinational Circuits                                                                                                                                                                                                                                                                                                           | 1,4    |     13 |
+|           1. | 1.1        | Number Systems, Coding Systems and Integer representations: Binary, Decimal, Hexadecimal, Codes: Gray code, Excess-3, 2 out of 5, BCD, 2421, 5211, Signed integer representation, 1's complement, 2's complement                                                                                                                 | 1,4    |     13 |
+|           1. | 1.2        | Logic Gates: Basic gates, Universal gates, Sum of products and products of sum, minimization with Karnaugh Map (up to four variables), Quine Mc'Clusky method and realization.                                                                                                                                                   | 1,4    |     13 |
+|           1. | 1.3        | Combinational Circuits using basic gates as well as MSI devices: Half adder, Full adder, Half Subtractor, Full Subtractor, Multiplexer, Demultiplexer, Decoder, Encoder, Comparator, BCD adder, CLA adder, Full adder/subtractor using data selectors (MUX, DEMUX, Encoder, Decoder), Elementary multiplier design, IC 74181 ALU | 1,4    |     13 |
+|           2. | Title      | Sequential Circuits                                                                                                                                                                                                                                                                                                              | 1,4    |     16 |
+|           2. | 2.1        | Latches and flip-flops: Synchronous and asynchronous circuits, Latches and Flip-Flops (SR, clocked SR with preset and clear, JK, D, T and their design), Conversions of Flip-Flops using excitation tables                                                                                                                       |        |        |
+|           2. | 2.2        | Counters: Asynchronous Counters, Synchronous Counters, Up Down Counters, Sequence generator using counters, Mod Counters, Bushing in counters, Shift Registers, Universal Shift Register, Ring and Twisted Ring Counters                                                                                                         |        |        |
+
+<!-- image -->
+
+## Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+|                      | 2.3                  | Mealy and Moore Models: Introduction, state diagram, state table, state assignment, state reduction, design procedure and examples                                                                                                                                                                                                                                                                                                              |                      |    |
+|----------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|----|
+| 4.                   | Title                | Microprocessors                                                                                                                                                                                                                                                                                                                                                                                                                                 | 3                    | 9  |
+| 4.                   | 4.1                  | 8085: Introduction to Microprocessors, Evolution of computers and Microprocessors, Essential components of a conventional Central Processing Unit (CPU), Architecture of 8-bit microprocessor 8085, Basic instruction set with its addressing modes and concepts of Instruction cycle, Machine cycle and T states. Elementary programming in assembly language, Elements of I/O data transfer with the concept of interrupts, Practice programs | 3                    | 9  |
+| 5.                   | Title                | Programmable Logic Devices                                                                                                                                                                                                                                                                                                                                                                                                                      | 2,5                  | 4  |
+| 5.                   | 3.1                  | Importance of PLDs, Programmable Logic Array, Programmable Array Logic, Generic Array Logic, Implementing logic circuits using PAL and PLA                                                                                                                                                                                                                                                                                                      | 2,5                  | 4  |
+| 6.                   | Self Study           | Working of IC 7483, 74181, 74148, BCD adder, 7 segment display                                                                                                                                                                                                                                                                                                                                                                                  |                      | 6* |
+| Total(*not included) | Total(*not included) | Total(*not included)                                                                                                                                                                                                                                                                                                                                                                                                                            | Total(*not included) | 42 |
+
+## Laboratory Component, if any. (Minimum 10 Laboratory experiments are expected)
+
+|   Sr. No. | Title of the Experiment                                                                                                                                                                                                                                                                                                                                                    |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1. | Verification of Logic Gates Objective 1. Verify the truth table of basic gates (AND, OR, NOT, NAND, NOR, XOR) using ICs. 2. Implement XOR using minimum NAND gates 3. Implement XNOR using minimum NOR gates                                                                                                                                                               |
+|        2. | Design and Implementation of Half Adder, Half Subtractor, Full Adder and Full Subtractor using Logic gates Objective: Implement and verify the working of Half Adder, Half Subtractor, Full Adder and Full Subtractor circuits. Activity for Fast Learner: Design and Implementation of a 4-bit ALU (Arithmetic Logic Unit) capable of performing at least 4 bit addition. |
+|        3. | Multiplexer and Demultiplexer Objective 1. Design and implement 2:1 MUX using Logic gates. 2. Design and implement full adder with 8:1 MUX using IC. Activity for Fast Learner: Implement full subtractor using 1:8 Demultiplexers.                                                                                                                                        |
+|        4. | Comparator Implementation Objective: Use digital comparator ICs (such as 7485) to implement and verify the comparison between binary numbers of different bit sizes (4-bit and 8-bit). Activity for Fast Learner: Implement 9-bit comparator for signed numbers                                                                                                            |
+|        5. | Flip-Flop Circuits (SR, JK, D, T Flip-Flops) 1. Design and implement SR flip-flop circuit using Logic gates.                                                                                                                                                                                                                                                               |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+2. Design and implement SR, JK, D &amp; T using MSI circuit. (verify race around condition in JK FF and remedies to avoid the same)
+
+Activity for Fast Learner: Obtain "BNC" flip flop using J-K Flipflop. The "BNC" flip flop has following truth table:
+
+## 6. Counter using JK Flip-Flops and Asynchronous
+
+1. Design and Implement MOD 4 UP &amp; Down counters using JK Flip-Flops
+2. Design and Implement MOD 10 Asynchronous counters using IC 7490
+
+Activity for Fast Learner: Use 7-segment display for showing counting of 2 to 8 using decade counter.
+
+## 7. Ring Counter and Twisted Ring Counter
+
+1. Design and implement a 4-bit Ring Counter using the Universal Shift Register IC 74194.
+2. Design and implement a 4-bit Twisted Ring Counter (Johnson Counter) using the
+
+Universal Shift Register IC 74194.
+
+Activity for Fast Learner: Design a 4-bit Ring Counter and a 4-bit Twisted Ring Counter to generate variable PWM signals, and use these signals to control the speed and operation of a 5V DC motor / 5V Stepper motor
+
+## 8. Addition and Subtraction of Two 8-bit and 16-bit Numbers
+
+1. Implement the addition and subtraction of two 8-bit numbers stored in memory locations using the 8085 microprocessor.
+2. Implement the addition and subtraction of two 16-bit numbers stored in memory locations using the 8085 microprocessor.
+3. Store the result of each operation in a specific memory location.
+
+Activity for Fast Learner: Write a program for multiplication of two 16-bit numbers and store the result in specific location
+
+## 9. Array Addition
+
+Objective: Implement the addition of an array of 10, 8-bit numbers stored in memory locations using the 8085 microprocessor. Store the result and the carry (if any) at a specified memory location.
+
+Activity for Fast Learner: There are 50 numbers stored in array starting from memory location C500H .Write a program in such way that the number should be
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|     | divisible by 8 and arrange the numbers in ascending order and store the result in specified memory location                                                                                                                                                                                        |
+|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 10. | Array Transfer from one memory location to other on simulator Objective: Perform block transfer of 10, 8-bit numbers from location C500H to C600H. Activity for Fast Learner: Write a program generate Fibonacci series for 50 numbers and store the result in memory location starting from C600H |
+
+## Text Books:
+
+|   Sr. No. | Title                                                                    | Edition        | Authors           | Publisher            |   Year |
+|-----------|--------------------------------------------------------------------------|----------------|-------------------|----------------------|--------|
+|        1. | Modern Digital Electronics                                               | Fourth Edition | R. P. Jain        | Tata McGraw Hill     |   2009 |
+|        2. | Digital Design Principles And Practices                                  | Third Edition  | John F. Wakerly   | Pearson Education    |   2001 |
+|        3. | Microprocessor Architecture, Programming, and Applications with the 8085 | Sixth Edition  | Ramesh S. Gaonkar | Penram International |   2013 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                          | Edition        | Authors                           | Publisher         |   Year |
+|-----------|------------------------------------------------|----------------|-----------------------------------|-------------------|--------|
+|        4. | Digital Design                                 | Fourth Edition | Morris Mano                       | Pearson Education |   2008 |
+|        5. | Fundamentals of digital logic design with VHDL | Second Edition | Stephen Brown and Zvonko Vranesic | McGraw Hill       |   2006 |
+
+## Online Resources:
+
+- 1) Digital Systems Design, IIT Kharagpur - Prof. D. Roychoudhury: https://nptel.ac.in/courses/117105080
+- 2) Digital System Design, IIT Ropar - Prof. Neeraj Goel: https://nptel.ac.in/courses/108106177
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name                  | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|------------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSES (ECE)               | Basic Electrical Engineering | 3                                | 0                                | 2                                | 6                                 | 11                                | 3                      | 0                      | 1                      | 4                          |
+| BSES (ECE)               | Basic Electrical Engineering | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSES (ECE)               | Basic Electrical Engineering | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| EC102/202                | Basic Electrical Engineering | Theory                           | Theory                           | 15                               | 15                                | 15                                | 15                     | 45                     | 45                     | 75                         |
+| EC102/202                | Basic Electrical Engineering | Laboratory                       | Laboratory                       | 15                               | 15                                | --                                | --                     | 10                     | 10                     | 25                         |
+
+Pre-requisite Course Codes, if any. Concepts of higher secondary physics and electromagnetism
+
+Course Objective: To introduce students to the fundamental principles of electrical engineering, enabling them to analyze DC, single-phase, and three-phase AC circuits; to impart a foundational understanding of electromagnetic and electromechanical energy conversion devices like transformers and rotating motors; and to explore the physics, characteristics, and sizing criteria of solar photovoltaic and battery energy storage systems.
+
+| Course Outcomes (CO): At the end of the course students will be able to   | Course Outcomes (CO): At the end of the course students will be able to                                                              |
+|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| EC102/202.1                                                               | Analyze different active dc networks in steady state and transient conditions.                                                       |
+| EC102/202.2                                                               | Analyze ac circuit in steady state condition with the knowledge of ac power measurement and resonance.                               |
+| EC102/202.3                                                               | Define fundamental principles and characteristics of common electric machines used in common residential and industrial applications |
+| EC102/202.4                                                               | Discuss about Photovoltaic solar cells, their characteristics and applications with the knowledge of battery storage system          |
+| EC102/202.5                                                               | Examine electrical parameters of the batteries and their selection and design criteria for a specific application                    |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                                                                                                                                                                          | Ref.   |   Hrs. |
+|--------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | DC Circuits                                                                                                                                                                                                                                                                                                                                                                     | 1,2    |     12 |
+|           1. | 1.1        | Introduction to active and passive electrical circuit elements, Solution of passive resistive network (Series, Parallel, Star- Delta transformation), Solution of active network with different circuit theorems such as Kirchhoff's current and voltage laws, , Superposition, Thevenin's, Norton's and Maximum Power Transfer Theorems with Dependent and Independent sources | 1,2    |     12 |
+|           1. | 1.2        | Time-domain analysis with DC transient in First order Electrical Networks.                                                                                                                                                                                                                                                                                                      | 1,2    |     12 |
+|           2. | Title      | AC Circuits                                                                                                                                                                                                                                                                                                                                                                     | 1,2    |     12 |
+|           2. | 2.1        | Steady State AC Analysis (phasor analysis, impedance and admittance)                                                                                                                                                                                                                                                                                                            | 1,2    |     12 |
+|           2. | 2.2        | AC Power Concepts (Real, Reactive, Apparent power and power factor correction)                                                                                                                                                                                                                                                                                                  | 1,2    |     12 |
+|           2. | 2.3        | Resonance (series and parallel resonance, quality factor and bandwidth)                                                                                                                                                                                                                                                                                                         | 1,2    |     12 |
+
+<!-- image -->
+
+## Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+|                       | 2.4                   | Introduction to three phase ac network topologies, power computation in three phase circuit, Steady state analysis with balanced three phase network                                                                                                                                                      |                       |     |
+|-----------------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|
+| 3.                    | Title                 | Electromagnetic and Electro-Mechanical Energy Converters                                                                                                                                                                                                                                                  | 3                     | 12  |
+| 3.                    | 3.1                   | Magnetically Coupled Coils, Self and Mutual Inductance and Dot Convention                                                                                                                                                                                                                                 | 3                     | 12  |
+| 3.                    | 3.2                   | Single Phase Transformer: Principle of Operation, Equivalent Circuits, OC and SC test, Efficiency and Regulation Calculation                                                                                                                                                                              | 3                     | 12  |
+| 3.                    | 3.3                   | Fundamental Principles of Rotating Machines, Working Principle, Characteristics and applications of Induction motor, BLDC motor and Stepper Motor                                                                                                                                                         | 3                     | 12  |
+| 4.                    | Title                 | Renewable Energy and Storage Systems                                                                                                                                                                                                                                                                      |                       | 4 6 |
+| 4.                    | 4.1                   | Solar PV Physics and Modeling: Working principle of solar cell, equivalent electrical circuit model, I-V and P-V characteristic curves under varying solar irradiance and temperature                                                                                                                     |                       | 4 6 |
+| 4.                    | 4.2                   | Maximum Power Transfer Tracking (MPPT): The mathematical requirement for power extraction, impedance matching circuits, foundational MPPT algorithm (P&O, Incremental conductance)                                                                                                                        |                       | 4 6 |
+| 4.                    | 4.3                   | Battery Energy Storage systems: Introduction to type of Batteries, Generalized Battery parameters such as SoC, DoD, Energy and Power Densities, Battery C-rating, etc. Comparison of Batteries, Charging and Discharging Characteristic, Selection and Sizing of Battery Packs for Specific Applications  |                       | 4 6 |
+| 5.                    | Self- Study           | Three phase transformer: Working principle and applications, modelling of batteries, basics of power converters (Buck, Boost and Buck-Boost), PV Solar and Battery system integration, bidirectional power flow and net metering concept, introduction to simulation tools using PSpice, MATLAB or SEQUEL |                       | 8*  |
+| Total (*not included) | Total (*not included) | Total (*not included)                                                                                                                                                                                                                                                                                     | Total (*not included) | 42  |
+
+## Laboratory Component, if any. (Minimum 10 Laboratory experiments are expected)
+
+|   Sr. No. | Title of the Experiment                                                                                                                        |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1. | Verification of Star-Delta and Delta-star Transformation                                                                                       |
+|        2. | Verification of different network theorems for the given DC circuit                                                                            |
+|        3. | Verification of DC Transient equations in RL and RC Circuits                                                                                   |
+|        4. | Verification of the concept of phasors with the help of RLC Series network.                                                                    |
+|        5. | Validation of Concepts of self-inductance, mutual inductance and dot conventions in two magnetically coupled coils or single phase transformer |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|   6. | Study of concept of resonance in R-L-C series circuit with excited by variable frequency source.   |
+|------|----------------------------------------------------------------------------------------------------|
+|   7. | Measurement of AC power in single phase R-L-C circuit                                              |
+|   8. | Power measurement in three phase AC circuit                                                        |
+|   9. | OC and SC test on Transformer                                                                      |
+|  10. | Characterization and MPPT control of solar PV system                                               |
+|  11. | Study of construction of DC and AC motors with the help of cut out section of the motor models.    |
+
+## Text Books:
+
+|   Sr. No. | Title                                                            | Edition   | Authors                        | Publisher                              |   Year |
+|-----------|------------------------------------------------------------------|-----------|--------------------------------|----------------------------------------|--------|
+|        1. | Basic Electrical Engineering                                     | Third     | D. P. Kothari and I.J. Nagrath | Tata McGraw Hill                       |   2010 |
+|        2. | Electrical Technology                                            | 23rd      | B. L. Theraja                  | S. Chand                               |   2003 |
+|        3. | Electrical Machines                                              | 5th       | D.P. Kothari and I.J. Nagrath  | MC Graw Hill                           |   2017 |
+|        4. | Solar Photovoltaics: Fundamentals, Technologies and applications | 3rd       | Chetan Singh Solanki           | PHI Learning Pvt. Ltd.                 |   2015 |
+|        5. | Control System Engineering                                       | 5th       | I. J. Nagrath, M. Gopal        | New Age                                |   2009 |
+|        6. | Signals and Systems                                              | 2nd       | A. Oppenheim, A. Willsky       | Prentice-Hall Signal Processing Series |   1996 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                                  | Edition   | Authors                                       | Publisher              |   Year |
+|-----------|--------------------------------------------------------|-----------|-----------------------------------------------|------------------------|--------|
+|        1. | Applied Photovoltaics                                  | 3rd       | S. Wenham et.al                               | Routledge              |   2013 |
+|        2. | Electric Machinery                                     | 6th       | A. E. Fitzgerald, C. Kingsley and S. D. Umans | McGraw Hill            |   2003 |
+|        3. | Electrical Machinery Fundamentals                      | 5th       | Stephen J. Chapman                            | McGraw Hill            |   2012 |
+|        4. | Electrical Machinery                                   | 7th       | Dr. P. S. Bimbhra                             | Khanna Publisher       |   2024 |
+|        5. | Brushless Permanent Magnet and Reluctance Motor Drives |           | T. J .E. Miller                               | Clarendon Press-Oxford |   1989 |
+
+## Online Resources:
+
+- 1) https://nptel.ac.in/courses/108101091
+- 2) https://onlinecourses.nptel.ac.in/noc22\_ee113/preview
+- 3) [https://onlinecourses.nptel.ac.in/e-learning/preview/noc22\_ee109](https://onlinecourses.nptel.ac.in/e-learning/preview/noc22_ee109)
+- 4) https://nptel.ac.in/courses/117108141
+- 5) https://nptel.ac.in/courses/115107116
+- 6) https://onlinecourses.nptel.ac.in/noc25\_ee132/preview
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name                                | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|--------------------------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSES (CE & CSE)          | Basic Electrical & Electronics Engineering | 3                                | 0                                | 2                                | 6                                 | 11                                | 3                      | 0                      | 1                      | 4                          |
+| BSES (CE & CSE)          | Basic Electrical & Electronics Engineering | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSES (CE & CSE)          | Basic Electrical & Electronics Engineering | Component                        | Component                        | Component                        | ISE (%) MSE                       | ISE (%) MSE                       | (%) ESE                | (%) ESE                | (%)                    | Total                      |
+| EC103/203                | Basic Electrical & Electronics Engineering | Theory                           | Theory                           | Theory                           | 15                                | 15                                | 15                     | 15                     | 45                     | 75                         |
+| EC103/203                | Basic Electrical & Electronics Engineering | Laboratory                       | Laboratory                       | Laboratory                       | 15                                | 15                                | --                     | --                     | 10                     | 25                         |
+
+| Pre-requisite Course Codes, if any.                                                                                                                                                                                                                                                                                            | Pre-requisite Course Codes, if any.                                                                                                                                                                                                                                                                                            | Concepts of higher secondary physics and electromagnetism                                                                                                                                                                                                                                                                      |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course Objective: To introduce students to the fundamental principles of electrical and electronics engineering, enabling them to analyze DC/AC circuits, understand the behavior of solid-state semiconductor devices and integrated circuits, and grasp the foundational concepts of signals, systems, and feedback control. | Course Objective: To introduce students to the fundamental principles of electrical and electronics engineering, enabling them to analyze DC/AC circuits, understand the behavior of solid-state semiconductor devices and integrated circuits, and grasp the foundational concepts of signals, systems, and feedback control. | Course Objective: To introduce students to the fundamental principles of electrical and electronics engineering, enabling them to analyze DC/AC circuits, understand the behavior of solid-state semiconductor devices and integrated circuits, and grasp the foundational concepts of signals, systems, and feedback control. |
+| Course Outcomes (CO): At the end of the course students will be able to                                                                                                                                                                                                                                                        | Course Outcomes (CO): At the end of the course students will be able to                                                                                                                                                                                                                                                        | Course Outcomes (CO): At the end of the course students will be able to                                                                                                                                                                                                                                                        |
+| EC103/203.1                                                                                                                                                                                                                                                                                                                    | Analyze different active dc networks in steady state and transient conditions.                                                                                                                                                                                                                                                 | Analyze different active dc networks in steady state and transient conditions.                                                                                                                                                                                                                                                 |
+| EC103/203.2                                                                                                                                                                                                                                                                                                                    | Analyze ac circuit in steady state condition with the knowledge of ac power measurement and resonance.                                                                                                                                                                                                                         | Analyze ac circuit in steady state condition with the knowledge of ac power measurement and resonance.                                                                                                                                                                                                                         |
+| EC103/203.3                                                                                                                                                                                                                                                                                                                    | Interpret concept of coupled electromagnetic circuits and dot conventions                                                                                                                                                                                                                                                      | Interpret concept of coupled electromagnetic circuits and dot conventions                                                                                                                                                                                                                                                      |
+| EC103/203.4                                                                                                                                                                                                                                                                                                                    | Explain characteristics of basic semiconductor devices and use them with their relevant applications using integrated circuits.                                                                                                                                                                                                | Explain characteristics of basic semiconductor devices and use them with their relevant applications using integrated circuits.                                                                                                                                                                                                |
+| EC103/203.5                                                                                                                                                                                                                                                                                                                    | Describe the basics of signals and systems with feedback control system as a special case.                                                                                                                                                                                                                                     | Describe the basics of signals and systems with feedback control system as a special case.                                                                                                                                                                                                                                     |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                                                                                                                                                                          | Ref.   |   Hrs. |
+|--------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | DC Circuits                                                                                                                                                                                                                                                                                                                                                                     | 1,2    |     12 |
+|           1. | 1.1        | Introduction to active and passive electrical circuit elements, Solution of passive resistive network (Series, Parallel, Star- Delta transformation), Solution of active network with different circuit theorems such as Kirchhoff's current and voltage laws, , Superposition, Thevenin's, Norton's and Maximum Power Transfer Theorems with Dependent and Independent sources | 1,2    |     12 |
+|           1. | 1.2        | Time-domain analysis with DC transient in First order Electrical Networks.                                                                                                                                                                                                                                                                                                      | 1,2    |     12 |
+|           2. | Title      | AC Circuits and Electromagnetism                                                                                                                                                                                                                                                                                                                                                | 1,2    |     12 |
+|           2. | 2.1        | Steady State AC Analysis (phasor analysis, impedance and admittance)                                                                                                                                                                                                                                                                                                            | 1,2    |     12 |
+|           2. | 2.2        | AC Power Concepts (Real, Reactive, Apparent power and power factor correction)                                                                                                                                                                                                                                                                                                  | 1,2    |     12 |
+|           2. | 2.3        | Resonance (series and parallel resonance, quality factor and bandwidth)                                                                                                                                                                                                                                                                                                         | 1,2    |     12 |
+|           2. | 2.4        | Magnetically coupled circuit (Concept of self and mutual inductance, magnetically coupled coils and dot                                                                                                                                                                                                                                                                         | 1,2    |     12 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+|                       |                       | convention), working principle and emf equation of transformer                                                                                                                                                                                                                                                                              |                       |    |
+|-----------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|----|
+| 3.                    | Title                 | Solid State Electronics with Discrete Devices                                                                                                                                                                                                                                                                                               | 3                     | 6  |
+| 3.                    | 3.1                   | Static and Dynamic Characteristics of basic semiconductor devices: diode, Bipolar Junction Transistor, MOSFET                                                                                                                                                                                                                               | 3                     | 6  |
+| 3.                    | 3.2                   | Application circuits with diode for rectification, chopping and wave shaping.                                                                                                                                                                                                                                                               | 3                     | 6  |
+| 3.                    | 3.3                   | Application of transistors (BJT and MOSFET) as a signal amplifier and as a semiconductor switch.                                                                                                                                                                                                                                            | 3                     | 6  |
+| 4.                    | Title                 | Solid State Electronics with Integrated Circuits                                                                                                                                                                                                                                                                                            | 4                     | 6  |
+| 4.                    | 4.1                   | Application of mixed signal integrated circuits: as a timer, as an Operational Amplifier, for Arithmetic analog operations, Analog comparator, Analog to Digital conversation(any one method), Digital to analog Conversion (any one method)                                                                                                | 4                     | 6  |
+| 5.                    | Title                 | Basics of Signals, Systems and Feedback Control                                                                                                                                                                                                                                                                                             | 5,6                   | 6  |
+| 5.                    | 5.1                   | Signals and systems: Continuous time and discrete time signals, unit step, unit impulse unit ramp functions and convolution                                                                                                                                                                                                                 | 5,6                   | 6  |
+| 5.                    | 5.2                   | Introduction to Feedback control System: Open loop and closed loop systems, transfer functions and block diagram representation, transient response of first order and second order systems, sensors and actuators                                                                                                                          | 5,6                   | 6  |
+| 6.                    | Self- Study           | Introduction to three phase circuits and their common topologies, Equivalent circuit of transformer, computation of efficiency and regulation of transformer, linear regulator circuits using solid state devices such as zener diode and transistor, Application of Laplace and Z- transform in the analysis of signal and control systems |                       | 8* |
+| Total (*not included) | Total (*not included) | Total (*not included)                                                                                                                                                                                                                                                                                                                       | Total (*not included) | 42 |
+
+## Laboratory Component, if any. (Minimum 10 Laboratory experiments are expected)
+
+|   Sr. No. | Title of the Experiment                                                                                                                        |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1. | Verification of Star-Delta and Delta-star Transformation                                                                                       |
+|        2. | Verification of different network theorems for the given DC circuit                                                                            |
+|        3. | Verification of DC Transient equations in RL and RC Circuits                                                                                   |
+|        4. | Verification of the concept of phasors with the help of RLC Series network.                                                                    |
+|        5. | Validation of Concepts of self-inductance, mutual inductance and dot conventions in two magnetically coupled coils or single phase transformer |
+|        6. | Study of concept of resonance in R-L-C series circuit with excited by variable frequency source.                                               |
+|        7. | Measurement of AC power in single phase R-L-C circuit                                                                                          |
+|        8. | Study of static and dynamic Characteristic of discrete semiconductor devices. (Diode, BJT and MOSFET)                                          |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+|   9. | Application of IC 555 as a timer circuit                                        |
+|------|---------------------------------------------------------------------------------|
+|  10. | Operational amplifier as a differential amplifier and comparator                |
+|  11. | Implementation of Analog arithmetic operation using OPAMP ICs.                  |
+|  12. | Validation of ADC using Parallel comparator                                     |
+|  13. | Validation of DAC using R-2R ladder network.                                    |
+|  14. | Computer simulation of second order feedback control system with step response. |
+
+Note: Conduction of above experiments should be associated with computer simulator tools such as PSpice, MATLAB, SEQUEL etc.
+
+## Text Books:
+
+|   Sr. No. | Title                                 | Edition   | Authors                           | Publisher                              |   Year |
+|-----------|---------------------------------------|-----------|-----------------------------------|----------------------------------------|--------|
+|        1. | Electrical and Electronic Technology  | 12th      | Edward Hughes                     | Pearson                                |   2016 |
+|        2. | Electrical Technology                 | 23rd      | B. L. Theraja                     | S. Chand                               |   2003 |
+|        3. | Electronic Devices and Circuit Theory | 11th      | Robert Boylestad, Louis Nashelsky | Pearson                                |   2013 |
+|        4. | Op-Amp and Linear Integrated Circuits | 4th       | Ramakant Gayakwad                 | PHI                                    |   2000 |
+|        5. | Control System Engineering            | 5th       | I. J. Nagrath, M. Gopal           | New Age                                |   2009 |
+|        6. | Signals and Systems                   | 2nd       | A. Oppenheim, A. Willsky          | Prentice-Hall Signal Processing Series |   1996 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                                 | Edition   | Authors                                    | Publisher   |   Year |
+|-----------|-------------------------------------------------------|-----------|--------------------------------------------|-------------|--------|
+|        1. | Basic Electrical Engineering                          | 2nd       | D. C. Kulshreshtha                         | McGraw Hill |   2019 |
+|        2. | Foundation of Analog and Digital Electronics Circuits |           | Anant Agarwal and Jeffrey H. Lang          | Elsevier    |   2005 |
+|        3. | Feedback control of Dynamic System                    | 8th       | G. Fraknlin, J. D. Powell, A. Emami-Naeini | Pearson     |   2020 |
+|        4. | Engineering Circuit Analysis                          | 8th       | W. Hayt, J. Kemmerly, S. Durbin            | McGraw Hill |   2012 |
+
+## Online Resources:
+
+- 1) https://nptel.ac.in/courses/108101091
+- 2) https://onlinecourses.nptel.ac.in/noc22\_ee113/preview
+- 3) https://onlinecourses.nptel.ac.in/e-learning/preview/noc22\_ee109
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name                | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|----------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| SEC                      | Imperative Programming Lab | 0                                | 0                                | 4                                | 2                                 | 6                                 | 0                      | 0                      | 2                      | 2                          |
+| SEC                      | Imperative Programming Lab | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| SEC                      | Imperative Programming Lab | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| CECS101                  | Imperative Programming Lab | Theory                           | Theory                           | -                                | -                                 | -                                 | -                      | -                      | -                      | -                          |
+| CECS101                  | Imperative Programming Lab | Laboratory                       | Laboratory                       | 80                               | 80                                | --                                | --                     | 20                     | 20                     | 100                        |
+
+| Pre-requisite Course Codes, if any.                                                           | Pre-requisite Course Codes, if any.                                                                   | None                                                                                                  |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Course Objective: To develop problem-solving skills using the imperative programming paradigm | Course Objective: To develop problem-solving skills using the imperative programming paradigm         | Course Objective: To develop problem-solving skills using the imperative programming paradigm         |
+| Course Outcomes (CO): At the end of the course students will be able to                       | Course Outcomes (CO): At the end of the course students will be able to                               | Course Outcomes (CO): At the end of the course students will be able to                               |
+| CECS101.1                                                                                     | Design algorithms and flowcharts to solve computational problems systematically.                      | Design algorithms and flowcharts to solve computational problems systematically.                      |
+| CECS101.2                                                                                     | Develop, compile, test, and debug C programs using appropriate programming constructs.                | Develop, compile, test, and debug C programs using appropriate programming constructs.                |
+| CECS101.3                                                                                     | Apply decision-making and looping constructs to develop solutions for computational problems.         | Apply decision-making and looping constructs to develop solutions for computational problems.         |
+| CECS101.4                                                                                     | Implement array and string based solutions for efficient data manipulation.                           | storage and                                                                                           |
+| CECS101.5                                                                                     | Develop modular C programs using functions and recursion to solve complex problems.                   | Develop modular C programs using functions and recursion to solve complex problems.                   |
+| CECS101.6                                                                                     | Design and implement data structures using structures and unions to organize and manage complex data. | Design and implement data structures using structures and unions to organize and manage complex data. |
+| CECS101.7                                                                                     | Apply pointers and parameter-passing techniques to develop efficient C programs.                      | Apply pointers and parameter-passing techniques to develop efficient C programs.                      |
+
+## Laboratory Teaching and Practical Component:
+
+|   Module No. | Unit No.   | Topics / Experiments                                                                                   | Ref.   |   Hrs. |
+|--------------|------------|--------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | Fundamentals of C Programming                                                                          | 1,2    |      4 |
+|           1. | 1.1        | Programs using data types, variables, constants, and precision analysis.                               | 1,2    |      4 |
+|           1. | 1.2        | Programs demonstrating arithmetic, relational, logical, assignment, conditional and bitwise operators. | 1,2    |      4 |
+|           1. | 1.3        | Programs for basic mathematical applications.                                                          | 1,2    |      4 |
+|           2. | Title      | Decision Making and Control Structures                                                                 | 1,2    |      4 |
+|           2. | 2.1        | Programs using if, if-else, nested if and switch.                                                      | 1,2    |      4 |
+|           2. | 2.2        | Number classification programs.                                                                        | 1,2    |      4 |
+|           2. | 2.3        | Looping constructs.                                                                                    | 1,2    |      4 |
+|           2. | 2.4        | Break and continue.                                                                                    | 1,2    |      4 |
+|           2. | 2.5        | Pattern generation.                                                                                    | 1,2    |      4 |
+|           3. | Title 3.1  | Menu-Driven Programming Applications Simple Billing System.                                            | 1,2    |      4 |
+|           3. | 3.2        | Temperature Conversion and Analysis System.                                                            | 1,2    |      4 |
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+|   4. | Title     | One-Dimensional Array Applications                     | 1,2   |   4 |
+|------|-----------|--------------------------------------------------------|-------|-----|
+|   4. | 4.1       | Student Report Card Management System.                 | 1,2   |   4 |
+|   4. | 4.2       | ATM Banking Simulation.                                | 1,2   |   4 |
+|   4. | 4.3       | Sales Data Analysis.                                   | 1,2   |   4 |
+|   4. | 4.4       | Searching, sorting and statistical analysis.           | 1,2   |   4 |
+|   5. | Title     | Multidimensional Arrays and String Processing          | 1,2   |   4 |
+|   5. | 5.1       | Matrix operations.                                     | 1,2   |   4 |
+|   5. | 5.2       | String operations.                                     | 1,2   |   4 |
+|   5. | 5.3       | Frequency analysis.                                    | 1,2   |   4 |
+|   5. | 5.4       | Array reversal and second largest element.             | 1,2   |   4 |
+|   6. | Title     | Integrated Array and String Applications               | 1,2   |   4 |
+|   6. | 6.1       | Student Marks Analysis.                                | 1,2   |   4 |
+|   6. | 6.2       | Text and Data Analyzer.                                | 1,2   |   4 |
+|   6. | 6.3       | Username Validation.                                   | 1,2   |   4 |
+|   6. | 6.4       | Text Message Analyzer.                                 | 1,2   |   4 |
+|   7. | Title     | Functions and Modular Programming                      | 1,2   |   4 |
+|   7. | 7.1       | Functions and prototypes.                              | 1,2   |   4 |
+|   7. | 7.2       | Call by value/reference.                               | 1,2   |   4 |
+|   7. | 7.3       | Array and string processing.                           | 1,2   |   4 |
+|   7. | 7.4       | Applications using functions.                          | 1,2   |   4 |
+|   8. | Title     | Pointers and Dynamic Data Manipulation                 | 1,2   |   4 |
+|   8. | 8.1       | Pointer basics.                                        | 1,2   |   4 |
+|   8. | 8.2       | Swapping using pointers.                               | 1,2   |   4 |
+|   8. | 8.3       | Array manipulation.                                    | 1,2   |   4 |
+|   8. | 8.4       | Pointer parameters.                                    | 1,2   |   4 |
+|   9. | Title     | Recursion                                              | 1,2   |   4 |
+|   9. | 9.1       | Recursive computations.                                | 1,2   |   4 |
+|   9. | 9.2       | Recursive array/string processing.                     | 1,2   |   4 |
+|   9. | 9.3       | Tower of Hanoi.                                        | 1,2   |   4 |
+|   9. | 9.4       | File Backup Simulation.                                | 1,2   |   4 |
+|   9. | 9.5       | Recursive Word Reversal.                               | 1,2   |   4 |
+|  10. | Title     | Structures                                             | 1,2   |   4 |
+|  10. | 10.1      | Structure basics.                                      | 1,2   |   4 |
+|  10. | 10.2      | Nested structures.                                     | 1,2   |   4 |
+|  10. | 10.3      | Passing structures.                                    | 1,2   |   4 |
+|  10. | 10.4      | Student Result System.                                 | 1,2   |   4 |
+|  10. | 10.5      | Bank Management System.                                | 1,2   |   4 |
+|  11. | Title     | Unions and Advanced Data Representation                | 1,2   |   4 |
+|  11. | 11.1      | Union declaration.                                     | 1,2   |   4 |
+|  11. | 11.2      | Structure vs Union.                                    | 1,2   |   4 |
+|  11. | 11.3      | Nested structures.                                     | 1,2   |   4 |
+|  11. | 11.4      | Arrays of unions.                                      | 1,2   |   4 |
+|  11. | 11.5 11.6 | Bit-fields. Menu-driven demo.                          | 1,2   |   4 |
+|  12. | Title     | Comprehensive Applications Using Structures and Unions | 1,2   |   4 |
+|  12. | 12.1      |                                                        | 1,2   |   4 |
+|  12. |           | Temperature Sensor Data Storage System.                | 1,2   |   4 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+|                 | 12.2            | Hospital Patient Management System.                                                |                 |    |
+|-----------------|-----------------|------------------------------------------------------------------------------------|-----------------|----|
+| 13.             | Title           | File Operations                                                                    | 1,2             |  4 |
+| 13.             | 13.1            | File handling: Types of Files, file operation-opening, closing, creating, reading. | 1,2             |  4 |
+| 13.             | 13.2            | Command line arguments, Dynamic Memory allocation                                  | 1,2             |  4 |
+| Total Lab Hours | Total Lab Hours | Total Lab Hours                                                                    | Total Lab Hours | 52 |
+
+## Text Books:
+
+|   Sr. No. | Title                      |   Edition | Authors             | Publisher                                  |   Year |
+|-----------|----------------------------|-----------|---------------------|--------------------------------------------|--------|
+|        1. | Programming with C         |         4 | Byron Gottfried     | McGraw Hill (Schaum's outline series) 2018 |   2018 |
+|        2. | The C programming Language |         2 | Kernighan , Ritchie | Pearson                                    |   2015 |
+
+## Reference Books:
+
+|   Sr. No. | Title    |   Edition | Authors           | Publisher   |   Year |
+|-----------|----------|-----------|-------------------|-------------|--------|
+|        1. | Let us C |        16 | Yeshwant Kanetkar | BPB         |   2017 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name                     | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|---------------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| SEC                      | Object Oriented Programming Lab | 0                                | 0                                | 4                                | 2                                 | 6                                 | 0                      | 0                      | 2                      | 2                          |
+| SEC                      | Object Oriented Programming Lab | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| SEC                      | Object Oriented Programming Lab | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| CECS201                  | Object Oriented Programming Lab | Theory                           | Theory                           | -                                | -                                 | -                                 | -                      | -                      | -                      | -                          |
+| CECS201                  | Object Oriented Programming Lab | Laboratory                       | Laboratory                       | 80                               | 80                                | --                                | --                     | 20                     | 20                     | 100                        |
+
+| Pre-requisite Course Codes, if any.                                                                 | Pre-requisite Course Codes, if any.                                                                            | CECS101-Imperative Programming Lab                                                                             |
+|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| Course Objective: To develop problem-solving skills using the object-oriented programming paradigm. | Course Objective: To develop problem-solving skills using the object-oriented programming paradigm.            | Course Objective: To develop problem-solving skills using the object-oriented programming paradigm.            |
+| Course Outcomes (CO): At the end of the course students will be able to                             | Course Outcomes (CO): At the end of the course students will be able to                                        | Course Outcomes (CO): At the end of the course students will be able to                                        |
+|                                                                                                     | Apply the fundamental concepts of Object-Oriented Programming using Java.                                      | Apply the fundamental concepts of Object-Oriented Programming using Java.                                      |
+|                                                                                                     | Develop Java programs using variables, operators, arrays, strings, and control structures.                     | Develop Java programs using variables, operators, arrays, strings, and control structures.                     |
+|                                                                                                     | Design and implement classes, objects, methods, and constructors in Java applications.                         | Design and implement classes, objects, methods, and constructors in Java applications.                         |
+|                                                                                                     | Apply inheritance, polymorphism, abstraction, and encapsulation to develop object-oriented software solutions. | Apply inheritance, polymorphism, abstraction, and encapsulation to develop object-oriented software solutions. |
+|                                                                                                     | Design and implement modular, reusable Java applications using interfaces and packages.                        | Design and implement modular, reusable Java applications using interfaces and packages.                        |
+|                                                                                                     | Analyze runtime errors using Java exception-handling mechanisms.                                               | Analyze runtime errors using Java exception-handling mechanisms.                                               |
+|                                                                                                     | Develop robust, reusable, and maintainable object-oriented Java applications.                                  | Develop robust, reusable, and maintainable object-oriented Java applications.                                  |
+
+## Laboratory Teaching and Practical Component:
+
+|   Module No. | Unit No.   | Topics / Experiments                         | Ref.   |   Hrs |
+|--------------|------------|----------------------------------------------|--------|-------|
+|           1. | Title      | Java Fundamentals and Program Structure      | 1,2    |     4 |
+|           1. | 1.1        | Introduction to Java program structure.      | 1,2    |     4 |
+|           1. | 1.2        | Command-line arguments.                      | 1,2    |     4 |
+|           1. | 1.3        | Console graphics and patterns.               | 1,2    |     4 |
+|           1. | 1.4        | Java source, bytecode and project files.     | 1,2    |     4 |
+|           1. | 1.5        | Data types, casting and arithmetic.          | 1,2    |     4 |
+|           2. | Title      | Input Handling and Basic Applications        | 1,2    |     4 |
+|           2. | 2.1        | Console input using DataInputStream/Scanner. | 1,2    |     4 |
+|           2. | 2.2        | Currency calculations.                       | 1,2    |     4 |
+|           2. | 2.3        | Cashier change-making.                       | 1,2    |     4 |
+|           2. | 2.4        | Debugging exercises.                         | 1,2    |     4 |
+|           2. | 2.5        | Number/time calculations.                    | 1,2    |     4 |
+|           3. | Title      | Strings, Arrays and Basic Problem Solving    | 1,2    |     4 |
+|           3. | 3.1        | Month-name generation.                       | 1,2    |     4 |
+|           3. | 3.2        | Password validation.                         | 1,2    |     4 |
+|           3. | 3.3        | Array computations.                          | 1,2    |     4 |
+|           3. | 3.4        | Election vote counting.                      | 1,2    |     4 |
+|           3. | 3.5        | Array merging and sorting.                   | 1,2    |     4 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 4.              | Title           | Control Structures and Iterative Programming              | 1,2             | 8     |
+|-----------------|-----------------|-----------------------------------------------------------|-----------------|-------|
+| 4.              | 4.1             | Digits reversal.                                          | 1,2             | 8     |
+| 4.              | 4.2             | Financial calculations.                                   | 1,2             | 8     |
+| 4.              | 4.3             | Pattern generation.                                       | 1,2             | 8     |
+| 4.              | 4.4             | Game of Life.                                             | 1,2             | 8     |
+| 4.              | 4.5             | Multi-dimensional arrays.                                 | 1,2             | 8     |
+| 5.              | Title           | Object-Oriented Programming Fundamentals                  | 1,2             | 8     |
+| 5.              | 5.1             | Classes and objects.                                      | 1,2             | 8     |
+| 5.              | 5.2             | Constructors.                                             | 1,2             | 8     |
+| 5.              | 5.3             | Banking system.                                           | 1,2             | 8     |
+| 5.              | 5.4             | Student result processing.                                | 1,2             | 8     |
+| 5.              | 5.5             | Roman numeral conversion.                                 | 1,2             | 8     |
+| 6.              | Title           | Method Overloading, Static Members and Single Inheritance | 1,2             | 4     |
+| 6.              | 6.1             | Vehicle Service System.                                   | 1,2             | 4     |
+| 6.              | 6.2             | Library System.                                           | 1,2             | 4     |
+| 6.              | 6.3             | Static members.                                           | 1,2             | 4     |
+| 6.              | 6.4             | Method overloading.                                       | 1,2             | 4     |
+| 6.              | 6.5             | Single inheritance.                                       | 1,2             | 4     |
+| 7.              | Title           | Advanced Inheritance and Runtime Polymorphism             |                 | 1,2 8 |
+| 7.              | 7.1             | Admission Processing.                                     |                 |       |
+| 7.              | 7.2             | Vehicle Parking.                                          |                 |       |
+| 7.              | 7.3             | Insurance Policy.                                         |                 |       |
+| 7.              | 7.4             | Hierarchical inheritance.                                 |                 |       |
+| 7.              | 7.5             | Runtime polymorphism.                                     |                 |       |
+| 7.              | 7.6             | Use of final.                                             |                 |       |
+|                 | 8. Title        | Abstract Classes and Interfaces                           | 1,2             | 4     |
+|                 | 8.1             | Machine Management.                                       | 1,2             | 4     |
+|                 | 8.2             | Online Learning Platform.                                 | 1,2             | 4     |
+|                 | 8.3             | Abstract classes.                                         | 1,2             | 4     |
+|                 | 8.4             | Interfaces. Access modifiers.                             | 1,2             | 4     |
+| 9.              | 8.5 Title       | Multiple Inheritance Through Interfaces                   | 1,2             | 4     |
+| 9.              | 9.1             | Utility Billing.                                          | 1,2             | 4     |
+| 9.              | 9.2             | Student Evaluation.                                       | 1,2             | 4     |
+| 9.              | 9.3             | Interface extension.                                      | 1,2             | 4     |
+| 9.              | 9.4             | Interface integration.                                    | 1,2             | 4     |
+| 10.             | Title           | Exception Handling and Enterprise Applications            | 1,2             | 4     |
+| 10.             | 10.1            | Healthcare Management.                                    | 1,2             | 4     |
+| 10.             | 10.2            | Insurance System.                                         | 1,2             | 4     |
+| 10.             | 10.3            | Exception handling.                                       | 1,2             | 4     |
+| 10.             | 10.4 10.5       | Polymorphic billing. Enterprise application.              | 1,2             | 4     |
+| Total Lab Hours | Total Lab Hours | Total Lab Hours                                           | Total Lab Hours | 52    |
+
+<!-- image -->
+
+## Text Books:
+
+|   Sr. No. | Title                           |   Edition | Authors         | Publisher       |   Year |
+|-----------|---------------------------------|-----------|-----------------|-----------------|--------|
+|        1. | Java: The Complete Reference    |        10 | Herbert Schildt | Tata McGrawhill |   2017 |
+|        2. | Programming with Java: A Primer |         3 | E. Balagurusamy | Tata McGrawhill |        |
+
+## Reference Books:
+
+|   Sr. No. | Title           |   Edition | Authors                   | Publisher   |   Year |
+|-----------|-----------------|-----------|---------------------------|-------------|--------|
+|        1. | Head First Java |         3 | Kathy Sierra & Bert Bates | O'Reilly    |   2022 |
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name         | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Teaching Scheme (Hrs/week) - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|---------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|------------------------|------------------------|----------------------------|
+| SEC (ECE)                | Data Structures Lab | 0                                | 0                                | 4                                | 2                                 | 6                                 | 0                                | 0                      | 2                      | 2                          |
+| SEC (ECE)                | Data Structures Lab | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme               | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| SEC (ECE)                | Data Structures Lab | Component                        | Component                        | Component                        | ISE (%)                           | ISE (%)                           | MSE (%)                          | MSE (%)                | ESE (%)                | Total                      |
+| CECS202                  | Data Structures Lab | Theory                           | Theory                           | Theory                           | --                                | --                                | --                               | --                     | --                     | --                         |
+| CECS202                  | Data Structures Lab | Laboratory                       | Laboratory                       | Laboratory                       | 80                                | 80                                | --                               | --                     | 20                     | 100                        |
+
+## Pre-requisite Course Codes, if any. Imperative Programming Lab
+
+Course Objective: To develop the ability to apply suitable data structures and their operations for designing efficient solutions to computational problems through laboratory-based implementation and experimentation.
+
+| Course Outcomes (CO): At the end of the course students will be able to   | Course Outcomes (CO): At the end of the course students will be able to                                                                        |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| CECS202.1                                                                 | Apply the basic operations and the working of stack, queue, and linked list data structures.                                                   |
+| CECS202.2                                                                 | Apply tree-based data structures including binary trees, binary search trees, AVL trees, and B-trees for efficient data storage and retrieval. |
+| CECS202.3                                                                 | Apply graph and disjoint-set data structures using appropriate representations and traversal techniques.                                       |
+| CECS202.4                                                                 | Employ heap-based data structures and priority queue operations for efficient management of data and tasks.                                    |
+| CECS202.5                                                                 | Utilize hashing techniques and collision resolution methods to develop efficient data storage and retrieval solutions.                         |
+
+## Evaluation Scheme
+
+- 1) Laboratory Evaluation consists of Practical and Oral Examination based on the syllabus covering both Laboratory Teaching and all experiments.
+- 2) C Programming language is mandatory for all experiments in Laboratory component.
+
+## Laboratory Component
+
+- † Note - The laboratory component consists of two parts: (i) Laboratory Teaching by Lab Teacher and (ii) Conduction of Experiment. The Course Coordinator decides problems for all 10 experiments based on Laboratory Teaching content at the time of course plan. The Lab teachers explain the topics in "Laboratory Teaching" and the problems in the first 1-2 hrs. of the laboratory sessions. Students implement the problem in the remaining 2-3 hrs.
+
+## Sr. No.
+
+## † Laboratory Teaching and Experiment List
+
+1. Laboratory Teaching - Linear and Non-linear Data structures. Stack and Queues as ADT and its Operations.
+
+Title of Experiment - Experiment based Stack and/or Queue data structure in linear and/or non-linear implementation to solve the given problem.
+
+2. Laboratory Teaching - Singly and Doubly Linked List as ADT and its Operations.
+
+Title of Experiment - Experiment based Singly and/or Doubly Linked List to solve the given problem.
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|   3. | Laboratory Teaching - General and Binary Tree, Binary Search Tree as ADT and its Operations. Title of Experiment - Experiment based on general or binary tree and/or Binary Search Tree to solve the given problem.                                                                         |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|   4. | Laboratory Teaching - AVL and B-Tree as ADT and its operations - Insertion and Deletion. Title of Experiment - Experiment based on B-Trees and apply traversal operations to solve the given problem.                                                                                       |
+|   5. | Laboratory Teaching - Graph as ADT and its implementation and Traversal Technique. Title of Experiment - Experiment based Graph data structures and then apply BFS and/or DFS traversals to solve the given problem.                                                                        |
+|   6. | Laboratory Teaching - Disjoint Set data structures as ADT and its implementation and operations. Title of Experiment - Experiment based Disjoint-Set data structure and apply Union- Find operations to solve the given problem.                                                            |
+|   7. | Laboratory Teaching - Min and Max Heap as ADT and its Construction. Title of Experiment - Experiment based on-Heap and/or Max-Heap and then apply heap operations to solve the given problem which requires some priority queue.                                                            |
+|   8. | Laboratory Teaching - Binomial heap as ADT and its operations. Title of Experiment - Experiment based on Binomial Heap for the given problem.                                                                                                                                               |
+|   9. | Laboratory Teaching - Fibonacci heaps as ADT and its operations. Title of Experiment - Experiment based on Fibonacci Heap for the given problem.                                                                                                                                            |
+|  10. | Laboratory Teaching - Hash Tables: Direct-address Tables, Hash Table, Hash Functions. Collision Resolution Techniques Title of Experiment - Experiment based on Hash Table with any collision resolution techniques and apply it for efficient dictionary management for the given problem. |
+
+## Textbooks:
+
+|   Sr. No. | Title                                         | Edition   | Authors                                                                 | Publisher             |   Year |
+|-----------|-----------------------------------------------|-----------|-------------------------------------------------------------------------|-----------------------|--------|
+|        1. | Introduction to Algorithms                    | Third     | Thomas H. Cormen, Charles E. Leiserson, Ronald L Rivest, Clifford Stein | MIT Press             |   2009 |
+|        2. | Fundamentals of Computer Algorithms           | Second    | Horowitz E, Sahni S and S. Rajasekaran                                  | Galgotia Publications |   2010 |
+|        3. | Data Structures and Algorithm Analysis in C++ | Fourth    | Mark Allen Weiss                                                        | Pearson               |   2014 |
+
+## Reference Books:
+
+|   Sr. No. | Title                   | Edition   | Authors         | Publisher   |   Year |
+|-----------|-------------------------|-----------|-----------------|-------------|--------|
+|        1. | Classic Data Structures | Second    | Samanta Debasis | PHI         |   2009 |
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|   2. | Data Structures with C                   | First   | Seymour Lipschutz                                                | Schaum's Outline Series   |   2010 |
+|------|------------------------------------------|---------|------------------------------------------------------------------|---------------------------|--------|
+|   3. | Data Structures and Algorithms in Python | First   | Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser | Wiley                     |   2013 |
+
+## Online Resources:
+
+- 1) [MIT OpenCourseWare - Introduction to Algorithms (6.006): https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020)
+- 2) Stanford Engineering Everywhere - CS106B Programming Abstractions: https://see.stanford.edu/Course/CS106B
+- 3) NPTEL - Design and Analysis of Algorithms (CMI): https://www.nptel.ac.in/courses/106106131
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name     | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|-----------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| SEC                      | Design Thinking | 0                                | 1                                | 2                                | 0                                 | 3                                 | 0                      | 1                      | 1                      | 2                          |
+| SEC                      | Design Thinking | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| SEC                      | Design Thinking | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| AS113/213                | Design Thinking | Theory                           | Theory                           | 20                               | 20                                | -                                 | -                      | -                      | -                      | 20                         |
+| AS113/213                | Design Thinking | Laboratory                       | Laboratory                       | 60                               | 60                                | -                                 | -                      | 20                     | 20                     | 80                         |
+
+## Pre-requisite Course Codes, if any.
+
+No
+
+Course Objective: To introduce student to Design Thinking as a human centered approach for identifying problems, under need generating innovative solutions and developing sustainable and value driven product services and system.
+
+| Course Outcomes (CO): At the End of the course students will be able to   | Course Outcomes (CO): At the End of the course students will be able to                                                           |
+|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| AS113/213.1                                                               | Understand the principles, frameworks, and processes of Design Thinking for solving complex and ambiguous real-world problems.    |
+| AS113/213.2                                                               | Develop empathy and user-centered problem-solving skills through stakeholder analysis, observation, and user research techniques. |
+| AS113/213.3                                                               | Apply creativity, innovation, and modern ideation techniques to generate and evaluate multiple solution alternatives.             |
+| AS113/213.4                                                               | Design, prototype, test, and refine solutions using iterative development and feedback-driven improvement approaches.             |
+| AS113/213.5                                                               | Create feasible, sustainable, and value-driven solutions by integrating technological, business, and societal perspectives.       |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics Covered                                                                                            | Ref. Books   |   Hrs. |
+|--------------|------------|-----------------------------------------------------------------------------------------------------------|--------------|--------|
+|           1. | Title      | Introduction to Design Thinking & Innovation                                                              | 1, 2, 3      |      2 |
+|           1. | 1.1        | Evolution of Design Thinking, Human-Centered Design (HCD), Stanford d.School Process,                     | 1, 2, 3      |      2 |
+|           1. | 1.2        | Double Diamond Framework, Design Thinking vs. Traditional Engineering Problem Solving, Innovation Mindset | 1, 2, 3      |      2 |
+|           2. | Title      | Empathy and Problem Discovery                                                                             | 1, 2, 3, 4   |      3 |
+|           2. | 2.1        | Stakeholder Mapping, Observation Techniques, Contextual Inquiry                                           | 1, 2, 3, 4   |      3 |
+|           2. | 2.2        | User Interviews, Empathy Mapping, Persona Development, Customer Journey Mapping, User Need Analysis       | 1, 2, 3, 4   |      3 |
+|           3. | Title      | Problem Definition and Ideation                                                                           | 1, 2, 7, 8   |      3 |
+|           3. | 3.1        | Affinity Diagramming, Root Cause Analysis, 5 Why Analysis, Point-of-View (POV)                            | 1, 2, 7, 8   |      3 |
+|           3. | 3.2        | How-Might-We Statements, Brainstorming, SCAMPER, Mind Mapping, Idea Evaluation and Selection              | 1, 2, 7, 8   |      3 |
+|           4. | Title      | Prototyping and User Experience Design                                                                    | 4, 5, 8      |      2 |
+|           4. | 4.1        | Storyboarding, Wireframing, Low-Fidelity Prototyping, Rapid Prototyping,                                  | 4, 5, 8      |      2 |
+|           4. | 4.2        | UI/UX Design Principles, Design for Accessibility and Inclusiveness                                       | 4, 5, 8      |      2 |
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 5.    | Title   | Testing and Validation                                                                                                  | 6, 9    |   2 |
+|-------|---------|-------------------------------------------------------------------------------------------------------------------------|---------|-----|
+| 5.    | 5.1     | User Testing, Usability Evaluation, Kano Model, Feedback Collection,                                                    | 6, 9    |   2 |
+| 5.    | 5.2     | Iterative Improvement and Validation Techniques                                                                         | 6, 9    |   2 |
+| 6.    | Title   | Entrepreneurship and Sustainable Innovation                                                                             | 3, 5, 7 |   2 |
+| 6.    | 6.1     | Lean Startup Principles, Business Model Canvas, Sustainable Design, Frugal Engineering, Circular Economy,               | 3, 5, 7 |   2 |
+| 6.    | 6.2     | Design for Industry 5.0, Sustainable Development Goals (SDGs), Future Trends in Human-Centered and AI-Driven Innovation | 3, 5, 7 |   2 |
+| Total | Total   | Total                                                                                                                   | Total   |  14 |
+
+## Mini Project (Running Throughout the Semester)
+
+## Each student team shall select one engineering problem from domains such as:
+
+- Smart Cities
+- Healthcare Technology
+- Sustainable Energy
+- Agriculture &amp; Food Systems
+- Industrial Automation
+- Education Technology
+- Environmental Sustainability
+- Assistive Technologies
+- Transportation Systems
+- Industry 4.0
+
+Laboratory Component: Experiments 1-10 shall collectively contribute to the semester-long Design Thinking Mini Project.
+
+|   Sr. No. | Title of the Experiment                                                                                                                                                               |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1. | Problem Discovery and Stakeholder Analysis for a Smart Campus/Smart City Challenge. Suggested tools & techniques-Stakeholder Mapping, Empathy Mapping, Observation Studies.           |
+|        2. | Redesigning a Transportation System for a Smart City using User Research and Journey Mapping. Suggested tool & techniques-User Interviews, Journey Mapping, Service Blueprinting.     |
+|        3. | Enhancing User Safety in a Medical Device using Human Factors Analysis and Usability Testing. Suggested tool & techniques-Personas, Human Factors Analysis, Usability Evaluation.     |
+|        4. | Designing a Sustainable Packaging Solution using Life Cycle Assessment and Material Exploration. Suggested tool & techniques-SCAMPER, LCA Analysis, Material Benchmarking.            |
+|        5. | Improving Energy Efficiency in a Building using Observation, Energy Monitoring, and Root Cause Analysis. Suggested tool & techniques: Energy Audit, Fishbone Diagram, 5-Why Analysis. |
+|        6. | Creating an Autonomous Drone-Based Agricultural Monitoring Solution using Ideation and Rapid Prototyping. Suggested tool & techniques: Brainstorming, Design Sprint, Storyboarding.   |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+7. Redesigning a Public Space for Community Engagement using Participatory Design and Co-Creation Methods.
+
+Suggested tool &amp; techniques: Observation, Participatory Design Workshop, Affinity Mapping.
+
+8. Developing a Renewable Energy Microgrid Solution using Systems Thinking and Simulation Modeling.
+2. Suggested tool &amp; techniques: Systems Mapping, Simulation Tools, Scenario Analysis.
+9. Designing an AR-Based Training Tool for Industrial Maintenance using User-Centered Design and Prototyping.
+4. Suggested tool &amp; techniques: Storyboarding, Wireframing, AR Mockups, User Testing.
+10. Creating a User-Friendly Interface for Industrial Automation Equipment using UI/UX Design and Usability Testing.
+6. Suggested tool &amp; techniques: Wireframing, Figma, Heuristic Evaluation, Usability Testing.
+
+## Text Books:
+
+|   Sr. No. | Title                                                                | Edition         | Authors                                        | Publisher               |   Year |
+|-----------|----------------------------------------------------------------------|-----------------|------------------------------------------------|-------------------------|--------|
+|        1. | Handbook of Design Thinking: Tips & Tools for How to Design Thinking | 1st             | Christian Mueller- Roterberg                   | Independently Published |   2018 |
+|        2. | The Field Guide to Human- Centered Design                            | 1st             | IDEO.org                                       | IDEO.org                |   2015 |
+|        3. | The Design of Everyday Things                                        | Revised Edition | Donald Norman                                  | MIT Press               |   2013 |
+|        4. | The Design Thinking Toolbox                                          | 1st             | Michael Lewrick, Patrick Link and Larry Leifer | Wiley                   |   2018 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                                                         | Edition   | Authors                                           | Publisher                          |   Year |
+|-----------|-------------------------------------------------------------------------------|-----------|---------------------------------------------------|------------------------------------|--------|
+|        5. | The Design of Business: Why Design Thinking is the Next Competitive Advantage | 1st       | Roger Martin                                      | Harvard Business Review Press      |   2009 |
+|        6. | Understanding Design Thinking, Lean and Agile                                 | 1st       | Jonny Schneider                                   | O'Reilly Media                     |   2017 |
+|        7. | Design Thinking: Understand - Improve - Apply                                 | 1st       | Hasso Plattner, Christoph Meinel and Larry Leifer | Springer-Verlag Berlin Heidelberg. |   2011 |
+|        8. | Patrick Link and Larry Leifer, The Design Thinking Toolbox                    | 1st       | Michael Lewrick                                   | John Wiley & Sons, Inc..           |   2018 |
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 9.   | Creative Confidence   | 1st   | Tom Kelley and David Kelley   | Crown Business   | 2013   |
+|------|-----------------------|-------|-------------------------------|------------------|--------|
+
+## Online Resources:
+
+- 1) NPTEL course Design Thinking - A Primer, IIT Madras, available at: https://nptel.ac.in/courses/110106124
+- 2) Stanford d.school Design Thinking Starter Kit, available at: https://dschool.stanford.edu/
+- 3) IDEO Design Thinking: Human-Centered Innovation, available at: https://designthinking.ideo.com/
+- 4) Coursera course Design Thinking for Innovation by University of Virginia, available at: https://www.coursera.org/learn/uva-darden-designbiz
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name             | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Teaching Scheme (Hrs/week) - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|-------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|------------------------|------------------------|----------------------------|
+| SEC                      | Engineering Exploration | 0                                | 1                                | 2                                | 0                                 | 3                                 | 0                                | 1                      | 1                      | 2                          |
+| SEC                      | Engineering Exploration | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme               | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| SEC                      | Engineering Exploration | Component                        | Component                        | Component                        | ISE (%) MSE                       | ISE (%) MSE                       | (%)                              | (%)                    | ESE (%)                | Total                      |
+| AS114/214                | Engineering Exploration | Theory                           | Theory                           | Theory                           | --                                | --                                | --                               | --                     | --                     | --                         |
+| AS114/214                | Engineering Exploration | Laboratory                       | Laboratory                       | Laboratory                       | 80                                | 80                                | --                               | --                     | 20                     | 100                        |
+
+| Pre-requisite Course Codes, if any.   | Basic concepts of mechanics, physics, computer, electrical and electronics   |
+|---------------------------------------|------------------------------------------------------------------------------|
+
+Course Objective: The objective of this course is to provide engineering students with an early exposure to engineering practice by engaging them in the identification, analysis, design, and implementation of solutions for real-world problems. The course aims to develop scientific thinking, creativity, teamwork, ethical awareness, and hands-on problem-solving skills through guided Project-Based Learning (PBL).
+
+| Course Outcomes (CO): At the End of the course students will be able to   | Course Outcomes (CO): At the End of the course students will be able to                                                                     |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| AS114/214.1                                                               | Explain the role of engineering, science, technology, and ethics in solving real- world problems responsibly.                               |
+| AS114/214.2                                                               | Apply project management and teamwork principles to plan and execute need statements.                                                       |
+| AS114/214.3                                                               | Analyze engineering solutions using sustainability, life cycle assessment, embodied energy, carbon footprint, and basic mechanism concepts. |
+| AS114/214.4                                                               | Develop feasible design concepts using problem definition, function structure, morphological chart, ideation, and product architecture.     |
+| AS114/214.5                                                               | Create and implement basic engineering prototypes using virtual modelling tools, embedded platforms, and hardware-software interfacing.     |
+
+## Guidelines for Engineering Exploration:
+
+- The orientation to Engineering Exploration Course shall be given in the first week.
+- Students must form a group of a minimum of 4.
+- The Engineering Exploration must contain implementation in terms of Hardware and Software.
+- Students will be made aware about the lab facilities, resources.
+- The "Idea Statement" will be given to students. They will have to work on an Idea Statement and decide "Problem Statement" during the course. For the decided "Problem Statement", each group will work towards building the working prototype.
+- Students in a group should understand problems effectively, propose multiple solutions and select the best possible solution in consultation with a mentor.
+- Students shall convert the best solution into a working model using various components of their domain areas and demonstrate.
+- For each group, a faculty mentor will be allocated. The group will progress in association with the mentor.
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+- There will be weekly progress meetings with the mentor.
+- While working on their prototype, students will be provided (issued to groups) with the materials and components required. At the end, they have to return the issued materials &amp; components.
+- The solution to the Problem Statement to be validated with proper justification and report to be compiled in standard format given by the department. The report should contain title, student details, certificate, and acknowledgements. Other sections of the report shall be introduction, Idea Statement, Problem Statement, Need, objectives, hypothesis, plan, observations, conclusion and references along with other sections related to technology.
+- Students are also supposed to capture video of their working model along with voice over (describing the working).
+- The documents, video/s etc are supposed to be submitted by each group in the soft form. The drive link or repository will be shared by faculty.
+- Each group is also expected to submit the final model to the Engineering Exploration Lab, from where the parts were issued.
+
+## Guidelines for Assessment of the Course : ISE and ESE:
+
+## In Semester Evaluation:
+
+- The students will be assessed during the entire course duration; this ISE will carry 80% of the weightage.
+- Students are expected to get involved in each and every activity of the course. The progress will be evaluated on continuous basis, having regular assessment points. It will be shared by faculty.
+- In continuous assessment focus shall also be on each individual student, assessment based on individual's contribution in group activity, their understanding and response to questions.
+- The End Semester Evaluation (ESE) shall be scheduled during the last week of semester. During the ESE, internal faculties and external experts will be invited to evaluate the final Prototype of the Idea Statement.
+- The course will end with an Exhibition event. During this Exhibition, groups will showcase their working prototype and the entire institute (students, faculties) will be invited to visit the Exhibition.
+- The best 2 or 3 groups will be shortlisted at the end of the course. The ranking of shortlisted projects will be given by higher authorities and domain experts.
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                                                                                                                                                                                             | Ref.    |   Hrs |
+|--------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|-------|
+|           1. | Title      | Introduction to Engineering and Engineering Study                                                                                                                                                                                                                                                                                                                                                  | 2, 3, 4 |    04 |
+|           1. |            | Definition and Meaning of Engineering, History and Evolution of Engineering, Role of Engineers in Society and Industry, Relationship between Science, Engineering, and Technology, Differences between Science, Engineering, and Technology                                                                                                                                                        |         |       |
+|           2. | Title      | Project Management                                                                                                                                                                                                                                                                                                                                                                                 | 2, 4, 5 |    04 |
+|           2. |            | Fundamentals of Project Management: concepts, importance, and project life cycle phases; Project Definition: objectives, scope, stakeholders, requirements, and deliverables; Project Planning: task breakdown, schedule, budget, resource planning, and risk management; Project Execution and Teamwork: communication, role allocation, progress tracking, and collaborative project activities. |         |       |
+|           3. | Title      | Sustainability in Engineering                                                                                                                                                                                                                                                                                                                                                                      | 2, 6    |    04 |
+|           3. |            | Sustainability development; Product life cycle management; Life cycle assessment; Sustainable Materials; Embodied energy & calculation; Carbon foot- print calculation,                                                                                                                                                                                                                            |         |       |
+|           4. | Title      | Mechanism                                                                                                                                                                                                                                                                                                                                                                                          | 3       |    08 |
+|           4. |            | Differentiate between machines and mechanisms; Types of links, pairs, and chains; degree of freedom, common motions in mechanisms; working of cams, gears, belts, and chain drives; Introduction to Linkages software; mechanism concepts in real-world engineering and automation systems.                                                                                                        |         |       |
+|           5. | Title      | Engineering Design                                                                                                                                                                                                                                                                                                                                                                                 | 2, 5    |    10 |
+|           5. |            | Engineering Design Process; Function Structure; Morphological Chart; Ideation-Concept Generation; Product Architecture; Problem Statement Definition; Concept Selection - Pugh chart.                                                                                                                                                                                                              |         |       |
+|           6. | Title      | Virtual Implementation                                                                                                                                                                                                                                                                                                                                                                             | 3       |    10 |
+|           6. |            | Introduction to Computer Aided Design (CAD) tool, Sketching 2D-3D models in open source software, creating assembly.                                                                                                                                                                                                                                                                               |         |       |
+|           7. | Title      | Platform Based Development                                                                                                                                                                                                                                                                                                                                                                         | 1, 3    |    12 |
+|           7. |            | Introduction; Various Embedded Platforms; Microcontrollers: Features, Types, Applications; Hardware Required; IDE Installation; Driver Installation; Programming using C/C++/Python/Micro-python;                                                                                                                                                                                                  |         |       |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|                       | Introduction to Sensors, actuators; Introduction Interfacing Components.                                                                                              | to                    |    |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|----|
+| 8. Title              | Engineering Ethics Traditional & Engineering Ethics; Virtue Ethics; Engineering Code of Ethics; Ethical Dilemma & its solution; case studies; Intellectual Property & | 2, 7                  | 04 |
+| Total (*not included) | Total (*not included)                                                                                                                                                 | Total (*not included) | 56 |
+
+## Text Books:
+
+|   Sr. No. | Title                                                                                      | Edition   | Authors                                            | Publisher                    |   Year |
+|-----------|--------------------------------------------------------------------------------------------|-----------|----------------------------------------------------|------------------------------|--------|
+|        1. | Making Things Talk: Using Sensors, Networks, and Arduino to See, Hear, and Feel Your World | 3rd       | Tom Igoe                                           | Maker media                  |   2017 |
+|        2. | Exploring Engineering An Introduction to Engineering and Design                            | 6th       | Robert Balmer, William Keat                        | Academic Press               |   2024 |
+|        3. | Fundamentals of Robotics Analysis and Control                                              | 1st       | Robert J. Schilling                                | PHI Learning                 |   1990 |
+|        4. | Engineering Fundamentals & Problem Solving                                                 | 6th       | Arvid Eide, Roland Jenison, Larry Northup, Steven. | McGraw Hill Higher Education |   2011 |
+|        5. | Engineering Design: A Project-Based Introduction                                           | 4th       | Clive L. Dym & Patrick Little.                     | Wiley & sons                 |   2008 |
+|        6. | Industrial Ecology and Sustainable Engineering                                             |           | Allenby, B. R. and Graedel, T. E                   | Pearson                      |   2009 |
+|        7. | Engineering Ethics                                                                         | 2nd       | Govindarajan M., Natarajan S., Senthil Kumar V.S   | Prentice Hall India.         |   2004 |
+
+## Online Resources:
+
+- 1) Managerial Skills for Interpersonal Dynamics https://onlinecourses.nptel.ac.in/elearning/preview/noc26\_mg107
+- 2) [Soft Skills: https://onlinecourses.nptel.ac.in/e-learning/preview/noc26\_hs193](https://onlinecourses.nptel.ac.in/e-learning/preview/noc26_hs193)
+- 3) Introduction to Project Management: Principles : https://onlinecourses.swayam2.ac.in/e-learning/preview/imb26\_mg65
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name                       | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Teaching Scheme (Hrs/week) - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|-----------------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|------------------------|------------------------|----------------------------|
+| SEC                      | Professional Communication Skills | 0                                | 1                                | 2                                | 2                                 | 5                                 | 0                                | 1                      | 1                      | 2                          |
+| SEC                      | Professional Communication Skills | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme               | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| SEC                      | Professional Communication Skills | Component                        | Component                        | Component                        | ISE (%) MSE                       | ISE (%) MSE                       | (%)                              | (%)                    | ESE (%)                | Total                      |
+| AS115                    | Professional Communication Skills | Theory                           | Theory                           | Theory                           | --                                | --                                | 50                               | 50                     | --                     | -                          |
+| AS115                    | Professional Communication Skills | Laboratory                       | Laboratory                       | Laboratory                       | 150                               | 150                               | --                               | --                     | --                     | 200                        |
+
+| Pre-requisite Course Codes, if any.                                                                                                                                                                                                                                                                                                 | Pre-requisite Course Codes, if any.                                                                                                                                                                                                                                                                                                 | No                                                                                                                                                                                                                                                                                                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course Objective: To develop students' communication competence by enhancing their ability to read, write, listen, and speak effectively in academic, professional, and technical contexts, enabling them to communicate ideas clearly, collaborate successfully, and engage confidently in engineering and workplace environments. | Course Objective: To develop students' communication competence by enhancing their ability to read, write, listen, and speak effectively in academic, professional, and technical contexts, enabling them to communicate ideas clearly, collaborate successfully, and engage confidently in engineering and workplace environments. | Course Objective: To develop students' communication competence by enhancing their ability to read, write, listen, and speak effectively in academic, professional, and technical contexts, enabling them to communicate ideas clearly, collaborate successfully, and engage confidently in engineering and workplace environments. |
+| Course Outcomes (CO): At the End of the course students will be able to                                                                                                                                                                                                                                                             | Course Outcomes (CO): At the End of the course students will be able to                                                                                                                                                                                                                                                             | Course Outcomes (CO): At the End of the course students will be able to                                                                                                                                                                                                                                                             |
+| AS115.1                                                                                                                                                                                                                                                                                                                             | Explain the communication process, models, and barriers, and apply effective communication strategies in academic and professional contexts.                                                                                                                                                                                        | Explain the communication process, models, and barriers, and apply effective communication strategies in academic and professional contexts.                                                                                                                                                                                        |
+| AS115.2                                                                                                                                                                                                                                                                                                                             | Apply appropriate reading strategies to comprehend, interpret, analyze, and evaluate academic and technical texts effectively.                                                                                                                                                                                                      | Apply appropriate reading strategies to comprehend, interpret, analyze, and evaluate academic and technical texts effectively.                                                                                                                                                                                                      |
+| AS115.3                                                                                                                                                                                                                                                                                                                             | Produce clear, concise, and well-structured technical and research-based documents using appropriate writing conventions and professional formats.                                                                                                                                                                                  | Produce clear, concise, and well-structured technical and research-based documents using appropriate writing conventions and professional formats.                                                                                                                                                                                  |
+| AS115.4                                                                                                                                                                                                                                                                                                                             | Demonstrate active listening skills by interpreting information accurately, providing constructive feedback, and responding appropriately in interpersonal and professional situations.                                                                                                                                             | Demonstrate active listening skills by interpreting information accurately, providing constructive feedback, and responding appropriately in interpersonal and professional situations.                                                                                                                                             |
+| AS115.5                                                                                                                                                                                                                                                                                                                             | Deliver organized and confident oral communication using appropriate verbal and non-verbal techniques for academic and professional audiences.                                                                                                                                                                                      | Deliver organized and confident oral communication using appropriate verbal and non-verbal techniques for academic and professional audiences.                                                                                                                                                                                      |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                                               | Ref.    |   Hrs |   P |
+|--------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|-------|-----|
+|           1. | Title      | Fundamentals of Communication                                                                                                                                                                                                                        | 3,4,5,6 |     5 |   7 |
+|           1. | 1.1        | Introduction to Communication: Definition, Objectives, Need for communication for engineers, Importance of communication, Process of Communication, Communication Models (Shannon- Weaver, Berlo's SMCR Model, Transactional Model of Communication) | 3,4,5,6 |     5 |   7 |
+|           1. | 1.2        | Methods of Communication: Verbal (Written, Oral), Non-verbal - Kinesics, Proxemics, Chronemics, Haptics, Oculesics, Silence as means of communication, charts, graphs, maps, signs & symbols                                                         | 3,4,5,6 |     5 |   7 |
+|           1. | 1.3        | Barriers to Communication: Physical, Mechanical, Semantic, Linguistic, Psychological, Socio-Cultural, Organisational barriers                                                                                                                        | 3,4,5,6 |     5 |   7 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 2.                     | Title                  | Reading & Writing Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 3,4.5,6                | 3                      |   7 |
+|------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------------|-----|
+| 2.                     | 2.1                    | Reading Models: Interactive Reading Model Top-Down Reading Model. Critical Reading Techniques: SQ3R (Newspaper articles) PQ4R (Journal Articles)                                                                                                                                                                                                                                                                                                                                  | 3,4.5,6                | 3                      |   7 |
+| 2.                     | 2.2                    | Principles of Technical Writing: Principles of Business Writing, YOU Attitude, Emphasize the positive, Courtesy & Consideration, Clarity & Conciseness, Avoid Jargon, Summary Writing, Creative Writing, Professional/Business Correspondence: Routine Letters, Business Letter formats & E-mail                                                                                                                                                                                  | 3,4.5,6                | 3                      |   7 |
+| 3                      | Title                  | Listening Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 3,4,5,6                | 2                      |   6 |
+| 3                      | 3.1                    | Understanding the Listening Process: Hearing vs. Listening, Stages of the Listening Process Listening Comprehension (audio): Pronunciation, intonation, Stress and Rhythm, TED Talk or podcast analysis Types of Listening: Active Listening, Informative Listening, Critical Listening & Empathetic Listening Active Listening Techniques: Paying Attention and Maintaining Focus, Note-taking, Strategies & Mind Mapping, Providing Constructive Feedback Barriers to Listening | 3,4,5,6                | 2                      |   6 |
+| 4                      | Title                  | Effective Speaking                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Text Book 2            | 4                      |   8 |
+| 4                      | 4.1                    | Fundamentals of Conversations: Types of Conversations: Formal, Informal Fundamentals of Public Speaking Elements of Effective Public Speaking, Structuring a Speech: Introduction, Body, and Conclusion, Speaking without fear, Talk Power Program, Storytelling Techniques                                                                                                                                                                                                       | Text Book 2            | 4                      |     |
+| 4                      | 4.2                    | Extempore: Social, technical, and abstract topics Formal Speech: Social, technical, and abstract topics Conversational Skills: Situation Based: Storytelling                                                                                                                                                                                                                                                                                                                      | Text Book 2            | 4                      |     |
+| 5.                     | Self                   | Basic Language Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                        | 2*                     |     |
+| 5.                     | Study                  | Basic Rules of Grammar and Sentence Structures, GRE Vocabulary                                                                                                                                                                                                                                                                                                                                                                                                                    |                        | 2*                     |     |
+| Total (* not included) | Total (* not included) | Total (* not included)                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Total (* not included) | Total (* not included) |  42 |
+
+## Laboratory Component:
+
+|   Sr. No. | Title of the assignments                                         |   Marks |
+|-----------|------------------------------------------------------------------|---------|
+|        1. | ISE 1 - Communication Theory                                     |      10 |
+|        2. | ISE 2 - Listening Comprehension (Audio) & Note-taking (TED Talk) |      20 |
+|        3. | ISE 3 - Creative Writing                                         |      20 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 4.    | ISE 4 - Critical Reading                     |   10 |
+|-------|----------------------------------------------|------|
+| 5.    | ISE 5 - Routine Letters and Business Writing |   20 |
+| 6.    | ISE 6 - Storytelling 20                      |      |
+| 7.    | ISE 7 - Conversational Skills                |   10 |
+| 8.    | ISE 8 - Formal Speech 15                     |      |
+| 9.    | ISE 9 - Group Presentation                   |   15 |
+| 10.   | Class Participation                          |   10 |
+| TOTAL | TOTAL                                        |  150 |
+
+## Text books:
+
+|   Sr. No. | Title                                            | Edition      | Authors                             | Publisher               |   Year |
+|-----------|--------------------------------------------------|--------------|-------------------------------------|-------------------------|--------|
+|        1. | Technical Communication: Principles and Practice | 4 th Edition | Meenakshi Raman and Sangeeta Sharma | Oxford University Press |   2022 |
+|        2. | A Concise Public Speaking Handbook               | 6 th Edition | Beebe, Steven A and Susan J. Beebe  | Pearson                 |   2024 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                  | Edition   | Authors                          | Publisher                    |   Year |
+|-----------|----------------------------------------|-----------|----------------------------------|------------------------------|--------|
+|        1. | Oxford Practice Grammar                | 1999      | John Eastwood                    | Oxford, India                |   1999 |
+|        2. | English Grammar for Today              | 2005      | Geoffrey Leech                   | Palgrave, UK                 |   2005 |
+|        3. | Communication Skills                   | 2010      | Dr. Meera Bharwani               | Synergy Knowledgeware, India |   2010 |
+|        4. | Communication Skills                   | 2011      | Meenakshi Raman, Sangeeta Sharma | Oxford, India                |   2011 |
+|        5. | Effective Technical Communication      | 2018      | M. Ashraf Rizvi                  | McGraw Hill, India           |   2018 |
+|        6. | Technical Communication for Engineers. | 2nd ed.   | Verma, Shalini.                  | Vikas Publishing,            |   2024 |
+
+## Online Resources:
+
+- 1) [https://www.oxfordlearnersdictionaries.com/](https://www.oxfordlearnersdictionaries.com/)
+- 4) [https://www.bbc.co.uk/learningenglish/english/features/pronunciation](https://www.bbc.co.uk/learningenglish/english/features/pronunciation)
+- 5) [https://owl.purdue.edu/](https://owl.purdue.edu/)
+- 6) [https://www.google.com/search?q=https://www.mindtools.com/page8.html](https://www.google.com/search?q=https://www.mindtools.com/page8.html)
+- 7) https://www.toastmasters.org/resources
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name   | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|---------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| SEC                      | Corporate     | 0                                | 1                                | 2                                | 0                                 | 3                                 | 0                      | 1                      | 1                      | 2                          |
+| SEC                      | Corporate     | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| AS215                    | Communication | Component                        | Component                        | Component                        | ISE (%) MSE                       | ISE (%) MSE                       | (%) ESE                | (%) ESE                | (%)                    | Total                      |
+| AS215                    | Skills        | Theory                           | Theory                           | Theory                           | --                                | --                                | 50                     | 50                     | -                      | -                          |
+| AS215                    |               | Tutorials                        | Tutorials                        | Tutorials                        | 150                               | 150                               | -                      | -                      | -                      | 200                        |
+
+Pre-requisite Course Codes, if any. No
+
+Course Objective: To develop students' communication competence by enhancing their ability to read, write, listen, and speak effectively in academic, professional, and technical contexts, enabling them to communicate ideas clearly, collaborate successfully, and engage confidently in engineering and workplace environments.
+
+| Course Outcomes (CO): At the End of the course students will be able to   | Course Outcomes (CO): At the End of the course students will be able to                                                                                                                      |
+|---------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AS215.1                                                                   | Develop professional resumes and demonstrate effective participation in group discussions and interviews for career advancement.                                                             |
+| AS215.2                                                                   | Prepare business proposals, case study reports, and formal reports, and deliver professional presentations using appropriate business communication strategies.                              |
+| AS215.3                                                                   | Apply conflict resolution, decision-making, leadership, negotiation, and emotional intelligence skills to enhance interpersonal effectiveness in professional environments.                  |
+| AS215.4                                                                   | Evaluate ethical issues related to artificial intelligence, engineering practice, copyright, plagiarism, and intellectual property rights, and demonstrate responsible professional conduct. |
+
+## Theory Component
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                     | Ref.   |   Hrs |   P |
+|--------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------|-----|
+|           1. | Title      | Placement Skills Part 1                                                                                                                                                                                                    | 3,4,5  |     2 |   3 |
+|           1. | 1.1        | Resume Writing: Understanding the Purpose of a Resume, Structure and Components of an Effective Resume, Writing Impactful Career Objectives and Professional Summaries, Highlighting Skills, Achievements, and Experience. | 3,4,5  |     2 |   3 |
+|           1. | 1.2        | Interview Skills: Understanding Different Types of Interviews (HR, Technical, Panel, Stress, Virtual), Preparing for Interviews: Research and Self-Assessment, Response Strategies, Professional Etiquette and Grooming    | 3,4,5  |     2 |   3 |
+|           2. | Title      | Fundamentals of Corporate Communication                                                                                                                                                                                    | 3,6,7  |     4 |   3 |
+|           2. | 2.1        | Conflict Resolution and Decision-Making Definition & Explanation, Types of Conflict, Conflict Resolution Strategies, Decision-Making Skills, Problem Analysis and Critical Thinking                                        | 3,6,7  |     4 |   3 |
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|    | 2.2   | Leadership and Negotiation Skills Leadership Concepts and Functions, Major Leadership Styles, Fundamentals of Negotiation, Negotiation Strategies and Tactics                                                                                         |                 |    |          |
+|----|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----|----------|
+|    | 2.3   | Emotional Intelligence and Self-Awareness Introduction & Components of Emotional Intelligence, Self-Awareness and Self-Regulation (Models), Empathy and Relationship Management, Building Effective Interpersonal Relationships                       |                 |    |          |
+| 3. | Title | Placement Skills Part - 2                                                                                                                                                                                                                             |                 |  2 | 3,4,5 6  |
+| 3. | 3.1   | Group Discussion: Introduction to Group Discussions and Their Objectives Verbal and Non-Verbal Cues, Critical Thinking and Idea Generation, Techniques for Initiating, Sustaining, and Concluding Discussions                                         |                 |  2 | 3,4,5 6  |
+| 3. | 3.2   | Presentation Skills: Planning & Structuring Presentations, Verbal & Non- Verbal Delivery, Visual Aids & Presentation Design                                                                                                                           |                 |  2 | 3,4,5 6  |
+| 4. | Title | Strategic Professional Communication                                                                                                                                                                                                                  | Text -1 Ref - 1 |  4 | 10       |
+| 4. | 4.1   | Business Proposal Writing & Pitching: Structure and Components of a Business, Proposal, Identifying Business Problems and Opportunities, Professional Formatting, Delivering Persuasive Pitches and Handling Questions.                               | Text -1 Ref - 1 |  4 | 10       |
+| 4. | 4.2   | Report Writing Structure and Components of Formal Reports, Writing Executive Summaries, Findings, and Recommendations, Use of Tables, Charts, and Visual Data, Referencing and Citation Practices, Editing, Proofreading, and Professional Formatting | Text -1 Ref - 1 |  4 | 10       |
+| 4. | 4.3   | Meeting Documentation Notice, Agenda, Minutes of the Meeting                                                                                                                                                                                          | Text -1 Ref - 1 |  4 | 10       |
+| 5. | Title | Research Writing                                                                                                                                                                                                                                      |                 |  2 | 6        |
+| 5. |       | Writing Abstract, Conducting Literature Review, Collecting and Analyzing Data, Referencing in APA & IEEE styles, Removing plagiarism, Artificial Intelligence and Ethical Issues                                                                      |                 |  2 | 6        |
+|    |       |                                                                                                                                                                                                                                                       |                 |    | Total 42 |
+
+## Laboratory Component:
+
+|   Sr. No. | Title of the assignments                     |   Marks |
+|-----------|----------------------------------------------|---------|
+|        1. | ISE 1 - Resume Writing                       |      10 |
+|        2. | ISE 2 - Group Discussion                     |      20 |
+|        3. | ISE 3 - Interview Skills                     |      20 |
+|        4. | ISE 4 - Business Proposal Writing & Pitching |      20 |
+|        5. | ISE 5 - Formal Report Writing                |      20 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 6.    | ISE 6 - Presentation           |   10 |
+|-------|--------------------------------|------|
+| 7.    | ISE 7 - Meeting                |   20 |
+| 8.    | ISE 8 - Minutes of the Meeting |   10 |
+| 9.    | ISE 9 - Research Paper Writing |   10 |
+| 10.   | Class Behavior and Etiquette   |   10 |
+| TOTAL | TOTAL                          |  150 |
+
+## Textbooks:
+
+|   Sr. No. | Title                        | Edition   | Authors                                 | Publisher     |   Year |
+|-----------|------------------------------|-----------|-----------------------------------------|---------------|--------|
+|        1. | Business Communication Today | 16th ed   | Bovée, Courtland L., and John V. Thill  | Pearson       |   2025 |
+|        2. | Business Communication       | 4th ed .  | Chaturvedi, P. D. and Mukesh Chaturvedi | Pearson India |   2024 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                                         | Edition          | Authors                                                           | Publisher                  |   Year |
+|-----------|---------------------------------------------------------------|------------------|-------------------------------------------------------------------|----------------------------|--------|
+|        1. | Essentials of Business Communication                          | 4th Asia Edition | Mary Ellen Guffey, Bertha Du-Babcock, Reid McLain, and Dana Loewy | Cengage Learning Asia      |   2025 |
+|        2. | Business Communication                                        | 4th Edition      | R. K. Madhukar                                                    | Vikas Publishing House     |   2024 |
+|        3. | Personality Development and Soft Skills                       | 3rd Edition      | Barun K. Mitra and Sangeeta Mitra                                 | Oxford University Press    |   2024 |
+|        4. | Communication Skills                                          | 2nd Edition      | Sanjay Kumar and Pushp Lata                                       | Oxford University Press    |   2018 |
+|        5. | Soft Skills: Enhancing Employability                          | 2nd Edition      | Rajendra Nair and Latha Nair                                      | Cambridge University Press |   2021 |
+|        6. | Emotional Intelligence: Why It Can Matter More Than IQ        | Updated Edition  | Daniel Goleman                                                    | Bloomsbury Publishing      |   2020 |
+|        7. | Crucial Conversations: Tools for Talking When Stakes Are High | 3rd Edition      | Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler     | McGraw-Hill                |   2022 |
+|        8. | Business Ethics: Concepts and Cases                           | 9th Edition      | Manuel G. Velasquez                                               | Pearson                    |   2023 |
+|        9. | Intellectual Property Rights                                  | 3rd Edition      | C. Chellamuthu and V. K. S. K. Subramanian                        | PHI Learning               |   2022 |
+
+## Online Sources
+
+- 1) [https://www.businesscommunication.org/](https://www.businesscommunication.org/)
+- 2) [https://www.mckinsey.com/](https://www.mckinsey.com/)
+- 3) [https://www.pearson.com/en-us/higher-education/products-services/mylab/businesscommunication.html](https://www.pearson.com/en-us/higher-education/products-services/mylab/business-communication.html)
+- 4) [https://blog.businesscommunicationnetwork.com/](https://blog.businesscommunicationnetwork.com/)
+- 5) [https://onlinecourses.swayam2.ac.in/e-learning/preview/imb26\_mg154](https://onlinecourses.swayam2.ac.in/e-learning/preview/imb26_mg154)
+
+<!-- image -->
+
+## B. Tech. (First Year Engineering)
+
+Syllabus (BSESEC)
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name         | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|---------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSESEC                   | Engineering Physics | 2                                | 0                                | 2                                | 6                                 | 10                                | 2                      | 0                      | 1                      | 3                          |
+| BSESEC                   | Engineering Physics | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSESEC                   | Engineering Physics | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total (%)                  |
+| AS101 /                  | Engineering Physics | Theory                           | Theory                           | 20                               | 20                                | 20                                | 20                     | 60                     | 60                     | 100                        |
+| AS201                    | Engineering Physics | Laboratory                       | Laboratory                       | 80                               | 80                                | -                                 | -                      | 20                     | 20                     | 100                        |
+
+| Pre-requisite Course Codes, if any.                                                                                   | Pre-requisite Course Codes, if any.                                                                                   | HSC level physics                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Course Objective: To provide the knowledge and methodology necessary for solving problems in the field of engineering | Course Objective: To provide the knowledge and methodology necessary for solving problems in the field of engineering | Course Objective: To provide the knowledge and methodology necessary for solving problems in the field of engineering |
+| Learning Outcomes (LO): At the End of the course students will be able to                                             | Learning Outcomes (LO): At the End of the course students will be able to                                             | Learning Outcomes (LO): At the End of the course students will be able to                                             |
+| AS101.1 / AS201.1                                                                                                     | Demonstrate the conceptual knowledge of quantum mechanics, semiconductors, lasers and wave optics.                    | Demonstrate the conceptual knowledge of quantum mechanics, semiconductors, lasers and wave optics.                    |
+| AS101.2 / AS201.2                                                                                                     | Solve the problems by applying                                                                                        | the basics concepts of physics.                                                                                       |
+| AS101.3 / AS201.3                                                                                                     | Explain the working principle of various LASERs and its practical applications.                                       | Explain the working principle of various LASERs and its practical applications.                                       |
+| AS101.4 / AS201.4                                                                                                     | Develop experimental skills and practical                                                                             | abilities.                                                                                                            |
+| AS101.5 / AS201.5                                                                                                     | Use scientific apparatus and comprehend accuracy of the experimental data.                                            | the importance of precision,                                                                                          |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                                                                                        | Ref.   |   Hrs. |
+|--------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | Quantum Physics                                                                                                                                                                                                                                                                               |        |        |
+|           1. | 1.1        | Origin of Quantum Mechanics: Blackbody Radiation, Photoelectric effect, Wave particle duality, de-Broglie hypothesis and its experimental verification, Wave packet, Heisenberg's uncertainty principle: verification and applications.                                                       | 1,2, 3 |        |
+|           1. | 1.2        | Mathematical formulation: Wave function, Probabilistic interpretation, Physical observables, Hermitian operators, expectation values. Schrödinger equation and Its Applications: Free Particle, Infinite Potential Well (1D and 3D), Degeneracy, heuristic description of Quantum tunnelling. | 1,2, 3 |     12 |
+|           1. | 1.3        | Basics of Quantum Computation: Linear algebra for two state systems and Qubits.                                                                                                                                                                                                               | 3,6    |        |
+|           2. | Title      | Semiconductors                                                                                                                                                                                                                                                                                |        |        |
+|           2. | 2.1        | Free electron model: Classical and Quantum free electron theory, Fermi-Dirac distribution function, Fermi Energy, and                                                                                                                                                                         | 5      |        |
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|                        |                        | Density of states. Origin of Energy Bands and Band Gaps, Band structure of Semiconductors and Insulators.                                                                                                                                                                                                                                     |                        | 11    |
+|------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------|
+|                        | 2.2                    | Intrinsic semiconductors: Carrier concentration, Fermi level, conductivity, Extrinsic semiconductors: types, law of mass action and charge neutrality, temperature dependence of carrier concentration, Variation of Fermi level with temperature and impurity concentration, Drift and diffusion currents. Hall effect and its applications. | 5                      |       |
+|                        | 2.3                    | Diodes: formation of a p-n junction, Energy band diagram of P-N junction in equilibrium, forward bias and reverse bias. Applications: Zener Diode, LED, photodiode.                                                                                                                                                                           | 5                      |       |
+|                        | Title                  | Lasers                                                                                                                                                                                                                                                                                                                                        |                        |       |
+| 3.                     | 3.1                    | Atomic levels, Quantum processes - Absorption, spontaneous and stimulated emission, Einstein's coefficients, Population inversion, metastable states, Components of Laser, 3 and 4-level lasers                                                                                                                                               | 3,4                    | 05    |
+|                        | 3.2                    | Ruby Laser, He-Ne Laser and semiconductor laser, Applications of lasers.                                                                                                                                                                                                                                                                      | 3,4                    |       |
+| 4.                     | Self- Study            | Interference of light in thin films having uniform thickness, Newton's rings, Applications of interference in anti- reflecting and highly reflecting thin films. Diffraction of light Diffraction due to single slit, double slit and diffraction grating.                                                                                    |                        | 04*   |
+| Total (* Not Included) | Total (* Not Included) | Total (* Not Included)                                                                                                                                                                                                                                                                                                                        | Total (* Not Included) | 24288 |
+
+## Lab Component:
+
+|   Sr. No. | Title of the Experiment*                                                                                               |
+|-----------|------------------------------------------------------------------------------------------------------------------------|
+|        1. | Determination of energy band gap of a semiconductor using four probe method                                            |
+|        2. | Study of I-V characteristics of a Zener diode                                                                          |
+|        3. | Determination of the type of semiconductor sample, concentration of charge carriers and its mobility using Hall Effect |
+|        4. | Determination of Planck's constant using photo vacuum tube                                                             |
+|        5. | Measurement of ultrasonic velocity in liquid medium using ultrasonic interferometer                                    |
+|        6. | Determination of radius of curvature using Newton's Rings                                                              |
+|        7. | Determination of thickness of a thin foil or wire using the interference pattern of a wedge- shaped film               |
+|        8. | Determination of wavelengths of a mercury source and resolving power of a plane diffraction grating                    |
+|        9. | Study of single slit diffraction                                                                                       |
+|       10. | Determination of grating element of a diffraction grating using a laser source                                         |
+|       11. | Determination of the numerical aperture of an optical fibre.                                                           |
+|       12. | Uses of a Cathode-Ray Oscilloscope                                                                                     |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+*Students will perform any 10 of the above experiments
+
+## Text Books:
+
+|   Sr. No. | Title                                       | Edition   | Authors                                     | Publisher                  |   Year |
+|-----------|---------------------------------------------|-----------|---------------------------------------------|----------------------------|--------|
+|        1. | A Textbook of Engineering Physics           | Eleventh  | Dr. M. N. Avadhanulu & Dr. P. G. Kshirsagar | S. Chand                   |   2018 |
+|        2. | Semiconductor Physics and devices           | Fourth    | Donald A. Neamen                            | McGraw Hill Education      |   2021 |
+|        3. | Quantum Computation and Quantum Information | Tenth     | Michael A. Nielsen and Isaac L. Chuang      | Cambridge University Press |   2011 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                 | Edition   | Authors                                           | Publisher                        |   Year |
+|-----------|---------------------------------------|-----------|---------------------------------------------------|----------------------------------|--------|
+|        1. | Concepts of Modern Physics            | Sixth     | Arthur Beiser                                     | McGraw Hill Education            |   2009 |
+|        2. | Fundamentals of Physics               | Tenth     | Halliday and Resnick                              | Wiley                            |   2013 |
+|        3. | Solid State Physics                   | Eighth    | S. O. Pillai                                      | New Age International Publishers |   2018 |
+|        4. | Lasers: Fundamentals and Applications | Second    | Ghatak and Thyagarajan                            | Springer                         |   2011 |
+|        5. | Engineering Physics                   | First     | B. K. Pandey and S. Chaturvedi                    | CENGAGE                          |   2023 |
+|        6. | An introduction to Quantum Computing  | First     | Phillip Kaye, Raymond Laflamme, and Michele Mosca | Oxford University Press          |   2006 |
+
+## Online Resources:
+
+- 1) [Quantum Physics: nptel.ac.in/courses/122106034](https://nptel.ac.in/courses/122106034)
+- 2) Semiconductors:nptel.ac.in/courses/108108122 and Semiconductor Physics And Devices - Donald Neamen.pdf - Google Drive
+- 3) Laser: nptel.ac.in/courses/115101639 and Microsoft PowerPoint - 05L11\_laserprinciples
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) - Code   | Course - Name        | Teaching Scheme (Hours/week) - L   | Teaching Scheme (Hours/week) - T   | Teaching Scheme (Hours/week) - P   | Teaching Scheme (Hours/week) - SE   | Teaching Scheme (Hours/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|----------------------------|----------------------|------------------------------------|------------------------------------|------------------------------------|-------------------------------------|-------------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSESEC                     | Industrial Chemistry | 2                                  | 0                                  | 2                                  | 6                                   | 10                                  | 2                      | 0                      | 1                      | 3                          |
+| BSESEC                     | Industrial Chemistry | Examination Scheme                 | Examination Scheme                 | Examination Scheme                 | Examination Scheme                  | Examination Scheme                  | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSESEC                     |                      | Component                          | Component                          | ISE (%)                            | ISE (%)                             | MSE (%)                             | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| AS102 /                    |                      | Theory                             | Theory                             | 20                                 | 20                                  | 20                                  | 20                     | 60                     | 60                     | 100                        |
+| AS202                      |                      | Laboratory                         | Laboratory                         | 80                                 | 80                                  |                                     |                        | 20                     | 20                     | 100                        |
+
+## Pre-requisites Course Codes, if any. HSC Level Chemistry
+
+Course Objective: To familiarize students with industrial chemicals, polymers, fuels, corrosion, electrochemical systems, and sustainable green chemical technologies while bridging the gap between basic chemistry and industrial engineering applications.
+
+| Course Outcomes (CO):At the End of the course students will be able to:                                                                                                                                                                                     | Course Outcomes (CO):At the End of the course students will be able to:   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| AS102.1 / AS202.1 Apply principles of industrial water quality estimation and analyze water treatment methods such as softening, filtration, desalination, and wastewater treatment for industrial and environmental applications                           |                                                                           |
+| AS102.2 / AS202.2 Compare different sources of energy like conventional fossil fuels, alternative fuels, batteries, Hydrogen fuel cells with respect to availability, working principles, constitution, efficiency of performance and environmental impact. |                                                                           |
+| AS102.3 / AS202.3 Identify methods for corrosion control based on knowledge of different types of corrosion and factors affecting rate of corrosion                                                                                                         |                                                                           |
+| Understand the structure and properties of advanced polymeric materials like conducting polymers, engineering polymers and liquid crystal polymers for modern engineering applications.                                                                     | AS102.4 / AS202.4                                                         |
+| AS102.5 / AS202.5 Understand sustainability and environmental issues in chemical industries.                                                                                                                                                                |                                                                           |
+| AS102.6 / AS102.6 Use electrochemical and analytical techniques such as pH-metric, conductometric, potentiometric, and iodometric titrations for analysis of water and in the interest of public heath and environment.                                     |                                                                           |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                           | Ref   |   Hrs. |
+|--------------|------------|------------------------------------------------------------------------------------------------------------------|-------|--------|
+|           1. | Title      | Water Treatment                                                                                                  |       |        |
+|           1. | 1.1        | Hardness of water and its impact on industry; types of hardness and calculation                                  | 1, 2  |      2 |
+|           1. | 1.2        | Methods of softening of water and numerical problems                                                             | 1, 2  |      2 |
+|           1. | 1.3        | Desalination of Brackish Water by electrodialysis, Reverse osmosis and ultrafiltration                           | 1,2   |      1 |
+|              | Title      | Fuels and Combustion                                                                                             |       |        |
+|              | 2.1        | Calorific value : Definition, Gross or Higher calorific value & Net or lower calorific value, Dulong"s formula & | 1, 2  |      2 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 2.                     |                        | numericals for calculations of Gross and Net calorific values.                                                                                                                                                       |                        |    |
+|------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|----|
+| 2.                     | 2.2                    | Petrol vs Diesel w.r.t. constitution, performance and specifications                                                                                                                                                 | 1,2, 3                 |  2 |
+| 2.                     | 2.3                    | Calculations for requirement of only Oxygen and air (by weight and by volume only) for given solid & gaseous fuels.                                                                                                  | 2,2                    |  2 |
+| 2.                     | 2.4                    | Alternate fuels and Hydrogen Economy                                                                                                                                                                                 | 1, 2                   |  2 |
+|                        | Title                  | Battery Technology                                                                                                                                                                                                   |                        |    |
+|                        | 3.1                    | Introduction, Important terms, Lead Acid storage Cell, Rechargeable Lithium ion batteries                                                                                                                            | 1, 3                   |  3 |
+|                        | 3. 3.2                 | Fuel cells, characteristics, description, construction and working of Hydrogen-oxygen fuel cells                                                                                                                     | 1, 3                   |  2 |
+|                        | Title                  | Corrosion                                                                                                                                                                                                            |                        |    |
+|                        | 4.1                    | Dry or Chemical Corrosion, Electrochemical corrosion : Galvanic cell corrosion, differential aeration and its various forms                                                                                          | 1,2                    |  3 |
+|                        | 4. 4.2                 | Factors affecting the rate of corrosion                                                                                                                                                                              | 1,2                    |  1 |
+|                        | 4.3                    | Methods to decrease the rate of corrosion Material selection, Proper designing, Cathodic protection- i) Sacrificial anodic protection ii) Impressed current method, Metallic coatings, Cathodic and anodic coatings; | 1,2                    |  2 |
+|                        | Title                  | Green Chemistry and Industrial Sustainability                                                                                                                                                                        |                        |    |
+|                        | 5.1                    | Principles and Applications of Green Chemistry Principles                                                                                                                                                            | 1,2                    |  4 |
+|                        | 5.                     | Self Learning                                                                                                                                                                                                        |                        |    |
+|                        |                        | Sodium Ion Batteries, Methods of application of coatings for corrosion control, different types of fuel cells                                                                                                        |                        |    |
+| Total (* Not Included) | Total (* Not Included) | Total (* Not Included)                                                                                                                                                                                               | Total (* Not Included) | 28 |
+
+## Laboratory Component:
+
+| Sr. No.   | Experiment Details                                                                 | Ref   |   Marks |
+|-----------|------------------------------------------------------------------------------------|-------|---------|
+| 1.        | Determination of total hardness of water sample                                    | 1,2   |       5 |
+| 2.        | Removal of hardness using ion exchange column                                      | 1,2   |       5 |
+| 3.        | Analysis of flue gas for its composition (by Orsat's Apparatus)                    | 1,2   |       5 |
+| 4.        | Determination of amount of strong acid present in a solution using a conductometer | 1,2   |       5 |
+| 5.        | Determination of amount of strong acid present in a solution using a pHmeter       | 1,2   |       5 |
+| 6.        | Estimation of Copper brass by Iodometric Titration                                 | 1,2   |       5 |
+| 7.        | Potentiometric titration (acid-base, redox)                                        | 1,2   |       5 |
+| 8.        | Estimation of Iron in plain Carbon steel                                           | 1,2   |       5 |
+| 9.        | Estimation of metal ion using colorimeter                                          | 1,2   |       5 |
+| 10.       | Determination of COD of wastewater sample                                          | 1,2   |       5 |
+| Total     | Total                                                                              | Total |      40 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+## Text Books:
+
+|   Sr. No. | Title                               | Edition   | Authors       | Publisher   |   Year |
+|-----------|-------------------------------------|-----------|---------------|-------------|--------|
+|        1. | Engineering Chemistry               | 17 th     | Jain & Jain   | Dhanpat Rai |   2018 |
+|        2. | A Textbook of Engineering Chemistry | 7 th      | Shashi Chawla | Dhanpat Rai |   2022 |
+|        3. | A Textbook of Engineering Chemistry | 12 th     | S S Dara      | S Chand     |   2022 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                               | Edition   | Authors                              | Publisher           |   Year |
+|-----------|-----------------------------------------------------|-----------|--------------------------------------|---------------------|--------|
+|        1. | Principles of Industrial Chemistry is a textbook by | 1st       | Chris A. Clausen III and Guy Mattson | John Wiley & Sons   |   1978 |
+|        2. | Textbook of Polymer Science                         | 3rd       | Billmeyer                            | Wiley- Interscience |   1984 |
+
+## Online Resources:
+
+- 1) [https://www.sciencedirect.com](https://www.sciencedirect.com/?utm_source=chatgpt.com)
+- 2) [https://onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/)
+- 3) [https://pubs.acs.org?utm\_source=chatgpt.com](https://pubs.acs.org/?utm_source=chatgpt.com)
+- 4) [https://nptel.ac.in](https://nptel.ac.in/)
+- 5) [https://swayam.gov.in](https://swayam.gov.in/)
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name           | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|-----------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSESEC                   | Engineering Mechanics | 2                                | 0                                | 2                                | 6                                 | 10                                | 2                      | 0                      | 1                      | 3                          |
+| BSESEC                   | Engineering Mechanics | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSESEC                   | Engineering Mechanics | Component                        | Component                        | ISE %                            | ISE %                             | MSE%                              | MSE%                   | ESE%                   | ESE%                   | Total                      |
+| AS103 / AS203            | Engineering Mechanics | Theory                           | Theory                           | 20                               | 20                                | 20                                | 20                     | 60                     | 60                     | 100                        |
+|                          | Engineering Mechanics | Laboratory                       | Laboratory                       | 60                               | 60                                | --                                | --                     | 40                     | 40                     | 100                        |
+
+| Pre-requisite Course Codes, if any:                                                                                                                                         | Pre-requisite Course Codes, if any:                                                                                                                                         | HSC                                                                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course Objective: To provide knowledge of force analysis methods required in engineering applications and solutions. Also, to develop analytical and computational ability. | Course Objective: To provide knowledge of force analysis methods required in engineering applications and solutions. Also, to develop analytical and computational ability. | Course Objective: To provide knowledge of force analysis methods required in engineering applications and solutions. Also, to develop analytical and computational ability. |
+| Course Outcomes (CO):At the End of the course students will be able to                                                                                                      | Course Outcomes (CO):At the End of the course students will be able to                                                                                                      | Course Outcomes (CO):At the End of the course students will be able to                                                                                                      |
+| AS103.1 / AS203.1                                                                                                                                                           | Draw free body diagram and determine reactive forces using conditions of equilibrium and Lami's theorem                                                                     | Draw free body diagram and determine reactive forces using conditions of equilibrium and Lami's theorem                                                                     |
+| AS103.2 / AS203.2                                                                                                                                                           | Determine coefficient of friction for various contact                                                                                                                       | surfaces                                                                                                                                                                    |
+| AS103.3 / AS203.3                                                                                                                                                           | Analyze the three-dimensional                                                                                                                                               | system of space forces.                                                                                                                                                     |
+| AS103.4 / AS203.5                                                                                                                                                           | Analyze the kinematics of particles and obtain the various parameters of motion.                                                                                            | Analyze the kinematics of particles and obtain the various parameters of motion.                                                                                            |
+| AS103.5 / AS203.5                                                                                                                                                           | Determine instantaneous centre of rotation (ICR).                                                                                                                           | Determine instantaneous centre of rotation (ICR).                                                                                                                           |
+| AS103.6 / AS203.6                                                                                                                                                           | Design and conduct experiments to demonstrate principles of statics dynamics.                                                                                               | and                                                                                                                                                                         |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                             | Ref.   |   Hrs. |
+|--------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | Equilibrium of forces                                                                                                                                                                              |        |        |
+|           1. | 1.1        | Equilibrant force, conditions of equilibrium for concurrent forces, parallel forces and general force system, equilibrium of connected bodies, Lami's theorem.                                     | 1,3    |      8 |
+|           1. | 1.2        | Types of supports, types of loads, Beams, Determination of reactions at supports for various types of loads on beams.                                                                              | 3      |      8 |
+|           2. | Title      | Friction                                                                                                                                                                                           |        |      4 |
+|           2. | 2.1        | Introduction to Laws of friction, Cone of friction, Equilibrium of bodies on inclined plane. Application to problems involving wedges, ladders.                                                    | 1,2    |        |
+|           3. | Title      | Forces in space                                                                                                                                                                                    |        |        |
+|           3. | 3.1        | Rectangular Components of Forces in Space, Resultant of Space forces, Moment of a Force about a point, axis and line. Equilibrium of a particle in space.                                          | 1      |      5 |
+|           4. | Title      | Kinematics of Particle                                                                                                                                                                             |        |        |
+|           4. | 4.1        | Motion along straight and curved path, Rectangular component of velocity and acceleration, Tangential & Normal component of acceleration, Motion curves(a-t, v- t, s-t curves), Projectile motion. | 2,3    |      8 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 5.    | Title      | Kinematics of Rigid Bodies                                                                                                                                                                                                                              |       |    |
+|-------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|----|
+|       | 5.1        | Instantaneous center of rotation for the velocity of bodies in plane motion (up to 2 linkage mechanism).                                                                                                                                                | 3     | 3  |
+| 6.    | Self Study | 1. Applications of resultant of forces, concept of couple and moments. 2. Centroid and center of gravity, analysis of trusses. 3. Kinetics of rigid body, work energy principle. 4. Principle of Law of Conservation of momentum, Impact and collision. | 1,2,3 | 6* |
+| Total | Total      | Total                                                                                                                                                                                                                                                   | Total | 28 |
+
+## Laboratory Component:
+
+|   Sr. No. | Title of the Experiment                                                                                      |
+|-----------|--------------------------------------------------------------------------------------------------------------|
+|        1. | Draw the force polygon and determine the equilibrant force for a concurrent coplanar force system.           |
+|        2. | Use the conditions of equilibrium for a parallel force system and determine the support reactions.           |
+|        3. | Apply the principle of moment for equilibrium of levers.                                                     |
+|        4. | Determine the coefficient of friction for glass slab and a metal plate on an inclined plane.                 |
+|        5. | Determine the axial forces using Lami's theorem for Jib crane apparatus.                                     |
+|        6. | Use the conditions of equilibrium for a non-concurrent non-parallel force system and draw the force polygon. |
+|        7. | Measure the acceleration due to gravity with the help of simple pendulum apparatus.                          |
+|        8. | Determine the range of projectile and the time of flight for the projectile motion.                          |
+|        9. | Verify the law of conservation of momentum and determine the coefficient of restitution for collision        |
+|       10. | A small project based on Engineering Mechanics concepts.                                                     |
+
+## Text Books:
+
+|   Sr. No. | Title                                               | Edition   | Authors                        | Publisher                |   Year |
+|-----------|-----------------------------------------------------|-----------|--------------------------------|--------------------------|--------|
+|        1. | Vector Mechanics for Engineers statics and dynamics | 9 th      | Beer and Johnston              | McGraw Hill              |   2010 |
+|        2. | Engineering Mechanics                               | 5 th      | Bhavikatti S and Rajsekharappa | New Age International    |   2009 |
+|        3. | Engineering Mechanics Statics and Dynamics          | 14 th     | A K Tayal                      | Umesh Publication, Delhi |   2012 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+## Reference Books:
+
+|   Sr. No. | Title                                               | Edition   | Authors                                    | Publisher      |   Year |
+|-----------|-----------------------------------------------------|-----------|--------------------------------------------|----------------|--------|
+|        1. | Engineering Mechanic: Statics and Dynamics          | Fifth     | E.W. Nelson, C.L. Best, W.G. McLean,       | McGraw Hill    |   1998 |
+|        2. | Singer's Engineering Mechanics Statics and Dynamics | Third     | Vijaya Kumar Reddy. K. and Suresh Kumar. J | BS Publication |   2012 |
+
+## Online Resources:
+
+- 1) [https://nptel.ac.in/courses/122104015](https://nptel.ac.in/courses/122104015)
+- 2) [https://www.nptel.ac.in/domains/discipline/113?course=113\_3](https://www.nptel.ac.in/domains/discipline/113?course=113_3)
+- 3) [https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/](https://ocw.mit.edu/courses/1-050-engineering-mechanics-i-fall-2007/)
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name                | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|----------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSESEC                   | Computer Aided Engineering | 0                                | 1                                | 4                                | 5                                 | 10                                | 0                      | 1                      | 2                      | 3                          |
+| BSESEC                   | Computer Aided Engineering | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSESEC                   | Computer Aided Engineering | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| AS104 / AS204            | Drawing                    | Theory                           | Theory                           |                                  |                                   | --                                | --                     | --                     | --                     |                            |
+|                          | Drawing                    | Laboratory                       | Laboratory                       | 40                               | 40                                | --                                | --                     | 60                     | 60                     | 100                        |
+
+| Pre-requisite Course Codes, if any.                                                                                                                                    | Pre-requisite Course Codes, if any.                                                                                                                                    | HSC                                                                                                                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course Objective: To develop technical drawing and visualization skills using soft tool, required for design and modelling, in Engineering Applications and Solutions. | Course Objective: To develop technical drawing and visualization skills using soft tool, required for design and modelling, in Engineering Applications and Solutions. | Course Objective: To develop technical drawing and visualization skills using soft tool, required for design and modelling, in Engineering Applications and Solutions. |
+| Course Outcomes (CO): At the end of the course students will be able to                                                                                                | Course Outcomes (CO): At the end of the course students will be able to                                                                                                | Course Outcomes (CO): At the end of the course students will be able to                                                                                                |
+| AS104.1 / AS204.1                                                                                                                                                      | The use of Computer Aided Design software. Construct basic engineering curves.                                                                                         |                                                                                                                                                                        |
+| AS104.2 / AS204.2                                                                                                                                                      | Read the 3-dimensional view and draw the orthographic and sectional orthographic projections.                                                                          |                                                                                                                                                                        |
+| AS104.3 / AS204.3                                                                                                                                                      | Read the orthographic projection and draw an isometric view.                                                                                                           |                                                                                                                                                                        |
+| AS104.4 / AS204.4                                                                                                                                                      | Draw projection of regular solids inclined to both the reference planes.                                                                                               |                                                                                                                                                                        |
+| AS104.5 / AS204.5                                                                                                                                                      | Draw the development of lateral surfaces of solids.                                                                                                                    |                                                                                                                                                                        |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                 | Ref.   |   Lab session Hrs. |
+|--------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------------------|
+|           1. | Title      | Introduction to Engineering Drawing and Computer Aided Design software                                                                                                 | 1,2    |                  6 |
+|           1. | 1.1        | Types of Lines, Dimensioning Systems as per IS conventions. First angle method of projection only                                                                      | 1,2    |                  6 |
+|           1. | 1.2        | Basic construction of Cycloid and Involutes.                                                                                                                           | 1,2    |                  6 |
+|           2. | Title      | Orthographic Projection Orthographic views of a simple machine part as per                                                                                             | 1,2    |                  6 |
+|           2. | 2.1        | the first angle method of projection recommended by I.S.                                                                                                               | 1,2    |                  6 |
+|           2. | 2.2        | Full Sectional views of the Simple Machine parts.                                                                                                                      | 1,2    |                  6 |
+|           3. | Title      | Isometric visualization                                                                                                                                                | 1,2    |                  4 |
+|           3. | 3.1        | Isometric view (Natural scale only)                                                                                                                                    | 1,2    |                  4 |
+|           4. | Title      | Projection of solid (Regular solids like Prism & Pyramid (Triangular, square, pentagonal, and hexagonal), Cylinder, cone, cube and tetrahedron only)                   | 1,2    |                  6 |
+|           4. | 4.1        | Projection of solid resting on plane (Single step projection)                                                                                                          | 1,2    |                  6 |
+|           4. | 4.2        | Projection of solid such that base inclined to one reference plane (Two step projection)                                                                               | 1,2    |                  6 |
+|           4. | 4.3        | Projection of solid such that base inclined to both reference planes (Three step projection/problem) (Exclude Spheres, Composite, Hollow solids and frustum of solids) | 1,2    |                  6 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 5.                 | Title              | Development of lateral surface of solids                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 1,2                |   6 |
+|--------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----|
+| 5.                 | 5.1                | Development of lateral surface of solids (Exclude DLS of a solid with a hole in it and Reverse Development)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 1,2                |   6 |
+| 6.                 | Self- Study        | 1.2 Construction of Engineering curves like ellipse, parabola, hyperbola, helix, other types of cycloid etc. by using different method of construction. 2.1 Solve more practice examples of orthographic views. Draw different views of a machine part/any object using third angle method of projection. (Axonometric view, oblique view, perspective etc.) 2.2 Half sectional orthographic views. 3.1 Projection of lines with traces, application-based problems on Projection of lines 4.1 Projection of section of solid with cutting planes. 5.1 Development of lateral surface of solids with openings, reverse development of solid. |                    |     |
+| Total Lab Sessions | Total Lab Sessions | Total Lab Sessions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Total Lab Sessions |  28 |
+
+## Laboratory Component:
+
+|   Sr. No. | Engineering AutoCAD Laboratory                                                                                                                                                                                                 |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1. | Introduction to Computer Aided Design software (Auto-CAD): -Basic Drawing and Editing Commands. Knowledge of setting up layers, Dimensioning, Hatching, plotting and Printing. Construction of Involute (Two Examples)         |
+|        2. | Construction of Cycloid (Two Examples)                                                                                                                                                                                         |
+|        3. | Introduction to Orthographic projections sheet-1                                                                                                                                                                               |
+|        4. | Orthographic projections sheet-2                                                                                                                                                                                               |
+|        5. | Introduction to Sectional Orthographic projections sheet-1 (Two Problems)                                                                                                                                                      |
+|        6. | Sectional Orthographic projections sheet-2 (Two Problems)                                                                                                                                                                      |
+|        7. | Introduction to Isometric Projection/View: - Isometric View/Drawing of blocks of plain and cylindrical surfaces using plain/natural scale only. (Exclude Spherical surfaces). Isometric Projection/View sheet-1 (Two Problems) |
+|        8. | Isometric Projection/View sheet-2 (Two Problems)                                                                                                                                                                               |
+|        9. | Projection of Solid Sheet-1 (Two Problems)                                                                                                                                                                                     |
+|       10. | Projection of Solid sheet-2 (Two Problems)                                                                                                                                                                                     |
+|       11. | Draw development of lateral surface of solids with simple sections DLS sheet-1 (Prism and Cylinder)                                                                                                                            |
+|       12. | DLS sheet-2 (Pyramid and Cone)                                                                                                                                                                                                 |
+
+## Text Books:
+
+|   Sr. No. | Title               | Edition   | Authors           | Publisher        |   Year |
+|-----------|---------------------|-----------|-------------------|------------------|--------|
+|        1. | Engineering Drawing | 53 rd     | N D Bhatt         | Charotar         |   2016 |
+|        2. | Engineering Drawing | 3 rd      | Dhananjay A Jolhe | Tata McGraw Hill |   2011 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+## Reference Books:
+
+|   Sr. No. | Title                            | Edition   | Authors     | Publisher              |   Year |
+|-----------|----------------------------------|-----------|-------------|------------------------|--------|
+|        1. | AutoCAD 2017                     | --        | Sham Tickoo | DreamTech Press, Delhi |   2017 |
+|        2. | Engineering Drawing and Graphics | Fifth     | K Venugopal | New Age International  |   2011 |
+
+## Online Resources:
+
+- 1) [https://onlinecourses.nptel.ac.in/e-learning/preview/noc22\_me105](https://onlinecourses.nptel.ac.in/e-learning/preview/noc22_me105)
+- 2) [https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring2009/pages/related-resources/drawing\_and\_sketching/](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
+- 3) [https://www.smartdraw.com/cad/engineering-drawingsoftware.htm?srsltid=AfmBOorHAkHz7ppRusdmidvjYAL6b6sHVoOifEmRkOf cthFIaeBP4bhn](https://www.smartdraw.com/cad/engineering-drawing-software.htm?srsltid=AfmBOorHAkHz7ppRusdmidvjYAL6b6sHVoOifEmRkOfcthFIaeBP4bhn)
+- 4) [https://market.tutorialspoint.com/course/engineering-drawing/index.asp](https://market.tutorialspoint.com/course/engineering-drawing/index.asp)
+- 5) [https://s3vi.ndc.nasa.gov/ssrikb/static/resources/Engineering+Working+Drawing+Basics.pdf](https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/Engineering+Working+Drawing+Basics.pdf)
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name       | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|-------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSESEC                   | Materials for EEE | 3                                | 0                                | 0                                | 7                                 | 10                                | 3                      | 0                      | 0                      | 3                          |
+| BSESEC                   | Materials for EEE | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| AS105 / AS205            | Materials for EEE | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| AS105 / AS205            | Materials for EEE | Theory                           | Theory                           | 20                               | 20                                | 20                                | 20                     | 60                     | 60                     | 100                        |
+| AS105 / AS205            | Materials for EEE | Laboratory                       | Laboratory                       | -                                | -                                 | --                                | --                     | -                      | -                      | -                          |
+
+| Pre-requisite Course Codes, if any.                                                                                                              | HSC knowledge of Physics                                                                                                                         |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course Objective: To develop an understanding of engineering materials and their role in enabling modern electrical and electronic technologies. | Course Objective: To develop an understanding of engineering materials and their role in enabling modern electrical and electronic technologies. |
+| Course Outcomes (CO): At the end of the course students will be able to                                                                          | Course Outcomes (CO): At the end of the course students will be able to                                                                          |
+| AS105.1 / AS205.1 Explain engineering                                                                                                            | the relationship between the structure and properties of materials for electrical and electronic applications.                                   |
+| AS105.2 / AS205.2 Differentiate based on                                                                                                         | conducting, semiconducting and insulating materials their properties and applications.                                                           |
+| AS105.3 / AS205.3 Describe analyze their                                                                                                         | the origin of magnetism, classify magnetic materials and applications in electrical and electronic systems.                                      |
+| AS105.4 / AS205.4 Explain emergent                                                                                                               | the properties and applications of nanomaterials and two-dimensional materials.                                                                  |
+| AS105.5 / AS205.5 Discuss emerging                                                                                                               | superconductivity and spintronics and their relevance to electronic technologies.                                                                |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                              | Ref      |   Hrs. |
+|--------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------|
+|           1. | Title      | Fundamentals of Engineering Materials                                                                                                                                                                               | 1, 2 & 4 |     10 |
+|           1. | 1.1        | Introduction to engineering materials, Crystal structure of solids - Types, Unit cell and crystal lattice, Common crystal structures. Miller Indices of planes and directions, Interplanar spacing in cubic system. | 1, 2 & 4 |     10 |
+|           1. | 1.2        | Crystal imperfections: Point and Line defects, Effect of defects on properties of materials.                                                                                                                        | 1, 2 & 4 |     10 |
+|           1. | 1.3        | Application of Engineering materials in modern electronic devices.                                                                                                                                                  | 1, 2 & 4 |     10 |
+|           2. | Title      | Conducting, Semiconducting and Insulating Materials                                                                                                                                                                 | 2, 4 & 6 |      6 |
+|           2. | 2.1        | Electrical conductivity and resistivity, conducting materials -copper, aluminum and their alloys.                                                                                                                   | 2, 4 & 6 |      6 |
+|           2. | 2.2        | Intrinsic and Extrinsic semiconductors, temperature dependence and applications.                                                                                                                                    | 2, 4 & 6 |      6 |
+|           2. | 2.3        | Insulating and dielectric materials                                                                                                                                                                                 | 2, 4 & 6 |      6 |
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 3.                     | Title                  | Magnetic materials                                                                                                                       | 4 & 6                  | 10   |
+|------------------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------|
+| 3.                     | 3.1                    | Origin of Magnetism: Orbital and Spin angular momentum, magnetic moment of an atom                                                       | 4 & 6                  | 10   |
+| 3.                     | 3.2                    | Diamagnetism, Paramagnetism, Ferromagnetism, Domain Theory and Hysteresis, Hard and soft magnetic materials and its applications         | 4 & 6                  | 10   |
+| 3.                     | 3.3                    | Magnetic measurements: Hall effect and magnetoresistance.                                                                                | 4 & 6                  | 10   |
+| 4.                     | Title                  | Advanced and Emerging Materials                                                                                                          | 3                      | 10   |
+| 4.                     | 4.1                    | Introduction to Nanomaterials - properties and applications.                                                                             | 3                      | 10   |
+| 4.                     | 4.2                    | Carbon nanotubes and Graphene - structure, properties and applications.                                                                  | 3                      | 10   |
+| 4.                     | 4.3                    | Emerging 2D materials and its engineering applications.                                                                                  | 3                      | 10   |
+| 5.                     | Title                  | Emergent Phenomena                                                                                                                       | 2 & 4                  | 6    |
+| 5.                     | 5.1                    | Superconductivity- Type I and Type II superconductors, Meissner effect, Applications of superconductors.                                 | 2 & 4                  | 6    |
+| 5.                     | 5.2                    | Spintronics: Introduction to electron spin and spin-based electronics; significance of spintronics and its applications.                 | 2 & 4                  | 6    |
+| 6.                     | Self Study             | Smart Materials: Shape-memory alloys, piezoelectric materials and applications, battery and lightweight materials for electric vehicles. | 3, 5                   | 04*  |
+| Total (* not included) | Total (* not included) | Total (* not included)                                                                                                                   | Total (* not included) | 42   |
+
+## Text Books:
+
+|   Sr. No. | Title                                    | Edition   | Authors         | Publisher               |   Yea r |
+|-----------|------------------------------------------|-----------|-----------------|-------------------------|---------|
+|        1. | Electrical Engineering Materials         | Tenth     | A.J. Dekker     | Prentice- Hall India    |    2008 |
+|        2. | Solid State Basics                       | First     | Steven H. Simon | Oxford University Press |    2013 |
+|        3. | Nanotechnology: Principles and practices | Third     | Sulbha Kulkarni | Springer                |    2015 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                                                     | Edition   | Authors                                   | Publisher             |   Year |
+|-----------|---------------------------------------------------------------------------|-----------|-------------------------------------------|-----------------------|--------|
+|        4. | Solid State Physics                                                       | Tenth     | S. O. Pillai                              | New Age International |   2022 |
+|        5. | Fundamentals of Materials science and engineering; an integrated approach | Sixth     | William Callister and Jr. David Rethwisch | John Wiley & Sons.    |   2021 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| 6.   | Engineering Physics   | Second   | B.K. Pandey and S. Chaturvedi   | Cengage   | 2022   |
+|------|-----------------------|----------|---------------------------------|-----------|--------|
+
+## Online Resources:
+
+- 1) Fundamentals of Engineering Materials: Introduction to Materials Science and Engineering - YouTube
+- 2) [Magnetic materials: Concepts in Magnetism and Superconductivity NPTEL Study Materials - Video Lectures &amp; Resources | NPTELPrep](https://nptelprep.in/courses/115105131/materials)
+- 3) [Advanced and Emerging Materials: Advanced Materials Lecture Series | IAAM](https://www.iaamonline.org/advanced-materials-lecture-series)
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name           | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|-----------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSESEC                   | Biology for Engineers | 3                                | 0                                | 0                                | 7                                 | 10                                | 3                      | 0                      | 0                      | 3                          |
+| BSESEC                   | Biology for Engineers | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSESEC                   | Biology for Engineers | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| AS106 / AS206            | Biology for Engineers | Theory                           | Theory                           | 20                               | 20                                | 20                                | 20                     | 60                     | 60                     | 100                        |
+| AS106 / AS206            | Biology for Engineers | Laboratory                       | Laboratory                       | --                               | --                                | --                                | --                     | --                     | --                     | --                         |
+
+## Pre-requisite Course Codes, if any.
+
+HSC
+
+Course Objective: To motivate the students to develop a system with a multidisciplinary approach using basic biological concepts and Artificial Intelligence. Learners will gain a comprehensive understanding of how AI is revolutionizing healthcare and biomedical research.
+
+| Course Outcomes (CO): At the end of the course students will be able to   | Course Outcomes (CO): At the end of the course students will be able to                                                                   |
+|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| AS106.1 / AS206.1                                                         | Understand the basic biomolecules and their engineering applications.                                                                     |
+| AS106.2 / AS206.2                                                         | Grasp how biological systems can be re-designed as substitute products for natural systems.                                               |
+| . AS106.3 /AS206.3                                                        | Acquire the interdisciplinary vision of biological engineering                                                                            |
+| . AS106.4 / AS206.4                                                       | Explore the use of AI in medical imaging for diagnosis and treatment planning                                                             |
+| AS106.5 / AS206.5                                                         | Understand AI-driven approaches for disease diagnosis, prediction, and personalized medicine with ethical, legal and social implications. |
+
+## Theory Component
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                            | Ref.   |   Hrs. |
+|--------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | Biomolecules and their applications                                                                                                                                                                               |        |        |
+|           1. | 1.1        | Carbohydrates (cellulose-based water filters, PHA and PLA as bioplastics), Nucleic acids (DNA Vaccine for Rabies and RNA vaccines for Covid19, Forensics - DNA fingerprinting),                                   | 1,2    |      8 |
+|           1. | 1.2        | Proteins (Proteins as food - whey protein and meat analogs, Plant based proteins), lipids (biodiesel, cleaning (agents/detergents), Enzymes (glucose-oxidase in biosensors, alginolytic enzyme in bio-bleaching). | 1,2    |      8 |
+|           2. | Title      | Cardiovascular and Nervous System                                                                                                                                                                                 |        |        |
+|           2. | 2.1        | Anatomy of the heart; Heart valves, systemic and pulmonary circulation; Conduction system of the heart; Cardiac action potential, electrocardiogram (ECG); Cardiac cycle; Cardiac output; Blood pressure.         | 1,2    |     10 |
+|           2. | 2.2        | Divisions of the nervous system (central and peripheral nervous system); Structure and functions of the brain and spinal cord; Reflex actions and reflex arc; Functions of                                        |        |        |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|                        |                        | sympathetic and parasympathetic nervous system; Nerve action potential and nerve conduction.                                                                                                                                                                                                                                                                                                                                                                                                                               |                        |    |
+|------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|----|
+| 3.                     | Title                  | Human Organ Systems and Bio-Designs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 1,2                    | 10 |
+| 3.                     | 3.1                    | Brain as a CPU system, signal transmission, EEG, Robotic arms for prosthetics. Engineering solutions for Parkinson's disease.                                                                                                                                                                                                                                                                                                                                                                                              | 1,2                    | 10 |
+| 3.                     | 3.2                    | Eye as a Camera system (architecture of rod and cone cells, optical corrections, cataract, lens materials, bionic eye).                                                                                                                                                                                                                                                                                                                                                                                                    | 1,2                    | 10 |
+| 4.                     | Title                  | AI for Biomedical Applications                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                        | 14 |
+| 4.                     | 4.1                    | Introduction to AI in Biomedical Applications: Overview of artificial intelligence and machine learning, Challenges and opportunities in applying AI to biomedicine, Ethical considerations in AI-driven healthcare.                                                                                                                                                                                                                                                                                                       |                        | 14 |
+| 4.                     | 4.2                    | Medical Imaging and AI: Basics of medical imaging modalities, Image preprocessing and feature extraction, AI applications in medical image analysis and interpretation                                                                                                                                                                                                                                                                                                                                                     | 1                      | 14 |
+| 4.                     | 4.3                    | Personalized Medicine and Precision Health:Concept of personalized medicine, AI-driven approaches to patient stratification, Precision health initiatives and challenges.                                                                                                                                                                                                                                                                                                                                                  |                        | 14 |
+| 4.                     | 4.4                    | Genomics and Bioinformatics: Basics of genomics and next- generation sequencing, AI-driven analysis of genomic data, Precision genomics and its applications in healthcare.                                                                                                                                                                                                                                                                                                                                                |                        | 14 |
+| 4.                     | 4.5                    | Regulatory and Ethical Considerations: Regulatory landscape for AI in healthcare, Ethical and privacy considerations in AI- driven healthcare, Bias and fairness in AI algorithms.                                                                                                                                                                                                                                                                                                                                         |                        | 14 |
+| 5.                     | Self Study             | Trends in Bioengineering: Bioprinting techniques and materials, 3D printing of ear, bone, and skin. 3D printed foods. Electrical tongue and electrical nose in food science, DNA origami and Biocomputing, Bioimaging and Artificial Intelligence for disease diagnosis. Self-healing Bio concrete (based on bacillus spores, calcium lactate nutrients and biomineralization processes) and Bioremediation and Biomining via microbial surface adsorption (removal of heavy metals like Lead, Cadmium, Mercury, Arsenic). | 1,2, 3                 | 6* |
+| Total (* not included) | Total (* not included) | Total (* not included)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Total (* not included) | 42 |
+
+## Text Books:
+
+|   Sr. No. | Title            | Edition   | Authors                      | Publisher    |   Year |
+|-----------|------------------|-----------|------------------------------|--------------|--------|
+|        1. | Human Physiology | 16th      | Stuart Fox, Krista Rompolski | McGraw- Hill |   2022 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|   2. | Biology for Engineers               | 3rd   | Thyagarajan S., Selvamurugan N., Rajesh M.P., Nazeer R.A., ThilagarajW., Barathi S., and Jaganthan M.K.   | Tata McGraw Hill                           |   2012 |
+|------|-------------------------------------|-------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------|--------|
+|   3. | Artificial Intelligence in Medicine | 1st   | Adam Bohr and Gopalakrishnan Venkitaraman                                                                 | Academic Press; 1st edition (21 June 2020) |   2010 |
+
+## Reference Books
+
+|   Sr. No. | Title                 | Edition   | Authors           | Publisher                     |   Year |
+|-----------|-----------------------|-----------|-------------------|-------------------------------|--------|
+|        1. | Biology for Engineers | 1 st      | Arthur T. Johnson | CRC Press, Taylor and Francis |   2011 |
+|        2. | Biology for Engineers |           | Danial Schodek    | MIT Press                     |        |
+
+## Online Resources:
+
+- 1) [NPTEL SWAYAM: Biology for Engineers and Other Non-Biologists Course](https://onlinecourses.nptel.ac.in/noc19_ge31/preview)
+- 2) [MIT OpenCourseWare: Course 20 - Biological Engineering Design](https://ocw.mit.edu/courses/20-020-introduction-to-biological-engineering-design-spring-2009/)
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) - Code   | Course Name                    | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|----------------------------|--------------------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSESEC                     | Principles of Electromagnetics | 3                                | 0                                | 0                                | 7                                 | 10                                | 3                      | 0                      | 0                      | 3                          |
+| BSESEC                     | Principles of Electromagnetics | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSESEC                     | Principles of Electromagnetics | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| AS107 / AS207              |                                | Theory                           | Theory                           | 20                               | 20                                | 20                                | 20                     | 60                     | 60                     | 100                        |
+|                            |                                | Laboratory                       | Laboratory                       | -                                | -                                 | --                                | --                     | -                      | -                      | -                          |
+
+| Pre-requisite Course Codes, if any.                                                                                                                                                                                                                                                                                     | Pre-requisite Course Codes, if any.                                                                                                                                                                                                                                                                                     | Concepts of higher secondary physics and electromagnetism                                                                                                                                                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course Objective: To provide a strong foundation in electromagnetic field theory, vector calculus, and boundary value problems used in computational electromagnetics; to develop the ability to formulate and solve electromagnetic field problems using Finite Element Method (FEM) and related numerical techniques. | Course Objective: To provide a strong foundation in electromagnetic field theory, vector calculus, and boundary value problems used in computational electromagnetics; to develop the ability to formulate and solve electromagnetic field problems using Finite Element Method (FEM) and related numerical techniques. | Course Objective: To provide a strong foundation in electromagnetic field theory, vector calculus, and boundary value problems used in computational electromagnetics; to develop the ability to formulate and solve electromagnetic field problems using Finite Element Method (FEM) and related numerical techniques. |
+| Course Outcomes (CO): At the end of the course students will be able to                                                                                                                                                                                                                                                 | Course Outcomes (CO): At the end of the course students will be able to                                                                                                                                                                                                                                                 | Course Outcomes (CO): At the end of the course students will be able to                                                                                                                                                                                                                                                 |
+| AS107.1 / AS207.1                                                                                                                                                                                                                                                                                                       | Apply fundamental electromagnetic concepts for field representation and analysis.                                                                                                                                                                                                                                       | Apply fundamental electromagnetic concepts for field representation and analysis.                                                                                                                                                                                                                                       |
+| AS107.2 / AS207.2                                                                                                                                                                                                                                                                                                       | Analyze FEM formulations for electromagnetic field problems.                                                                                                                                                                                                                                                            | Analyze FEM formulations for electromagnetic field problems.                                                                                                                                                                                                                                                            |
+| AS107.3 / AS207.3                                                                                                                                                                                                                                                                                                       | Analyze electromagnetic devices using finite element analysis.                                                                                                                                                                                                                                                          | Analyze electromagnetic devices using finite element analysis.                                                                                                                                                                                                                                                          |
+| AS107.4 / AS207.4                                                                                                                                                                                                                                                                                                       | Evaluate transient, nonlinear, and force computation problems in electromagnetic systems.                                                                                                                                                                                                                               | Evaluate transient, nonlinear, and force computation problems in electromagnetic systems.                                                                                                                                                                                                                               |
+| AS107.5 / AS207.5                                                                                                                                                                                                                                                                                                       | Apply FDTD and MoM techniques for computational electromagnetic analysis.                                                                                                                                                                                                                                               | Apply FDTD and MoM techniques for computational electromagnetic analysis.                                                                                                                                                                                                                                               |
+
+## Theory Component
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                       | Ref.   |   Hrs. |
+|--------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | Revisiting EM Concepts                                                                                                                                                       |        |     10 |
+|           1. | 1.1        | Introduction; Analytical and Numerical Methods; Vector Algebra & Coordinate Systems; Vector Calculus and Electrostatics; Current Densities and Electric Fields in Materials. |        |     10 |
+|           1. | 1.2        | Electrostatic Boundary Conditions and Shielding; Magnetostatics; Magnetic Forces and Materials; Time Varying Fields; Theory of Eddy Currents.                                |        |     10 |
+|           2. | Title      | Introduction to FEM                                                                                                                                                          |        |     10 |
+|           2. | 2.1        | FEM: Variational Approach; Finding Functional for PDEs; Whole Domain Approximation.                                                                                          |        |     10 |
+|           2. | 2.2        | 1D FEM: Problem Definition and Shape Function; Procedure; Scilab Code; Problem Definition and Shape Functions;                                                               |        |     10 |
+|           2. | 2.3        | 2D FEM: Procedure; Scilab Code: Manual Meshing; Gmsh and Scilab                                                                                                              |        |     10 |
+|           2. | 2.4        | Computation of B and H Field and Method of Weighted Residuals Galerkin Method & examples; FE Analysis                                                                        |        |     10 |
+|           3. | Title      | Finite Element Analysis                                                                                                                                                      |        |     10 |
+|           3. | 3.1        | Quadratic Finite Elements; Time Harmonic FE Analysis;                                                                                                                        |        |     10 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|                       | 3.2                   | Calculation of Eddy Current Losses; Eddy Losses in electrical Machines                                                                                                                                            |    |
+|-----------------------|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|                       | 3.3                   | Permanent Magnets: FEM Implementation; Periodic and Antiperiodic Boundary Conditions with examples; Voltage Fed Coupled Circuit Field Analysis.                                                                   |    |
+| 4.                    | Title                 | Transient & Nonlinear Analysis                                                                                                                                                                                    | 8  |
+| 4.                    | 4.1                   | Current Fed Coupled Circuit Field Analysis; Transient FE Analysis; Nonlinear FE Analysis                                                                                                                          | 8  |
+| 4.                    | 4.2                   | Computation of Forces using Maxwell Stress Tensor; Computation of Forces using Virtual Work Method                                                                                                                | 8  |
+| 5.                    | Title                 | Numerical Methods in Computational electromagnetics                                                                                                                                                               | 4  |
+| 5.                    | 5.1                   | Finite Difference Time Domain (FDTD) Method; Basics of FDTD: Finite Differences.                                                                                                                                  | 4  |
+| 5.                    | 5.2                   | The Method of Moments (MoM) in two and three dimensions.                                                                                                                                                          | 4  |
+| 6.                    | Self- Study           | Stoke's and Divergence Theorem; Transformation of coordinate systems; Greens Function; Method of Moments (MoM): 2D vs 2.5D vs. 3D Formulations; Equivalent circuit of Transformer; Electrical & Magnetic Circuit. | 6* |
+| Total (*not included) | Total (*not included) | Total (*not included)                                                                                                                                                                                             | 42 |
+
+## Text Books:
+
+|   Sr. No. | Title                                                       | Edition        | Authors                        | Publisher            |   Year |
+|-----------|-------------------------------------------------------------|----------------|--------------------------------|----------------------|--------|
+|        1. | Transformer Engineering: Design, Technology and Diagnostics | second         | S. V. Kulkarni, S. A. Khaparde | CRC Press            |   2013 |
+|        2. | Principles of Electromagnetics                              | Sixth          | Matthew N.O. Sadiku            | Oxford International |   2015 |
+|        3. | Computational Electromagnetics with MATLAB                  | Fourth Edition | Matthew N.O. Sadiku            | CRC Press            |   2022 |
+|        4. | Electromagnetic Waves                                       | Third          | R.K. Shevgaonkar               | Tata McGraw Hill     |   2009 |
+
+## Reference Books:
+
+|   Sr. No | Title                                      | Edition   | Authors                                      | Publisher         |   Year |
+|----------|--------------------------------------------|-----------|----------------------------------------------|-------------------|--------|
+|       1. | Numerical Techniques in Electromagnetics   | Second    | Matthew N.O. Sadiku                          | CRC press         |   2001 |
+|       2. | Computational Methods for Electromagnetics | First     | Andrew F. Peterson, Scott L. Ray, Raj Mittra | IEEE Press        |   1997 |
+|       3. | Advanced Engineering Electromagnetics      | Second    | Constantine Balanis                          | John Wiley & Sons |   2012 |
+|       4. | Engineering Electromagnetics               | Third     | W.H. Hayt, and J.A. Buck                     | McGraw Hill       |   2006 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+## Online Resources:
+
+- 1) Electrical Equipment and Machines: Finite Element Analysis by Prof. S. V. Kulkarni, IIT Bombay https://nptel.ac.in/courses/108101167
+- 2) Computational Electromagnetics by Dr Uday Khankhoje, IITM, https://onlinecourses.nptel.ac.in/e-learning/preview/noc22\_ee105
+- 3) Computational Electromagnetics &amp; Applications by Prof. Krish Sankaran, IITB. https://www.youtube.com/@computationalelectromagnet3706
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name   | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|---------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSESEC                   |               | 2                                | 0                                | 2                                | 6                                 | 10                                | 2                      | 0                      | 1                      | 3                          |
+| BSESEC                   |               | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSESEC                   |               | Signal and Systems Component     | Signal and Systems Component     | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| AS108 / AS208            |               | Theory                           | Theory                           |                                  |                                   | 20                                | 20                     | 60                     | 60                     | 100                        |
+| AS108 / AS208            |               | Laboratory                       | Laboratory                       | 80                               | 80                                | --                                | --                     | 20                     | 20                     | 100                        |
+
+| Pre-requisite Course Codes, if any.                                                                                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Course Objective: To describe various signals and systems mathematically and understand how to perform mathematical operations on them, analysis using Fourier series and Fourier transform for a given signal and understand representation of signal in frequency domain |
+| Course Outcomes (CO): At the end of the course students will be able to                                                                                                                                                                                                    |
+| AS108.1 / AS208.1 Classify and illustrate various operations on CT signals and systems                                                                                                                                                                                     |
+| AS108.2 / AS208.2 Analyze the properties of a CT signal in frequency domain                                                                                                                                                                                                |
+| AS108.3 / AS208.3 Evaluate Linear Time Invariant system response using Laplace Transform                                                                                                                                                                                   |
+| AS108.4 / AS208.4 Classify and illustrate various operations on DT signals and systems                                                                                                                                                                                     |
+| AS108.5 / AS208.5 Evaluate Linear Time Invariant system response using Z Transform                                                                                                                                                                                         |
+
+## Theory Component:
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                      | Ref.   |   Hrs. |
+|--------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | Continuous Time Signals                                                                                                                                                                                     | 1      |     06 |
+|           1. | 1.1        | Introduction: Signals, systems, elementary signals, exponential, sine, step, impulse, ramp, rectangular, triangular and operations on signals                                                               | 1      |     06 |
+|           1. | 1.2        | Classification of signals: Continuous Signals, deterministic and nondeterministic, periodic, and aperiodic, symmetric (even) and asymmetric (odd), energy and power, causal and anti-causal signals.        | 1      |     06 |
+|           1. | 1.3        | Operations of Signals: Shifting, Scaling, Time Reversal, Addition and Multiplication, Convolution, Correlation                                                                                              | 1      |     06 |
+|           2. | Title      | Fourier Series and Fourier Transform                                                                                                                                                                        | 1,2    |     06 |
+|           2. | 2.1        | Fourier series: Orthogonal representation of signals, Continuous Time Fourier Series (CTFS), magnitude and phase spectra,                                                                                   | 1,2    |     06 |
+|           2. | 2.2        | Fourier Transform: Fourier Transform and Inverse Fourier Transform on periodic and non-periodic signals, Limitations of Fourier Transform, and need for Laplace Transform, Properties of Fourier Transform, | 1,2    |     06 |
+|           3. | Title      | Analysis of CT System                                                                                                                                                                                       | 1      |     04 |
+|           3. | 3.1        | Laplace Transform, Properties of Laplace Transform, Relation between Laplace Transform and Fourier Transform,                                                                                               | 1      |     04 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|                       | 3.2                   | Classification of systems: Static and dynamic, time variant and time invariant, linear, and nonlinear, causal and non- causal, stable and unstable systems.                                                                                                                                                                                                                                                                                |         |
+|-----------------------|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+|                       | 3.3                   | Impulse Response, Transfer Function, Differential Equation, Stability of Systems, Frequency Response                                                                                                                                                                                                                                                                                                                                       |         |
+|                       | Title                 | Discrete Time Signal & System                                                                                                                                                                                                                                                                                                                                                                                                              |         |
+| 4.                    | 4.1                   | Introduction: Signals, Systems, and Signal, Continuous Time signal, Discrete Time signal and representation, Digital signal, The Sampling theorem, Some elementary discrete time signals, Classification of Discrete - Time Signals, Modifications of Discrete - Time Signals. Operations on Discrete - Time Signals: Linear Convolution, Circular Convolution, Linear Convolution using Circular Convolution, Auto and Cross Correlation. | 2, 3 08 |
+|                       | 4.2                   | Z-Transform, Properties of ZT, Inverse ZT                                                                                                                                                                                                                                                                                                                                                                                                  |         |
+|                       | 4.3                   | Discrete - Time systems: Static and dynamic, time variant and time invariant, linear and nonlinear, causal and non-causal. Representation of system using impulse response, Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) system, Response of the FIR system using convolution. Conversion from CT System to DT System by Impulse invariance Method                                                                    |         |
+| 5.                    | Title                 | Discrete Fourier Transform                                                                                                                                                                                                                                                                                                                                                                                                                 | 04      |
+| 5.                    | 5.1                   | Introduction to DTFT, Relation between DFT and DTFT, DFT & Inverse DFT, Properties of DFT, Computations in DFT,                                                                                                                                                                                                                                                                                                                            | 04      |
+| 5.                    | 5.2                   | Fast Fourier Transform Flowgraph, Inverse FFT, Convolution using FFT                                                                                                                                                                                                                                                                                                                                                                       | 04      |
+| 6.                    | Self Study            | Decimation in Time Fast Fourier Transform, Linear FIR filtering using Overlap Add Algorithm and Overlap Save Algorithm and implementation using FFT.                                                                                                                                                                                                                                                                                       | 06*     |
+| Total (*Not Included) | Total (*Not Included) | Total (*Not Included)                                                                                                                                                                                                                                                                                                                                                                                                                      | 28      |
+
+## Laboratory Component:
+
+|   Sr. No. | Title of the Experiment                         |
+|-----------|-------------------------------------------------|
+|        1. | Operations on Continuous Time Signals           |
+|        2. | Convolution on Continuous Time Signals          |
+|        3. | Synthesis of CT signals using Fourier Series    |
+|        4. | Synthesis of CT signals using Fourier Transform |
+|        5. | Analysis of LTI system using Laplace Transform  |
+|        6. | Response of LTI System for any given input      |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+|   7. | Discrete Time Signal Operations              |
+|------|----------------------------------------------|
+|   8. | Discrete Convolution                         |
+|   9. | Discrete Correlation                         |
+|  10. | Discrete Fourier Transform                   |
+|  11. | Fast Fourier Transform                       |
+|  12. | Response of the FIR system using convolution |
+
+## Text Books:
+
+|   Sr. No. | Title                                                             | Edition        | Authors            | Publisher                                                    |   Year |
+|-----------|-------------------------------------------------------------------|----------------|--------------------|--------------------------------------------------------------|--------|
+|        1. | Signals and Systems                                               | 3 rd Edition   | Nagoor Kani        | Tata McGraw Hill                                             |   2011 |
+|        2. | Digital Signal Processing Principles, Algorithms and Applications | Fourth edition | Proakis Manolakis  | Pearson Education, ISBN 81-317-1000-9                        |   2007 |
+|        3. | Digital Signal Processing: A Computer Science Perspective         | First Edition  | Jonathan (Y) Stein | Copyright © 2000 John Wiley & Sons, Incc ISBN:978047129 5464 |   2000 |
+
+## Reference Books:
+
+|   Sr. No. | Title                                           | Edition      | Authors                                | Publisher               |   Year |
+|-----------|-------------------------------------------------|--------------|----------------------------------------|-------------------------|--------|
+|        1. | Signal and Systems                              | 2 nd Edition | Alan Oppenheim, Alan Willsky           | Pearson                 |   2002 |
+|        2. | Signal and Systems                              | 3 rd Edition | Simon Haykin and Barry Van Veen        | John Wiley and sons     |   2002 |
+|        3. | Linear Systems and Signals                      | 4 th Edition | B. P. Lathi                            | Oxford University Press |   2005 |
+|        4. | Digital Signal Processing: A Practical Approach | 2 nd Edition | Emmanuel C. Ifeachor, Barrie W. Jervis | Pearson Education       |   2001 |
+
+## Online Resources:
+
+## NPTEL Courses:
+
+- 1) Signals and Systems Web Course by Prof. V M Gadre, IIT Bombay
+- 2) Signals and Systems Video Lectures by Prof. K S Venkatesh, IIT Kanpur
+- 3) Digital Signal Processing Video Lectures by Prof. S.C.Dutta Roy, IIT Delhi
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+| Course (Category) Code   | Course Name       | Teaching Scheme (Hrs/week) - L   | Teaching Scheme (Hrs/week) - T   | Teaching Scheme (Hrs/week) - P   | Teaching Scheme (Hrs/week) - SE   | Teaching Scheme (Hrs/week) - TE   | Credits Assigned - L   | Credits Assigned - T   | Credits Assigned - P   | Credits Assigned - Total   |
+|--------------------------|-------------------|----------------------------------|----------------------------------|----------------------------------|-----------------------------------|-----------------------------------|------------------------|------------------------|------------------------|----------------------------|
+| BSESEC                   | Thermal and Fluid | 3                                | 0                                | 0                                | 7                                 | 10                                | 3                      | 0                      | 0                      | 3                          |
+| BSESEC                   | Thermal and Fluid | Examination Scheme               | Examination Scheme               | Examination Scheme               | Examination Scheme                | Examination Scheme                | Examination Scheme     | Examination Scheme     | Examination Scheme     | Examination Scheme         |
+| BSESEC                   | Thermal and Fluid | Component                        | Component                        | ISE (%)                          | ISE (%)                           | MSE (%)                           | MSE (%)                | ESE (%)                | ESE (%)                | Total                      |
+| AS110 / AS210            | Engineering       | Theory                           | Theory                           | 20                               | 20                                | 20                                | 20                     | 60                     | 60                     | 100                        |
+| AS110 / AS210            | Engineering       | Laboratory                       | Laboratory                       | --                               | --                                | --                                | --                     | --                     | --                     | --                         |
+
+| Pre-requisite Course Codes, if any.                                                                                                     | Pre-requisite Course Codes, if any.                                                                                                     | HSC                                                                                                                                     |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Course Objective: To provide essential modern skills that enable today's engineers to create our tomorrow using project based learning. | Course Objective: To provide essential modern skills that enable today's engineers to create our tomorrow using project based learning. | Course Objective: To provide essential modern skills that enable today's engineers to create our tomorrow using project based learning. |
+| Course Outcomes (CO): At the end of the course students will be able to                                                                 | Course Outcomes (CO): At the end of the course students will be able to                                                                 | Course Outcomes (CO): At the end of the course students will be able to                                                                 |
+| AS110.1 / AS210.1                                                                                                                       |                                                                                                                                         | Explain the fundamental concepts of thermodynamics.                                                                                     |
+| AS110.2 / AS210.2                                                                                                                       |                                                                                                                                         | Apply the zeroth, first, and second law of thermodynamics.                                                                              |
+| AS110.3 / AS210.3                                                                                                                       | Demonstrate models.                                                                                                                     | heat transfer using conduction, convection, and radiation                                                                               |
+| AS110.4 / AS210.4                                                                                                                       |                                                                                                                                         | Articulate static and dynamic fluid flow.                                                                                               |
+| AS110.5 / AS210.5                                                                                                                       |                                                                                                                                         | Apply thermal management methods using efficient thermal devices.                                                                       |
+
+## Theory Component
+
+|   Module No. | Unit No.   | Topics                                                                                                                                                                                                                                                             | Ref.   |   Hrs. |
+|--------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+|           1. | Title      | Fundamental Concepts of Thermodynamics:                                                                                                                                                                                                                            | 1,2    |      7 |
+|           1. | 1.1        | Thermodynamic system, Surrounding, Universe, Boundary, Control Volume; Types of systems: open, closed, isolated; Properties: intensive (temperature, pressure) vs extensive (mass, volume); Thermodynamic state, process, cycle.                                   | 1,2    |      7 |
+|           1. | 1.2        | Thermodynamic Equilibrium, Quasi-Static process, Concept of Work and Heat Transfer, Energy, Internal Energy, Enthalpy, Specific and Latent heat                                                                                                                    | 1,2    |      7 |
+|           2. | Title      | Laws of Thermodynamics:                                                                                                                                                                                                                                            | 1,2    |      8 |
+|           2. | 2.1        | Zeroth Law of Thermodynamics                                                                                                                                                                                                                                       | 1,2    |      8 |
+|           2. | 2.2        | First Law of Thermodynamics: Non-flow System undergoing a Cycle and a process, PMM- I, Steady Flow Energy Equation (SFEE), and its applications                                                                                                                    | 1,2    |      8 |
+|           2. | 2.2        | Second Law of Thermodynamics: Limitations of First Law of Thermodynamics, Introduction to heat engines, refrigerators, and heat pumps. Energy reservoirs. Kelvin-Planck and Clausius statements, PMM- II, Thermal Efficiency and Coefficient of Performance (COP). | 1,2    |      8 |
+|           3. | Title      | Heat Transfer:                                                                                                                                                                                                                                                     | 3,4    |     10 |
+|           3. | 3.1        | Introduction to heat transfer process, Conduction, Fourier's                                                                                                                                                                                                       | 3,4    |     10 |
+
+<!-- image -->
+
+Bharatiya Vidya Bhavan's
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+
+(Autonomous Institute Affiliated to University of Mumbai)
+
+|                       |                       | Law, Convection, Newton-Richmann's Law of Cooling, Concept of Forced and Natural Convection, Radiation, Stefan-Boltzmann's Law, Problems                                                                                                                                                                                                                                                             |                       |    |
+|-----------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|----|
+|                       | Title                 | Fluid Properties and Statics:                                                                                                                                                                                                                                                                                                                                                                        |                       |    |
+| 4.                    | 4.1                   | Fundamental Concepts: Definition of fluid. Basic properties - density, specific weight, specific gravity, pressure, viscosity, surface tension, compressibility. Classification of fluid - Newtonian and Non-Newtonian, Viscous and Inviscid, Compressible and Incompressible. Newton's law of viscosity, Pascal's law, Concept of buoyancy, Archimedes' principle and stability of floating bodies. | 5,6                   | 9  |
+| 5.                    | Title                 | Fluid Dynamics:                                                                                                                                                                                                                                                                                                                                                                                      |                       |    |
+| 5.                    | 5.1                   | Types of Flow: Steady flow, Unsteady flow, Laminar flow, Turbulent flow Continuity Equation: Conservation of mass; Bernoulli's principle                                                                                                                                                                                                                                                             |                       | 8  |
+| 6.                    | Self Study            | Electronics and Computer Thermal Management: Heat generation due to electrical resistance and its dissipation, Thermal Design Power (TDP), Heat Sinks, Cooling fans, Thermal Interface Material (TIM), Heat Pipe, Data Centre Cooling, Battery Thermal Management System (BTMS)                                                                                                                      | 3,4                   | 5* |
+| Total (*Not Included) | Total (*Not Included) | Total (*Not Included)                                                                                                                                                                                                                                                                                                                                                                                | Total (*Not Included) | 42 |
+
+## Text Books:
+
+|   Sr. No. | Title                                          | Edition   | Authors                         | Publisher        |   Year |
+|-----------|------------------------------------------------|-----------|---------------------------------|------------------|--------|
+|        1. | Thermodynamics: An Engineering Approach        | 10 th     | Cengel, Y. A., and Boles        | Tata McGraw-Hill |   2024 |
+|        2. | Engineering Thermodynamics                     | 7 th      | Nag P. K                        | Tata McGraw-Hill |   2025 |
+|        3. | Heat and Mass Transfer: A Practical Approach   | 3 rd      | Cengel Y. A                     | Tata McGraw-Hill |   2007 |
+|        4. | Heat and Mass Transfer                         | 7 th      | Rajput R. K.                    | Tata McGraw-Hill |   2019 |
+|        5. | Fluid Mechanics: Fundamentals and Applications | 5 th      | Cengel Y. A., and Cimbala J. M. | Tata McGraw-Hill |   2025 |
+|        6. | Fluid Mechanics                                | 9 th      | White F. M.                     | Tata McGraw-Hill |   2021 |
+
+<!-- image -->
+
+## Sardar Patel Institute of Technology
+
+Bhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai)
+
+## Reference Books:
+
+|   Sr. No. | Title                                                | Edition   | Authors                           | Publisher                    |   Year |
+|-----------|------------------------------------------------------|-----------|-----------------------------------|------------------------------|--------|
+|        1. | Applied Thermodynamics for Engineering Technologists | 5 th      | Eastop T. D., and McConkey A.,    | Pearson Education            |   1993 |
+|        2. | Fundamentals of Heat and Mass Transfer               | 8 th      | Incropera F. P., and DeWitt D. P. | Wiley India                  |   2020 |
+|        3. | Heat and Mass Transfer                               | 1 st      | Eckert and Drake                  | McGraw Hill Higher Education |   1972 |
+|        4. | Introduction to Fluid Mechanics                      | 10 th     | Fox R. W. and McDonald A. T.,     | Wiley                        |   2020 |
+|        5. | A Textbook of Fluid Mechanics and Hydraulic Machines | 5th       | Khurmi R. S                       | S. Chand Publications        |   2015 |
+
+## Online Resources:
+
+- 1) [Thermodynamics: https://nptel.ac.in/courses/112105123](https://nptel.ac.in/courses/112105123)
+- 2) [Heat Transfer: https://nptel.ac.in/courses/103101137](https://nptel.ac.in/courses/103101137)
+- 3) [Fluid Mechanics: https://nptel.ac.in/courses/112105269](https://nptel.ac.in/courses/112105269)

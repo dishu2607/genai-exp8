@@ -1,0 +1,52 @@
+--- PAGE 1 ---
+Institute Name : Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology
+India Rankings 2023 ID : IR-E-C-33773
+Discipline : Engineering & Technology
+Parameter: 3A.GPHE Batch: 2022
+Students opting for higher studies
+S.No. Graduating year of
+the Student Name of the  University/Institutions
+Number of
+Students
+admitted
+Year of
+admission
+1 2021-22 Arizona State University 3 2022-23
+2 2021-22 BITS School of Management 1 2022-23
+3 2021-22 Carnegie Mellon University 1 2022-23
+4 2021-22 ETH Zurich 1 2022-23
+5 2021-22 Georgia Institute of Technology 1 2022-23
+6 2021-22 Humber College 1 2022-23
+7 2021-22 IIT Gandhinagar 1 2022-23
+8 2021-22 Illinois Institute of Technology 1 2022-23
+9 2021-22 Imperial College London, New York University 1 2022-23
+10 2021-22 INDIAN INSTITUTE OF MANAGEMENT CALCUTTA 1 2022-23
+11 2021-22 Israel institute of Technology 1 2022-23
+12 2021-22 Language Technologies Institute of the School of Computer Science at Carnegie Mellon University 1 2022-23
+13 2021-22 NC State University 2 2022-23
+14 2021-22 NIT Surathkal 1 2022-23
+15 2021-22 North Carolina State University 2 2022-23
+16 2021-22 North Caroline University 1 2022-23
+17 2021-22 Northeastern University Khoury College of Computer Science 2 2022-23
+18 2021-22 NYU Tandon School of Engineering 3 2022-23
+19 2021-22 Oklahoma State University, USA 1 2022-23
+20 2021-22 San Diego State University 1 2022-23
+21 2021-22 Steven's Institute of Technology 1 2022-23
+22 2021-22 Stony Brook University 1 2022-23
+23 2021-22 Sydenham Institute of Management Studies, Research and Entrepreneurship Education 1 2022-23
+24 2021-22 Technical University of Munich 2 2022-23
+25 2021-22 University of Colorado,Boulder 1 2022-23
+26 2021-22 University of California SAN Diego 1 2022-23
+
+--- PAGE 2 ---
+27 2021-22 University of California Santa Barbara 1 2022-23
+28 2021-22 University of Colorado Boulder 1 2022-23
+29 2021-22 University of Maryland, Baltimore County 1 2022-23
+30 2021-22 University of Pennsylvania 1 2022-23
+31 2021-22 University of Southern California 7 2022-23
+32 2021-22 University of Southern California, Andrew and Erna Viterbi School of Engineering 1 2022-23
+33 2021-22 University of Stuttgart, Germany 1 2022-23
+34 2021-22 University of Washington Information School 1 2022-23
+35 2021-22 Virginia Tech 2 2022-23
+36 2021-22 Washington State University 1 2022-23
+2022-23Total 51

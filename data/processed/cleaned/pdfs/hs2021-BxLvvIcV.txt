@@ -1,0 +1,45 @@
+--- PAGE 1 ---
+Institute Name: Bharatiya Vidya Bhavan's Sardar Patel Institute of Technology
+India Rankings 2023 ID: IR-E-C-33773
+Discipline: Engineering & Technology
+Parameter: 3A.GPHE Batch: 2021
+Students opting for higher studies
+S.No.
+Graduating year of
+the Student Name of the University/Institutions
+Number of
+Students
+admitted
+Year of
+admission
+1 2020-21 Purdue University 1 2020-21
+2 2020-21 University of Maryland 1 2020-21
+3 2020-21 University of Texas, Austin 1 2020-21
+4 2020-21 University of California, Riverside 1 2020-21
+5 2020-21 Columbia University 1 2020-21
+6 2020-21 University at Buffalo 1 2020-21
+7 2020-21 University college Dublin, Ireland 1 2020-21
+8 2020-21 Stony Brook 1 2020-21
+9 2020-21 Oklaham state university 1 2021-22
+10 2020-21 National Forensics Science University 1 2021-22
+11 2020-21 University of Montreal 1 2021-22
+12 2016-17 University of South Florida 1 2020-21
+13 2017-18 Leeds beckett University 1 2021-22
+14 2020-21 University of Illinois Chicago 1 2021-22
+15 2020-21 University of Maryland's Graduate School 1 2021-22
+16 2020-21 University of Southern California. 2 2021-22
+17 2020-21 Columbia University’s Fu Foundation School of Engineering and Applied Science 1 2021-22
+18 2020-21 IIM Calcutta 1 2021-22
+19 2020-21 North Carolina State University 3 2021-22
+20 2020-21 Carnegie Mellon University 1 2021-22
+21 2020-21 Rochester Institute of Technology 1 2021-22
+22 2020-21 University of Michigan - Dearborn 1 2021-22
+23 2020-21 Carnegie Mellon University 1 2021-22
+24 2020-21 Indiana University Bloomington 1 2021-22
+25 2020-21 Texas A&M University 1 2021-22
+26 2020-21 New York University 2 2021-22
+
+--- PAGE 2 ---
+27 2020-21 Columbia University 2 2021-22
+28 2020-21 University of Pennslvania 1 2021-22
+Total 29

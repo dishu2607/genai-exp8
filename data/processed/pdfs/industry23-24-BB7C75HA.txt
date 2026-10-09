@@ -1,0 +1,371 @@
+--- PAGE 1 ---
+Bhartiya Vidya Bhavans, Sardar Patel Institute of Technology
+Internship Students
+Academic Year: 2023-24
+Sr No. Name
+University Serial
+Number Discipline Year Of Passing Mode Of Placement Company
+1 Harshal Dahat 2018130009 COMPS 2024 Offcampus
+Trust System Software and
+solution
+2 Tarun Agrawal 2020300001 COMPS 2024 Oncampus Acknoledger
+3 Atman Ainapure 2020300002 COMPS 2024 Oncampus Nomura
+4 Eshant Chandak 2020300003 COMPS 2024 Oncampus Equity Data Science
+5 Dhaval Bipin Chheda 2020300004 COMPS 2024 Oncampus Cimpress
+6 Madhura Chitale 2020300005 COMPS 2024 Oncampus IIT Bombay
+7 Khushal Dhanuka 2020300007 COMPS 2024 Oncampus PhonePe
+8 Aakanksha Dhawale 2020300008 COMPS 2024 Oncampus Smowcode Pvt. Ltd.
+9 Vyom Doshi 2020300009 COMPS 2024 Offcampus Prabhudas Lilladher Pvt. Ltd.
+10 Manushree Dubey 2020300010 COMPS 2024 Oncampus ISS
+11 Sakshi Gaikwad 2020300011 COMPS 2024 Offcampus Drishtant consultancy
+12 Shubham Ghuge 2020300012 COMPS 2024 Oncampus ISS
+13 Chirag Girdhar 2020300013 COMPS 2024 Oncampus ISS
+14 Vatsal Gohil 2020300014 COMPS 2024 Oncampus Accolite Digital
+15 Shubham Golwal 2020300015 COMPS 2024 Oncampus Colgate-Palmolive
+16 Parth Gujarathi 2020300016 COMPS 2024 Offcampus LTI Mindtree
+17 Arya Gupta 2020300017 COMPS 2024 Offcampus Black Fox Millennium Pvt Ltd.
+18 Srushti Haryan 2020300018 COMPS 2024 Oncampus Acknoledger
+19 Kashish Hemrajani 2020300019 COMPS 2024 Offcampus
+Datamatics Global Services
+Limited
+20 Naman Himmatramka 2020300020 COMPS 2024 Oncampus Nomura
+21 Vidhita Jagwani 2020300021 COMPS 2024 Oncampus MSCI
+22 Yash Hasmukh Jain 2020300022 COMPS 2024 Oncampus JPMC
+23 Jay Jani 2020300023 COMPS 2024 Oncampus MSCI
+24 Aditya Krishna Jikamade 2020300024 COMPS 2024 Oncampus Think360.ai
+25 Shubhan 2020300026 COMPS 2024 Oncampus SPJIMR
+26 Khan Noman Asrar Ahmed 2020300027 COMPS 2024 Offcampus Zomato
+27 Aditya Kharote 2020300029 COMPS 2024 Offcampus Procura Business Pvt Ltd.
+28 Varun Koranne 2020300030 COMPS 2024 Offcampus Procura Business Pvt Ltd.
+29 Param Kothari 2020300032 COMPS 2024 Oncampus JPMC
+30 Aniket Kudtarkar 2020300033 COMPS 2024 Oncampus IDfy
+31 Kunal madrecha 2020300034 COMPS 2024 Offcampus FYNDNA
+32 Rupin Malik 2020300035 COMPS 2024 Offcampus Antenna Ventures
+33 Prabhat Mattoo 2020300036 COMPS 2024 Oncampus JPMC
+34 Smit Meghani 2020300037 COMPS 2024 Oncampus JPMC
+35 Paras Mehta 2020300038 COMPS 2024 Oncampus WorkIndia
+36 Shlok Mehta 2020300039 COMPS 2024 Oncampus MSCI
+37 Kartik Menon 2020300040 COMPS 2024 Offcampus Procura Business Pvt Ltd.
+38 Prince Vireshwar Mishra 2020300043 COMPS 2024 Oncampus HERE Technology
+39 Nikhil Madhukar Naik 2020300044 COMPS 2024 Oncampus CarTrade Tech
+40 Krishna Vasanth Pai 2020300046 COMPS 2024 Oncampus TransUnion
+41 Keyur Pancholi 2020300047 COMPS 2024 Oncampus WorkIndia
+42 Sakshi pandey 2020300048 COMPS 2024 Oncampus Nomura
+43 Shivalik Pandita 2020300049 COMPS 2024 Oncampus Nomura
+44 Rhutik Santosh Parab 2020300050 COMPS 2024 Oncampus Nomura
+45 Dilip Patel 2020300051 COMPS 2024 Offcampus Procura Business Pvt Ltd.
+46 Jai Patel 2020300052 COMPS 2024 Oncampus PhonePe
+47 Prathamesh Sanjay Redij 2020300058 COMPS 2024 Oncampus Baker Hughes
+48 Divyesh Shah 2020300060 COMPS 2024 Oncampus JPMC
+49 Krutik Shah 2020300062 COMPS 2024 Oncampus Nomura
+50 Shubh Minesh Shah 2020300063 COMPS 2024 Oncampus Phonepe
+
+--- PAGE 2 ---
+51 Suyog Shah 2020300064 COMPS 2024 Oncampus TransUnion
+52 Vatsal Shah 2020300065 COMPS 2024 Oncampus Versor Investments
+53 Meet Shrimankar 2020300067 COMPS 2024 Offcampus
+Website Developers India Pvt.
+Ltd. (WDIPL)
+54 Simran Vedpathak 2020300069 COMPS 2024 Oncampus KPMG
+55 Jay Vele 2020300070 COMPS 2024 Offcampus Employee Forums
+56 Akshay Vaman Vhatkar 2020300071 COMPS 2024 Oncampus Equity Data Science
+57 Arun Warrier 2020300072 COMPS 2024 Oncampus ISS
+58 Amaresh Baranwal 2021301073 COMPS 2024 Offcampus Octaware Technologies
+59 Pratham Maner 2021301074 COMPS 2024 Oncampus Arcon
+60 Srushti Patil 2021301075 COMPS 2024 Oncampus Acknoledger
+61 Siddharth Revankar 2021301077 COMPS 2024 oncampus
+Sardar Patel Institute of
+Technology
+62 Nishtha Sharma 2021301078 COMPS 2024 Oncampus JPMC
+63 Kenil Shah 2021301079 COMPS 2024 Offcampus Lazybone Innovations
+64 Danish Sheikh 2021301080 COMPS 2024 Oncampus ISS
+65 Ayush Bhandarakar 2020400001 IT 2024 Offcampus Emertech Innovations
+66 Pranati Bharadkar 2020400002 IT 2024 Oncampus Nomura
+67 Akshat Choradia 2020400004 IT 2024 Oncampus Nomura
+68 Akim Chowhan 2020400005 IT 2024 Oncampus Colgate-Palmolive
+69 Namrata Das 2020400006 IT 2024 Oncampus MSCI
+70 Sakshi Dhenge 2020400007 IT 2024 Oncampus IDfy
+71 Raynil Dsouza 2020400008 IT 2024 Oncampus Nomura
+72 Swamini Dumbre 2020400009 IT 2024 Offcampus
+DATAMATICS GLOBAL
+SERVICES LTD.
+73 Harsh Hegishte 2020400011 IT 2024 Offcampus Hi-Tech
+74 Yash Jadhav 2020400012 IT 2024 Oncampus IDfy
+75 Ounkar Jagtap 2020400013 IT 2024 Oncampus IDfy
+76 Vivek Jaju 2020400015 IT 2024 Oncampus Baker Hughes
+77 Shantanu Kadam 2020400017 IT 2024 Offcampus Services2NRI
+78 Janhvi Katkar 2020400018 IT 2024 Oncampus JPMC
+79 Atharva Khairnar 2020400019 IT 2024 Oncampus Nomura
+80 Urshita Koshti 2020400021 IT 2024 Oncampus Research internship kalbande sir
+81 Somil Vilas More 2020400024 IT 2024 Offcampus Kyzer Software (I) Pvt Ltd
+82 Nikhil Motwani 2020400025 IT 2024 Oncampus Equity Data Science
+83 Ashish Ganesh Nagargoje 2020400026 IT 2024 Offcampus Avenirya Solutions Pvt Ltd
+84 Arjun Nair 2020400027 IT 2024 Oncampus ICICI Lombard
+85 Shraddha Nandvikar 2020400028 IT 2024 Offcampus Morgan Stanley
+86 Yash Pabari 2020400030 IT 2024 Oncampus Nomura
+87 Anushka Pandey 2020400033 IT 2024 Oncampus J.P. Morgan Chase
+88 Reshma Panigrahi 2020400034 IT 2024 Oncampus Here Technologies
+89 Aakash Pardeshi 2020400035 IT 2024 Oncampus Cimpress
+90 Alok v Patil 2020400036 IT 2024 Oncampus Citius Tech
+91 Harsh Patil 2020400037 IT 2024 Oncampus Baker Hughes
+92 Pushkaraj Patil 2020400038 IT 2024 Offcampus Avenirya Solutions Pvt Ltd
+93 Sanika Patil 2020400039 IT 2024 Oncampus Om Partners
+94 Prathamesh Rajan Pawar 2020400040 IT 2024 Offcampus Vyas Edification
+95 Aashutosh AnilKumar Rai 2020400041 IT 2024 Oncampus Under Ambavade sir
+96 Prateek Redkar 2020400044 IT 2024 Offcampus Services2NRI
+97 Niraj Salvi 2020400045 IT 2024 Offcampus Harmony Surgicals
+98 Keval Savla 2020400046 IT 2024 Offcampus Services2NRI
+99 Karan Shah 2020400048 IT 2024 Offcampus W.E. matter
+100 Akhil Sharma 2020400051 IT 2024 Offcampus Services2NRI
+101 Prathmesh Sharma 2020400052 IT 2024 Oncampus JPMC
+102 Aayush Sheth 2020400053 IT 2024 Oncampus ISS
+103 Yash Shingade 2020400055 IT 2024 Offcampus WEMATTER PXT Pvt. Ltd.
+104 Sarthak Santosh Shingre 2020400056 IT 2024 Offcampus
+rishtant Consultancy Services
+Private Limited
+105 Ayush Singh 2020400059 IT 2024 Oncampus Phonepe
+106 Rishi Sodhani 2020400060 IT 2024 Oncampus GEP
+107 Srikanth Iyengar 2020400062 IT 2024 Offcampus Vyas Edification
+
+--- PAGE 3 ---
+108 Sumedha 2020400063 IT 2024 Offcampus Avendus
+109 Vidhan Tamhankar 2020400064 IT 2024 Oncampus JPMC
+110 Richie Thakkar 2020400065 IT 2024 Oncampus Transunion
+111 Amal Thundiyil 2020400066 IT 2024 Offcampus
+CERN (European Organization
+for Nuclear Research)
+112 Bhuvanesh Trivedi 2020400067 IT 2024 Oncampus Carwale
+113 Mishika vachhani 2020400068 IT 2024 Oncampus OMP
+114 Durga Warrier 2020400069 IT 2024 Offcampus Nityo Infotech
+115 Y V Satayasri Kaveri 2020400070 IT 2024 Offcampus Avenirya Solutions Pvt Ltd
+116 Purval Dhumale 2021401071 IT 2024 Oncampus Transunion
+117 Tisha Negandhi 2021401072 IT 2024 Offcampus WEMATTER PXT Pvt. Ltd.
+118 Prathamesh Sunil Renghe 2021401073 IT 2024 Offcampus Harmony Surgicals
+119 Arbaaz Ghameria 2021401075 IT 2024 Oncampus JP Morgan Chase & Co.
+120 Adwait Nyayadhish 2021401076 IT 2024 Oncampus MSCI
+121 Aniket Sawant 2021401077 IT 2024 Offcampus Logivention
+122 Vaibhav Udamale 2021401078 IT 2024 Oncampus KPMG
+123 Tejas Vaidya 2021401079 IT 2024 Oncampus ICICI Lombard
+124 Tanya Anupam 2020200002 EXTC 2024 Oncampus WorkIndia
+125 Nikhil Dattatray Binnar 2020200004 EXTC 2024 Offcampus Step Consultancy
+126 Akash Biswas 2020200005 EXTC 2024 Oncampus Baker Hughes
+127 Swapnil Sunil Chavan 2020200007 EXTC 2024 Oncampus
+Sharv AutoTech Solutions
+(SATS)
+128 Tejas dhurve 2020200010 EXTC 2024 Oncampus
+Career mantra/Sharv autotech
+solutions
+129 Keerti Didwania 2020200011 EXTC 2024 Oncampus Incred
+130 Srushti Gaikwad 2020200013 EXTC 2024 Oncampus
+S. P. I. T. (Under Prof.
+Dhananjay Kalbande)
+131 Palaash Gandhi 2020200014 EXTC 2024 Oncampus Jp Morgan
+132 Shruti Gautam 2020200015 EXTC 2024 Oncampus InCred
+133 Kaustubh Ghare 2020200016 EXTC 2024 Offcampus FundEnable
+134 Riya Goenka 2020200017 EXTC 2024 Oncampus JPMC
+135 Dil Gupta 2020200018 EXTC 2024 Oncampus Baker Hughes
+136 Shreya Gurav 2020200019 EXTC 2024 Oncampus J P Morgan & Chase
+137 Vijay Prasanna Gurubaran 2020200020 EXTC 2024 Oncampus
+Nomura Services India Private
+Limited
+138 Saurabh Sunil Hagawane 2020200021 EXTC 2024 Offcampus Dassault Systemes Pune
+139 Yug Harlalka 2020200022 EXTC 2024 Offcampus Investec
+140 Bhavesh Jadhav 2020200023 EXTC 2024 Oncampus
+INCRED FINANCIAL
+SERVICES
+141 Heet Jain 2020200024 EXTC 2024 Oncampus JPMC
+142 Khush Jain 2020200025 EXTC 2024 Offcampus Spjimr
+143 Aryan Jaiswal 2020200026 EXTC 2024 Oncampus TransUnion
+144 Vishal Jha 2020200027 EXTC 2024 Oncampus OMP
+145 Alisha Kadam 2020200029 EXTC 2024 Oncampus JP Morgan Chase
+146 UTSA V KAIM 2020200030 EXTC 2024 Oncampus KPMG
+147 Shubham Kanhere 2020200032 EXTC 2024 Offcampus VJTI, Mumbai
+148 Jatin Karkera 2020200033 EXTC 2024 Oncampus MSCI
+149 Khare Vyoum Atul 2020200034 EXTC 2024 Oncampus J.P. Morgan Chase & Co.
+150 Ruchi Kowarkar 2020200035 EXTC 2024 Oncampus IIT Bombay
+151 Sangharsh Kuldipkar 2020200036 EXTC 2024 Oncampus FactWise
+152 Harshal Lade 2020200038 EXTC 2024 Oncampus BNP PARIBAS
+153 Darshan Sanjay Lahamge 2020200039 EXTC 2024 Oncampus Quantiphi(FE)
+154 Vineet Mankani 2020200040 EXTC 2024 Oncampus MSCI
+155Nishali Dhanshika Gowri Venkadeshaaral 2020200041 EXTC 2024 Oncampus
+DST funded project at S.P.I.T
+Campus (6 months Inhouse
+Internship under Prof. Dr.
+Rajendra Sawant)
+156 Adit Padgaonkar 2020200042 EXTC 2024 Offcampus
+Crucibo Technologies Private
+Limited
+157 Laukik Patade 2020200044 EXTC 2024 Oncampus JP Morgan Chase & Company
+158 Preet Patil 2020200045 EXTC 2024 Oncampus Sharv Auto Tech Solutions
+159 Gaurav Pawar 2020200047 EXTC 2024 Offcampus Sunandalnfotech.Pvt.Ltd
+
+--- PAGE 4 ---
+160 Yogendra Pawar 2020200048 EXTC 2024 Oncampus
+Think Analytics India Private
+Limited
+161 Sandeep Pillai 2020200049 EXTC 2024 Offcampus IIT Bombay
+162 Rohan Rane 2020200051 EXTC 2024 Oncampus Idfy
+163 Akash Salgar 2020200053 EXTC 2024 Oncampus KPMG
+164 Onkar Subhash Salvi 2020200054 EXTC 2024 Oncampus Think360.ai
+165 Siddharth Sasane 2020200056 EXTC 2024 Offcampus EMIC India
+166 Harshvardhan sethia 2020200057 EXTC 2024 Oncampus GEP
+167 Navinder Singh 2020200058 EXTC 2024 Oncampus Citius Tech
+168 Piyush Soni 2020200059 EXTC 2024 Oncampus Nomura
+169 Akshat Tickoo 2020200061 EXTC 2024 Offcampus IIT Bombay
+170 Omkar Vijay Vaidya 2020200062 EXTC 2024 Oncampus TransUnion
+171 Swarangi Amol Vedpathak 2020200064 EXTC 2024 Oncampus Nomura
+172 Aryan Verma 2020200065 EXTC 2024 Oncampus JPMC
+173 Chirag Wadhwani 2020200066 EXTC 2024 Oncampus OMP
+174 Siddharth Warrier 2020200067 EXTC 2024 Oncampus Colgate-Palmolive
+175 Kevin Xavier 2020200068 EXTC 2024 Oncampus KPMG
+176 Parth Yogaonkar 2020200069 EXTC 2024 Offcampus Step Consultancy
+177 Narayan Gawas 2021201070 EXTC 2024 Oncampus Acknoledger
+178 Gaurang Gawas 2021201071 EXTC 2024 Offcampus Linwire Technologies
+179 Sahil Patil 2021201073 EXTC 2024 Offcampus Pragati Process Controls
+180 Suyash Bargal 2021201075 EXTC 2024 Offcampus Paarsh Infotech Pvt Ltd.
+181 Shashank Dnyaneshwar Jagtap 2021201076 EXTC 2024 Oncampus Baker Hughes
+182 Shubham Prakash Shirke 2021201077 EXTC 2024 Oncampus TransUnion
+183 Rutika Rajaram Shinde 2021201078 EXTC 2024 Oncampus TransUnion
+184 Virendra Mahajan 2021201079 EXTC 2024 Offcampus R R Kabel Ltd
+185 Siddhesh Choughule 2021201080 EXTC 2024 Oncampus KPMG India
+186 Omkar Dilip Pawar 2019110044 ETRX 2024 Offcampus Bhabha Atomic Research Centre
+187 Pranjal Agrawal 2020100001 ETRX 2024 Oncampus InCred Financial Services
+188 Vaishnavi Arolkar 2020100002 ETRX 2024 Offcampus 43AppMart
+189 Durvesh Chaudhari 2020100006 ETRX 2024 Oncampus Embedos Engineering
+190 Kundan Choudhary 2020100007 ETRX 2024 Offcampus Web3Dao
+191 Vikram Manaram Choudhary 2020100008 ETRX 2024 Oncampus KPMG
+192 Fenil Dedhia 2020100010 ETRX 2024 Oncampus GEP
+193 Anushri Deshmukh 2020100011 ETRX 2024 Offcampus
+Symbiosis Institute of Business
+Management
+194 Adrika Dikshit 2020100012 ETRX 2024 Offcampus SPJIMR
+195 Hiba Fatima 2020100014 ETRX 2024 Oncampus JPMC
+196 Gaurav Galbal 2020100015 ETRX 2024 Offcampus Cpiombo Servtec Private Limited
+197 Raj Gandhi 2020100016 ETRX 2024 Oncampus BNP Paribas
+198 Kaustubh Gharat 2020100017 ETRX 2024 Oncampus Kifayati health
+199 Kaustubh Surendra Gode 2020100018 ETRX 2024 Oncampus WorkIndia
+200 Prathmesh Avinash Gorad 2020100019 ETRX 2024 Oncampus
+AutoBuddys
+Research Project @Aim4u
+201 Arjun Haridas 2020100020 ETRX 2024 Oncampus KPMG
+202 Amisha Vijay Jadhav 2020100021 ETRX 2024 Oncampus BNP Paribas
+203 Janhavi Vijay Jadhav 2020100022 ETRX 2024 Offcampus Puissance Electric and Co
+204 Wajid Babaso Jamadar 2020100023 ETRX 2024 Offcampus 43AppMart
+205 Nikita Joby 2020100024 ETRX 2024 Oncampus GEP
+206 Harshita Jogi 2020100025 ETRX 2024 Oncampus MSCI
+207 Namita Kadam 2020100026 ETRX 2024 Oncampus JP Morgan Chase & Co
+208 Tanisha Kalathil 2020100027 ETRX 2024 Oncampus J P Morgan Chase
+209 Sakshi Khanna 2020100031 ETRX 2024 Oncampus KPMG
+210 Abhijit Maruti Khune 2020100032 ETRX 2024 Oncampus Citius Tech
+211 Jay Kolte 2020100034 ETRX 2024 Offcampus
+SP Jain Institute of Management
+and Research
+212 Sahil Lale 2020100035 ETRX 2024 Oncampus OM Partners
+213 Aryan Machindar 2020100036 ETRX 2024 Oncampus Transunion
+214 Suruchi Ramchandra Madhavi 2020100037 ETRX 2024 Oncampus OMP
+215 Aditya Narayane 2020100039 ETRX 2024 Oncampus KPMG
+216 Devraj Panchal 2020100040 ETRX 2024 Offcampus B.A.R.C
+
+--- PAGE 5 ---
+217 KRUSHI PANCHAL 2020100041 ETRX 2024 Oncampus Nomura
+218 Chetan Patil 2020100043 ETRX 2024 Oncampus KPMG
+219 Jahan Patil 2020100044 ETRX 2024 Oncampus Citius Tech
+220 Amith Prasanth 2020100045 ETRX 2024 Offcampus SPJIMR
+221 Vedang Ranmale 2020100047 ETRX 2024 Oncampus Baker Hughes
+222 TEETHI KANTHE 2020100048 ETRX 2024 Oncampus JPMC
+223 SONU SAHU 2020100048 ETRX 2024 Oncampus JPMC
+224 Atharva Sakre 2020100049 ETRX 2024 Oncampus OMP
+225 Yash Sawai 2020100052 ETRX 2024 Oncampus TransUnion
+226 Namooh Shah 2020100053 ETRX 2024 Oncampus Career Mantra
+227 Shreyes Shah 2020100054 ETRX 2024 Oncampus Think360.Ai
+228 Nikhil Singh 2020100055 ETRX 2024 Oncampus KPMG
+229 Atharva Tadge 2020100055 ETRX 2024 Oncampus Workindia
+230 Tejas Thakare 2020100058 ETRX 2024 Oncampus BNP paribas
+231 Shreyash Tirpude 2020100059 ETRX 2024 Oncampus Here Technologies
+232 Prathamesh Ursal 2020100061 ETRX 2024 Offcampus 43Appmart
+233 Aaryan Vaidya 2020100062 ETRX 2024 Offcampus Web3DAO
+234 Dipali Walde 2020100065 ETRX 2024 Oncampus
+Research Internship Under Prof.
+Kalbande Sir ( Autobuddy )
+235 Suyog Yadav 2020100067 ETRX 2024 Offcampus 43AppMart
+236 Shruti Bhosale 2021101068 ETRX 2024 Oncampus
+AutoBuddys Research Project
+@Aim4u
+237 Srushti Ankush Gavand 2021101069 ETRX 2024 Offcampus
+BARC(Bhabha Atomic Research
+Centre)
+238 Abhinav Hadole 2021101070 ETRX 2024 Offcampus Microspectra
+239 Rahul Joshi 2021101071 ETRX 2024 Oncampus KPMG
+240 Om Mahukar 2021101074 ETRX 2024 Offcampus Puissance Electric and Co
+241 Nikita Sanjay Patel 2021101076 ETRX 2024 Oncampus
+Research internship under Dr.
+Rajendra Sawant sir
+242 Salvi Saurabh Yogesh 2021101077 ETRX 2024 Offcampus Puissance Electric and Co
+243 SAKSHI SHELAR 2021101078 ETRX 2024 Offcampus Rutuja ent Hicool industry
+244 Bhavesh Sadanand Surve 2021101079 ETRX 2024 Oncampus KPMG - Digital Trust
+245 Kausher Alam 2022510001 MCA 2024 Off Campus Unified Mentor
+246 Ruchita Anuse 2022510003 MCA 2024 OnCampus BNP
+247 Tejas Chalke 2022510004 MCA 2024 OnCampus BNP
+248 Tanmay Chavan 2022510005 MCA 2024 OnCampus NeenOpal
+249 Amit Chawarekar 2022510006 MCA 2024 OnCampus Citiustech
+250 Ruturaj Deshpande 2022510007 MCA 2024 Off Campus RacksonsIT
+251 Siddheshwar Devkate 2022510008 MCA 2024 OnCampus BNP
+252 Sharad Dhande 2022510009 MCA 2024 OnCampus BNP
+253 Pankaj Dhotre 2022510010 MCA 2024 OnCampus SPIT PDC
+254 Viraj Dhumal 2022510011 MCA 2024 OnCampus Diebold Nixdorf
+255 Siddhant Divekar 2022510012 MCA 2024 OnCampus BNP
+256 Aryan Dixit 2022510013 MCA 2024 Off Campus Unified Mentor
+257 Alok Dubey 2022510014 MCA 2024 Off Campus GenieHub
+258 Sanchit Gaikwad 2022510015 MCA 2024 OnCampus SPIT PDC
+259 Rushikesh Gavhane 2022510016 MCA 2024 OnCampus BNP
+260 Shruti Gawade 2022510017 MCA 2024 OnCampus BNP
+261 Avishkar Ghorpade 2022510018 MCA 2024 OnCampus Nomura
+262 Rushikesh Giri 2022510019 MCA 2024 Off Campus RacksonsIT (Off Campus)
+263 Tanisha Gondke 2022510020 MCA 2024 OnCampus Colgate
+264 Shubham Gosavi 2022510021 MCA 2024 OnCampus BNP
+265 Shekhar Gumaste 2022510022 MCA 2024 OnCampus Colgate
+266 Mohd Zeeshan Haque 2022510023 MCA 2024 OnCampus BNP
+267 Ritu Jadhav 2022510024 MCA 2024 OnCampus Citiustech
+268 Gayatri Jadhav 2022510025 MCA 2024 Off Campus DigitalFlake
+269 Harsh Jain 2022510026 MCA 2024 OnCampus BNP
+270 Bhushan Joshi 2022510027 MCA 2024 OnCampus BNP
+271 Amey Joshi 2022510028 MCA 2024 Off Campus OM Partners
+272 Atharva Joshi 2022510029 MCA 2024 Off Campus OM Partners
+273 Kunal Kachave 2022510031 MCA 2024 OnCampus BNP
+
+--- PAGE 6 ---
+274 Yash Koyande 2022510033 MCA 2024 OnCampus Here Technologies
+275 Rishikesh Lingayat 2022510034 MCA 2024 OnCampus BNP
+276 Meghana Mainkar 2022510035 MCA 2024 OnCampus SPIT PDC
+277 Pranav Menon 2022510036 MCA 2024 OnCampus BNP
+278 Khushi Mewada 2022510037 MCA 2024 OnCampus Citiustech
+279 Sahil Panchbhaiya 2022510038 MCA 2024 OnCampus Interactive Brokers
+280 Subhamsekhar Panda 2022510039 MCA 2024 OnCampus Citiustech
+281 Hrishikesh Parkar 2022510040 MCA 2024 OnCampus BNP
+282 Yash Patil 2022510041 MCA 2024 OnCampus CleverTap
+283 Ritesh Patil 2022510042 MCA 2024 Off Campus TheOther 2 Thirds Consulting LLP
+284 Arpita Patil 2022510043 MCA 2024 OnCampus BNP
+285 Samyak Patni 2022510044 MCA 2024 OnCampus Citiustech
+286 Karan Pawar 2022510045 MCA 2024 Off Campus GenieHub (Off Campus)
+287 Shivam Raghuvanshi 2022510046 MCA 2024 OnCampus BNP
+288 Aditi Ranganathan 2022510047 MCA 2024 OnCampus CleverTap
+289 Vikram Rathod 2022510048 MCA 2024 Off Campus Comzent Technologies Pvt Ltd (Off Campus)
+290 Himanshu Rawat 2022510049 MCA 2024 Off Campus Unified Mentor
+291 Shreyash Rokade 2022510050 MCA 2024 OnCampus SPIT PDC
+292 Arti Sable 2022510051 MCA 2024 OnCampus SPIT PDC
+293 Arshita Sallagari 2022510052 MCA 2024 OnCampus BNP
+294 Aditya Salunke 2022510053 MCA 2024 OnCampus BNP
+295 Anjali Salvi 2022510054 MCA 2024 OnCampus Bridge Up
+296 Roshani Sangle 2022510055 MCA 2024 OnCampus BNP
+297 Kratik Sharma 2022510056 MCA 2024 OnCampus Adenza
+298 Aryan Shende 2022510058 MCA 2024 OnCampus BNP
+299 Chaitanya Shetty 2022510059 MCA 2024 OnCampus BNP
+300 Prajakta Shevkar 2022510060 MCA 2024 OnCampus BNP
+301 Sudhir Shinde 2022510061 MCA 2024 OnCampus BNP
+302 Mihir Shirsath 2022510062 MCA 2024 Off Campus Sankey Solution
+303 Sudhirkumar Shukla 2022510063 MCA 2024 Off Campus KreonSolutions
+304 Sintu Singh 2022510064 MCA 2024 OnCampus Citiustech
+305 Subham Singh 2022510065 MCA 2024 OnCampus BNP
+306 Aditya Srivastava 2022510066 MCA 2024 OnCampus BNP
+307 Siddharth Tripathy 2022510067 MCA 2024 OnCampus BNP
+308 Shrijeet Yeole 2022510068 MCA 2024 OnCampus Quantiphi

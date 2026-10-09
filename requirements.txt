@@ -1,0 +1,16 @@
+beautifulsoup4
+pypdf
+pandas
+tqdm
+tiktoken
+
+# Document parsing
+docling
+
+# Embeddings and retrieval
+sentence-transformers
+faiss-cpu
+rank-bm25
+
+# Data processing
+numpy

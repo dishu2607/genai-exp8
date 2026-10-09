@@ -1,0 +1,78 @@
+--- PAGE 1 ---
+Research Internships from January 2024 to June 2025 (Batch 2026 Passouts)
+Sr. No. Name UID Branch Research Organisation
+1 Purav Ahya 2022300001 COMPS IITB (Dr Gadre)
+2 Anand Saurabh Shah 2022300003 COMPS IIT Madras (Rahul Mesh)
+3 Paarth Bahety 2022300005 COMPS IIT Guwahati
+4 Isha Bamel 2022300007 COMPS IITB (Dr Gadre)
+5 Deepak Maheshwar Bhinge 2022300008 COMPS SPJIMR
+6 Vineet Jitendra Channe 2022300013 COMPS IITB (Dr Gadre)
+7 Harshal Sujit Chavan 2022300016 COMPS IITB Accuradyne
+8 Prasad Gajendra Chopade 2022300017 COMPS IIT Guwahati
+9 Soham Daddikar 2022300018 COMPS IIT Madras (Rahul Mesh)
+10 Dhruv Doshi 2022300024 COMPS IRCC - IITB
+11 Vivek Gangwani 2022300027 COMPS IRCC - IITB (Avijit Maji)
+12 Garima Raina 2022300028 COMPS DRDO, Delhi
+13 Alessa Shailesh Ingole 2022300032 COMPS SPJIMR - Prof. Harit Joshi
+14 Atharva Jagtap 2022300036 COMPS IITB (Prof. Saket Choudhary)
+15 Jainam Khanter 2022300048 COMPS IRCC - IITB
+16 Krishna Sharma 2022300050 COMPS IRCC - IITB (Saket C)
+17 Manthan Vala 2022300054 COMPS IRCC - IITB (Dr. Vikram Vishal)
+18 Arya Mehta 2022300056 COMPS IITB IRCC
+19 Aditya Rajendra Mhatre 2022300059 COMPS IITB Accuradyne
+20 Namit patel 2022300078 COMPS IITB (Dr Maji)
+21 Aniket Shailesh Pethe 2022300081 COMPS IITB (Dr Gadre)
+22 Akhil Padmakumar Pillai 2022300082 COMPS IITB (Dr Gadre)
+23 Shubham Prajapati 2022300083 COMPS IITB (Sridhar )
+24 Prasham  Shrenik mehta 2022300084 COMPS IITB (Dr Gadre)
+25 Pratham Bhanushali 2022300085 COMPS IITB (Vishal Dixit)
+26 Prathamesh Manoj Sanaye 2022300093 COMPS IITB (Dr Gadre)
+27 Bhavya Shah 2022300103 COMPS IRCC - IITB (Dr. Vikram Vishal)
+28 Dhruv Shah 2022300104 COMPS IITB (Dr Maji)
+29 Yash Shah 2022300108 COMPS IIT Patna
+30 Shaikh Areeb Mohammed Natique 2022300109 COMPS IITB (Dr Gadre)
+31 Aviraj Singh 2022300116 COMPS IIT Bombay - Dr. Nirmal Punjabi
+32 Omkar Ajay Surve 2022300126 COMPS IIT Patna
+33 Tulsiyan Darsh Alok 2022300129 COMPS IIT Patna
+34 Akhil Makarand Vaidya 2022300131 COMPS IIT Patna
+35 Yash Desai 2022300138 COMPS IRCC IITB
+36 Mansi Dhamne 2022302140 COMPS IRCC IITB (Preeti Rao)
+37 Vinayak Bhatia 2022600006 AIML IIT Patna
+38 Chahat Dholakia 2022600010 AIML SPJIMR
+39 Harsh Gosula 2022600014 AIML IIT Patna
+40 Jiten Ishwar Ganwani 2022600018 AIML IIT Patna
+41 Jash V ora 2022600065 AIML IIT Patna
+42 Ashwika Kailasanathan Iyer 2022700003 DS IITB (Dr Gadre)
+43 Akshay Gokhale 2022700009 DS IRCC IIT Bombay (Neeta Kanekar)
+44 Eeshan Patrick Gomes 2022700011 DS IITB (Dr Gadre)
+45 Manav Shah 2022700051 DS Autobuddies (Dr Kalbande)
+46 Atharva Tilak 2022700061 DS IIT Patna
+47 Vrushtee Jasani 2023701009 DS BITS Pilani  IITB
+
+--- PAGE 2 ---
+48 Amogh Vijay Shetty 2027700055 DS IITB IRCC
+49 Megha Agarwal 2022200005 EXTC Accuradyne IITB
+50 Shivani Bhat 2022200013 EXTC TIFR
+51 Parth Chitre 2022200022 EXTC TIFR
+52 Prajwal Anil Deshmukh 2022200024 EXTC BARC
+53 Diya Shital Shah 2022200032 EXTC IITB Accuradyne
+54 Soham Ghaisas 2022200041 EXTC IITB (Kshitij Jadhav)
+55 GHOSH RAYA MALAYCHANDAN 2022200042 EXTC TIFR
+56 Woodrow Gonsalves 2022200045 EXTC TIFR
+57 Pulkit Gupta 2022200047 EXTC IITB IRCC (Prof. Manoranjan Sahu)
+58 Srushti Hallur 2022200048 EXTC TIFR
+59 Chetanarupa Sharad Jirgale 2022200057 EXTC IITB (
+60 Joshi Ameya Chandrashekhar 2022200058 EXTC TIFR
+61 Shravani Karad 2022200063 EXTC IITB (Sandeep Anand)
+62 KAWADE NILAY NITIN 2022200067 EXTC TIFR
+63 Diya Kulkarni 2022200072 EXTC IIT Bombay (Avijit Maji)
+64 Prathamesh Mane 2022200078 EXTC TIFR
+65 Shivang Pathak 2022200090 EXTC IITB (Dr. Nirmal Punjabi)
+66 Teni Warad Yogesh 2022200121 EXTC SPIT (Dr R R Sawant)
+67 Saiesh Vandkar 2022200125 EXTC TIFR
+68 Tanvi Wani 2022200129 EXTC TIFR
+69 Ayush Jaiswal 2023201009 EXTC TIFR
+70 Rohan Milind Kadam 2023201010 EXTC BARC
+71 Saiesh Khadpe 2023201012 EXTC BARC
+
+--- PAGE 3 ---

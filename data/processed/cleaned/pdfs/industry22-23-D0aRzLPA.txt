@@ -1,0 +1,310 @@
+--- PAGE 1 ---
+Bhartiya Vidya Bhavans, Sardar Patel Institute of Technology
+Internship Details
+Academic Year: 2022-23
+Sr. No. Name University Serial
+Number Discipline Year Of Passing Company Category Internship Organization
+1 Sanchit Gajam 2018130011 COMPS 2023 On Campus ICICI Lombard
+2 Ashish Rajguru 2018130042 COMPS 2023 On Campus BNP Paribas
+3 Abhishek Chopra 2019130009 COMPS 2023 On Campus JPMC
+4 Sakshi Gadegaonkar 2019130012 COMPS 2023 On Campus JPMC
+5 Shubham Goel 2019130015 COMPS 2023 On Campus PhonePe
+6 Sumeet Haldipur 2019130018 COMPS 2023 On Campus WorkIndia
+7 Jash 2019130021 COMPS 2023 Off Campus Amazon
+8 Rishabh Jain 2019130024 COMPS 2023 On Campus JP Morgan Chase
+9 Ameya Jangam 2019130025 COMPS 2023 Off Campus Flobiz
+10 Manvita Joshi 2019130027 COMPS 2023 On Campus JP Morgan Chase & Co
+11 Traividya Korgaonkar 2019130031 COMPS 2023 On Campus Enfusion
+12 Madhav Lahoti 2019130032 COMPS 2023 On Campus JPMC
+14 Chetashri Narendra Mahajan 2019130035 COMPS 2023 On Campus J. P Morgan Chase & Co.
+15 Atharva Mohite 2019130038 COMPS 2023 On Campus JPMC
+16 Aditya Motwani 2019130040 COMPS 2023 On Campus Morgan Stanley
+17 Vatsa Nagaria 2019130041 COMPS 2023 Off Campus Creding Technologies Pvt. Ltd.
+18 Yash Patel 2019130047 COMPS 2023 On Campus Morgan Stanley
+19 Param Patil 2019130049 COMPS 2023 On Campus PhonePe
+20 Shashank Sarma 2019130053 COMPS 2023 On Campus JPMC
+21 Apurv Sarode 2019130054 COMPS 2023 On Campus JP Morgan Chase
+22 Samkit Shah 2019130060 COMPS 2023 Off Campus Amazon UK
+23 Ashish Todi 2019130066 COMPS 2023 On Campus JPMC
+24 Vedanth Raja 2019130069 COMPS 2023 On Campus JPMorgan Chase & Co.
+25 Prathmesh Waghmode 2019130070 COMPS 2023 On Campus JP Morgan Chase
+26 Sanskruti Badhe 2020301072 COMPS 2023 On Campus Incred
+27 Mubashshira Hasan 2020301076 COMPS 2023 On Campus Jp morgan chase
+28 Vidhi Rughwani 2020301077 COMPS 2023 On Campus JP Morgan and Chase
+29 Deep Nayak 2019130045 COMPS 2023 Off Campus Amazon
+30 Arbaz Ahmed Addewala 2019130002 COMPS 2023 Off Campus Mechademy Incorporated
+31 Netal Pankaj Asawa 2019130003 COMPS 2023 Off Campus Rupeek
+32 Soham Belurgikar 2019130006 COMPS 2023 Off Campus Shreeji Industries
+33 Yash Brid 2019130008 COMPS 2023 Off Campus Fafadia Tech
+34 Sejal Gurkhe 2019130017 COMPS 2023 Off Campus 43appMart
+35 Adwait Hegde 2019130019 COMPS 2023 Off Campus Shreeji Industries
+36 Vedant Kadhane 2019130029 COMPS 2023 On Campus JP Morgan & Chase
+37 Ishita Vilas More 2019130039 COMPS 2023 On Campus Siemens Industry Software Private Limited
+38 Pranav Nair 2019130042 COMPS 2023 On Campus Cpiombo Servtec Private Limited
+39 Aniket Narbariya 2019130043 COMPS 2023 On Campus Dolat Capital
+40 Sudhanshu Narsude 2019130044 COMPS 2023 Off Campus Skillcoup
+41 Omkar Padir 2019130046 COMPS 2023 Off Campus aNumak & Company
+42 Ojas Patil 2019130048 COMPS 2023 Off Campus Shreeji Industries
+43 Vivek Poojari 2019130050 COMPS 2023 On Campus Digiklug Solutions
+44 Satyam Rai 2019130051 COMPS 2023 Off Campus Money2Me Finance Private Limited
+45 Rahul Tandel 2019130063 COMPS 2023 Off Campus aNumak & Company
+46 Vishal Tonde 2019130067 COMPS 2023 On Campus BDO LLP India
+47 Himanshu Dhananjay Vatari 2019130068 COMPS 2023 Off Campus Ideatore interactive solutions
+48 Tejal Yadav 2019130071 COMPS 2023 On Campus Skinzy Software Solutions
+49 Sahil Chorghe 2020301073 COMPS 2023 On Campus ISS
+50 Keval Dhanani 2020301075 COMPS 2023 On Campus Skinzy Software Solutions Private Limited
+51 Sumit Thakare 2020301079 COMPS 2023 On Campus Digiklug
+52 Anushka Agrawal 2019140002 IT 2023 On Campus JPMC
+53 Dishita Ashar 2019140003 IT 2023 Off Campus Google
+54 Omkar Bandgar 2019140005 IT 2023 On Campus Markytics
+55 Shweta Chavan 2019140011 IT 2023 On Campus JPMC
+56 Larren Francis Dsouza 2019140014 IT 2023 On Campus JPMC
+57 vedant gaonkar 2019140021 IT 2023 On Campus JPMC
+58 Abha Abhay Gawande 2019140022 IT 2023 On Campus Work India
+59 Amogh Godbole 2019140024 IT 2023 On Campus JPMC
+60 Vishal Arun Gondke 2019140025 IT 2023 On Campus Nomura
+61 Gokul Ramanan 2019140028 IT 2023 On Campus JPMC
+62 Yug Jain 2019140029 IT 2023 On Campus JP Morgan & Chase
+63 Aayush Kawathekar 2019140032 IT 2023 On Campus GEP
+
+--- PAGE 2 ---
+64 Pratik Khandelwal 2019140033 IT 2023 On Campus JP Morgan
+65 Sharli Kude 2019140034 IT 2023 On Campus Anudaan Jagruti ( SPTBI )
+66 Pranav Kumar 2019140036 IT 2023 On Campus Workinida
+67 Hrishikesh Lamdade 2019140037 IT 2023 On Campus Dolat Capital
+68 Arjun Vijay Pansare 2019140043 IT 2023 On Campus JP Morgan Chase and Co.
+69 Pranjal Patil 2019140048 IT 2023 On Campus J. P Morgan Chase
+70 Aamey Pawanarkar 2019140049 IT 2023 On Campus Versor investment
+71 Devansh Rathod 2019140054 IT 2023 On Campus JPMC
+72 Manan Savla 2019140055 IT 2023 On Campus WorkIndia
+73 Sahil Sawant 2019140056 IT 2023 On Campus JPMorgan Chase & Co.
+74 Rhugweda Shedge 2019140058 IT 2023 On Campus Siemens Industry Software
+75 Shria Srivastava 2019140064 IT 2023 On Campus JPMC
+76 Rishabh Vira 2019140065 IT 2023 On Campus IDfy
+77 Sarika Shete 2020401075 IT 2023 On Campus JPMC
+78 Kalpesh Uttam Gadhari 2017140012 IT 2023 On Campus Utopia tech
+79 Tanmay Suryawanshi 2017140059 IT 2023 On Campus Viral Fission
+80 Aartee Ramdas chimate 2018140012 IT 2023 Off Campus Skillcoup
+81 Aniket Garud 2018140022 IT 2023 On Campus Colgate
+82 Sachin Bagoriya 2019140004 IT 2023 On Campus Quantiphi
+83 Sandesh Banka 2019140006 IT 2023 On Campus BDO
+84 Prathamesh Bhoi 2019140008 IT 2023 On Campus Quantiphi
+85 Aditi Bhosale 2019140009 IT 2023 Off Campus Amazon
+86 Karen Castelino 2019140010 IT 2023 On Campus Internship under Prof. Dayanand Ambawade
+87 Pankaj Pandurang Gaikwad 2019140019 IT 2023 On Campus Digiklug
+88 Nupur Gupte 2019140027 IT 2023 On Campus ISS
+89 Aayushi Masurekar 2019140038 IT 2023 On Campus Versor Investments
+90 Mitali Patel 2019140046 IT 2023 On Campus JPMC (CADP)
+91 Tanvi Sunil Pen 2019140050 IT 2023 Off Campus Cybersmithsecure
+92 Shreya Shetty 2019140059 IT 2023 On Campus GEP Worldwide
+93 Shruti Shetty 2019140060 IT 2023 On Campus Quantiphi
+94 Sachin Vishwakarma 2019140066 IT 2023 On Campus Embedos Engineering LLP
+95 Akash Yadav 2019140068 IT 2023 On Campus PhonePe
+96 Jeet Mistry 2020401071 IT 2023 On Campus JPMC
+97 Dhananjay Salunke 2020401073 IT 2023 On Campus Quantiphi
+98 Shraddha Thaker 2020401076 IT 2023 On Campus JPMC
+99 Sarthak Nasit 2019140041 IT 2023 On Campus Work India
+100 Mohsin Chougale 2019140013 IT 2023 Off Campus IIT Guwahati
+101 Khushi Agrawal 2019120001 EXTC 2023 On Campus J P Morgan and Chase
+102 Manan Arora 2019120002 EXTC 2023 On Campus Kreate Solutions
+103 Hiten Santosh Bafna 2019120005 EXTC 2023 On Campus Nomura
+104 Parth Bywar 2019120008 EXTC 2023 On Campus JP Morgan Chase and Co.
+105 Husain Challawala 2019120009 EXTC 2023 On Campus ISS
+106 Aditi Chaturvedi 2019120011 EXTC 2023 On Campus JPMC
+107 Shweta Choudhary 2019120015 EXTC 2023 On Campus Amazon
+108 Jai Damani 2019120017 EXTC 2023 On Campus JP Morgan Chase
+109 Anupriya Dasgupta 2019120018 EXTC 2023 On Campus JP Morgan
+110 Dylan Dsouza 2019120020 EXTC 2023 On Campus IBM
+111 Snehal Gadge 2019120022 EXTC 2023 On Campus Nomura
+112 Aniket Gawade 2019120023 EXTC 2023 On Campus Enfusion
+113 Oindrella Ghosh 2019120024 EXTC 2023 On Campus J P Morgan Chase and Co
+114 Ritik Koul 2019120032 EXTC 2023 On Campus Colgate - Palmolive
+115 Sudhanshu Kulkarni 2019120033 EXTC 2023 On Campus IBM
+116 Sanskar Laddha 2019120034 EXTC 2023 On Campus JPMC
+117 Swapnil Mandavilli 2019120037 EXTC 2023 On Campus MSCI
+118 Siddharth Mohanty 2019120038 EXTC 2023 On Campus PhonePe
+119 Adnan Mohiddin 2019120039 EXTC 2023 On Campus Go Airlines (India) Ltd.
+120 Richa Motwani 2019120040 EXTC 2023 On Campus JPMC
+121 Saikrishna Muralidaran 2019120041 EXTC 2023 On Campus ZestMoney (Camden Town Technologies Pvt.Ltd)
+122 Nimrat Kaur 2019120042 EXTC 2023 On Campus JPMC
+123 Deeksha Pal 2019120044 EXTC 2023 On Campus Scrum Digital Pvt Ltd
+124 Abhinav Pallayil 2019120045 EXTC 2023 On Campus GEP
+125 Gaurav Panchal 2019120046 EXTC 2023 On Campus MSCI
+126 Ayush Sharma 2019120057 EXTC 2023 On Campus Nomura Services India Pvt Ltd
+127 Sara Sheth 2019120058 EXTC 2023 On Campus JP Morgan Chase
+128 Darshan Somani 2019120062 EXTC 2023 On Campus Versor Investments
+129 Atharva Sonavane 2019120063 EXTC 2023 On Campus JPMC
+130 Pranav Swaminathan 2019120064 EXTC 2023 Off Campus Goldman Sachs
+131 Maitri V ora 2019120068 EXTC 2023 Off Campus Amazon
+132 Chris Paul 2020201063 EXTC 2023 On Campus JPMC
+133 Utsav Panchal 2020201070 EXTC 2023 On Campus ISS
+
+--- PAGE 3 ---
+134 Mohammed Saud Sayed 2020201072 EXTC 2023 On Campus ICICI Lombard
+135 Pratham Solanki 2019120060 EXTC 2023 Off Campus Tata Capital Financial Services
+136 Siddhant Evre 2019120021 EXTC 2023 On Campus Devlata Technologies
+137 Varun Contractor 2018120014 EXTC 2023 On Campus SEAMBooks
+138 Niraj Dhodi 2018120018 EXTC 2023 On Campus Transunion CIBIL
+139 Shivam Patel 2018120047 EXTC 2023 On Campus SEAMBooks, SPTBI
+140 Yugandhara wadikar 2018120062 EXTC 2023 On Campus BNP Paribas
+141 Prerna Arora 2019120003 EXTC 2023 On Campus WorkIndia
+142 Niranjan Badhe 2019120004 EXTC 2023 Off Campus Espressif Systems India pvt. ltd.
+143 Jayesh Bane 2019120006 EXTC 2023 On Campus Quantiphi
+144 Blessed Sam Joshua 2019120007 EXTC 2023 On Campus Quantiphi
+145 Sreejit Chatterjee 2019120010 EXTC 2023 On Campus J.P. Morgan Chase
+146 Anuj Chavan 2019120012 EXTC 2023 Off Campus
+University of Victoria, University of
+British Columbia, University of Crete
+147 Dhiraj Choudhari 2019120014 EXTC 2023 On Campus BDO
+148 Rohit Mansingrao Desai 2019120019 EXTC 2023 On Campus Versor Investments
+149 Garima Gupta 2019120027 EXTC 2023 Off Campus IIT Bombay
+150 Smriti Venkat Islur 2019120029 EXTC 2023 On Campus
+Quantiphi Analytics Solution Private
+Limited
+151 Sanskruti Joshi 2019120030 EXTC 2023 On Campus JP Morgan Chase & Co
+152 YOGESH DASHRATH KADAM 2019120031 EXTC 2023 On Campus Transunion Cibil
+153 Vishal lohar 2019120035 EXTC 2023 On Campus Transunion
+154 Gauri Pethkar 2019120048 EXTC 2023 On Campus Institutional Shareholder Services (ISS)
+155 Yuvraj Purohit 2019120049 EXTC 2023 On Campus Baker Hughes
+156 Ishika Raghuwanshi 2019120050 EXTC 2023 Off Campus iPerformance Media Pvt Ltd
+157 Ishika Raipure 2019120051 EXTC 2023 Off Campus Cygnet Infotech
+158 Sneha Savarkar 2019120055 EXTC 2023 On Campus J P Morgan
+159 Hargobind Singh 2019120059 EXTC 2023 Off Campus
+Buildtrack group of Surmount Energy Pvt
+Ltd
+160 Keshav Thosar 2019120065 EXTC 2023 On Campus Baker Hughes
+161 Pranay Tiwari 2019120066 EXTC 2023 On Campus JP Morgan Chase
+162 Mandar Godambe 2020201064 EXTC 2023 On Campus ICICI Lombard
+163 Purva Kale 2020201067 EXTC 2023 On Campus Work India
+164 Kaustubh Janardan Mhatre 2020201068 EXTC 2023 On Campus Baker Hughes
+165 Shraddha Mishra 2020201069 EXTC 2023 On Campus Colgate-Palmolive
+166 Sarvesha Rajendra Shinde 2020201073 EXTC 2023 On Campus Quantiphi
+167 Rutuja Ramesh Thorat 2020201074 EXTC 2023 On Campus OMP
+168 Sohel Datta 2018120016 EXTC 2023 Off Campus S. Electricals &Electronics
+169 Revanth Jyothula 2019120052 EXTC 2023 Off Campus 8th Element Digital
+170 Nachiket Sankhe 2019120053 EXTC 2023 Off Campus A B Travels
+171 Niharika 2018110030 ETRX 2023 On Campus Jpmc
+172 Anushka Anil Pilena 2018110036 ETRX 2023 On Campus Colgate Global Business Services
+173 Vaibhav Raina 2018110040 ETRX 2023 On Campus Brand buddiez, SPTBI, Mumbai
+174 Rahul Alshi 2019110001 ETRX 2023 On Campus Colgate
+175 Sayali Ayre 2019110003 ETRX 2023 On Campus J.P.Morgan
+176 Aditi Bagwe 2019110005 ETRX 2023 On Campus JPMC
+177 Shraddha Bhagyawant 2019110006 ETRX 2023 On Campus BDO
+178 Vedant Bhangale 2019110007 ETRX 2023 On Campus J.P.M.C
+179 Vaishnavi Bhore 2019110008 ETRX 2023 On Campus Siemens
+180 Imaz Chandiwala 2019110009 ETRX 2023 On Campus Deloitte
+181 Siddharth Deshpande 2019110011 ETRX 2023 On Campus GEP
+182 Samay Gada 2019110012 ETRX 2023 On Campus Wohlig Transformation
+183 Reeshav Guha 2019110016 ETRX 2023 On Campus MSCI
+184 Shubham Hule 2019110017 ETRX 2023 On Campus JPMC
+185 Hitanshu jain 2019110018 ETRX 2023 On Campus Changeangel
+186 Sarvesh Shridhar Jare 2019110019 ETRX 2023 On Campus BNP Paribas India Solutions
+187 Ashish Jingar 2019110020 ETRX 2023 On Campus Cpiombo
+188 Chetana Kamalkar 2019110022 ETRX 2023 On Campus JP Morgan Chase & Co.
+189 Varun Kamath 2019110023 ETRX 2023 On Campus Baker Hughes
+190 Nidhi Khanorkar 2019110025 ETRX 2023 On Campus Quantiphi
+191 Sumit Kulkarni 2019110026 ETRX 2023 On Campus BNP Paribas
+192 Mayur Kumar 2019110027 ETRX 2023 On Campus JPMC-CR
+193 Prabhat Kumar 2019110028 ETRX 2023 On Campus SPIT
+194 Apoorva Limaye 2019110030 ETRX 2023 On Campus Embedos
+195 Tirth Meghani 2019110032 ETRX 2023 On Campus IIT Bombay
+196 Param Mehta 2019110033 ETRX 2023 On Campus Om partners
+197 Aniket Nadkarni 2019110034 ETRX 2023 On Campus Department of Electrical Engineering IITB
+198 Chaitanya Padachh 2019110037 ETRX 2023 On Campus Wizemarkets Analytics Pvt Ltd
+199 Ojas Pal 2019110038 ETRX 2023 On Campus Nomura
+200 Devansh Palliyath 2019110039 ETRX 2023 On Campus Quantiphi
+
+--- PAGE 4 ---
+201 Tirth Patel 2019110040 ETRX 2023 On Campus Power Electronics Laboratory, IIT Bombay
+202 Lokesh Patil 2019110041 ETRX 2023 On Campus MAQ Software
+203 Sahil Patil 2019110042 ETRX 2023 On Campus L&T Infotech
+204 Aditya Patwardhan 2019110043 ETRX 2023 On Campus Interactive Brokers
+205 Vinay Polewar 2019110045 ETRX 2023 On Campus JP MORGAN and CHASE
+206 Swaraj Salunke 2019110048 ETRX 2023 On Campus Bdo India llp
+207 Bilal Sani 2019110049 ETRX 2023 On Campus Wohlig Transformations
+208 Shubham Sawant 2019110050 ETRX 2023 On Campus Novotoc Infotech Pvt. Ltd.
+209 Shahid Mansoor Shaikh 2019110051 ETRX 2023 On Campus Quantiphi
+210 Arohi Shinde 2019110054 ETRX 2023 On Campus J. P. Morgan Chase & Co.
+211 Omkar Shinde 2019110055 ETRX 2023 On Campus JPMC
+212 Sruthi Shivaramakrishnan 2019110059 ETRX 2023 On Campus JP Morgan Chase
+213 Pushkar Sutar 2019110060 ETRX 2023 On Campus JPMC
+214 Sandeep Suthar 2019110061 ETRX 2023 On Campus IDfy
+215 Rani Tibdewal 2019110065 ETRX 2023 On Campus JPMorgan Chase & Co.
+216 Manas Tiwari 2019110066 ETRX 2023 On Campus JPMC
+217 Vinayak Tripathi 2019110067 ETRX 2023 On Campus ISS
+218 Malhar Vairale 2019110069 ETRX 2023 On Campus ABB INDIA
+219 Bhavika Vaishnavi 2019110070 ETRX 2023 On Campus JP Morgan Chase & Co
+220 Chinmay Walinjkar 2019110071 ETRX 2023 Off Campus Bhabha Atomic Research Centre
+221 Janhavi Ramesh Dabhane 2020101072 ETRX 2023 On Campus JP Morgan Chase & Co
+222 Tejal Subhash Dadas 2020101073 ETRX 2023 Off Campus Janyu Technologies pvt Ltd
+223 Jenil Dave 2020101074 ETRX 2023 On Campus Institutional Shareholder Services
+224 Renuka Dyawarkonda 2020101075 ETRX 2023 On Campus Nomura
+225 Prathamesh Kadam 2020101076 ETRX 2023 On Campus Baker Hughes
+226 Suraj Kamtekar 2020101077 ETRX 2023 On Campus Colgate
+227 Pooja Khismatrao 2020101078 ETRX 2023 On Campus L & T Infotech
+228 Dhvanik Vinod Makwana 2020101079 ETRX 2023 On Campus Baker Hughes
+229 Rahul Parab 2020101080 ETRX 2023 On Campus BDO
+230 Pulkit Chaudhari 2019110010 ETRX 2023 SPTBI Piombo ( through SP-TBI )
+231 Sneha Ghuge 2019110015 ETRX 2023 On Campus GEP
+232 Parth Lende 2019110029 ETRX 2023 Off Campus Acuradyne Medical Systems Pvt. Ltd.
+233 Ashutosh sharma 2019110052 ETRX 2023 Off Campus LIC India
+234 Pujan Soni 2019110058 ETRX 2023 On Campus J.P.Morgan
+235 Darshan Tater 2019110062 ETRX 2023 On Campus JP Morgan Chase
+236 Vivek Thakkar 2019110063 ETRX 2023 SPTBI SEAMBooks
+237 Shivam Thakur 2019110064 ETRX 2023 On Campus JP Morgan Chase & Co.
+238 Abhishek Bharat Bawachkar 2021510003 MCA 2023 Oncampus BNP Paribas
+239 Ankita Ramaji Selokar 2021510048 MCA 2023 Oncampus BNP Paribas
+240 Devvrat Suktel 2021510051 MCA 2023 Oncampus BNP Paribas
+241 Ganesh Jagannath Chaudhari 2021510004 MCA 2023 Oncampus BNP Paribas
+242 Jalaj Porwal 2021510040 MCA 2023 Oncampus BNP Paribas
+243 Jay Umesh Oswal 2021510032 MCA 2023 Oncampus BNP Paribas
+244 Kshitij Anil Koyande 2021510022 MCA 2023 Oncampus CRISIL
+245 Mayur Gajanan Dhevale 2021510008 MCA 2023 Oncampus BNP Paribas
+246 Mukesh Ananth Pillai 2021510039 MCA 2023 Oncampus IDfy
+247 Omkar Vikas Ingle 2021510016 MCA 2023 Oncampus CRISIL
+248 Prashant Bhupendra Pratap Singh 2021510050 MCA 2023 Oncampus General Mills
+249 Prashant Pradeep Gowda 2021510014 MCA 2023 Oncampus CRISIL
+250 Pratish Mangalsing Padvi 2021510034 MCA 2023 Oncampus BNP Paribas
+251 Prithviraj Sathyajit 2021510045 MCA 2023 Oncampus IDfy
+252 Rashi Khandelwal 2021510021 MCA 2023 Oncampus MSCI
+253 Rutik Bhupal Dhere 2021510007 MCA 2023 Oncampus BNP Paribas
+254 Sagar Vinod Kesharwani 2021510020 MCA 2023 Oncampus CRISIL
+255 Saieal Mahendra Sawant 2021510047 MCA 2023 Oncampus BNP Paribas
+256 Sakshi Ashok Parkar 2021510036 MCA 2023 Oncampus CRISIL
+257 Sakshi Sadanand Naik 2021510029 MCA 2023 Oncampus CRISIL
+258 Sandesh Shivaji Shivane 2021510049 MCA 2023 Oncampus CRISIL
+259 Sanket Subhash Raut 2021510041 MCA 2023 Oncampus CRISIL
+260 Shashank Basant Agrawal 2021510002 MCA 2023 Oncampus BNP Paribas
+261 Shubham Sangratna Patil 2021510037 MCA 2023 Oncampus BNP Paribas
+262 Siddhant Jayant Pande 2021510035 MCA 2023 Oncampus BNP Paribas
+263 Tejas Shailendra Kamble 2021510017 MCA 2023 Oncampus BNP Paribas
+264 Utkarsh Dipak Doras 2021510009 MCA 2023 Oncampus MSCI
+265 Vaibhav Balasaheb Kamble 2021510018 MCA 2023 Oncampus BNP Paribas
+266 Hema Manoj 2021510026 MCA 2023 Oncampus NOMURA
+267 Jasmit Pravin Gharat 2021510012 MCA 2023 Oncampus Saint Gobain
+268 Kevin Joseph Keith Rego 2021510043 MCA 2023 Oncampus Saint Gobain
+269 Mahima Agrahari 2021510001 MCA 2023 Oncampus NOMURA
+270 Nikhil Ashok Maurya 2021510027 MCA 2023 Oncampus NOMURA
+
+--- PAGE 5 ---
+271 Payal Milind Save 2021510046 MCA 2023 Oncampus Saint Gobain
+272 Raashi Gupta 2021510015 MCA 2023 Oncampus Saint Gobain
+273 Ritik Rajendra Maheshwari 2021510024 MCA 2023 Oncampus NOMURA
+274 Rohit Rajaram Mahadik 2021510023 MCA 2023 Oncampus Saint Gobain
+275 Sudhir Narayan Gomase 2021510013 MCA 2023 Oncampus W.E. Matter
+276 Suman Ashok Mudliyar 2021510028 MCA 2023 Oncampus W.E. Matter
+277 Tirsha Asim Das 2021510005 MCA 2023 Oncampus Quantiphi
+278 Titas De 2021510006 MCA 2023 Oncampus NOMURA
+279 Vishal Devidas Padme 2021510033 MCA 2023 Oncampus NOMURA
+280 Shivani Dharamarajan Eranjikal 2021510010 MCA 2023 Oncampus Quantiphi
+281 Suraj Prakkash Nair 2021510030 MCA 2023 Oncampus Quantiphi
+282 Akshay Avdhut Pawar 2021510038 MCA 2023 Oncampus Colgate
+283 Anish Atul Redkar 2021510042 MCA 2023 Oncampus Colgate
+284 Anjali Sandeep Saharkar 2021510044 MCA 2023 Oncampus Alight Solutions
+285 Dipesh Dattaram Ghag 2021510011 MCA 2023 Oncampus Colgate
+286 Mayank Janardhan Mali 2021510025 MCA 2023 Oncampus Colgate
+287 Parnika Tewari 2021510052 MCA 2023 Oncampus Colgate
+288 Sanket Rajesh Nitnaware 2021510031 MCA 2023 Oncampus Versor Invest
+289 Shantanu Ananta Kamte 2021510019 MCA 2023 Oncampus Colgate
+290 Vyankatesh Badriprasad Wable 2021510053 MCA 2023 Oncampus Colgate
+291 Omprakash Devprasad Kambli 2021510062 MCA 2023 Oncampus Deloitte

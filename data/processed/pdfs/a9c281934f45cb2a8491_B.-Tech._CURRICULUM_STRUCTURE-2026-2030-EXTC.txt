@@ -1,0 +1,619 @@
+--- PAGE 1 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      1 | P a g e
+Bharatiya Vidya Bhavan’s
+Sardar Patel Institute of Technology
+(Autonomous Institute Affiliated to University of Mumbai)
+[Knowledge is Nectar]
+Liberal, Pi-Model of Engineering Education @ SPIT
+CURRICULUM STRUCTURE FOR UNDERGRADUATE ACADEMIC PROGRAMS
+W.E.F. A.Y. 2026-27 [2026-2030 And 2025-29 BATCH]
+Preamble: SPIT commits itself to the effective and fruitful implementation of NEP 2020 in its spirit.
+The holistic development of learners has always been the priority and center of focus for “Bharatiy a
+Vidya Bhavan’s”. Therefore, we started implementing the philosophy of NEP in the year 2020 itself,
+before the formal announcement of NEP in Nov. 20. We have in fact graduated the first batch of our
+holistic curriculum in 2023. Now, based on our learnings  from the implementation and recent
+recommendations of the State Government, we are pleased to offer a 3rd iteration of our holistic
+curriculum, a Liberal “Pi-Model” of Engineering Education for the batches admitted in 2025 and 2026.
+This curriculum emphas izes outcome -based education, flexibility in learning pathways ,
+multidisciplinary exposure, design thinking, digital competency, sustainability awareness, and
+collaborative learning. It integrates strong theoretical foundations with practical applications through
+laboratory work, project-based learning, self-learning components, and industry engagement. The
+program structure promotes holistic development by balancing professional engineering competencies
+with liberal learning, critical thinking, communicati on skills, creativity, human values  and a
+compulsory minor program of besides chosen major.
+Passionate learners can also opt for “Honours by Research” through very structured additional research
+internship during summer breaks. The most salient feature of  curriculum is the unique flexibility it
+offers, particularly for selecting “Multidisciplinary Minor”. This curriculum has 42% choice-based
+component and 15% learners’ engagement in experiential learning (Learning by doing). Thus, the
+choice-based componen t amounts to 57% and a compulsory component to 43%. It ensures that the
+learners engagement in theory classes is lesser than their engagement in laboratories and experiential
+learning. While it allows learners to study 8 Mathematics courses throughout the programme, it also
+permits some other learner to take 6—8 courses from different domain. Thus, it offers a unique, liberal
+“Pi-Model” of Engineering Education.
+
+--- PAGE 2 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      2 | P a g e
+Abbreviations
+L Lecture Hour SE Self-Engagement in Hours
+T Tutorial Hour TE Total Engagement in Hours
+P Laboratory  Hour C Credit Assigned
+S.P.I.T. Credit Structure
+Course
+Category
+SEM
+I
+SEM
+II
+SEM
+III
+SEM
+IV SEM V SEM
+VI
+SEM
+VII
+SEM
+VIII Total %
+BSESE 11 11 3 3     28 17.5
+PCC   12 14 16 8   50 31.25
+PEC      6 6  12 7.5
+EL     3 3 6 12 24 15
+OE 3 3 3 3 3 3 3 6 27 16.87
+SEC 6 6 3 2  2   19 11.87
+Total 20 20 21 22 22 22 15 18 160 100
+Program Courses
+(PCC+PEC+EL): 54%
+
+--- PAGE 3 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      3 | P a g e
+SEM I
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Basic & Engg.
+Sciences BSES MA101 Engineering Calculus 3 1 - 4 8 4
+2
+Basic & Engg.
+Sciences BSES EC102 Basic Electrical
+Engineering 3 0 2 3 8 4
+3
+Basic Sciences
+& Engg. Sciences
+Elective
+BSESE AS1XX  2/3 - 2/0 4/5 8 3
+4 Open Elective HSSM-1 HSMXX  2 - 2 2 6 3
+5 Skill Enhancement
+Course SEC AS101
+Design Thinking/
+Engineering
+Exploration
+1 - 2 3 6 2
+6 Skill Enhancement
+Course SEC CE101 Imperative
+Programming Lab 0 0 4 2 6 2
+7 Skill Enhancement
+Course SEC AS102 Professional
+Communication  1 0 2 3 6 2
+8 Liberal Learning
+Courses
+LLC
+(Audit)
+LLC27/
+LLC54
+Art of Living/
+Leadership for Youth - - 2 - 2 NC
+Total 12/
+13 1 16/
+14
+21/
+22 50 20
+SEM II
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Basic & Engg.
+Sciences BSES MA102
+Differential Equations
+and
+Complex Analysis
+3 1 - 4 8 4
+2
+Basic & Engg.
+Sciences BSES EC101
+Digital Systems and
+Microprocessors
+3 - 2 3 8 4
+3
+Basic Science &
+Engg. Sciences
+Elective
+BSESE AS1XX  2 - 2 4 8 3
+4 Open Elective HSSM -II HSMXX   2 - 2 2 6 3
+5 Skill Enhancement
+Course SEC AS103
+Design Thinking/
+Engineering
+Exploration
+1 - 2 3 6 2
+6 Skill Enhancement
+Course SEC CE103 Data Structure Lab  0 - 4 2 6 2
+7 Skill Enhancement
+Course SEC AS104 Corporate
+Communication 1 - 2 3 6 2
+8 Liberal Learning
+Courses
+LLC
+(Audit)
+LLC27/
+LLC54
+Art of Living/
+Leadership for Youth - - 2 - 2 NC
+Total 12 1 16 21 50 20
+
+--- PAGE 4 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      4 | P a g e
+SEM III
+Sr.
+No
+Course
+Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Basic & Engg.
+Sciences BSES MA201 Linear Algebra 2 1 0 5 8 3
+2 Basic & Engg.
+Sciences * FOM-I MA202 Foundation of
+Mathematics-I* 2 1 0 5 8 3*
+3
+Program Core
+Courses (12)
+PCC EC201 Electromagnetic Wave
+Engineering (EWE)
+3 - - 4 7 3
+4 PCC EC202 Signal, Network and
+System (SNS)
+3 - 2 4 9 4
+5 PCC/PCC
+(SM) EC203 Electronic Devices and
+Circuits (EDC)
+3 - 2 4 9 4
+PCC EC204 Computer Organization
+& Architecture (COA)
+2 - - 2 4 2
+6 Open Elective OE OE3XX  3 - - 3 6 3
+7
+Skill
+Enhancement
+Course
+SEC
+EC205 Hardware Description
+Language Programming
+(HDLP)
+- 1 2 3 6 2
+8 Liberal learning
+Course LLC (Audit) LLC03 LLCXX 1 - - - 1 NC
+Total 17 2 6 25 50 21
+*Only for Lateral Entry Students and not included in CGPA
+Winter Term (For Lateral Entry Students)
+Sr.
+No
+Course
+Category Abbreviation Course
+Code Course Name L T P SE TE C
+1 Basic & Engg.
+Sciences BSES  MA201 Linear Algebra 2 1 0 5 8 3
+2 Basic & Engg.
+Sciences * FOM-II MA204 Foundation of
+Mathematics-II* 2 1 0 5 8 3*
+SEM IV
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Basic & Engg.
+Sciences BSES MA203
+Probability and
+Stochastic Process
+(PSP)
+3 - - 4 7 3
+2
+Program Core
+Courses (14)
+PCC EC206 Digital
+Communication (DC) 2 - 2 2 6 3
+3 PCC EC207
+Mixed Signal
+Integrated Circuit
+(MSIC)
+3 - 2 4 9 4
+4 PCC EC208 Microcontroller 3 - 2 4 9 4
+5 PCC/ PCC
+(SM) EC209 Control Systems 3 - - 4 7 3
+6 Open Elective OE OE4XX  3 - - 3 6 3
+7 Skill Enhancement
+Course  SEC CE 201 Real life problem
+solving using AI 1 - 2 1 4 2
+8 Humanities HSSM AS117 Constitution of India 1 - - 1 2 NC
+Total 19 - 8 23 50 22
+Summer Term for Students opted for Honors through Research
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Experiential Learning ELC  HR1 Research Stage- I - - - 6 - 6
+
+--- PAGE 5 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      5 | P a g e
+SEM V
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1
+Program Core
+Courses (16 credits)
+PCC EC301 Digital Signal
+Processing (DSP)
+3 - 2 5 10 4
+2 PCC
+EC302 Mobile Wireless
+Communication
+(MWC)
+2 - 2 5 9 3
+3 PCC
+EC303 Computer
+Communication
+Networks (CCN)
+2 - 2 5 9 3
+4 PCC/PCC
+(SM)
+EC304 Power Electronics
+(PE)
+3 - 2 5 10 4
+5 Open Elective OE OE5XX  3 - - 3 6 3
+6 Experiential Learning ELC ECPRI Mini Project I - - - 6 6 3
+Total 13 - 8 29 50 22
+SEM VI
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Program Core
+Courses (8 credits)
+PCC EC306 Radiating Systems 3 - 2 4 9 4
+2 PCC/PCC
+(SM) EC307 Basics of VLSI 3 - 2 4 9 4
+3
+Program Elective
+Courses PEC EC3X1 PE-I 2 - 2 3 7 3
+4
+Program Elective
+Courses PEC EC3X2 PE-II 2 - 2 3 7 3
+5 Open Elective OE OE6XX  3 - - 3 6 3
+6 Experiential
+Learning ELC ECPRII Mini Project- II - - - 6 6 3
+7 Skill Enhancement
+Course  SEC EC307 Lab related to
+Embedded domain - 1 2 3 6 2
+Total 13 1 10 26 50 22
+Summer Term for Students opted for Honors through Research
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Experiential Learning ELC  HR2 Research Stage- II - - - 6 - 6
+
+--- PAGE 6 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      6 | P a g e
+SEM VII: Option A
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Open elective OE OENP  3 - - 3 6 3
+2 Program Elective Courses PEC EC4X1 PE-III 2 - 2 3 7 3
+3 Program Elective Courses PEC EC4X2 PE-IV 2 - 2 3 7 3
+4 Experiential Learning ELC ECPR-I Main Project - - - 8 8 6
+Total 7 - 4 17 28 17
+SEM VII: Option B (Research/ Industry Internship)
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Open elective OE** OENP  3 - - 3 6 3
+2 Open elective OE** OENP  3 - - 3 6 3
+3 Experiential Learning ELC INTR/
+INTI
+Research /Industry
+Internship - - - 8 8 12
+Total 6 - - 14 20 18
+SEM VII: Option C (Only for Honors by Research)
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Open elective OE** OENP  3 - - 3 6 3
+2 Open elective OE** OENP  3 - - 3 6 3
+3 Experiential Learning ELC HR03 Research - III - - - 8 8 12
+Total 6 - - 14 20 18
+** To be completed from MOOCS
+SEM VIII: Option A
+Sr.
+No Course Category Abbr. Course Code Course Name L T P SE TE C
+1 Open Elective OE** OENP  3 - - 3 6 3
+2 Open Elective OE** OENP  3 - - 3 6 3
+3 Experiential Learning ELC INTR/INTI Research / Industry
+Internship - - - 8 8 12
+Total 6 - - 14 20 18
+SEM VIII: Option B
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Program Elective Courses PEC EC4X1 PE-III 2 - 2 3 7 3
+2 Program Elective Courses PEC EC4X2 PE-IV 2 - 2 3 7 3
+3 Open elective OE OENP  3 - - 3 6 3
+4 Experiential Learning ELC ECPR-I Main Project - - - 8 8 6
+Total 7 - 4 17 28 17
+
+--- PAGE 7 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      7 | P a g e
+SEM VIII: Option C (Only for Honors by Research)
+Sr.
+No Course Category Abbr. Course
+Code Course Name L T P SE TE C
+1 Program Elective
+Courses PEC    EC4X1 PE-III 2 - 2 3 7 3
+2 Program Elective
+Courses PEC EC4X2 PE-IV 2 - 2 3 7 3
+3 Open elective OE OENP  3 - - 3 6 3
+4 Experiential Learning ELC ECPR-I Main Project - - - 10 10 8
+5 Experiential Learning ELC HR4 Research- IV - - - 6 6 6
+Total 7 - 4 25 36 23
+** To be completed from MOOCS
+Sem VI and Sem VII or Sem VIII
+Course Category Abbr. Course Name L T P O E Credits
+PE-I
+(Sem VI)
+PE-II
+(Sem VI)
+PE-III
+(Sem VII or
+Sem VIII)
+PE-IV
+(Sem VII or
+Sem VIII)
+Program Elective
+Courses
+(Communication)
+PEC EC311: Optical
+Fiber
+Communication
+EC312: Error
+Coding and
+Cryptography
+EC413:
+Microwave
+Communication
+EC414: Space
+Communication
+Technologies
+2 - 2 3 7 3
+EC321: Cyber
+Security and
+Digital Forensic
+EC322:
+Wireless
+Networks
+EC423: Remote
+Sensing and
+GIS
+EC424:
+Telecom
+Network
+Management
+2 - 2 3 7 3
+Program Elective
+Courses
+(Embedded
+Systems & IoT)
+PEC EC331:Embedded
+Systems
+EC332:Real
+Time
+Operating
+System
+EC433: IoT
+Protocols
+EC434: IoT
+Applications
+and Analytics 2 - 2 3 7 3
+Program Elective
+Courses
+(Signal
+Processing)
+PEC EC341: Advanced
+Signal Processing
+EC342:Image
+and Video
+Processing
+EC443: Speech
+and Audio
+Processing
+EC444: DSP
+based System
+Design 2 - 2 3 7 3
+Program Elective
+Courses
+(VLSI )
+PEC EC351:
+Semiconductor
+Technologies
+EC352:
+Analog
+CMOS VLSI
+Design
+EC453:
+Mixed Signal
+VLSI Design
+EC454:ASIC
+Verification 2 - 2 3 7 3
+
+--- PAGE 8 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      8 | P a g e
+Table 1: Nomenclature of the courses in the curriculum
+Groups Abbreviation Course Category
+Basic Sciences and Engineering
+Sciences Courses (BSES)
+BSESC Basic Science & Engineering Science Courses
+BSESEC Basic Science & Engineering Science Elective Courses
+Skill Based Courses (SBC) SEC Skill Enhancement Course
+LLC Liberal Learning Courses
+Humanities HSSMC Humanities, Social Science and Management Courses
+Program Related Courses
+(PRC)
+PCC Program Core Courses
+PEC Program Elective Courses
+ELC Experiential Leaning Courses
+Multi-Cross-Trans disciplinary
+courses (MCTD)
+OEC Open Elective Courses
+MDM Multidisciplinary Minor
+Table 2: Basic Sciences & Engg. Sciences Elective Courses (BSESEC)
+Indicative List of BSESEC
+Sr.
+No.
+Course
+Category Abbr. Course
+Code Course Name L T P SE TE C
+1
+Basic Sciences
+& Engg.
+Sciences
+Elective
+BSESE
+AS105 Engineering Physics       3
+2 AS106 Industrial Chemistry       3
+3 AS107 Engineering Mechanics      3
+4 AS108 Computer Aided Engineering
+Drawing      3
+5 AS109 Materials for EEE      3
+6 AS110 Biology for Engineers      3
+7 AS111 Computational Electromagnetics      3
+8 AS112 Signals & Systems (for CSE/CE)      3
+9 AS113 Algorithms (for ECE)      3
+10 AS114 Thermal and Fluid Engineering      3
+11 AS115 System Engineering      3
+12 AS116 Industrial Measurement      3
+
+--- PAGE 9 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      9 | P a g e
+Table 3: Humanities, Social Science and Management Courses (HSSMC)
+Indicative List of HSSMC
+Course
+Code Course Title Prerequisite
+if any
+HSM01 Introduction of Microeconomics
+HSM02 Foundations of Law for Engineers
+HSM03 Psychology of Human behavior
+HSM04 Sanskrit Parichay
+HSM05 Basic German
+HSM06 Basic Japanese
+HSM07 Basic French
+HSM08 Foundations of Indian History
+HSM09 Foundations of Political Science
+HSM10 Foundations of Project Management
+HSM11 Foundations of Philosophy
+HSM12 Advanced of Microeconomics HSM01
+HSM13 Advanced Law for Engineers  HSM02
+HSM14  Industrial and organizational Psychology HSM03
+HSM15 Sanskrit Pragat HSM04
+HSM16 Advanced German  HSM05
+HSM17 Advanced Japanese  HSM06
+HSM18 Intermediate French HSM07
+HSM19 Advanced Indian History  HSM08
+HSM20 Advanced Political Science  HSM09
+HSM21 Advanced Project Management  HSM10
+HSM22 Advanced Philosophy  HSM11
+HSMNP Any course approved by Dean Academics from NPTEL/ SWAYAM/ EDX
+*It is compulsory to take Indian Knowledge and Values Systems course in any one semester for 3
+credits.
+Table 4: Open Elective Baskets
+Indicative List of Open Electives
+Course
+Code Course  Title (SEM III) Course
+Code Course  Title (SEM IV)
+MDM P1-A  MDM P1-B
+MDM P2-A  MDM P2-B
+------  -----------
+MDM Pn-A  MDM Pn-B
+HSM27 #Indian Knowledge and Values Systems  HSM27 #Indian Knowledge and Values Systems
+#Any course from HSSMC Basket  #Any course from HSSMC Basket
+#Any course from BSESE Basket  #Any course from BSESE Basket
+# If not register earlier
+
+--- PAGE 10 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      10 | P a g e
+Table 5: Liberal Learning Courses (LLC) Basket
+Indicative List of LLC for SEM III and SEM IV
+Course
+Code
+Course  Title Course
+Code
+Course  Title
+LLC04 Basics of Fire Safety LLC29 Yoga I
+LLC07 Film Appreciation  LLC36 Introduction to Bhagavad Geeta
+LLC08 First Aid LLC38 Dance - Kathak
+LLC09 Fundamentals of Photography LLC40 Mentoring to peers
+LLC11 Integrated Personality Development I LLC43 Dance - Bollywood
+LLC12 Mentoring (Volunteering) to school
+Children (Abhyudaya) LLC45 Innovation and Entrepreneurship
+LLC15 Read a book LLC48 Rangoli
+LLC24 Wall Painting LLC49 Understanding Theatres
+LLC25 Working with NGO LLC52 Interpersonal Effectiveness and Team
+Building
+LLC28 Yes Plus AOL Advanced LLC53 Yoga II
+Table 6: Open Elective Baskets
+Indicative List of Open Elective
+Course
+Code
+Course  Title (SEM V) Course
+Code
+Course  Title (SEM VI)
+MDM P1-C  MDM P1-D
+MDM P2-C  MDM P2-D
+-------------  -------------------
+MDM Pn-C  MDM Pn-D
+HSM27 #Indian Knowledge and Values
+Systems
+HSM27 #Indian Knowledge and Values Systems
+#Any course from HSSMC Basket    #Any course from HSSMC Basket
+#Any course from BSESE Basket  #Any course from BSESE Basket
+# If not register earlier
+Indicative List of Open Elective
+Course
+Code
+Course Title  Course
+Code
+Course Title
+#Indian Knowledge and Values
+Systems
+Battery Management Systems
+Mechatronic systems  Advance Linear Algebra
+PLC and Automation  Numerical Methods
+Entrepreneurship and IPR  Optimization Techniques
+Economics for Engineers  Drone Technology
+Bioinformatics  Research Methodology
+Quantum Materials  Quantum Computing
+Nanomaterials and Engineering  Herbal Science & Technology
+Nuclear Science  Introduction to Digital Health
+Quantum Chemistry and Computation  Project Management
+Finance Management  Any course approved by Dean Academics
+# If not register earlier
+
+--- PAGE 11 ---
+SPIT/UG Curriculum/2026 Iteration                                                                                                      11 | P a g e
+Notes
+1 Learners who earn a minimum 160 credits will be awarded “ B. Tech in Engg. /Tech. with
+Multidisciplinary Minor” degree.
+2 Learners who earn 18 additional credits through additional “Research Stages” during summer
+breaks, as mentioned in t he scheme, are eligible for the degree: “ B. Tech in Engg. /Tech. with
+Multidisciplinary Minor” and “Honors by Research”, subject to earning CGPA of 8.25.
+3 Learners will be allowed to earn  B. Tech. in Engg. /Tech. degree with MDM, and earn
+additional Honors Certification, if they secure top grade in any 10 Program core courses and
+score 80 percentile in Gate exam.
+4 Learner can earn the certificates based on his/her exit from the program as follows:
+a. After a one -year (40 credits to be earned) and 8 -week summer workshop: Certificate in
+Engineering.
+b. After two -years (80 credits to be earned) and 8 -week summer workshop: Diploma in
+Engineering.
+c. After three-years (120 credits to be earned) and 8-week summer workshop: B. Sc. Engineering.

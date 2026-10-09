@@ -1,0 +1,532 @@
+--- PAGE 1 ---
+Bhartiya Vidya Bhavans, Sardar Patel Institute of Technology
+Internship Details
+Academic Year: 2021-22
+Sr No. Name Discipline Year of passing company name Duration
+1 Prashansa Nalawade COMP 2022 Colgate Palmolive 6 months
+2 Apeksha Chavan COMP 2022 Ugam Solutions 6 months
+3 Shreyas Patel COMP 2022 ICICI LOMBARD General Insurance Company Ltd 6 months
+4 Ritik Singh COMP 2022 JP Morgan Chase 6 months
+5 Siddhi Lahange COMP 2022 KPMG 6 months
+6 Aishwarya Ghaiwat COMP 2022 Nomura 6 months
+7 Chaitya Shah COMP 2022 Nuventis Technology 6 months
+8 Viraj Shah COMP 2022 Quantiphi 6 months
+9 Jinal Shah COMP 2022 Quantiphi 6 months
+10 Kunal Nalawade COMP 2022 VMware 6 months
+11 Priyav Mehta COMP 2022 Work India 6 months
+12 Ebrahim Gabajiwala COMP 2022 WorkIndia 6 months
+13 Shyam Mehta COMP 2022 GEP 6 months
+14 Bhushan Koyande COMP 2022 Quantiphi 6 months
+15 Raj Gorhekar COMP 2022 JPMORGAN CHASE & CO. 6 months
+16 Afaan Ansari COMP 2022 Nomura 6 months
+17 Prathamesh Bagekari COMP 2022 Proditech Solutions 6 months
+18 Shivam Pawar COMP 2022 Deloitte USI 6 months
+19 Mahipal Purohit COMP 2022 PhonePe Pvt Ltd 6 months
+20 Tanay Bagayatkar COMP 2022 Quantiphi Analytics Solutions Private Limited 6 months
+21 Harshwardhan Pardeshi COMP 2022 Markytics 6 months
+22 Ankeet Thongire COMP 2022 Setmycoach.com 6 months
+23 Vishal Salvi COMP 2022 Setmycoach.com 6 months
+24 Rohit Pai COMP 2022 Safexpay 6 months
+25 Manav Sanghavi COMP 2022 DronaHQ 6 months
+26 Shubham Goel COMP 2023 6sense Insights India Pvt Ltd 6 months
+27 Malhar Bangdiwala COMP 2023 Aditya Birla Management Corporation Private Limited 6 months
+28 Jash Jain COMP 2023 Baker Hughes 6 months
+29 Sanchit Gajam COMP 2023 BDO India LLP 6 months
+30 Samveg Shah COMP 2023 COLGATE GLOBAL BUSINESS SERVICES 6 months
+31 Yash Jagtap COMP 2023 Colgate Global Services Pvt Limited 6 months
+32 Hrusheekesh Sawarkar COMP 2023 Colgate Global Business Service Pvt Ltd 6 months
+33 Vedant Jolly COMP 2023 Credence Analytics 6 months
+34 Aditya Kasat COMP 2023 Credence Integrated Marketing Pvt Ltd 6 months
+35 Vatsa Nagaria COMP 2023 Creding Technologies Pvt. Ltd. 6 months
+36 Ashish Todi COMP 2023 Deloitte Touche Tohmatsu India LLP 6 months
+37 Yashvi Mehta COMP 2023 Ugam Solutions 6 months
+38 Akshay Tarde COMP 2023 Ugam Solutions 6 months
+39 Divesh Choudhary COMP 2023 Wohlig Transformation Pvt Ltd 6 months
+40 Atharva Shitole COMP 2023 Nexus Hive Pvt. Ltd. (Swick) 6 months
+41 Darsh Lakhwani COMP 2023 Italik Metalware Private Limited 6 months
+42 Apurv Sarode COMP 2023 Soyo Systems 6 months
+43 Sakshi Gadegaonkar COMP 2023 TSS Consultancy Pvt Ltd 6 months
+44 Shashank Sarma COMP 2023 Deloitte India 6 months
+45 Abhishek Chopra COMP 2023 DELOITTE INDIA 6 months
+46 Sumeet Haldipur COMP 2023 Deloitte Touche Tohmatsu India LLP 6 months
+47 Ameya Jangam COMP 2023 Flobiz 6 months
+48 Samkit Shah COMP 2023 Fundnel Pte 6 months
+49 Chetashri Mahajan COMP 2023 JP Morgan Chase & Co 6 months
+50 Sakshi Mahadik COMP 2023 JP Morgan Chase & Co. 6 months
+51 Aryan Dhami COMP 2023 Jolly Industries 6 months
+52 Atharva Mohite COMP 2023 JP Morgan Chase 6 months
+53 Prathmesh Waghmode COMP 2023 JP Morgan Chase & Co. 6 months
+
+--- PAGE 2 ---
+54 Manvita Joshi COMP 2023 JP Morgan Chase & Co. 6 months
+55 Yash Patel COMP 2023 Zing42 Technologies Pvt. Ltd. 6 months
+56 Mayur Telrandhe COMP 2023 Zing42 Technologies Pvt. Ltd. 6 months
+57 Sanskruti Badhe COMP 2023 Zopte Technologies LLP 6 months
+58 Vidhi Rughwani COMP 2023 Jewel Products 6 months
+59 Mubashshira Hasan COMP 2023 Rahat Herbal Industries 6 months
+60 Aditya Motwani COMP 2023 IIT Bombay 6 months
+61 Rishabh Jain COMP 2023 Colgate Global Business Services Pvt Ltd. 6 months
+62 Manthan Juthani COMP 2023 Kotak Mahindra Bank 6 months
+63 Shubham Thakar COMP 2023 Mage (Singapore) 6 months
+64 Harshad Banate COMP 2023 Mindstix Software Labs Pvt. Ltd. 6 months
+65 Vedanth Raja COMP 2023 Mindstix Software Labs 6 months
+66 Manan Shah COMP 2023 MSCI 6 months
+67 Divya Shah COMP 2023 Rivi (registered as Rivi Ventures Private Limited) 6 months
+68 Ashish Rajguru COMP 2023 Research Internship – S.P.I.T. 6 months
+69 Deep Nayak COMP 2023 Studypaq 6 months
+70 Pritam Gaikwad COMP 2023 Tamasha.live 6 months
+71 Bhavya Shah COMP 2023 Trilogy Innovations 6 months
+72 Sahil Marwaha COMP 2023 Trilogy Innovation 6 months
+73 Naitik Jain COMP 2023 Zopte Technologies LLP 6 months
+74 Rutvik Choudhari COMP 2023 Zopte Technologies LLP 6 months
+75 Param Patil COMP 2023 Fabrik, by Augtual Reality Labs Private Limited 6 months
+76 Madhav Lahoti COMP 2023 JP Morgan and Chase 6 months
+77 Jaiwin Shah COMP 2023 Colgate Global Busness Services Private Ltd.(CGBS) 6 months
+78 Kashish Jain COMP 2023 SkyLark Labs 6 months
+79 Traividya Korgaonkar COMP 2023 UtopiaTech Pvt Ltd 6 months
+80 shreya.jain IT 2022 SP-TBI 6 months
+81 harsh.dodiya IT 2022 ICICI LOMBARD 6 months
+82 meet.dave IT 2022 Institutional Shareholder Services 6 months
+83 kaustubh.patil IT 2022 Institutional Shareholder Services(ISS) 6 months
+84 shagun.choudhari IT 2022 Institutional Shareholder Services(ISS) 6 months
+85 parth.gandhi IT 2022 Institutional Shareholders services 6 months
+86 atharva.shirode IT 2022 Institutional Shareholders Services(ISS) 6 months
+87 vidhi.vaidya IT 2022 J P Morgan 6 months
+88 harsh.pandita IT 2022 JP Morgan Chase & Co. 6 months
+89 tejas.rathod IT 2022 JPMC 6 months
+90 atharva.bane IT 2022 JPMC 6 months
+91 sakshi.bhoyar IT 2022 JPMorgan Chase & Co. 6 months
+92 abhishek.s IT 2022 Morgan Stanley 6 months
+93 harshita.lakhotiya IT 2022 Morgan Stanley 6 months
+94 manav.ranawat IT 2022 Morgan Stanley 6 months
+95 neha.kolambe IT 2022 Panel Technologies lndia Private limited 6 months
+96 parth.wanjari IT 2022 Quantiphi 6 months
+97 rhythm.munot IT 2022 Quantiphi 6 months
+98 dnyaneshwar.birajdar IT 2022 Remunance Services Pvt. Ltd 6 months
+99 aditi.patil IT 2022 Snowflake 6 months
+100 pranay.yadav IT 2022 Snowflake CloudTech 6 months
+101 trupti.patole IT 2022 Setmycoach.com 6 months
+102 manasi.jadhav IT 2022 Markytics Consulting Pvt. Ltd 6 months
+103 rounak.jaiswal IT 2022 VMware 6 months
+104 prerana.sawant IT 2022 WorkIndia 6 months
+105 manik.daya IT 2022 Colgate Business Services Private Limited 6 months
+106 yash.mor IT 2022 JPMC 6 months
+107 kshitij.bakshi IT 2022 Quantiphi 6 months
+108 aayush gosar IT 2022 Urban Company 6 months
+109 atharva malhar IT 2022 JPMC 6 months
+110 chirag jain IT 2022 JPMC 6 months
+111 deepak yadav IT 2022 JPMC 6 months
+
+--- PAGE 3 ---
+112 dhiral suwangya IT 2022 Cognizant 6 months
+113 jash gandhi IT 2022 JPMC 6 months
+114 luv gupta IT 2022 Naagin Sauce (Miksar Foods Pvt. Ltd.) 6 months
+115 mayur doifode IT 2022 Loconoid 6 months
+116 nikki wagholikar IT 2022 Quantiphi 6 months
+117 rajat shenoy IT 2022 Accolite 6 months
+118 saish patil IT 2022 Wissen Tech. 6 months
+119 saurabh deshmukh IT 2022 Brainayan 6 months
+120 suryabhan singh IT 2022 Colgate 6 months
+121 yash chhadva IT 2022 Wix Freaks 6 months
+122 Smrithi Agrawal IT 2023 BDO 6 months
+123 Anushka Agrawal IT 2023 JPMC (CFG) 6 months
+124 Dishita Ashar IT 2023 Baker Hughes 6 months
+125 Omkar Bandgar IT 2023 Acuradyne 6 months
+126 Aditya Bapat IT 2023 Wohlig Transformations 6 months
+127 Shweta Chavan IT 2023 JPMC (CFG) 6 months
+128 Vaibhavi Chincholkar IT 2023 Deloitte 6 months
+129 Larren Dsouza IT 2023 LabelBlind 6 months
+130 Limark Dcunha IT 2023 Ugam 6 months
+131 Mansi Dwivedi IT 2023 AutoBuddy 6 months
+132 Arnav Ekapure IT 2023 Aarti Ma'am 6 months
+133 Kaustubh Yogesh Funde IT 2023 Embedos 6 months
+134 Parshav Gandhi IT 2023 Tamasha 6 months
+135 Vedant IT 2023 Ernst and Young LLP 6 months
+136 Abha Gawande IT 2023 Ugam 6 months
+137 Mayuri ghuge IT 2023 AutoBuddy 6 months
+138 Amogh Godbole IT 2023 LabelBlind 6 months
+139 Vishal Gondke IT 2023 LabelBlind 6 months
+140 Dhruvi Gopani IT 2023 Wohlig Transformations 6 months
+141 Gokul Ramanan IT 2023 Colgate 6 months
+142 Yug Jain IT 2023 JPMC (CFG) 6 months
+143 Jai Joshi IT 2023 Price Waterhouse Coopers Services LLP 6 months
+144 Kunal Kadam IT 2023 Tamasha 6 months
+145 Aayush Kawathekar IT 2023 Baker Hughes 6 months
+146 Pratik Khandelwal IT 2023 MSCI 6 months
+147 Sharli Kude IT 2023 Colgate 6 months
+148 Pranav Kumar IT 2023 Mindstix 6 months
+149 Hrishikesh Lamdade IT 2023 ImaginorLabs 6 months
+150 Jeenal Mehta IT 2023 Ugam 6 months
+151 Prachi mishra IT 2023 Deloitte 6 months
+152 Mihir Nikam IT 2023 Carrot Consultancy Services 6 months
+153 Arjun Pansare IT 2023 Gupshup Technology 6 months
+154 Aman Parikh IT 2023 Kylo Apps 6 months
+155 Gaurav Parulekar IT 2023 Gupshup Technology 6 months
+156 Rushil Patel IT 2023 Skinzy 6 months
+157 Pranjal Patil IT 2023 JPMC (CFG) 6 months
+158 Aamey Pawanarkar IT 2023 Saddle Point Technologies 6 months
+159 Kristen Pereira IT 2023 Skinzy 6 months
+160 Atharva J Ranade IT 2023 MSCI 6 months
+161 Ameya Ranade IT 2023 IITB 6 months
+162 Devansh Rathod IT 2023 Deloitte 6 months
+163 Manan Savla IT 2023 Wohlig Transformations 6 months
+164 Sahil Sawant IT 2023 JPMC (CFG) 6 months
+165 Kushal Shah IT 2023 Wohlig Transformations 6 months
+166 Rhugweda Shedge IT 2023 Ugam 6 months
+167 Rohan Sodha IT 2023 Carousell Pte Ltd 6 months
+168 Aakash Sondagar IT 2023 Wohlig Transformations 6 months
+169 Shria Srivastava IT 2023 LabelBlind 6 months
+
+--- PAGE 4 ---
+170 Rishabh Vira IT 2023 Rao Sir 6 months
+171 Aditya Shashibhushan Wairkar IT 2023 Embedos 6 months
+172 Sarang Satishrao Yogi IT 2023 LabelBlind 6 months
+173 Joy Almeida IT 2023 Skinzy 6 months
+174 Kadambari suresh patangrao IT 2023 LabelBlind 6 months
+175 Sakshi Shah IT 2023 White Graphics 6 months
+176 Sarika Shete IT 2023 Zopte Technologies 6 months
+177 Pratima Singh IT 2023 Languify 6 months
+178 SIRSAT ANUSHKA GAJANAN IT 2023 I-Soft Solutions 6 months
+179 vyomesh sharma EXTC 2022 Deloitte 6 months
+180 shubham chavan EXTC 2022 Deloitte 6 months
+181 maitreyi ekbote EXTC 2022 Deloitte USI 6 months
+182 sweta sharma EXTC 2022 Embedos 6 months
+183 jaiesh singhal EXTC 2022 Reliance Industries Limited 6 months
+184 jai dalvi EXTC 2022 Hindustan Petroleum Corp. Ltd 6 months
+185 ayush raj EXTC 2022 Infinix 6 months
+186 yash wadalkar EXTC 2022 J P Morgan 6 months
+187 vhsaitarun yellamraju EXTC 2022 J P Morgan Chase 6 months
+188 aishwary jadhav EXTC 2022 J.P. Morgan & Chase 6 months
+189 janvi khandelwal EXTC 2022 JP MORGAN CHASE 6 months
+190 gulsheet kaur EXTC 2022 JP Morgan Chase & Co 6 months
+191 hritika.narvekar EXTC 2022 IDfy: Identity Verification 6 months
+192 naveen.b EXTC 2022 Dolat Capital 6 months
+193 brijesh.chawan EXTC 2022 JPMC 6 months
+194 hrishikesh.lokhande EXTC 2022 ZS Associates 6 months
+195 praharsha.nuti EXTC 2022 ZS Associates 6 months
+196 ramanansri.aiyar EXTC 2022 ZS Associates 6 months
+197 amol.lashkare EXTC 2022 Quantiphi 6 months
+198 nikita.chopde EXTC 2022 JP Morgan Chase & Co. 6 months
+199 komal.koppaka EXTC 2022 JP MORGAN CHASE & Co. 6 months
+200 varun.agnihotri EXTC 2022 JP Morgan Chase and Co 6 months
+201 yagnesh.gotad EXTC 2022 JPMorgan Chase & Co 6 months
+202 sampada.deshpande EXTC 2022 JPMorgan Chase & Co 6 months
+203 priya.agarwal EXTC 2022 Zepto now 6 months
+204 dipankar.sen EXTC 2022 JP Morgan Chase 6 months
+205 rahul.shetty EXTC 2022 Nomura 6 months
+206 aanchal.pandey EXTC 2022 PricewaterhouseCoopers(PwC) 6 months
+207 alvan.dmello EXTC 2022 Quantiphi 6 months
+208 jui.kale EXTC 2022 Quantiphi 6 months
+209 mrityunjay.joshi EXTC 2022 Quantiphi 6 months
+210 aditya.harsora EXTC 2022 KPMG 6 months
+211 darshitkumar.patel EXTC 2022 Agarwal packer and movers 6 months
+212 kshitij.parab EXTC 2022 Quantiphi Analytics Solutions Pvt Ltd 6 months
+213 rajas.chodankar EXTC 2022 Markytics 6 months
+214 vedika.thakare EXTC 2022 Kiotel Automation Pvt. Ltd 6 months
+215 ruchika.shetty EXTC 2022 Sapientury 6 months
+216 suryasundargiridhar.upadrashta EXTC 2022 Sapientury 6 months
+217 ankit.datta EXTC 2022 Quantiphi Analytics Solutions Private Limited 6 months
+218 ninad.kale EXTC 2022 KPMG 6 months
+219 nikhil.prajapati EXTC 2022 ICICI Lombard General Insurance Company 6 months
+220 pallavi.abhale EXTC 2022 ISS 6 months
+221 kamal.raisinghani EXTC 2022 Sapientury 6 months
+222 nirmal.attarde EXTC 2022 Siddhivinayak Consulting 6 months
+223 niharika.kadam EXTC 2022 JP Morgan Chase and Co 6 months
+224 ayush.sharma EXTC 2022 Versor Invest 6 months
+225 rajat.naoghare EXTC 2022 WorkIndia 6 months
+226 aayush.bagrecha EXTC 2022 Quantiphi 6 months
+227 tejas.naik EXTC 2022 Quantiphi 6 months
+
+--- PAGE 5 ---
+228 anubhav.anand EXTC 2022 GEP 6 months
+229 soham.chotalia EXTC 2022 Rising India 6 months
+230 riya.chakke EXTC 2022 Municipal corporation of greater mumbai 6 months
+231 harsh.dungrani EXTC 2022 Sapientury, IIM-Bangalore incubated EdTech startup 6 months
+232 prachi.pawar EXTC 2022 Baoiam Innovations Pvt Ltd - startup 6 months
+233 om.chaurasia EXTC 2022 Ayka Control Systems, Riidl, KJ Somaiya 6 months
+234 vansh.jain EXTC 2022 Dimensionless Technologies Private Limited 6 months
+235 sharvari.kalgutkar EXTC 2022 SCIENTIST AI TECHNOLOGIES PVT LTD 6 months
+236 harsh.salkar EXTC 2022 Quantiphi, Inc. 6 months
+237 Khushi Agrawal EXTC 2023 e-stone Information Technology 6 months
+238 Manan Arora EXTC 2023 Indovision Services Pvt Ltd 6 months
+239 Hiten Bafna EXTC 2023 Kaur Research 6 months
+240 Parth Bywar EXTC 2023 JPMC (CFG) 6 months
+241 Husain Challawala EXTC 2023 Rao Sir 6 months
+242 Aditi Mahendra Chaturvedi EXTC 2023 Deloitte 6 months
+243 Vishrut Chokshi EXTC 2023 IEDC 6 months
+244 Shweta Choudhary EXTC 2023 Deloitte 6 months
+245 Jai Damani EXTC 2023 BDO 6 months
+246 Anupriya Dasgupta EXTC 2023 Deloitte 6 months
+247 Dylan Dsouza EXTC 2023 Aarti Ma'am 6 months
+248 Siddhant Evre EXTC 2023 Aarti Ma'am 6 months
+249 Snehal Gadge EXTC 2023 Aarti Ma'am 6 months
+250 Aniket Gawade EXTC 2023 Aarti Ma'am 6 months
+251 Oindrella Ghosh EXTC 2023 Deloitte 6 months
+252 Aryaman Gokarn EXTC 2023 Deloitte 6 months
+253 RITIK KOUL EXTC 2023 BDO 6 months
+254 Sudhanshu Kulkarni EXTC 2023 Skinzy 6 months
+255 Sanskar Laddha EXTC 2023 BDO 6 months
+256 Swapnil Mandavilli EXTC 2023 Utopia 6 months
+257 Siddharth Mohanty EXTC 2023 JPMC (CFG) 6 months
+258 Adnan Mohiddin EXTC 2023 Mercedes Benz India 6 months
+259 Richa Motwani EXTC 2023 Tech Mahindra 6 months
+260 Saikrishna Muralidaran EXTC 2023 Ernst and Young LLP 6 months
+261 Nimrat Kaur EXTC 2023 Deloitte 6 months
+262 Anshal Padole EXTC 2023 Rao Sir 6 months
+263 Deeksha Pal EXTC 2023 Deloitte 6 months
+264 Abhinav Pallayil EXTC 2023 Deloitte 6 months
+265 Gaurav Panchal EXTC 2023 BDO 6 months
+266 Khushi Patni EXTC 2023 Arj Securities 6 months
+267 Nachiket Sankhe EXTC 2023 Kaur Research 6 months
+268 Suraj Gopal Sarje EXTC 2023 Aarti Ma'am 6 months
+269 Mitash Shah EXTC 2023 IEDC 6 months
+270 Ayush Sharma EXTC 2023 ACG Insepction 6 months
+271 Sara Sheth EXTC 2023 Deloitte 6 months
+272 Pratham solanki EXTC 2023 Tata Capital 6 months
+273 Darshan Somani EXTC 2023 FileAgo 6 months
+274 Atharva Sonavane EXTC 2023 Deloitte 6 months
+275 Pranav Swaminathan EXTC 2023 Maveric 6 months
+276 Maitri V ora EXTC 2023 JPMC (CFG) 6 months
+277 Chris Paul EXTC 2023 IIITM Gwalior 6 months
+278 Utsav Panchal EXTC 2023 Transpure Solutions 6 months
+279 Mohammed Saud Sayed EXTC 2023 Aarti Ma'am 6 months
+280 Trupti Gopinat EXTC 2023 CM Smith & Sons Ltd 6 months
+281 Ayush Asawa ETRX 2022 Accolite Digital 6 months
+282 Swapnil Dabre ETRX 2022 Accolite Digital 6 months
+283 Shlok Tadilkar ETRX 2022 Cornerstone 6 months
+284 Arnav Chaudhari ETRX 2022 GEP 6 months
+285 Prasheel Shah ETRX 2022 GEP 6 months
+
+--- PAGE 6 ---
+286 Niraj Thorat ETRX 2022 ICICI Lombard 6 months
+287 Manali Berde ETRX 2022 Institutional Shareholder services 6 months
+288 Hrithik Jain ETRX 2022 JP Morgan Chase 6 months
+289 Divit Kalathil ETRX 2022 JP Morgan Chase 6 months
+290 Shravani Rahise ETRX 2022 JP Morgan Chase and Co. 6 months
+291 Harsh Agarwal ETRX 2022 JPMC 6 months
+292 Omkar Varudkar ETRX 2022 JPMC 6 months
+293 Leena Badgujar ETRX 2022 JPMorgan Chase & Co. 6 months
+294 Sayali Ghorpade ETRX 2022 JPMorgan Chase & Co. 6 months
+295 Satvik Sawant ETRX 2022 Quantiphi 6 months
+296 abhivyakti parihar ETRX 2022 RoboFun Lab 6 months
+297 netra trivedi ETRX 2022 Nomura 6 months
+298 Aakanksha Garg ETRX 2022 JP Morgan Chase 6 months
+299 Shriya Sansare ETRX 2022 JP Morgan Chase & Co 6 months
+300 Shreya Gokhale ETRX 2022 JPMC 6 months
+301 Pranav Aher ETRX 2022 Wissen Technology 6 months
+302 vivek shetty ETRX 2022 Ugam Solutions 6 months
+303 jaynil patel ETRX 2022 Setmycoach services Pvt Ltd 6 months
+304 Aditya Shah ETRX 2022 KPMG 6 months
+305 Karan Sanghavi ETRX 2022 Metwiz materials 6 months
+306 Shauryavir Singh ETRX 2022 Nomura 6 months
+307 Shichi Upadhyay ETRX 2022 Quantiphi 6 months
+308 Aditya terade ETRX 2022 Quantiphi 6 months
+309 Akshay pasari ETRX 2022 Quantiphi, Inc 6 months
+310 Pranjal pimpale ETRX 2022 Siemens 6 months
+311 Kuldeep vaishnav ETRX 2022 Faroce.com 6 months
+312 Kush Jain ETRX 2022 Chempure 6 months
+313 Sanchit Rote ETRX 2022 VMware 6 months
+314 Vedang Natu ETRX 2022 ZS Associates 6 months
+315 Navya Fadia ETRX 2022 JP Morgan 6 months
+316 Chirayu Betkar ETRX 2022 Quantiphi 6 months
+317 Kaushik Reddy ETRX 2022 JPMorgan Chase & Co. 6 months
+318 krutika patkar ETRX 2022 SP-TBI 6 months
+319 akash hake ETRX 2022 SP-TBI 6 months
+320 anjali shinde ETRX 2022 jp morgan and chase 6 months
+321 Archis Gune ETRX 2022 Ashida Electronics 6 months
+322 Smiti Pddar ETRX 2022 Wissen Technology 6 months
+323 Kunal Sanghavi ETRX 2022 I-Wealth Management LLP 6 months
+324 Mohil sarvankar ETRX 2022 Digiklug Solutions LLP 6 months
+325 Raviraj randive ETRX 2022 IDfy 6 months
+326 shrestha agarwal ETRX 2022 Larsen and Toubro Infotech 6 months
+327 krish mankar ETRX 2022 Loconoid 6 months
+328 harshada patil ETRX 2022 Faroce -SP -TBI 6 months
+329 viraj wasnik ETRX 2022 Digiklug Solutions LLP 6 months
+330 adhik mewada ETRX 2022 Mevada Timber Traders 6 months
+331 prathamesh talewar ETRX 2022 Tata Motors 6 months
+332 laukik deshmukh ETRX 2022 Synnfo Technologies 6 months
+333 mohnish sankhe ETRX 2022 JP Morgan Chase 6 months
+334 shubham shigavan ETRX 2022 JBL Automation 6 months
+335 tanmay bhalerao ETRX 2022 EY 6 months
+336 trisha patel ETRX 2022 IEEE 6 months
+337 divya raut ETRX 2022 IEEE 6 months
+338 vivekkumar mandal ETRX 2022 MSCI 6 months
+339 kushagra gautam ETRX 2022 ZS Associates 6 months
+340 gaurav patil ETRX 2022 SawME 6 months
+341 sanika sankhe ETRX 2022 SetmyCoach 6 months
+342 harsh agrawal ETRX 2022 WorkIndia 6 months
+343 aarti nandurkar ETRX 2022 STRIVIK/Helping Hut 6 months
+
+--- PAGE 7 ---
+344 Snehil Kumar ETRX 2022 UGAM 6 months
+345 Atish Mahajan ETRX 2022 DOLAT CAPITAL MARKET PVT. LTD. 6 months
+346 Amolina Samantha ETRX 2022 Ugam 6 months
+347 Isha Naik ETRX 2022 Om Energy Savers 6 months
+348 Nisha Vasant ETRX 2022 Swift Home Automations Inc 6 months
+349 satish yadav ETRX 2022 SetmyCoach 6 months
+350 Shraddha Bhagyawant ETRX 2023 AutoBuddy@SPIT - An intelligent life Companion 6 months
+351 Apoorva Limaye ETRX 2023 Auto buddy 6 months
+352 Divija Shringarpure ETRX 2023 AutoBuddy@SPIT - An intelligent life Companion 6 months
+353
+Siddhant Kamlaskar
+ETRX 2023
+AutoBuddy@SPIT - An Intelligent Life
+Companion 6 months
+354 Dhananjay Joshi ETRX 2023 Autobuddy@SPIT An Intelligent Life Companion 6 months
+355 Aditya Patwardhan ETRX 2023 AutoBuddy@SPIT-An intelligent life companion 6 months
+356 Aryan Solanki ETRX 2023 AutoBuddy@SPIT-An Intelligent Life Companion 6 months
+357 Vaishnavi Bhore ETRX 2023 Autobuddy@SPIT-An Intelligent Life Companion 6 months
+358 Sruthi Shivaramakrishnan ETRX 2023 BDO India 6 months
+359 Swaraj Salunke ETRX 2023 BDO India LLP 6 months
+360 Prathamesh Kadam ETRX 2023 BDO India LLP 6 months
+361 Jenil Dave ETRX 2023 Sardar Patel Institute of Technology 6 months
+362 Vinayak Tripathi ETRX 2023 ARJ Securities Private Limited 6 months
+363 Ashish Jingar ETRX 2023 Acuradyne Systems 6 months
+364 Pooja Khismatrao ETRX 2023 Blue star limited,wada 6 months
+365 Hitanshu Jain ETRX 2023 SHETH PUBLISHING HOUSE 6 months
+366 Mayur Kumar ETRX 2023 SPIT 6 months
+367 Vaibhav Raina ETRX 2023 PDC-POWER ELECTRONIC (YS .RAO SIR) 6 months
+368 ojas pal ETRX 2023 BDO India LLP 6 months
+369 Pushkar Sutar ETRX 2023 Bhabha Atomic Research Centre (BARC) 6 months
+370 Astik Jadhav ETRX 2023 BSE Technologies Pvt. Ltd. 6 months
+371 Tirth Meghani ETRX 2023 Indian Institute of Technology Bombay 6 months
+372 Niharika Mehta ETRX 2023 Deloitte 6 months
+373 Aditi Bagwe ETRX 2023 Deloitte India 6 months
+374 Imaz Chandiwala ETRX 2023 Deloitte India 6 months
+375 Anushka Pilena ETRX 2023Dr. APJ Abdul Kalam International Foundation,House of Kalam, Rameswaram6 months
+376 Eeshaan Asodekar ETRX 2023 EquiPoise Capital Mangement Pvt. Ltd. 6 months
+377 Arpan Nookala ETRX 2023 Google via DKSH Smollan 6 months
+378 Ronit Gandhi ETRX 2023 Google via DKSH Smollan 6 months
+379 Vivek Rajput ETRX 2023 Power Anser Labs 6 months
+380 Shahid Shaikh ETRX 2023 Kaur Research 6 months
+381 Reeshav Guha ETRX 2023 SPIT PDC 6 months
+382 Vedant Bhangale ETRX 2023 Utopia Tech 6 months
+383 Suraj Kamtekar ETRX 2023 Utopia Tech 6 months
+384 Chinmay Walinjkar ETRX 2023 Babha Atomic Research Centre 6 months
+385 Chaitanya Padachh ETRX 2023 Capitalmind 6 months
+386 Manas Tiwari ETRX 2023 JP Morgan Chase 6 months
+387 Renuka Dyawarkonda ETRX 2023 PDC (SPIT) 6 months
+388 Rahul Parab ETRX 2023 SPIT 6 months
+389 Shubham Sawant Sawant ETRX 2023 SPIT PDC 6 months
+390 Prabhat Kumar ETRX 2023 SPIT PDC 6 months
+391 Devansh Palliyath ETRX 2023 Spit PDC Sawant Sir 6 months
+392 Varun Kamath ETRX 2023 SPIT-PDC 6 months
+393 Prathamesh Shelar ETRX 2023 SPIT-PDC (Sawant Sir) 6 months
+394 Aditya Umalkar ETRX 2023 Animesh Packaging 6 months
+395 Omkar Shinde ETRX 2023 Wohlig Transformations 6 months
+396 Samay Gada ETRX 2023 Wohlig Transformations 6 months
+397 Malhar Vairale ETRX 2023 PDC IEDC centre SPIT 6 months
+398 Vinay Polewar ETRX 2023 Guided Patient Monitoring System Developments 6 months
+399 Sarvesh Jare ETRX 2023 SPIT 6 months
+400 Rahul Alshi ETRX 2023 Deloitte 6 months
+
+--- PAGE 8 ---
+401 Shubham Hule ETRX 2023 aNumak & Company 6 months
+402 Chetana Kamalkar ETRX 2023 PDC 6 months
+403 Sayali Ayre ETRX 2023 Security Printing and Minting Corporation of India 6 months
+404 Janhavi Dabhane ETRX 2023 Acurdyne 6 months
+405
+Tirth Patel
+ETRX 2023
+Department of Electronics Engineering, IIT
+Bombay 6 months
+406 Sandeep Suthar ETRX 2023 UtopiaTech Pvt. Ltd. 6 months
+407 Dhvanik Makwana ETRX 2023 UtopiaTech Pvt. Ltd. 6 months
+408 Siddharth Deshpande ETRX 2023 aNumak and Company 6 months
+409
+Bhavika Vaishnavi
+ETRX 2023
+Indian Institute of Information Technology and
+Management, Gwalior (IIITM) 6 months
+410 Tejal Dadas ETRX 2023 Janyu Technologies Pvt Ltd 6 months
+411 Rani Tibdewal ETRX 2023 Mindgate Solutions Pvt. Ltd. 6 months
+412 Sumit Kulkarni ETRX 2023 PDC 6 months
+413 Sanskar Badjatia ETRX 2023 Applied cloud computing 6 months
+414
+Arohi Shinde
+ETRX 2023
+S. P. Jain Institute of Management and Research
+(SPJIMR) 6 months
+415 Aniket Nadkarni ETRX 2023 Indian Institute of Technology Bombay 6 months
+416 Nidhi Khanorkar ETRX 2023 Sardar Patel Institute of Technology 6 months
+417
+Lokesh Patil
+ETRX 2023
+Sardar Patel Institute of Technology (SPIT) -
+Project Development Centre (PDC) 6 months
+418 Omkar Pawar ETRX 2023 PDC (SPIT) 6 months
+419 Shivang Singh Manhas ETRX 2023 PDC 6 months
+420 Param Mehta ETRX 2023 SPIT PDC 6 months
+421 Bilal Sani ETRX 2023 SPIT PDC 6 months
+422 Sahil Patil ETRX 2023 iTechSeed India Growth Ventures Pvt. Ltd. 6 months
+423 Abhishek Gupta MCA 2022 Ugam 6 months
+424 Adarshkumar Singh MCA 2022 CODE B 6 months
+425 Akash Bamble MCA 2022 Care Team Pvt Ltd. 6 months
+426 Akash Dubey MCA 2022 Publicis 6 months
+427 Aniruddha Deshmukh MCA 2022 BDO 6 months
+428 Anupam Tiwari MCA 2022 The Kaur Research 6 months
+429 Anushka Chavan MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+430 Anushka Salvi MCA 2022 Ugam 6 months
+431 Ashwin Koli MCA 2022 BDO 6 months
+432 Bhavesh Naik MCA 2022 6 months
+433 Bhumesh Bodalia MCA 2022 Acuradyne 6 months
+434 Debaroti Biswas MCA 2022 Ugam 6 months
+435 Deval Nayak MCA 2022 TAXOMART 6 months
+436 Divya Sundaram MCA 2022 MSCI 6 months
+437 Geeta Bhat MCA 2022 Mobilestyx Consulting Solutions 6 months
+438 Jagannath Patta MCA 2022 Colgate Palmolive 6 months
+439 Jaikishan Bagul MCA 2022 BDO 6 months
+440 Kalpesh Khandelwal MCA 2022 Nomura(KAKUSHIN) 6 months
+441 Kevalkumar Limbani MCA 2022 40 Bears 6 months
+442 Krishna Chhabria MCA 2022 Nomura 6 months
+443 Lovin D'Cruz MCA 2022 Ugam 6 months
+444 Mahek Sadhwani MCA 2022 MSCI 6 months
+445 Mahesh Kutty MCA 2022 Nomura 6 months
+446 Mayur Misal MCA 2022 General Mills 6 months
+447 Mayur Honmane MCA 2022 Shell Code 6 months
+448 Meghna Wankhede MCA 2022 MSCI 6 months
+449 Mohit Bellwani MCA 2022 Ugam 6 months
+450 Nikhil Phadke MCA 2022 Ugam 6 months
+451 Omkar More MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+452 Onkar Tatkare MCA 2022 The Kaur Research 6 months
+453 Pallavi Bolar MCA 2022 BDO 6 months
+454 Dhawal Patil  MCA 2022 MSCI 6 months
+455 Piyush Kukade MCA 2022 Nomura 6 months
+
+--- PAGE 9 ---
+456 Prajwal Warkhade MCA 2022 BDO 6 months
+457 Pranali Ghag MCA 2022 Colgate Palmolive 6 months
+458 Prashant Gujar MCA 2022 6 months
+459 Prathamesh Dound MCA 2022 Quantiphi 6 months
+460 Pratik Vakurdekar MCA 2022 SlachRT Software Private Limited 6 months
+461 Rahul Kumawat MCA 2022 Margosatree Technologies LLP 6 months
+462 Rahul Mangalarapu MCA 2022 Nomura 6 months
+463 Rashika Suvarna MCA 2022 MSCI 6 months
+464 Rutika Sonawane MCA 2022 MSCI 6 months
+465 Rutwik Borkar MCA 2022 Colgate Palmolive 6 months
+466 Sachin Kolhe MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+467 Sahil Baraskar MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+468 Samidha Salian MCA 2022 BNP 6 months
+469 Sanket Kshirsagar MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+470 Saurabh Kolapate MCA 2022 Cognizant(GenC) 6 months
+471 Samee Shaikh MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+472 Shivam Balki MCA 2022 General Mills 6 months
+473 Shubham Gupta MCA 2022 Bobble AI 6 months
+474 Shubham Jaiswal MCA 2022 40 Bears 6 months
+475 Siddharth Nair MCA 2022 Ugam 6 months
+476 Siddhi Anil Gavande MCA 2022 MSCI 6 months
+477 Siddhi Patil MCA 2022 BNP 6 months
+478 Sneha Hariyan MCA 2022 Ugam 6 months
+479 Srushti Panchbhai MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+480 Surbhi Agarwal MCA 2022 NykaaFSN E-Commerce Vetures Limited(Nykaa.com) 6 months
+481 Swapnil Gaonkar MCA 2022 40 Bears 6 months
+482 Swapnil Mhapankar MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+483 Tahir Gani MCA 2022 Mindstix 6 months
+484 Tanay Srivastava MCA 2022 BNP 6 months
+485 Tanish Gangwal MCA 2022 BDO 6 months
+486 Tanuj Rajput MCA 2022 The Kaur Research 6 months
+487 Tejal Jadhav MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+488 Udit Kulkarni MCA 2022 Publicis 6 months
+489 Vaibhav Tyagi MCA 2022 Nomura(KAKUSHIN) 6 months
+490 Vinod Pujari MCA 2022 40Bears TechCorp Pvt. Ltd. 6 months
+491 Vivishwan Dubey MCA 2022 Ugam 6 months

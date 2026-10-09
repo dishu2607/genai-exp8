@@ -1,0 +1,85 @@
+--- PAGE 1 ---
+Bhartiya Vidya Bhavans, Sardar Patel Institute of Technology
+Internship Details
+Semester: 6                                                                            Academic Year: 2022-23
+Research Internships from January 2023 to June 2023 (Batch 2024 Passouts)
+Sr. No. Name UID Branch Research Organization
+1 Shreyash Dhamane 2020300006 COMP Skinzy
+2 Pratik Pujari 2020300054 COMP Acuradyne (IIT Bombay)
+3 Aaryan Purohit 2020300055 COMP IIT Patna
+4 Omkar Rane 2020300057 COMP IIT Bombay
+5 Krish Shah 2020300061 COMP IIT Patna
+6 Trisha Shishodiya 2020300066 COMP IIT Bombay
+7 Anmol Chokshi 2020400003 IT IIT Bombay
+8 Aryan Gwalani 2020400010 IT IIT Bombay
+9 Vansh Jain 2020400014 IT IIT Bombay
+10 Kaustubh Kachare 2020400016 IT SPIT PDC
+11 Dhruv Khut 2020400020 IT IIT Patna
+12 Aaditya Mehar 2020400022 IT IIT Bombay
+13 Siddhant Meshram 2020400023 IT Autobuddys
+14 Sahil Nawale 2020400029 IT IIT Patna
+15 Adish Padalia 2020400031 IT IIT Bombay
+16 Abhishek Pai 2020400032 IT IIT Patna
+17 Atharv Raotole 2020400042 IT IIT Patna
+18 Kaival Shah 2020400047 IT IIT Patna
+19 Mirat Shah 2020400049 IT IIT Bombay
+20 Tanish Shah 2020400050 IT IIT Bombay
+21 Dhruvi Sheth 2020400054 IT  SPIT PDC
+22 Sailee Shirodkar 2020400057 IT IIT Patna
+23 Rahul Shukla 2020400058 IT IIT Bombay
+24 Bhavisha Sondagar 2020400061 IT  SPIT PDC
+25 Ayush Singh 2020400059 IT JPMC (CFG)
+26 Harish Balasubramanian 2020200003 EXTC IIT Bombay
+27 Atharva Chaudhari 2020200006 EXTC IIT Bombay
+28 Janhavi Dangle 2020200008 EXTC IIT Bombay
+29 Tanmay Gadgil 2020200012 EXTC  SPIT PDC
+30 Aarnav Joshi 2020200028 EXTC IIT Patna
+31 Sarthak Kambli 2020200031 EXTC IIT Bombay
+32 Aditya Kulkarni 2020200037 EXTC IIT Bombay
+33 Guruprasad Parasnis 2020200043 EXTC IIT Bombay
+34 Monish Rane 2020200050 EXTC  SPIT PDC
+35 Rushikesh Sangole 2020200055 EXTC IIT Bombay
+36 Kunal Thakur 2020200060 EXTC IUCAA Pune
+37 Vrushali Varude 2020200063 EXTC IIT Bombay
+38 Mitali Sherkhane 2021201072 EXTC IIT Bombay
+39 Rina Pachkale 2021201074 EXTC IIT Bombay
+40 Atharav Bhagwat 2020100003 ETRX IIT Bombay
+41 Rajas Bhope 2020100004 ETRX IIT Bombay
+42 Samuelson D'souza 2020100013 ETRX IIT Bombay
+43 Tanishq Khairnar 2020100030 ETRX IIT Patna
+44 Neeraj Kokane 2020100033 ETRX Haldex Anand India PVT LTD (R n D )
+45 Arpit Patil 2020100042 ETRX IIT Bombay
+46 Devashish Rairikar 2020100046 ETRX IIT Bombay
+
+--- PAGE 2 ---
+47 Nidhi Samant 2020100050 ETRX IIT Bombay
+48 Nikhil Saraf 2020100051 ETRX IIT Bombay
+49 Chirag Vasani 2020100063 ETRX Acuradyne (IIT Bombay)
+66
+1919
+1414
+1010
+Count of Branch
+COMP
+IT
+EXTC
+ETRX
+0 5 10 15 20
+Student Count Branchwise
+Haldex Anand India PVT LTD (R n D )
+2.0%
+IUCAA Pune
+2.0%
+JPMC (CFG)
+2.0%
+SPIT PDC
+10.2%
+IIT Bombay
+55.1%
+Skinzy
+2.0%
+Acuradyne (IIT Bombay)
+4.1%
+IIT Patna
+20.4%
+Internship Organization Distribution

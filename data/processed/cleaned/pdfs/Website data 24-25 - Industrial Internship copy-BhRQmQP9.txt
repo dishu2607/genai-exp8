@@ -1,0 +1,622 @@
+--- PAGE 1 ---
+Sr No. Name UID Discipline Year Of
+Passing
+Mode Of
+Placement Company
+1 Aaditya Rakesh Joglekar 2021200044 EXTC 2025 Off-Campus Pixelwise Technology
+2 Aarya Jogalekar 2021200043 EXTC 2025 Off-Campus L&T Technology Services
+3 Ms. Neerja Doshi 202130029 Comps 2025 On-Campus JP Morgan
+4 Sagar Devidas Rathod 2020400043 Comps 2025 On-Campus BSE Limited
+5 Prathamesh Paradkar 2021200084 AIML 2025 Off-Campus IIT Bombay
+6 Shaan Agarwal 2021300001 Comps 2025 On-Campus NOMURA
+7 Deepanshu Aggarwal 2021300002 Comps 2025 On-Campus IDFC FIRST BANK
+8 Rahil Ankhad 2021300003 Comps 2025 On-Campus Baker Hughes
+9 Abhieram Bandaru 2021200006 EXTC 2025 On-Campus JP Morgan Chase & Co
+10 Saniya Bangare 2021300009 Comps 2025 Off-Campus Mindgate solutions pvt.Ltd
+11 Manav Bhanushali 2021700008 DS 2025 On-Campus Arcon Techsolutions
+12 Abhishek Ratnu 2021200101 EXTC 2025 On-Campus ISS STOXX
+13 Aditya Gangal 2021700023 DS 2025 Off-Campus ART IP Solutions
+14 Swati Gupta 2023510024 MCA 2025 On-Campus Ascentech
+15 Kalyani Chintaman Bharsat 2023510005 MCA 2025 On-Campus ASCENTech Company
+16 Aditi Ramugade 2021200099 EXTC 2025 On-Campus JP Morgan
+17 Aditya Kadam 2021200046 EXTC 2025 On-Campus Elemantra pvt ltd
+18 ritik singh 2021700061 DS 2025 On-Campus aurion pro (arya.ai)
+19 Aditya Parnerkar 2021200086 EXTC 2025 Off-Campus JanyuTech
+20 Aditya Rane 2021200100 EXTC 2025 On-Campus ICICI Lombard
+21 Aditya Somani 2021200111 EXTC 2025 Off-Campus
+The Akola Urban Coooperative
+Bank
+22 Kunal Virendra Bhatia 2021300010 Comps 2025 On-Campus Equity Data Science
+23 Umang Bhatt 2021300011 Comps 2025 On-Campus Nomura
+24 Basuri Bhujade 2021300012 Comps 2025 On-Campus WorkIndia
+25 Akshat Anand Biniwale 2021300014 Comps 2025 On-Campus WorkIndia
+26 Ayush Bodade 2021300015 Comps 2025 Off-Campus
+COVENANTS PHARMACHEM
+LLP
+27 Khushi Bharat Jain 2021700030 DS 2025 On-Campus Baker Hughes
+28 Vaishnavi Borkar 2021300016 Comps 2025 On-Campus JPMC
+29 Advait Khaire 2021200057 EXTC 2025 On-Campus KPMG
+30 Ajay Lohar 2021200064 EXTC 2025 On-Campus Transunion
+31 Mihika Chachad 2021300017 Comps 2025 On-Campus Nouryon
+32 Akaash Sharma 2021200108 EXTC 2025 Off-Campus GNZY
+33 Bhavesh Prashant Chaudhari 2021300018 Comps 2025 Off-Campus Six Ladders
+34 Akshat Pandey 2021200081 EXTC 2025 On-Campus Aurionpro
+35 Abhijit Shirke 2023510054 MCA 2025 On-Campus Bombay Stock Exchange
+36 Darshana Dattatray Chothave 2021300021 Comps 2025 On-Campus Olive Tech Service
+37 Aniket Kesarwani 2021200056 EXTC 2025 On-Campus BrowserStack
+38 Anish Chintamani Sambhare 2022201019 EXTC 2025 On-Campus Cadence Design Systems
+39 Ankit Prajapati 2022201017 EXTC 2025 Off-Campus Eagle Control Systems
+40 Aditya Choudhary 2021300022 Comps 2025 On-Campus Interactive Brokers
+41 Ankit Prasad 2021200097 EXTC 2025 Off-Campus JPR TECHNOSOFT LLP
+42 Aryan Adav 2022201001 EXTC 2025 On-Campus Research Internship at sp Jain
+43 Aryan Allegunti 2021200003 EXTC 2025 Off-Campus Cpiombo
+44 Atharv Bhagwat 2021200008 EXTC 2025 On-Campus KPMG India
+45 Atharva Ghatol 2021200032 EXTC 2025 On-Campus BSE
+46 Ameya Dabholkar 2021300023 Comps 2025 On-Campus Jpmc
+47 Ayushi Naik 2021200073 EXTC 2025 On-Campus JP Morgan Chase and Co.
+48 Aditi Thakore 2023510057 MCA 2025 On-Campus Citius Tech
+49 Snehal Jayprakash Borji 2023510008 MCA 2025 On-Campus CitiusTech
+50 Saurav Umesh Chavan 2023510012 MCA 2025 On-Campus CitiusTech
+51 Ankita shejal 2023510052 MCA 2025 On-Campus Citiustech
+52 Samuel Rajnish Waghmare 2023510063 MCA 2025 On-Campus Cituis Tech
+
+--- PAGE 2 ---
+53 Vaibhav Vijay Agarwal 2023510001 MCA 2025 On-Campus CleverTap
+54 Bhavini Mishra 2021200071 EXTC 2025 Off-Campus
+Bhabha Atomic Research Centre
+(B.A.R.C)
+55 Dhane Shreyas Rajaram 2023510017 MCA 2025 On-Campus Clevertap
+56 Chaitanya Chaudhari 2021200020 EXTC 2025 Off-Campus Connectwell Industries
+57 Dev Oza 2021200078 EXTC 2025 Off-Campus IIT Bombay
+58 Dewyani Deshmukh 2021300024 Comps 2025 Off-Campus Gristip Softwares
+59 Vivek Tiwari 2023510059 MCA 2025 On-Campus Colgate Palmolive
+60 Abhishek Gupta 2021700027 DS 2025 On-Campus Colgate Palmolive
+61 Ishani Mathur 2023510033 MCA 2025 On-Campus Colgate-Palmolive
+62 Anshuman Dhara 2021300026 Comps 2025 On-Campus Nomura
+63 Devang Vartak 2021200123 EXTC 2025 Off-Campus Team FullStack
+64 Vinayak chidrawar 2023510013 MCA 2025 On-Campus CPiombo
+65 Devansh Sahu 2021200104 EXTC 2025 On-Campus Dimension Six Technologies
+66 Dhruvil Doshi 2021300027 Comps 2025 On-Campus MSCI
+67 Maaz Shaikh 2021700059 DS 2025 On-Campus Dataphi
+68 Riya Mangesh Hate 2022701004 DS 2025 On-Campus Dessert Marine Services Pvt Ltd
+69 Devanshi Padhy 2021200079 EXTC 2025 On-Campus InCred Financial Services Ltd.
+70 Divesh Podar 2021200095 EXTC 2025 Off-Campus IIT Bombay
+71 Chirag Moolya 2023510036 MCA 2025 Off-Campus DigiMore
+72 Gandhar Kulkarni 2021200060 EXTC 2025 Off-Campus
+Sardar Patel Technology Business
+Incubator (SP-TBI)
+73 Gauri Narkar 2021200076 EXTC 2025 Off-Campus
+Sardar Patel Technology Business
+Incubator (SPTBI)
+74 Om Doshi 2021300030 Comps 2025 On-Campus Neebal Technologies
+75 Apulki Dubey 2021300032 Comps 2025 Off-Campus Vsure Consultancy Services
+76 Gayatri Tajne 2021200116 EXTC 2025 On-Campus J. P. Morgan Chase & Co.
+77 Govind Kela 2021200055 EXTC 2025 On-Campus Browserstack
+78 Yash Rautela 2023510047 MCA 2025 On-Campus Elemantra
+79 Harshada Koranne 2021200059 EXTC 2025 On-Campus MSCI
+80 Henil Gandhi 2021200031 EXTC 2025 On-Campus CleverTap
+81 Hruthwik Aglave 2021200002 EXTC 2025 Off-Campus I-MEDITA
+82 Jaideep Balde 2021200005 EXTC 2025 On-Campus SPJIMR
+83
+Siddiqui Hawaiza Sabeel Mohd
+Sultan 2022701010 DS 2025 Off-Campus Entwicklera
+84 Loukik Sainath Tayshete 2021700065 DS 2025 On-Campus Equifax
+85 Jaivik Parekh 2021200085 EXTC 2025 Off-Campus StakLiA Solutions Private Limited
+86 Bhagya Bijlaney 2021700010 DS 2025 On-Campus Equity Data Science
+87 Gitanjali Gangurde 2021300034 Comps 2025 On-Campus Here technology
+88 Nishant Dinesh Satere 2022701009 DS 2025 On-Campus Equity Data Science
+89 Manthan Ayalwar 2021700003 DS 2025 Off-Campus Finacus
+90 Devendra Gajanan Birari 2023510006 MCA 2025 Off-Campus Gavdevi infrastructure pvt ltd
+91 Deepak Prakash Ganwani 2021300035 Comps 2025 On-Campus PhonePe
+92 Hardik Garg 2021300036 Comps 2025 On-Campus IDfy
+93 Janhavi Ghige 2021200034 EXTC 2025 Off-Campus S P Jain Institute of Management
+94 Nidhi Walavalkar 2023510064 MCA 2025 Off-Campus GNZY
+95 Atharva Gite 2021300038 Comps 2025 Off-Campus IDMS
+96 Neha Nilesh Gode 2021300039 Comps 2025 Off-Campus IDMS Infotech Pvt. Ltd.
+97 Prakhar Gupta 2021300040 Comps 2025 On-Campus JP Morgan Chase
+98 Heramb Haridas 2021300041 Comps 2025 Off-Campus IDMS INFOTECH Pvt. Ltd.
+99 Jayesh Biradar 2021200014 EXTC 2025 Off-Campus UTKARSH MINDS
+100 Darsh Shah 2021700057 DS 2025 Off-Campus Halston Automation
+101 Aryan Nathani 2021700041 DS 2025 Off-Campus HDFC Life
+102 Vijesh Hingu 2021300042 Comps 2025 On-Campus ISS-STOXX
+103 Vishakha hole 2021300043 Comps 2025 On-Campus We-matter
+104 Suraj Iyer 2021300045 Comps 2025 Off-Campus Branch International
+105 Pranit Dinesh Lalla 2021700036 DS 2025 On-Campus Homefirst Finance
+
+--- PAGE 3 ---
+106 Atul sharma 2021700060 DS 2025 On-Campus HomeFirstFinance
+107 Chinmay Jadhav 2021300046 Comps 2025 On-Campus KPMG
+108 Jiya Mehta 2021200069 EXTC 2025 On-Campus KPMG
+109 Divya Jagtap 2021300047 Comps 2025 Off-Campus
+IDMS INFOTECH PRIV ATE
+LIMITED
+110 Harsh Mukesh Jain 2021300048 Comps 2025 On-Campus UBS
+111 Anish Gade 2021700022 DS 2025 On-Campus IDFC FIRST Bank
+112 Krish Jain 2021300049 Comps 2025 On-Campus Nomura
+113 Siddhesh Sonar 2021700063 DS 2025 On-Campus IDFC First Bank
+114 Rohan Vimal Jaiswal 2021700031 DS 2025 On-Campus IDFC First Bank
+115 Nikhil Prajapati 2021700050 DS 2025 On-Campus IDFC First Bank
+116 Tanmay Kulkarni 2021700033 DS 2025 On-Campus IDFC First Bank
+117 Palaash Jain 2021300050 Comps 2025 On-Campus ARCON
+118 Pratham Jain 2021300051 Comps 2025 Off-Campus ThinKuvate Ventures
+119 Priyanka Kadam 2021300052 Comps 2025 Off-Campus IDMS
+120 Sanskar Kamble 2021300054 Comps 2025 Off-Campus Bizcraft
+121 Abhimanyu Kapoor 2021300055 Comps 2025 Off-Campus Six ladders
+122 Akshaya Karande 2021300056 Comps 2025 Off-Campus Bereej Technologies
+123 Harshey Kaur Soi 2021300057 Comps 2025 On-Campus ISS Stoxx
+124 Kewal Kadu 2021200048 EXTC 2025 On-Campus Embedos
+125 BASIL ELDHO 2023510019 MCA 2025 Off-Campus IIT Bombay
+126 Kinnari Shah 2021700058 DS 2025 On-Campus IIT Bombay
+127 Janhavi Deshmukh 2021700017 DS 2025 On-Campus IIT Bombay
+128 Ayush Kedare 2021300058 Comps 2025 On-Campus ICICI Lombard
+129 Varada Khadake 2021300059 Comps 2025 Off-Campus NOVITU SOFT LABS
+130 Rashmi Rajeshirke 2021700051 DS 2025 On-Campus IIT-Bombay
+131 Advika Kharat 2021300060 Comps 2025 Off-Campus Amazon
+132 Divya Suvarna 2021200114 DS 2025 On-Campus Incred Finance
+133 Krutuja Bundele 2021200016 EXTC 2025 Off-Campus Research Internship at SPJIMR
+134 Kshiteej Kakirde 2021200049 EXTC 2025 On-Campus JPMC
+135 Mrunal Jadhav 2023510027 MCA 2025 Off-Campus Intelligence Node
+136 Aarush Kinhikar 2021300063 Comps 2025 On-Campus MSCI
+137 Siddhesh Kirdat 2021300064 Comps 2025 On-Campus ARCON
+138 Aarya Patil 2021700045 DS 2025 On-Campus ISS
+139 Maaz Khan 2022201010 EXTC 2025 Off-Campus TVM Trading & Contracting LLP
+140 Dharmesh Sanjaykumar Mishra 2023510035 MCA 2025 On-Campus ISS Stoxx
+141 Pranav Kore 2021300065 Comps 2025 On-Campus Here Technologies
+142 Malavika Kanady 2021200051 EXTC 2025 On-Campus Kuhoo
+143 Manjali Varma 2021200122 EXTC 2025 On-Campus Oracle
+144 Anand krishna 2021300066 Comps 2025 On-Campus Nomura
+145 Aryaman Agarwal 2021700002 DS 2025 On-Campus ISS Stoxx
+146 Mansi Pradeep Ahirekar 2022201003 EXTC 2025 Off-Campus Checkexplore technologies
+147 Rucha Kulkarni 2021300067 Comps 2025 Off-Campus Amazon
+148 Sakshi Lonare 2021300069 Comps 2025 On-Campus Logixal
+149 Vinit Madhyan 2021300070 Comps 2025 On-Campus UBS
+150 Harshil Vasani 2023510062 MCA 2025 Off-Campus IT Idol Technologies
+151 Meetesh Jitendra Bhandarkar 2021200011 EXTC 2025 Off-Campus DPT-Construction Private Limited
+152 Mihir Mulay 2021200072 EXTC 2025 On-Campus J.P. Morgan Chase & Co.
+153 Vaibhav Mahale 2021300071 Comps 2025 On-Campus ISS-Stoxx
+154 Mihir Rumao 2021200103 EXTC 2025 On-Campus Versor
+155 Milind Mali 2021200066 EXTC 2025 Off-Campus Data Entrega pvt. Ltd.,Pune
+156 Anushka Acharya 2021700001 DS 2025 On-Campus JP Morgan Chase & Co
+157 Suraj Omprakash Rathi 2021700052 DS 2025 On-Campus JP Morgan Chase & Co.
+158 Moksh Dalu 2021200023 EXTC 2025 Off-Campus Bhavani Techno Advances Pvt Ltd
+159 Ronak matolia 2021300072 Comps 2025 On-Campus Idfy
+160 Mrunank Warkhade 2021200128 EXTC 2025 Off-Campus CodeSpeedy
+
+--- PAGE 4 ---
+161 Deep Mehta 2021300073 Comps 2025 On-Campus JPMorganChase Co.
+162 Jayraj Menon 2021300075 Comps 2025 On-Campus Nomura
+163 Ankit Mishra 2021300076 Comps 2025 On-Campus ISS-Stoxx
+164 Sanika More 2021300078 Comps 2025 Off-Campus
+SPJIMR - S. P. Jain Institute of
+Management and Research
+165 Neerjakshi Chimurkar 2021200022 EXTC 2025 Off-Campus BARC
+166 Nidhi Jain 2021200040 EXTC 2025 Off-Campus SPJIMR
+167 Nidhish Dhadve 2021200028 EXTC 2025 On-Campus MMJS Dataphi
+168 Nilesh Sahebrao Admane 2022201002 EXTC 2025 Off-Campus Aaradhya electronics pvt ltd
+169 Shubham Ramdas More 2021300079 Comps 2025 On-Campus Workindia
+170 Bodhisatya Ghosh 2021700026 DS 2025 On-Campus KPMG
+171 Rupali Sawale 2021700056 DS 2025 On-Campus KPMG
+172 Vinesh Narayan Nadar 2021300080 Comps 2025 Off-Campus Technocrat solution
+173 Jay Nadkarni 2021300081 Comps 2025 On-Campus Nomura
+174 Harshvardhan Balasaheb Pawar 2021700048 DS 2025 On-Campus
+KPMG Assurance and Consulting
+Services LLP
+175 Nishant Chamate 2021200018 EXTC 2025 Off-Campus Acuradyne Systems - IIT Bombay
+176 Nishant Chandeliya 2021200019 EXTC 2025 On-Campus BSE Ltd
+177 Pranav Nalawade 2021300082 Comps 2025 On-Campus OMP
+178 Devang haresh mestry 2022701006 DS 2025 On-Campus Logixal
+179 Sahil Nannaware 2021300083 Comps 2025 On-Campus SPTBI
+180 Uthkrisht Narayan 2021300084 Comps 2025 On-Campus WorkIndia
+181 Lalit Nainaram Chandora 2023510009 MCA 2025 On-Campus MDA Training
+182 Joseph Pereira 2023510043 MCA 2025 On-Campus MDA Training
+183 Mohit Narwaiye 2021300085 Comps 2025 On-Campus MSCI(ESG)
+184 Dhanashree Otari 2021300086 Comps 2025 Off-Campus Team Fullstack
+185 Nivedita P.Hari 2021200036 EXTC 2025 Off-Campus BARC
+186 Vedant Panchal 2021300088 Comps 2025 On-Campus Nomura
+187 Advait Ravi Sapkal 2021700055 DS 2025 On-Campus Morgan Stanley
+188 Akash Panicker 2021300089 Comps 2025 On-Campus Morgan Stanley
+189 Vanshika Parmar 2021300091 Comps 2025 Off-Campus Gristip software
+190 Nitin Kumar Yadav 2023510068 MCA 2025 Off-Campus Mumbai University
+191 Samruddhi Subhash Kulkarni 2023510029 MCA 2025 Off-Campus Mumbai University
+192 Mayank Warkade 2023510067 MCA 2025 On-Campus Neebal Technologies
+193 Sanimar Singh Manghera 2021700037 DS 2025 On-Campus Morgan Stanley
+194 Vineet Parmar 2021300092 Comps 2025 On-Campus J.P.Morgan Chase & Co.
+195 Vedanti Wadatkar 2021700072 DS 2025 On-Campus Neebal Technologies
+196 Aakriti Suresh Pathak 2021300094 Comps 2025 On-Campus ICICI Lombard
+197 Mahesh Anil Patil 2021300095 Comps 2025 Off-Campus Celebrare
+198 Sakshi Patil 2021300096 Comps 2025 Off-Campus TexAu
+199 Shivam Mahesh Patil 2021300097 Comps 2025 Off-Campus Gristip Softwares
+200 Nikita Sunil Pawar 2021300098 Comps 2025 Off-Campus Seema Technologies
+201 Pratiksha Pawar 2021300099 Comps 2025 On-Campus JPMC
+202 Rohit Sanjay Phalke 2021300100 Comps 2025 On-Campus UBS
+203 Adwait Purao 2021300101 Comps 2025 Off-Campus
+Rashtriya Chemicals and Fertilizers
+Limited
+204 Omkar Rao 2021300102 Comps 2025 Off-Campus Morgan Stanley
+205 Durgesh Dilip Mandge 2023510032 MCA 2025 On-Campus Nomura
+206 Manav Padwal 2021700043 DS 2025 On-Campus Neebal Technologies
+207 Udit Rajesh Rao 2021300103 Comps 2025 On-Campus KPMG
+208 Ronak Satish Thakar 2021700066 DS 2025 On-Campus Nomura
+209 Pranav Sati 2021300107 Comps 2025 Off-Campus TechnoCrat Solutions
+210 Hatim Sawai 2021300108 Comps 2025 Off-Campus Amazon
+211 Omkar Navnath Lokre 2021200065 EXTC 2025 On-Campus CashRich
+212 Kaif Ali Mahemood Ali Sayyad 2021300109 Comps 2025 On-Campus Wissen Technology
+213 Tathagat Sengupta 2021300110 Comps 2025 Off-Campus Suchan Software Private Limited
+
+--- PAGE 5 ---
+214 Omkar Yadav 2021200129 EXTC 2025 Off-Campus
+Codespeedy Technology Private
+Limited
+215 Oum Tipare 2022201022 EXTC 2025 Off-Campus Gravity Techno
+216 Parth Pathak 2022201015 EXTC 2025 On-Campus Transunion
+217 Pranav Raina 2021200098 EXTC 2025 On-Campus ICICI Lombard
+218 Mohit Sanjay Salunkhe 2023510049 MCA 2025 Off-Campus Paarsh Infotech Pvt Ltd
+219 Dev Shah 2021300112 Comps 2025 Off-Campus Suchan Software Private Limited
+220 Shubham Vishwakarma 2021700071 DS 2025 On-Campus Nomura
+221 Harsh Chandra 2021700013 DS 2025 On-Campus Nouryon
+222 Kenneth Rodrigues 2022701008 DS 2025 Off-Campus People Interactive (shaadi.com)
+223 Dhruv Shah 2021300113 Comps 2025 On-Campus JP Morgan & Chase Co.
+224 Harditya Shah 2021300114 Comps 2025 On-Campus WorkIndia
+225 Sahil Shah 2021300115 Comps 2025 Off-Campus SPJIMR
+226 Glen Robert Dsouza 2022701002 DS 2025 Off-Campus
+People Interactive Pvt. Ltd.
+(Shaadi.com)
+227 Pranjal Srivastava 2021200112 EXTC 2025 On-Campus Wohlig transformation
+228 Anand Tiwari 2021700068 DS 2025 Off-Campus PharmEast
+229 Stephen David Vaz 2021700070 DS 2025 On-Campus PhonePe
+230 Pratham Deoda 2023510015 MCA 2025 On-Campus Colgate-Palmolive
+231 Swapnil Shah 2021300116 Comps 2025 Off-Campus SPJIMR
+232 Pratham Gajapure 2021200030 EXTC 2025 Off-Campus
+SP Jain Institute of Management
+and Research (SPJIMR)
+233 Prathamesh Bhosale 2022201004 EXTC 2025 Off-Campus Uncanny Bio-Tech PVT.LTD
+234 Aryan Shankhapal 2021300117 Comps 2025 Off-Campus Suchan Software Private Limited
+235 Deepak Gahalot 2023510021 MCA 2025 On-Campus Revvity Healtcare
+236 Virinchi Shettigar 2021300118 Comps 2025 Off-Campus GRISTIP SOFTWARE
+237 Darshan Jain 2022701005 DS 2025 On-Campus PhonePe
+238 Omkar Deshmukh 2021700018 DS 2025 Off-Campus Pure Technology
+239 Krutika Rupchand Shinde 2021300119 Comps 2025 Off-Campus Utkarsh Minds
+240 Rahul Chalwadi 2021700012 DS 2025 On-Campus Quantiphi
+241 Prathamesh Kapoor 2021200053 EXTC 2025 On-Campus OMP
+242 Prathamesh Shripad Kulkarni 2021200061 EXTC 2025 On-Campus Alpha Alternatives
+243 Priyanka Bhagawat Waghamare 2022201023 EXTC 2025 On-Campus Utkarshminds
+244 Smruti Sonekar 2021700064 DS 2025 On-Campus Revvity
+245 Shriya Parab 2021700044 DS 2025 Off-Campus Rudra Enterprises
+246 Aditya Shirodkar 2021300121 Comps 2025 On-Campus Morgan Stanley
+247 Mufaddal Shiyaji 2021300122 Comps 2025 On-Campus UBS
+248 Rohit Singh 2021300124 Comps 2025 Off-Campus TechnoCrat Solutions
+249 Yoshita Singh 2021300125 Comps 2025 Off-Campus IIT Bombay
+250 Pranay Singhvi 2021300126 Comps 2025 Off-Campus Suchan Software Private Limited
+251 Yusuf Mohammed Sodawala 2021300127 Comps 2025 On-Campus
+Quantiphi Analytics Solution
+Private Limited
+252 Ratanraj Devraj Narayankar 2021200074 EXTC 2025 On-Campus Olive labs
+253 Omkar Phansopkar 2022701007 DS 2025 Off-Campus SafeDep Inc.
+254 Khushi Soni 2021300128 Comps 2025 On-Campus UBS
+255 Krishnan Subramanian 2021300130 Comps 2025 On-Campus UBS
+256 Rohan Dudhal 2021200029 EXTC 2025 On-Campus EQUIFAX
+257 Rohit Gupta 2021200035 EXTC 2025 On-Campus BSE Ltd
+258 Samruddhi Patil 2021700046 DS 2025 Off-Campus
+Sardar Patel Institute of
+Technology
+259 Saad Surve 2021300131 Comps 2025 On-Campus JPMC CFG
+260 Sakshi Phapale 2021700049 DS 2025 Off-Campus Seema Technologies
+261 Adarsh Pati Tripathi 2021300133 Comps 2025 On-Campus Incred
+262 Sahil Vedpathak 2021300135 Comps 2025 On-Campus MSCI
+263 Amey Wani 2021300138 Comps 2025 On-Campus UBS
+264 Dhruv Yadav 2021300139 Comps 2025 On-Campus General Mills
+265 Neha Adhikari 2021600001 AIML 2025 Off-Campus Shayona Technologies
+
+--- PAGE 6 ---
+266 Rohit habibkar 2022201008 EXTC 2025 On-Campus Bseindia
+267 Mohit Agarwal 2021600004 AIML 2025 On-Campus AuxoAI
+268 Hrishikesh Agnihotri 2021600005 AIML 2025 On-Campus Revvity
+269 Nikhil babar 2021600007 AIML 2025 On-Campus MSCI
+270 Sakshi Bisen 2021600008 AIML 2025 Off-Campus Logicology
+271 Rohit Kiran Raut 2021200102 EXTC 2025 Off-Campus
+SecureClaw IT and Cybersecurity
+Pvt Ltd
+272 Roshani Patel 2022201014 EXTC 2025 Off-Campus Arihant consultancy
+273 Nathan Cardoso 2021600009 AIML 2025 On-Campus OM PARTNERS (OMP)
+274 Neemisha Paul 2021700047 DS 2025 Off-Campus Seema technologies
+275 Ronit Mankani 2021700039 DS 2025 Off-Campus SPIT(Research Internship)
+276 Rudra Talekar 2021200117 EXTC 2025 Off-Campus Adani Electricity
+277 Chinmay Chaudhary 2021600010 AIML 2025 On-Campus ICICI Lombard
+278 Manan Chhajed 2021600011 AIML 2025 Off-Campus Zomato
+279 Yash Dongare 2021700020 DS 2025 Off-Campus SPJIMR
+280 Deepali Daga 2021600012 AIML 2025 Off-Campus Moksha Infotech
+281 Tejas Dhurgude 2021600014 AIML 2025 On-Campus UBS
+282 Ankit Dighe 2021600015 AIML 2025 On-Campus IDFC FIRST BANK
+283 Sushant Divekar 2021600016 AIML 2025 On-Campus Equifax
+284 Saanya Kadam 2021200047 EXTC 2025 On-Campus Asia index pvt ltd
+285 Sanika Bopate 2023510007 MCA 2025 Off-Campus University of Mumbai
+286 Pratham Satpute 2023510050 MCA 2025 Off-Campus University of Mumbai
+287 Sonal Gholap 2021600020 AIML 2025 On-Campus Nouryon
+288 Sahil Dinkar Tayde 2021200118 EXTC 2025 Off-Campus Inspire global
+289 Bhushan Jadhav 2021700029 DS 2025 Off-Campus SPJIMR Mumbai
+290 Devam Gosalia 2021600021 AIML 2025 On-Campus WorkIndia
+291 Mahek Gupta 2021600022 AIML 2025 On-Campus General Mills
+292 Vedant Dapolikar 2021700016 DS 2025 On-Campus TransUnion
+293 Samarth Gupta 2021600023 AIML 2025 Off-Campus Dorian Mode Technologies
+294 Sakshi Shridhar Pawane 2021200091 EXTC 2025 Off-Campus Asian Infotel pvt ltd
+295 Sujal Gupta 2021600025 AIML 2025 On-Campus ICICI Lombard
+296 Vinay Prasad Jadhav 2021600026 AIML 2025 On-Campus KPMG
+297 Pradnyesh Jain 2021600027 AIML 2025 On-Campus Nomura
+298 Satyam Jaiswal 2021600028 AIML 2025 On-Campus PhonePe
+299 Deepraj Sujit Kadam 2021600029 AIML 2025 Off-Campus Mayur Hajare Consultancy
+300 Samarth Hirve 2021200037 EXTC 2025 On-Campus BSE Limited
+301 Prashil Deepak Kadam 2021600031 AIML 2025 On-Campus Colgate Global Business Services
+302 Sanchit Patil 2021200089 EXTC 2025 On-Campus Wissen Technology
+303 Darshini Kadme 2021600032 AIML 2025 On-Campus MSCI
+304 Mohammed Muzammil Ansari 2022701001 DS 2025 On-Campus TransUnion
+305 Shruti Sakharam Kedari 2021600033 AIML 2025 On-Campus Nomura
+306 Om Chandra 2021700014 DS 2025 On-Campus UBS
+307 Sandesh Kharchan 2021600035 AIML 2025 On-Campus TransUnion
+308 Awani Khodwe 2021600036 AIML 2025 On-Campus MSCI
+309 Saniya Pathre 2022201016 EXTC 2025 Off-Campus
+Growing Tree Wealth Private
+Limited
+310 Tejal Subhash Komb 2021600037 AIML 2025 Off-Campus Aim4u private limited
+311 Sankalp Dayal 2021200025 EXTC 2025 On-Campus ISS Governance
+312 Sanket Devram Korde 2022201011 EXTC 2025 Off-Campus Directronics
+313 Vaibhav Kore 2021600038 AIML 2025 Off-Campus Dorian Mode Technologies
+314 Kevin Suvarna 2021600039 AIML 2025 Off-Campus
+airis4D - Artificial Intelligence
+Research and Intelligent Systems
+315 Pratishtha Pradip Manjrekar 2021600041 AIML 2025 Off-Campus Mintways Technologies
+316 Deepika Trivedi 2021700069 DS 2025 On-Campus UBS
+317 Mayank kumar 2021700034 DS 2025 On-Campus Utkarsh minds
+318 Samata Moon 2021600046 AIML 2025 Off-Campus BlackHole Infiverse
+
+--- PAGE 7 ---
+319 Vasundhara Singh 2021700062 DS 2025 On-Campus WorkIndia
+320 Prathamesh Mundada 2021600047 AIML 2025 On-Campus Auxo AI
+321 Tejas Suryakant Mundhe 2021600048 AIML 2025 On-Campus Hyperverge
+322 Shubhankar Shinde 2023510053 MCA 2025 Off-Campus PAMAC Finserve Pvt.Ltd
+323 Sarthak Bansal 2021200007 EXTC 2025 Off-Campus Rams Creative Technologies
+324 Aditi Nilesh Bhutada 2021700009 DS 2025 On-Campus WorkIndia
+325 Mohammed Saad Belgi 2021700005 DS 2025 On-Campus Workindia
+326 Sarthak Jaiswal 2021200041 EXTC 2025 On-Campus Bombay Stock Exchange(ICCL)
+327 Nitesh Bhaskar Rathod 2021700053 DS 2025 On-Campus ICICI Lombard
+328 Dheeraj Krishnarao Muppineti 2021600049 AIML 2025 On-Campus ISS STOXX
+329 Sarthak Kasture 2021200054 EXTC 2025 On-Campus OMP
+330 Sarvesh Birla 2021200015 EXTC 2025 On-Campus Wissen Technology
+331 Qais Warekar 2023510066 MCA 2025 On-Campus Nomura
+332 Navneet Nair 2021600050 AIML 2025 Off-Campus
+SP Jain Institute of Management
+and Research
+333 Rutik Nandkumar Magade 2023510030 MCA 2025 Off-Campus Axis bank through HPE
+334 Dhruvil Patel 2021600051 AIML 2025 On-Campus IDfy
+335 Satyam Tiwari 2021200119 EXTC 2025 On-Campus ISS STOXX
+336 Pratham Pandurang Pise 2023510044 MCA 2025 Off-Campus Suyog Prasad Digital (Sony Center)
+337 Divya Raichura 2021600052 AIML 2025 On-Campus Spot On
+338 Yash Kamble 2021700032 DS 2025 On-Campus ICICI LOMBARD
+339 Sayee Pendkar 2021200092 EXTC 2025 On-Campus Colgate
+340 Shubham Pote 2023510045 MCA 2025 On-Campus Mumbai University
+341 Arsh Raina 2021600053 AIML 2025 On-Campus IDFC First Bank
+342 Vikas Rajpurohit 2021600054 AIML 2025 On-Campus Nomura
+343 Siddhant Rao 2021600055 AIML 2025 On-Campus Browserstack
+344 Shubham Rathod 2021600056 AIML 2025 Off-Campus Dorian mode technologies
+345 Gauri Ghuge 2022701003 DS 2025 On-Campus KPMG
+346 Kapil Chandrashekhar Gurav 2023510025 MCA 2025 Off-Campus NUIT Solutions
+347 Sejal Patil 2021200090 EXTC 2025 On-Campus J P Morgan Chase & Co.
+348 Vanshika Shah 2021600057 AIML 2025 On-Campus PhonePe
+349 Shivaji Deepak Ware 2023510065 MCA 2025 Off-Campus
+Go Digital Technology
+Consultancy
+350 Shruti Prabhu 2021200096 EXTC 2025 On-Campus JPMC
+351 Atanu Debnath 2023510014 MCA 2025 On-Campus Colgate Palmolive
+352 Rahul shinde 2021600061 AIML 2025 Off-Campus Newel technologies pvt ltd
+353 Shreyash Madhukar Dhanawade 2023510016 MCA 2025 Off-Campus
+Installco WIFY Technology Pvt
+Ltd.
+354 Shubham Sinha 2021200110 EXTC 2025 On-Campus Auxo AI
+355 Omkar Shirwadkar 2021600062 AIML 2025 On-Campus Wissen Technology
+356 Komal Tarachandani 2021600065 AIML 2025 Off-Campus IIT Kanpur
+357 Rishit Trivedi 2021600068 AIML 2025 On-Campus Interactive Brokers
+358 Shubham Surve 2021200113 EXTC 2025 Off-Campus Otet Infosystem
+359 Siddhi Mardhekar 2021200068 EXTC 2025 On-Campus BNP Paribas
+360 Hrisabh Upadhyay 2021600069 AIML 2025 On-Campus Bounteous x Accolite
+361 Ajeyaraj Upadhyaya 2021600070 AIML 2025 On-Campus MMJS Dataphi
+362 Soham Prasad Kapadi 2021200052 EXTC 2025 On-Campus WorkIndia
+363 Sridhar Sundar 2021200115 EXTC 2025 On-Campus Elemantra
+364 Jyoti Bagul 2022301001 Comps 2025 Off-Campus Utkarsh minds
+365 Sufyaan Sayed 2021200107 EXTC 2025 Off-Campus FocalX AI Pvt Ltd
+366 Vikram Naglot 2023510038 MCA 2025 On-Campus
+Indian Clearing Corporation
+Limited(Bombay Stock Exchange)
+367 Swastik Verma 2021200124 EXTC 2025 On-Campus ISS STOXX
+368 Viraj Dinesh Bhalerao 2022301002 Comps 2025 Off-Campus
+SJR Infomedia Ventures Private
+Limited
+369 Om Bhutki 2022301003 Comps 2025 On-Campus Baker Hughes
+370 Tanish Sakdeo 2021200105 EXTC 2025 Off-Campus Konverge AI
+
+--- PAGE 8 ---
+371 Yash Ravindra Burad 2022301004 Comps 2025 Off-Campus Paarsh Infotech pvt ltd.
+372 Yash Gajewar 2022301005 Comps 2025 On-Campus Versor Investments
+373 Akshit Nagrale 2023510039 MCA 2025 On-Campus Telepower wings pvt ltd
+374 Shivam Sanjay Kamble 2022301007 Comps 2025 Off-Campus NextEdge Labs
+375 Hina Bediya 2023510003 MCA 2025 On-Campus ISS
+376 Tanmay Pal 2021200080 EXTC 2025 On-Campus ARCON
+377 Aniket Patil 2023510042 MCA 2025 On-Campus Citius tech
+378 Aditya Ningule 2021700042 DS 2025 On-Campus ICICI Lombard
+379 Khan Adnan Tanweer Alam 2022301008 Comps 2025 Off-Campus Soltech Systems
+380 Ayush Tripathi 2023510060 MCA 2025 On-Campus MSCI
+381 Maryada Lodha 2022301009 Comps 2025 On-Campus JP Morgan Chase and Co.
+382 Soniya Nandwani 2022301010 Comps 2025 Off-Campus Nasdaq(has acquired adenza)
+383 Pooja Patil 2022301011 Comps 2025 Off-Campus Curate AI Labs
+384 Rishi Tiku 2021700067 DS 2025 On-Campus ICICI Lombard
+385 Sanket Pingale 2022301012 Comps 2025 On-Campus Revvity Healthcare (India) Pvt Ltd.
+386 Sujal Chordia 2021700015 DS 2025 On-Campus
+Quantiphi Analytics Solutions
+Private Limited
+387 Varshil Anand Shah 2022301013 Comps 2025 On-Campus Baker Hughes
+388 Sanket Prabhu 2023510046 MCA 2025 On-Campus Citius Tech
+389 Rohit Shekhar Baviskar 2021700004 DS 2025 On-Campus Nomura
+390 Prithvi Singh 2022301014 Comps 2025 Off-Campus Vernost
+391 Shubham Solanki 2022301015 Comps 2025 On-Campus Baker Hughes
+392 Pratiksha Pravin Patil 2022301016 Comps 2025 Off-Campus UTKARSH MINDS
+393 Mursaleen Batatawala 2022601001 AIML 2025 On-Campus Nomura
+394 Atharva Bilonikar 2021700011 DS 2025 On-Campus UBS
+395 Omkar Ajit Bhoir 2022601002 AIML 2025 On-Campus Quantiphi
+396 Pavan Gole 2022601003 AIML 2025 On-Campus
+Sardar Patel Institute of
+Technology
+397 Surabhi Sanjay Mahale 2022601004 AIML 2025 On-Campus Equity data science
+398 Tanmay Sanjay Waddelwar 2021200125 EXTC 2025 On-Campus OMP IN
+399 Jay Salunke 2022601007 AIML 2025 On-Campus
+Sardar Patel Institute of
+Technology
+400 Nishant Zaveri 2022601009 AIML 2025 On-Campus HERE technologies
+401 Tejas Kamble 2021200050 EXTC 2025 On-Campus Elemantra
+402 Omkar Chavan 2023510011 MCA 2025 Off-Campus Satrang technologies
+403 Niketan gawade 2023510023 MCA 2025 On-Campus Ascentech
+404 Sarthak Gharat 2021700025 DS 2025 On-Campus MSCI
+405 Shubham Rathod 20216000056 AIML 2025 Off-Campus Dorian Mode Technologies
+406 Utkarsha Yuvaraj Waghmode 2021200127 EXTC 2025 Off-Campus Di it infosystem
+407 Vaibhav Jadhav 2022201009 EXTC 2025 Off-Campus TVM Trading & Contracting LLP
+408 Varun Adhiya 2021200001 EXTC 2025 Off-Campus Cravita Technologies
+409 Varuna Shashank Vangala 2021200121 EXTC 2025 On-Campus J.P.MorganChase&Co.
+410 Vedant Bhagwat 2021200009 EXTC 2025 Off-Campus Piombo
+411 Vedika Goliwar 2022201007 EXTC 2025 Off-Campus Directronics
+412 Vineesh Naringrekar 2021200075 EXTC 2025 Off-Campus
+NPCIL(Nuclear Power Corporation
+of India Limited)
+413 Vineet Pundpal 2022201018 EXTC 2025 Off-Campus Yourdigitalgurus
+414 Eshan Bhuse 2021300013 Comps 2025 On-Campus Under Prof. Ambawade Sr
+415 Sajid Mohammad Aga 2021600002 AIML 2025 On-Campus Aurionpro
+416 Harsh Dhanraj Meshram 2023510034 MCA 2025 On-Campus CitiusTech
+417 Vishal Ashokrao Jaybhaye 2021200042 EXTC 2025 Off-Campus
+Devakinandan Milk And Agro
+Products pvt limited
+418 Yash Anil Ugale 2021200120 EXTC 2025 On-Campus JPMC
+419 Yash Shirude 2021200109 EXTC 2025 On-Campus UBS
+420 Riti Vakil 2021300134 Comps 2025 On-Campus PhonePe
+421 Tushar Jangam 2023510028 MCA 2025 On-Campus Qrata
+422 Swapnil Gaikwad 2023510022 MCA 2025 On-Campus Citiustech PVT LTD.
+
+--- PAGE 9 ---
+423 Rajas Baadkar 2021300007 Comps 2025 On-Campus MSCI
+424 Rahul Ruke 2021300105 Comps 2025 On-Campus Edra Labs
+425 Vansh Talwar 2021600064 AIML 2025 On-Campus AutoBuddys
+426 Anmol Khy 2021300062 Comps 2025 On-Campus CashRich
+427 Vidhi Sharma 2021600058 AIML 2025 Off-Campus
+Technoctanet Services Private
+Limited
+428 Shashank Milind Nakashe 2023510040 MCA 2025 On-Campus VitalEdge Technologies
+429 ABHISHEK DINKAR NAGARE 2023510037 MCA 2025 On-Campus MUMBAI UNIVERSITY
+430 Vedanti Wadatkar 2021700072 DS 2025 On-Campus Neebal technologies
+431 Vipul chavan 2022201005 EXTC 2025 On-Campus Colgate Palmolive
+432 Aditya Khuman 2021300061 Comps 2025 Off-Campus Secure Access Tech
+433 Vikas Rajpurohit 2021600054 AIML 2025 On-Campus Nomura
+434 Vepul Bhanuse 2023510004 MCA 2025 On-Campus Citiustech
+435 Pranjal Srivastava 2021200112 EXTC 2025 On-Campus Wohlig Transformations
+436 Faiz Khan 2021600034 AIML 2025 Off-Campus SPJIMR
+437 Mansha Manni 2021600042 AIML 2025 Off-Campus 24 7 Ai
+438 Tejas Jadhav 2022301006 Comps 2025 Off-Campus Flynt Labs Pvt Ltd
+439 Sahil Pramod Gavande 2021300037 Comps 2025 Off-Campus Aim4u
+440 Rohan Warghade 2021600071 AIML 2025 On-Campus Autobuddys
+441 Harshal Ramkisan Bhalekar 2021200010 EXTC 2025 On-Campus NOMURA
+442 Mangesh Tanaji Dalvi 202120024 EXTC 2025 On-Campus NOMURA
+443 Vinesh Narayan Nadar 202130080 Comps 2025 Off-Campus Technocrat Solutions
+444 Sagar Rathod 2020400043 Comps 2025 On-Campus Bombay Stock Exchange
+445 Mihika Chachad 2021300017 Comps 2025 On-Campus Nouryon
+446 Bhavesh Prashant Chaudhari 2021300018 Comps 2025 Off-Campus Six Ladders
+447 Ameya Dabholkar 2021300023 Comps 2025 On-Campus Jpmc
+448 Atharva Gite 2021300038 Comps 2025 Off-Campus IDMS
+449 Pratham Jain 2021300051 Comps 2025 Off-Campus Thinkuvate
+450 Abhimanyu Kapoor 2021300055 Comps 2025 Off-Campus Six Ladders
+451 Varada Khadake 2021300059 Comps 2025 Off-Campus NOVITU SOFT LABS
+452 Pranav Sadanand Kore 2021300065 Comps 2025 On-Campus Here Technologies
+453 Sakshi Lonare 2021300069 Comps 2025 On-Campus Logixal Cloud Solutions Inc.
+454 Vinesh Narayan Nadar 2021300080 Comps 2025 On-Campus Technocrat solutions
+455 Akash Panicker 2021300089 Comps 2025 Off-Campus Morgan Stanley
+456 Nikita Sunil Pawar 2021300098 Comps 2025 Off-Campus Seema Technologies
+457 Rohit Sanjay Phalke 2021300100 Comps 2025 On-Campus UBS
+458 Adwait Purao 2021300101 Comps 2025 Off-Campus
+Rashtriya Chemicals and Fertilizers
+limited
+459 Omkar Rao 2021300102 Comps 2025 Off-Campus Morgan Stanley
+460 Pranav sati 2021300107 Comps 2025 Off-Campus TechnoCrat Solutions
+461 Kaif Ali Mahemood Ali Sayyad 2021300109 Comps 2025 On-Campus Wissen Technology
+462 Aditya Shirodkar 2021300121 Comps 2025 Off-Campus Morgan Stanley
+463 Rohit Singh 2021300124 Comps 2025 Off-Campus TechnoCrat Solutions
+464 Yusuf Mohammed Sodawala 2021300127 Comps 2025 On-Campus Quantiphi Analytics
+465 Adarsh Pati Tripathi 2021300133 Comps 2025 On-Campus InCred Finance
+466 Sajid Aga 2021600002 AIML 2025 On-Campus Aurionpro
+467 Mohit Agarwal 2021600004 AIML 2025 On-Campus AuxoAI
+468 Hrishikesh Agnihotri 2021600005 AIML 2025 On-Campus Revvity
+469 Sonal Gholap 2021600020 AIML 2025 On-Campus Nouryon
+470 Satyam Jaiswal 2021600028 AIML 2025 On-Campus PhonePe
+471 Deepraj Sujit Kadam 2021600029 AIML 2025 Off-Campus Mayur Hajare Consultancy
+472 Tejal Subhash Komb 2021600037 AIML 2025 Off-Campus
+AiM4u Software Solutions Pvt.
+Ltd.
+473 Tejas Suryakant Mundhe 2021600048 AIML 2025 On-Campus Hyperverge.co
+474 Navneet Nair 2021600050 AIML 2025 Off-Campus
+SP Jain Institute of Management
+and Research
+475 Shubham Rathod 2021600056 AIML 2025 Off-Campus Dorian mode technologies
+
+--- PAGE 10 ---
+476 Vidhi Sharma 2021600058 AIML 2025 Off-Campus
+Technoctanet Services Private
+Limited
+477 Rahul shinde 2021600061 AIML 2025 Off-Campus Newel technologies pvt ltd
+478 Omkar Shirwadkar 2021600062 AIML 2025 On-Campus Wissen Technology
+479 Pranit Lalla 2021700036 DS 2025 On-Campus Homefirst Finance
+480 Neemisha paul 2021700047 DS 2025 Off-Campus Seema technology
+481 Harshvardhan Balasaheb Pawar 2021700048 DS 2025 On-Campus
+KPMG Assurance and Consulting
+Services LLP
+482 Sakshi Phapale 2021700049 DS 2025 Off-Campus Seema Technology
+483 Yash Gajewar 2022301005 Comps 2025 On-Campus Versor Investments
+484 Khan Adnan Tanweer Alam 2022301008 Comps 2025 Off-Campus Soltech Systems
+485 Soniya Nandwani 2022301010 Comps 2025 Off-Campus Nasdaq(has acquired adenza)
+486 Pavan Gole 2022601003 AIML 2025 Off-Campus SPIT
+487 Surabhi Sanjay Mahale 2022601004 AIML 2025 On-Campus Equity Data Science
+488 Nishant Zaveri 2022601009 AIML 2025 On-Campus HERE Technologies
+489 Gauri Ghuge 2022701003 DS 2025 On-Campus KPMG
+490 Devang Haresh Mestry 2022701006 DS 2025 On-Campus Logixal cloud solutions
+491 Vepul Bhanuse 2023510004 MCA 2025 On-Campus CitiusTech
+492 Devendra Gajanan Birari 2023510006 MCA 2025 Off-Campus Gavdevi infrastructure pvt ltd
+493 Lalit Nainaram Chandora 2023510009 MCA 2025 On-Campus MDA Training India LLP
+494 Shreyash Madhukar Dhanawade 2023510016 MCA 2025 Off-Campus
+WIFY Technologies Private
+Limited
+495 Deepak Gahalot 2023510021 MCA 2025 On-Campus Revvity Healthcare [1]
+496 Akshit Ramesh Nagrale 2023510039 MCA 2025 On-Campus Telepower wings pvt ltd
+497 Aniket Patil 2023510042 MCA 2025 On-Campus CITIUS TECH
+498 Joseph Louis Pereira 2023510043 MCA 2025 On-Campus MDA Training
+499 Shubhankar Shinde 2023510053 MCA 2025 Off-Campus PAMAC Finserve.Pvt.Ltd
+500 Abhijit Namdeo Shirke 2023510054 MCA 2025 On-Campus Bombay Stock Exchange
+501 Shoyab Siddique 2023510055 MCA 2025 On-Campus Wissen Technology
+502 Shivaji Deepak Ware 2023510065 MCA 2025 Off-Campus Go Digital
+503 Advait Ravi Sapkal 2021700055 DS 2025 Off-Campus Morgan Stanley
+504 Samuel Rajnish Waghmare 2023510063 MCA 2025 On-Campus CutiusTech
+505 Aditi Thakore 2023510057 MCA 2025 On-Campus Citius Tech
+506 Harsh Dhanraj Meshram 2023510034 MCA 2025 On-Campus CitiusTech
+507 Ankita shejal 2023510052 MCA 2025 On-Campus Citiustech Healthcare.lmt
+508 Tony Thomas 2023510058 MCA 2025 On-Campus Citiustech Healthcare Ltd
+509 Vepul Bhanuse 2023510004 MCA 2025 On-Campus CitiusTech
+510 Sajid Aga 2021600002 AIML 2025 On-Campus Aurionpro
+511 Sanket Prabhu 2023510046 MCA 2025 On-Campus Citiustech
+512 Pratham Pise 2023510044 MCA 2025 Off-Campus Sony Center
+513 Sanket Pingale 2022301012 Comps 2025 On-Campus Revvity Healthcare (India) Pvt Ltd.
+514 Mohit Agarwal 2021600004 AIML 2025 On-Campus AuxoAI
+515 Swapnil Gaikwad 2023510022 MCA 2025 On-Campus Citiustech PVT ltd
+516 Smruti Sonekar 2021700064 DS 2025 On-Campus Revvity
+517 Aniket Patil 2023510042 MCA 2025 On-Campus CITIUS TECH
+518 Samarth Gupta 2021600023 AIML 2025 Off-Campus Dorian Mode Technologies
+519 Saurav Umesh Chavan 2023510012 MCA 2025 On-Campus CitiusTech HealthCare Pvt Ltd
+520 Shubham Solanki 2022301015 Comps 2025 On-Campus Baker Hughes
+521 Khushi Bharat Jain 2021700030 DS 2025 On-Campus Baker Hughes
+522 Varshil Anand Shah 2022301013 Comps 2025 On-Campus Baker Hughes
+523 Om Bhutki 2022301003 Comps 2025 On-Campus Baker Hughes
+524 Mahek Gupta 2021600022 AIML 2025 Summer PPO General Mills
+525 Pranav Nalawade 2021300082 Comps 2025 Off-Campus OMP
+526 Tejas Jadhav 2022301006 Comps 2025 Off-Campus Flynt Labs Pvt Ltd
+
+--- PAGE 11 ---
+[1] Responder updated this value.

@@ -1,0 +1,195 @@
+--- PAGE 1 ---
+Bhartiya Vidya Bhavans, Sardar Patel Institute of Technology
+Internship Details
+Academic Year: 2019-20
+Sr No. Name Discipline
+Year of
+passing company name
+1 Anish Dixit COMPS 2021 Credit Suisse
+2 Shaney mantri COMPS 2021 Credit Suisse
+3 Shreya Oak COMPS 2021 Credit Suisse
+4 Sarah Gawade COMPS 2021 Microsoft
+5 Jiten Sidhpura COMPS 2022 Proditech Solutions
+6 Jay Dinesh mehta COMPS 2022 Sense and Sensibility Technology
+7 Sakshi Chheda COMPS 2022 Cloud Counselage
+8 Parshwa Shah COMPS 2022 Verzeo
+9 Viraj Shah COMPS 2022 Connect Plus
+10 Rishi kaul COMPS 2022 Connect Plus
+11 Shubham Shetty COMPS 2022 Inaaya Foundation
+12 Vaidehi Vatsaraj COMPS 2022 INIESTA Webtech Solutions
+13 Deepak Yadav IT 2022 RUR Greenlife Pvt.Ltd.
+14 Rhythm Munot IT 2022 BREWHOUSE ORGANIC ICED TEA
+15 Luv Gupta IT 2022 SPTBI
+16 Utkarsh Jain IT 2022 QR Systems LLP
+17 Om Shah IT 2022 Nibodh Educare
+18 Swathy Nair IT 2022 SPTBI
+19 Om Shah IT 2022 Skinzy
+20 Ayushi Desai IT 2021 Skillbiz Solutions Pvt. Ltd.
+21 Tirth Parekh IT 2021 Ignitus
+22 Divya Mogaveera IT 2021 Filmistan Studio
+23 Niti Shah IT 2021 Nestwell Technnologies
+24 Janice Shah IT 2021 Nestwell Technnologies
+25 Parth Dosani IT 2021 Designscape
+26 Yashvi Desai IT 2021 3GRT Ineractive
+27 Naisha Shah IT 2021 3GRT Ineractive
+28 Bhumika Narwani IT 2021 Century Rayon,Aditya Birla
+Group of Companies
+29 Shubham Gogate IT 2021 Pear Infotech
+30 Mridul Pandey IT 2021 Impact Guru
+31 Atul Kamble IT 2021 BillsBox
+32 ParthKitawat IT 2021 VyomLabs
+33 Rahul Solanki IT 2021 Conbuss Online Manufacturing
+34 Vineet Pardhi IT 2021 Conbuss Online Manufacturing
+35 Dikshita Patel IT 2021 SAHU Technologies
+36 Dikshita Patel IT 2021 GRIP:The Sparks Foundation
+37 Vidhi Chhatbar IT 2021 SPTBII
+38 Suyash Joshi EXTC 2021 L&T Realty Limited
+39 Pratik Pai EXTC 2021 L&T Defence
+40 Soham Pinge EXTC 2021 Siemens Ltd.
+41 Mehul Patole EXTC 2021 All India Radio ( AIR )
+42 Siddhant Bhagat EXTC 2021 STAR TV India
+43 Shriya Akella EXTC 2021 Schneider Electric India
+44 Jaiesh Singhal EXTC 2022 Aditya Birla Capital
+45 Aishwary Jadhav EXTC 2022 SPJIMR
+46 Ayush Raj EXTC 2022 SP-TBI
+
+--- PAGE 2 ---
+47 Aishwary Jadhav EXTC 2022 SPJIMR
+48 Ayush Raj EXTC 2022 SP-TBI
+49 Aabhakarmarkar EXTC 2020 BARC
+50 Aditikolambekar EXTC 2020 Quantiphi
+51 Adyakastwar EXTC 2020 JPMorgan Finance
+52 Aishwaryasawant EXTC 2020 L & T Technology Services
+53 Akashbansode EXTC 2020 L & T Technology Services
+54 Akashkumargupta EXTC 2020 MagTapp Technologies
+55 Akashmane EXTC 2020 RSalesArm IT Services Pvt Limited
+56 Akshaymarale EXTC 2020 SPIT-PDC (Enhira Software (Export) Limited)
+57 Ameysawant EXTC 2020 Zargun
+58 Anwaransari EXTC 2020 SPIT-PDC
+59 Bhaviningle EXTC 2020 Zargun
+60 Chinmaypimple EXTC 2020 Eduauraa Technologies
+61 Dhanashreevinherkar EXTC 2020 L & T Technology Services
+62 Divyeshmarne EXTC 2020 L & T Technology Services
+63 Harshalgaikwad EXTC 2020 Acevin Solutions
+64 Hemantbhusare EXTC 2020 AGV Systems
+65 Ishalanjwal EXTC 2020 Urstacks Innovations
+66 Kaminibudke EXTC 2020 Urstacks Innovations
+67 Kirtityagi EXTC 2020 Colgate
+68 Krishnamehta EXTC 2020 JPMorgan Finance
+69 Laveshjain EXTC 2020 iSchoolConnect
+70 Manthantambe EXTC 2020 KPMG
+71 Niharmadasu EXTC 2020 MSCI Inc
+72 Nirmitisave EXTC 2020 L & T Technology Services
+73 Omeshagrawal EXTC 2020 SPIT-PDC
+74 Poojapol EXTC 2020 L & T Technology Services
+75 Prajaktadivekar EXTC 2020 ISS
+76 Pranavgohil EXTC 2020 Fairdeal Industries
+77 Pranavjaguste EXTC 2020 Embeddos
+78 Prasadverekar EXTC 2020 Indus Partners
+79 Rachitrathi EXTC 2020 JPMorgan Chase
+80 Rajivphilip EXTC 2020 Larsen & Toubro Infotech
+81 Rajujadav EXTC 2020 KPMG
+82 Sahilkrishnadas EXTC 2020 Quantiphi
+83 Sahilvora EXTC 2020 ZedObjects
+84 Saurabhparulekar EXTC 2020 BARC
+85 Shaunakthakar EXTC 2020 Interactive Brokers
+86 Shivanikhamitkar EXTC 2020 L & T Technology Services
+87 Shrawanibawage EXTC 2020 Siemens
+88 Shreydixit EXTC 2020 Quantiphi
+89 Shrikantbarkale EXTC 2020 L & T Technology Services
+90 Shwetamelavane EXTC 2020 L & T Technology Services
+91 Siddharthmehta EXTC 2020 GEP
+92 Simranrogi EXTC 2020 iSchoolConnect
+93 Sopanphaltankar EXTC 2020 MSCI Inc
+94 Srushtipowar EXTC 2020 Larsen & Toubro Infotech
+95 Tejasautkar EXTC 2020 Expertrons
+96 Tejasputhran EXTC 2020 GEP
+97 Tusharsonawane EXTC 2020 Quantiphi
+98 Vedalichaudhari EXTC 2020 Quantiphi
+99 Wesleypereira EXTC 2020 Quantiphi
+100 Yashpatil EXTC 2020 Fractal
+
+--- PAGE 3 ---
+101 Priyam Majithiya ETRX 2022 The Climber
+102 Priyam Majithiya ETRX 2022 Sardar Patel Technology Business Incubator
+103 Priyam Majithiya ETRX 2022 Incubation and Startup Centre Congress
+104 Nisha Vasant ETRX 2022 FireFly LED Products Pvt Ltd
+105 Nisha Vasant ETRX 2022 TuyaSmart India Pvt Ltd
+106 Akshay Pasari ETRX 2022 IMStrong Health and Wellness Pvt Ltd
+107 Shichi Upadhyay ETRX 2022 Women Empowerment Research Program
+108 Karan Sanghavi ETRX 2022 Awign Pvt Ltd
+109 Hrithik jain ETRX 2022 incubation startup centre
+110 Ria Motghare ETRX 2021 Siemens Limited
+111 Shivani Pawar ETRX 2021 Fillion Solution Pvt. Ltd.
+112 Tanishq Salkar ETRX 2021 Indian Oil Corporation Limited
+113 Siddhant kumar ETRX 2021 BitGenie Research
+114 Mandar Vaingankar ETRX 2021 Carrier airconditioning and refrigeration limited
+115 Neelaya Tamhankar ETRX 2021 L&T Realty Ltd
+116   Shreyas Pillai ETRX 2021 Sequretek
+117 Nitin Mishra ETRX 2021 Emtron Technologies
+118 Varun Mhatre ETRX 2021 Emtron Technologies
+119 Vishwesh Vispute ETRX 2021 Emtron Technologies
+120 Nayana Shelke ETRX 2021 Mahanand Dairy
+121 Sahil Gharat ETRX 2021 Fox Domotics
+122 Asmita Kajrolkar ETRX 2021 Barbil Electricals Ltd.
+123 Tanmay Varade ETRX 2021 L&T Ltd (Electrical and Automation)
+124 Akash Junnarkar ETRX 2021 Mashreq Bank
+125 Anushka Panwal ETRX 2021 Inventrom private limited
+126 Abhivyakti Parihar ETRX 2022 Ichiban Finance Pvt Ltd
+127 Abhivyakti Parihar ETRX 2022 danamojo
+128 Aakanksha Garg ETRX 2022 Omnibulls
+129 Akshay Pasari ETRX 2022 Hamari Pahchan NGO
+130 Karan Sanghavi ETRX 2022 IIT TECHFEST BOMBAY
+131 Shichi Upadhyay ETRX 2022 The Juicy Mango Media
+132 Priyam Majithiya ETRX 2022 The Climber
+133 Priyam Majithiya ETRX 2022 Sardar Patel Technology Business Incubator
+134 Priyam Majithiya ETRX 2022 Incubation and Startup Centre Congress
+135 Nisha Vasant ETRX 2022 FireFly LED Products Pvt Ltd
+136 Nisha Vasant ETRX 2022 TuyaSmart India Pvt Ltd
+137 Akshay Pasari ETRX 2022 IMStrong Health and Wellness Pvt Ltd
+138 Shichi Upadhyay ETRX 2022 Women Empowerment Research Program
+139 Karan Sanghavi ETRX 2022 Awign Pvt Ltd
+140 Hrithik jain ETRX 2022 incubation startup centre
+141 Abhivyakti Parihar ETRX 2022 Ichiban Finance Pvt Ltd
+142 Abhivyakti Parihar ETRX 2022 danamojo
+143 Aakanksha Garg ETRX 2022 Omnibulls
+144 Akshay Pasari ETRX 2022 Hamari Pahchan NGO
+145 Karan Sanghavi ETRX 2022 IIT TECHFEST BOMBAY
+146 Shichi Upadhyay ETRX 2022 The Juicy Mango Media
+147 Ria Motghare ETRX Third Siemens Limited
+148 Shivani Pawar ETRX 2021 Fillion Solution Pvt. Ltd.
+149 Tanishq Salkar ETRX 2021 Indian Oil Corporation Limited
+150 Siddhant kumar ETRX 2021 BitGenie Research
+151 Mandar Vaingankar ETRX 2021 Carrier airconditioning and refrigeration limited
+152 Neelaya Tamhankar ETRX 2021 L&T Realty Ltd
+153 Shreyas Pillai ETRX 2021 Sequretek
+154 Nitin Mishra ETRX 2021 Emtron Technologies
+
+--- PAGE 4 ---
+155 Varun Mhatre ETRX 2021 Emtron Technologies
+156 Vishwesh Vispute ETRX 2021 Emtron Technologies
+157 Nayana Shelke ETRX 2021 Mahanand Dairy
+158 Sahil Gharat ETRX 2021 Fox Domotics
+159 Asmita Kajrolkar ETRX 2021 Barbil Electricals Ltd.
+160 Tanmay Varade ETRX 2021 L&T Ltd (Electrical and Automation)
+161 Akash Junnarkar ETRX 2021 Mashreq Bank
+162 Anushka Panwal ETRX 2021 Inventrom private limited
+163 Omkar Gaikwad ETRX 2021 InsideSherpa Virtual Internship (ANZ)
+164 Omkar Gaikwad ETRX 2021 InsideSherpa Virtual Internship (KPMG)
+165 Omkar Gaikwad ETRX 2021 InsideSherpa Virtual Internship (JPMORGAN CHASE &CO.)
+166 Pratik Mane ETRX 2021 SP Jain Institute of Management and Research
+167 Raksha Jain ETRX 2021 Ciena, India
+168 Raksha Jain ETRX 2021 Initium Novum
+169 Rahul Ramakrishnan ETRX 2021 Indian Institue of Management Indore
+170 Rahul Ramakrishnan ETRX 2021 S P Jain Institute of Management and Research
+171 Shivani Pawar ETRX 2021 Fillion Solution Pvt Ltd
+172 Jainam Fagania ETRX 2021 IIFL (India Infoline Group) Securities
+173 Jainam Fagania ETRX 2021 Acelot Innovation Private Limited
+174 Siddhant Kumar ETRX 2021 Unschool
+175 Siddhant Kumar ETRX 2021 Carnegie Mellon University
+176 Janhavi Bhopale ETRX 2021 AiRTH, Delhi, India
+177 Lance Fernandes ETRX 2021 IIT Bombay
+178 Akshay Pasari ETRX 2021 Hamari Pahchan
+179 Hrithik Jain ETRX 2021 SP-TBI
+180 Abhivyakti Parihar ETRX 2021 Danamojo
+181 Kunal Sanghvi ETRX 2021 Mediquip Diagnostics Pvt. Ltd.

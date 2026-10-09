@@ -1,0 +1,173 @@
+--- PAGE 1 ---
+Company CTC
+Microsoft 51-60
+Amazon 41-50
+Amazon 41-50
+Zomato 41-50
+PhonePe 31-40
+Oracle Financial Software Sevices 31-40
+Oracle 31-40
+PayPal 31-40
+WorkIndia 21-30
+WorkIndia 21-30
+WorkIndia 21-30
+WorkIndia 21-30
+WorkIndia 21-30
+JP Morgan & Chase 21-30
+JP Morgan & Chase 21-30
+Auxo AI 21-30
+Morgan Stanley 21-30
+JP Morgan & Chase 21-30
+Deutsche Bank 21-30
+Morgan Stanley 21-30
+Nomura (KakushIn) 11-20
+MSCI 11-20
+InCred 11-20
+Equity Data Science 11-20
+IDFC 11-20
+UBS 11-20
+Nomura 11-20
+Nomura 11-20
+Nomura 11-20
+General Mills 11-20
+ISS Stoxx 11-20
+Baker Hughes 11-20
+Wissen Technology 11-20
+BrowserStack 11-20
+Edra Labs 11-20
+Barclays 11-20
+Interactive Brokers 11-20
+IDMS Infotech 11-20
+JP Morgan & Chase 11-20
+Barclays 11-20
+Barclays 11-20
+Cadence 11-20
+
+--- PAGE 2 ---
+Hyperverge 11-20
+Hyperverge 11-20
+UBS 11-20
+Alpha Alternatives 11-20
+11-20
+Genesys International Corporation Limited 11-20
+Here Technology 11-20
+Accuknox 11-20
+MSCI 11-20
+Nomura 11-20
+BrowserStack 11-20
+Versor Investments <10
+IDfy <10
+CarTrade Tech Ltd <10
+Om Partners <10
+CashRich <10
+CashRich <10
+OFSS <10
+Quantiphi <10
+Quantiphi <10
+Citius Tech <10
+MDA Training <10
+ICICI Lombard <10
+Arcon <10
+Accolite <10
+DataPhi <10
+KPMG <10
+KPMG <10
+Revvity <10
+ICICI Lombard <10
+Neenopal <10
+Deloitte USI <10
+Transunion <10
+Clevertap <10
+Clevertap <10
+Versor Investments <10
+Colgate <10
+DigiPlus IT <10
+Mahindra Finance <10
+Mahindra Finance <10
+Kuhoo <10
+LTIMindtree <10
+Neebal Technologies <10
+Greylabs.AI
+
+--- PAGE 3 ---
+Pixelwise Technology <10
+VitalEdge <10
+Equifax <10
+HomeFirst Finance <10
+Aurion Pro <10
+BSE Technologies <10
+ICCL <10
+Infosys <10
+Go Digital <10
+IT Idol Technologies <10
+Zeta <10
+TCS <10
+TCS <10
+Satrang Technologies * <10
+Olive Labs <10
+IIT Bombay * <10
+Academor <10
+Academor <10
+Secure Access Tech * <10
+Utkarsh Minds * <10
+SJR Infomedia Ventures Private Limited * <10
+Bombay Softwares <10
+Gavdevi Infrastructure Pvt Ltd * <10
+Sunstream Green Energy * <10
+AIM4U Software Solutions Private Limited * <10
+Rudra Enterprises * <10
+SPOTON <10
+Research (MCA) * <10
+Mumbai University * <10
+ASCENTech * <10
+Digimore * <10
+Installco Wify Technology Pvt Ltd * <10
+Aurion Pro <10
+Dolat Capital <10
+<10
+Blinkit <10
+Logixal <10
+<10
+Avenirya Solutions * <10
+Gravity Techno * <10
+SBI General <10
+SBI General <10
+SBI General <10
+Sony Centre
+Klimb.io
+
+--- PAGE 4 ---
+Qrata <10
+GROWING TREE WEALTH PRIVATE LIMITED * <10
+Pixeldust <10
+Asia Index * <10
+Startup (Ambawde Sir) * <10
+Jaro Education <10
+Mindgate Solutions * <10
+Technocrat Solutions * <10
+Nextedge Labs * <10
+Soltech Labs * <10
+NUIT Solutions <10
+<10
+Yes Bank <10
+SPIT * <10
+Atsuya Technologies * <10
+BARC * <10
+Embedos Engineering * <10
+Somnath Properties * <10
+Data Entrega * <10
+BNP Paribas * <10
+Asian Infotel pvt ltd * <10
+JPR Technosoft LLP * <10
+FocalX Ai * <10
+OTET Infosystems * <10
+DO IT Infosystems * <10
+Codespeedy Technology Pvt. Ltd. * <10
+Uncanny Biotech PVT. LTD * <10
+Directronics * <10
+TVM Trading & Contracting LLP * <10
+Arihant Web Consultancy * <10
+Eagle Controls Systems * <10
+Telepower Wings <10
+Dolat Capital <10
+Media.Net

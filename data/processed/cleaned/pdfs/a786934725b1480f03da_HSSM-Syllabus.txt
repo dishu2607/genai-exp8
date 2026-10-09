@@ -1,0 +1,1833 @@
+--- PAGE 1 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Syllabus for Humanities, Social Science and Management
+(HSSM) Electives (W.E.F. 2023 to 2027 Batch)
+Course Code Course Name Credits Sem. Mode
+HSM11 Finance for Engineers-I 2 III Offline
+HSM12 Finance for Engineers-II 2 IV Offline
+HSM21 Economics for Engineers-I 2 III Offline
+HSM22 Economics for Engineers-II 2 IV Offline
+HSM31 Psychology-I 2 III Offline
+HSM32 Psychology-II 2 IV Offline
+HSM41 Law for Engineers-I 2 III Online
+HSM42 Law for Engineers-II 2 IV Online
+HSM51 Sanskrit-I 2 III Offline
+HSM52 Sanskrit-II 2 IV Offline
+HSM61 French Language-I 2 III Offline
+HSM62 French Language-II 2 IV Offline
+HSM71 German Language-I 2 III Online
+HSM72 German Language-II 2 IV Online
+HSM81 Japanese Language-I 2 III Offline
+HSM82 Japanese Language-II 2 IV Offline
+HSM91 * SWAYAM/NPTEL(HSSE/Management) 2 III Online
+HSM92 * SWAYAM/NPTEL(HSSE/Management) 2 IV Online
+* HSM91 and HSM92: These courses are from SWAYAM/ NPTEL Online Platform, conducted by centrally funded
+institutes like IIT’s. Students desirous to take these courses must complete the required course and produce the
+completion certificate. Students must complete an 8-week course (for 2 credits) from HSS/Management Discipline.
+(For reference,
+https://docs.google.com/spreadsheets/d/e/2PACX-1vSPMVrWoo0ZsAac7v1Cxx5bZ4qFUVTRpc5hjGrkrusAZcY_M70guTum2z7S2SmdsbpmgD7WbL_3aNU/pubhtml
+Note: Any course once completed, cannot be repeated elsewhere (e.g. LLC, Multidisciplinary Minor etc. If repeated,
+the credits will not be counted.)
+
+--- PAGE 2 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-I Finance For
+Engineers-I
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE-I ISE-II ISE-III Quiz Total
+HSM11
+Theory 25 25 25 25 100
+Laboratory -- -- -- --
+* ISE will be evaluated based on the marks scored in assignments/presentations/group discussion, out of 150.
+Finance For Engineers I is a Humanities and Social Sciences course being offered to 3rd to 5th semester B. Tech.
+students as a sequel of two courses of 2 credits each.
+These courses enlighten students with fundamental knowledge of Finance that would be relevant for their
+personal as well as professional transactions as Engineers.
+The Module-I syllabus covers topics related to Introduction to Finance, such as:-
+1) Basics of Financial Statement
+2) Working Capital
+3) Costing Concepts
+Pre-requisite Course Codes, if any.
+Course Objective:
+Course Outcomes (CO): At the end of the course students will be able to
+CO1 Develop Financial Acumen
+CO2 Understand various Legal Entities in India
+CO3 Understand Financial Statements of a Company
+CO4 Understand the Working Capital of a Business
+CO5 Understand the various Costing concepts
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO1
+CO2
+CO3
+CO4
+CO5
+
+--- PAGE 3 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No. Unit No. Topics Ref. L
+Hrs.
+ISE
+Hrs
+1 Title Basics of Financial Statement 8 2
+1.1 Types of Legal Entities in India
+1.2 Income Statement
+1.3 Balance Sheet
+1.4 CashFlow Statement
+2 Title Working Capital Management 7 2
+2.1 Introduction, Cost Categorization
+2.2 Costing Methods
+2.3 Unit Costing, Cost Sheet
+3 Title Costing Concepts 7 2
+3.1 Definition, Types
+3.2 Costing Methods
+3.3 Unit Costing & Breakeven Point
+28 hrs
+
+--- PAGE 4 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme (Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-II Finance For
+Engineers-II
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE-I ISE-II ISE-III Quiz Total
+HSM12
+Theory 25 25 25 25 100
+Laboratory -- -- -- --
+* ISE will be evaluated based on the marks scored in assignments/presentations/group discussion, out of 150.
+Finance For Engineers II is a Humanities and Social Sciences course being offered to 3rd to 5th semester B. Tech.
+students as a sequel of two courses of 2 credits each.
+These courses enlighten students with fundamental knowledge of Finance that would be relevant for their
+personal as well as professional transactions as Engineers.
+The Module-II syllabus covers topics related to Project Finance & Personal Finance, such as:-
+1) Sources of Financing
+2) Capital Budgeting
+3) Wealth Management
+Pre-requisite Course Codes, if any.
+Course Objective:
+Course Outcomes (CO): At the end of the course students will be able to
+CO1 Understand various Capital Raising Methods
+CO2 Understand Capital Investment Techniques, Calculate Cost of Capital
+CO3 Prepare Personal Financial Plan
+CO4 Calculate Income Tax & prepare ITR
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO1
+CO2
+CO3
+CO4
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+
+--- PAGE 5 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No. Unit No. Topics Ref. L
+Hrs.
+ISE
+Hrs
+1 Title Sources of Financing 8 2
+1.1 Introduction, Need, Purpose
+1.2 Classification Of Sources
+1.3 Various Sources, Advantages & Limitation
+1.4 Capital Structure, Cost Of Capital
+2 Title Capital Budgeting 7 2
+2.1 Introduction, Meaning & Importance
+2.2 Difficulties in Capital Budgeting
+2.3 Classification Of Projects
+2.4 Capital Budgeting Decisions
+2.5 Capital Budgeting Process & Techniques
+3 Title Wealth Management 7 2
+3.1 Introduction to Personal Financial Planning
+3.2 Setting Financial Goals
+3.3 Investment Avenues
+3.4 Introduction to Taxation Concepts
+3.5 Salary Structure
+3.6 Income-Tax Calculation
+3.7 Filing of Income Tax Returns
+28 hrs
+Suggested Readings:
+Sr.
+No
+Title Authors Publisher
+1 Financial Management C. Paramasivan /
+T. Subramanian
+New Age International
+Publishers
+2 Cost & Management Accounting M.N. Arora Vikas Publishing House
+Pvt. Ltd.
+
+--- PAGE 6 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-I Economics for
+Engineers-I
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE-I ISE-2 Quiz Total
+HSM21
+Theory 40 40 20 100
+Laboratory -- -- -- --
+Economics for Engineers is a Humanities and Social Sciences cour se being offered to 3 rd and 4 th
+semester B. Tech. students as a sequel of three courses of 2 credits each.
+Economics for Engineers is designed to provide engineering students with basic knowledge and
+understanding of economic principles, concepts, and tools. The course aims to enhance their decision -
+making skills by integrating economic analysis into engineering problem-solving. This course highlights
+the relevance of economics in various engineering contexts and equips students with the necessary skills
+to evaluate economic feasibility, cost -benefit analysis, and project evaluation. Throughout the course,
+students will engage in case studies, discussions, and practical exercises to apply economic concepts to
+engineering projects.
+Pre-requisite Course Codes, if any.
+Course Objective:
+Course Outcomes (CO): At the end of the course students will be able to
+CO1 Understand the fundamental economic concepts applicable to engineering.
+CO2 Analyze and evaluate the economic feasibility of engineering projects.
+CO3 Apply economic tools to make informed engineering decisions.
+CO4 Identify economic factors affecting engineering industries and sectors.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+
+--- PAGE 7 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. L
+Hrs.
+ISE
+Hrs
+1 Title Introduction to Economics
+7
+1.1 - Definition and scope of economics
+- Basic concepts of microeconomics and macroeconomics
+- Economic systems and their characteristics
+- Role of engineering professionals in the economy
+1,2
+2 Title Demand and Supply Analysis 7
+2.1 - Law of demand and its determinants
+- Law of supply and its determinants
+- Market equilibrium and price determination
+- Elasticity of demand and supply
+3,4
+3 Title Production and Cost Analysis 7
+3.1 - Factors of production and their characteristics
+- Production function and its types
+- Short-run and long-run production decisions
+- Cost concepts and analysis
+5
+4 Title Market Structures 7
+4.1 - Perfect competition and its features
+- Monopoly and Monopolistic competition
+- Oligopoly and its characteristics
+- Market failure and role of government
+6,7
+Total (*Not included) 28 hrs
+Reference Books
+Sr.
+No
+Title Authors Publisher
+1 Principles of Economics N. Gregory
+Mankiw
+Cengage Learning
+2 Economics Paul A.
+Samuelson and
+William D.
+Nordhaus
+McGraw-Hill
+Education
+3 Microeconomics (Schaum's Outlines) Dominick
+Salvatore
+McGraw-Hill
+Education
+4 Microeconomics: Theory and Applications
+with Calculus
+Jeffrey M.
+Perloff
+Pearson Education
+
+--- PAGE 8 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+5 Principles of Managerial Finance Lawrence J.
+Gitman
+Pearson Education
+6 Managerial Economics: Theory,
+Applications, and Cases
+W. Bruce Allen
+and Keith
+Weigelt
+Norton
+7 Microeconomics: Theory and Applications Edgar K.
+Browning and
+Mark A. Zupan
+John Wiley & Sons
+
+--- PAGE 9 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-II Economics for Engineers-
+II
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE-I ISE-2 Quiz Total
+HSM22
+Theory 40 40 20 100
+Laboratory -- -- -- --
+Pre-requisite Course Codes, if any.
+Course Objective:
+Course Outcomes (CO): At the end of the course students will be able to
+CO1 Understand the concept of national income and the methods used to measure it,
+including the circular flow of income and expenditure.
+CO2 Analyze the relationship between aggregate demand and aggregate supply, and the
+factors that contribute to business cycles and economic indicators.
+CO3 Understand how monetary policy affects the economy and the causes of inflation.
+CO4 Develop an understanding of investment decision-making principles, capital budgeting
+techniques, risk and return analysis, international trade and finance
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+
+--- PAGE 10 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. L
+Hrs.
+ISE
+Hrs
+1 Title National Income and Output Analysis
+8
+1.1 - Measurement of national income
+- Circular flow of income and expenditure
+- Aggregate demand and aggregate supply
+- Business cycles and economic indicators
+1,2
+2 Title Money and Banking 8
+2.1 - Functions and forms of money
+- Commercial banks and central banking systems
+- Monetary policy and its impact on the economy
+- Inflation and its causes
+3
+3 Title Investment and Financial Markets 8
+3.1 - Principles of investment decision making
+- Capital budgeting techniques
+- Stock and bond markets
+- Risk and return analysis
+4
+4 Title International Trade and Finance 8
+4.1 - Comparative advantage and gains from trade
+- Trade barriers and their effects
+- Exchange rates and foreign exchange markets
+- Balance of payments and international financial institutions
+5,6
+Total (*Not included) 32 hrs
+
+--- PAGE 11 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Reference Books
+Sr.
+No
+Title Authors Publisher
+1 Macroeconomics N. Gregory Mankiw Worth Publishing Ltd
+2 Principles of Macroeconomics Joseph E. Stiglitz and Carl
+E. Walsh
+W. W. Norton & Co.
+3 The Economics of Money,
+Banking and Financial Markets
+Frederic Mishkin Pearson
+4 Financial Markets and Corporate
+Strategy
+Mark Grinblatt and
+Sheridan Titman
+McGraw-Hill Education
+5 International Trade Dominick Salvatore Wiley
+6 Foundations of International
+Macroeconomics
+Maurice Obstfeld and
+Kenneth Rogoff
+MIT Press
+
+--- PAGE 12 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Psychology is a Humanities and Social Sciences course being offered to B. Tech and MCA students as
+a sequel of two courses of 2 credits each. These courses enlighten students with fundamental principles
+of human behavior in social and organizational contexts.
+We all know Engineers are the architects of our future, designing the structures, systems, and
+technologies that shape the world around us. Yet, behind every blueprint and innovation lies the intricate
+web of human interaction and organizational dynamics. This course aims in making students understand
+these elements which are crucial for success in the engineering profession
+Pre-requisite Course Codes, if any.
+Course Objective:
+Course Outcomes (CO): At the end of the course students will be able to
+CO1
+Understand the concepts of human behavior and have insight how human beings feel
+think and behave in diverse social situations.
+CO2 To understand the basic cognitive process that guide human behavior
+CO3 The knowledge will be useful in in tackling everyday situations and attaining optimal
+solutions
+CO4 Knowledge can also be used by engineers in designing sophisticated Artificial
+intelligence (AI)systems that learn from mistakes and make our lives lot easier to live
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs./week)
+Credits Assigned
+L T P O E L T P Total
+HSSM-I
+Psychology I
+Understanding
+Behavior: From
+Individuals to
+Society
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component Assignments Quiz Total
+HSM31
+Theory 50 50 100
+Laboratory -- -- --
+
+--- PAGE 13 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Theory Component
+Module
+No. Unit No. Topics Ref. L
+Hrs.
+ISE
+Hrs.
+1 Title Introduction to science of human behavior, self and
+social identity
+1
+1.1 Why psychology Nature and scope of psychology 1
+1.2 Brain and behavior 2
+1.3 Self and Identity 2
+1.4 Aspects of self -functioning: Self -concept, self -esteem
+and self-efficacy
+1
+2 Title Personality and emotions
+1
+2.1 Personality and types 2
+2.2 Personality test 2
+2.3 Emotions and understanding emotional experiences 1
+2.4 Emotional intelligence 1
+3 Title Perception and cognition,
+1
+3.1 Perception and social perception 2
+3.2 Attribution and impression formation 1
+3.3 Cognition and Reasoning 1
+3.3 Social Cognition: Schema and porotypes, Sources of
+error in social cognition.
+2
+4 Title Attitudes and social influence
+1 4.1 Process of attitude formation, and attitude change 2
+4.2 Persuasion and cognitive dissonance 1
+4.3 Social influence and types 1
+4.4 Emotions and emotional intelligence 1
+5 Interpersonal behavior, group dynamics
+1
+5.1 Liking others and Relationships, 2
+5.2 Aggression and pro social behavior 1
+5.3 Group dynamics 1
+5.4 Prejudice, stereotyping and discrimination 1
+Total 28 hrs.
+
+--- PAGE 14 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+List of activities:
+Sr.
+No
+Title of the assignments Marks
+1 Assignments 50
+3 Quiz 50
+Total 100
+Suggested Readings:
+Sr.
+No
+Title Authors Publisher
+1 Introduction to Psychology Clifforod T.Morgan and
+Richard A king
+McGraw Hill
+2 Understanding Psychology Robert S. Feldmen McGraw Hill
+3 Social Psychology Baron, R.A Branscombe,
+N.R&Byrne (2009)
+Pearson/Allyn and
+Bacon
+4 The message of social Psychology:
+Perspectives on mind in society
+McGarty, C. & Haslam, S. A.
+(Eds.) (1997).
+Oxford, UK and
+Cambridge, MT:
+Blackwell.
+5 Applied Cognitive Psychology Robert Stenberg Cengage Learning
+
+--- PAGE 15 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Theory Component
+Module
+No. Unit No. Topics Ref. L
+Hrs.
+ISE
+Hrs.
+1 Title Theories of Employee Motivation
+1.1 What is motivation, Work motivation theories, need
+theories
+3
+1.2 Other Theories - Reinforcement theory, expectancy
+theory and self-efficacy theory; Justice theories, goalsetting theory, control theory and action theory
+3 1
+2 2.1 Feelings about Work: Job Attitudes and Emotions
+2.2 The nature of job satisfaction; how people feel about their
+jobs; the assessment and antecedents of job satisfaction
+3 1
+2.3 Potential effects of job satisfaction; organizational
+commitment and emotions at work
+2
+3 Title Productive and Counterproductive Work Behavior
+3.1 Productive work behavior: ability, motivation, personal
+characteristics and task performance; environmental
+conditions and task performance; organizational
+constraints; organizational citizenship behavior (OCB)
+3 1
+3.2 Counterproductive work behavior: withdrawal –
+absence, lateness, turnover; aggression, sabotage, and
+theft; labor unrest and strikes.
+2
+4 Leadership and Power in Organizations
+4.1 What is leadership 1 1
+4.2 Approaches to the Understanding of Leadership 1
+4.3 Sources and influence of power 2
+4.4 Abuse of power 1
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs./week)
+Credits Assigned
+L T P O E L T P Total
+HSSM-II
+Psychology II
+Industrial and
+Organizational
+psychology
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component Assignments Quiz Total
+HSM32
+Theory 50 50 100
+Laboratory -- -- --
+
+--- PAGE 16 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+5 Organizational culture and Diversity,
+Organizational Development and Theory
+1
+5.1 Organizational culture, Edger Schein model 2
+5.2 Diversity, conflict and cooperation 1
+5.3 Organizational Development 1
+5.4 Organizational Theories 2
+Total 28 hrs.
+List of activities
+Sr.
+No
+Title of the assignments Marks
+1 Assignments 50
+2 Quiz 50
+Total 100
+Suggested Readings:
+Sr.
+No
+Title Authors Publisher
+1 Industrial and Organizational
+Psychology: Research and Practice.
+Spector, P. E. (2012). Singapore: John Wiley & Sons
+Pte. Ltd (Indian reprint 2015)
+2 Psychology and Work Today Schultz, D., & Schultz,
+S. E. (2010)
+Pearson Prentice Hall
+
+--- PAGE 17 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-I
+Law for Engineers-I
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE-I ISE-2 Quiz Total
+HSM41
+Theory 40 40 20 100
+Laboratory -- -- -- --
+* ISE will be evaluated based on marks scored in assignments/presentations/group discussions, out of
+100.
+The course "Law for Engineers" falls under the Humanities and Social Sciences category and is available
+to 3rd and 4th semester B.Tech. students. It builds upon two previous courses, each worth 2 credits.
+Through this curriculum, students gain essential insights into Indian legal principles crucial for their
+future roles as engineers. Topics covered include an overview of the Indian Legal System, exploration
+of jurisprudential theories, corporate and commercial laws, information technology law, Intellectual
+Property Rights, and other pertinent Indian laws pertinent to engineering practices.
+Pre-requisite Course Codes, if any. Nil
+Course Outcomes (CO): At the end of the course students will be able to
+CO1 Recognize and investigate fundamental aspects and structures of the Indian constitution.
+CO2 Distinguish and establish connections between the operations of legal systems.
+CO3 Evaluate different categories of contracts as outlined in the Indian Contract Act.
+CO4 Comprehend the importance of the Right to Information Act.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO1
+CO2
+CO3
+CO4
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+
+--- PAGE 18 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. L
+Hrs.
+ISE
+Hrs
+1 Title Constitutional Law:
+4
+1 The Preamble; Fundamental Rights; Directive principles of
+State policy; Fundamental Duties; Emergency provisions –
+kinds, legal requirements, and legal effects.
+1-4
+2 Title Introduction and Basic Information about Legal System: 7
+Sources of Law and the Court Structure, The Court System in
+India
+5
+3 Title General Principles of Contract under the Indian Contract
+Act
+10 1
+General principles of contract – Sec. 1 to 75 of the Indian
+Contract Act and including Government as the contracting
+party, Kinds of government contracts and dispute settlement,
+Standard form contracts; nature, advantages, unilateral
+character, principles of protection against the possibility of
+exploitation, judicial approach to such contracts, exemption
+clauses, clash between two standard form contracts.
+6
+4 Title Right to Information Act, 2005 7 1
+Evolution and concept; Practice and procedures; Official Secret
+Act, 1923; Indian Evidence Act, 1872; Information Technology
+legislation and procedures, Cybercrimes issues and
+investigations.
+7
+5 Self
+Study
+1. Case laws
+2. Case studies
+6*
+Total (*Not included) 28 hrs
+List of activities:
+Sr.
+No
+Title of the assignments Marks
+1 ISE 1 – Presentation on Case Laws 40
+2 ISE 2 – Group discussion on Case studies 40
+3 Quiz - MCQ 20
+Total 100
+
+--- PAGE 19 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Suggested Readings:
+Sr.
+No
+Title Authors Publisher
+1 Our Constitution: An Introduction to India’s
+Constitution and constitutional Law
+Subhash C. Kashyap NBT, 2018
+2 The Constitution of India PM Bakshi Universal Law
+Publishing
+3 Shorter Constitution of India D.D. Basu Prentice Hall of India
+4 Introduction to the Indian Constitution Brij Kishore Sharma PHI, New Delhi
+5 Indian Constitutional Law M.P. JainSangeeta
+Sharma
+Wadhwa & Co.
+6 Law of Contract Avtarsingh Eastern Book Co
+7 Right to Information Act 2005 Bare Act
+Referred Case Studies:
+• Keshavanand Bharati V. State of Kerala, AIR 1973 SC 1461.
+• Maneka Gandhi V. Union of India AIR, 1978 SC 597.
+• S.R. Bammai V. Union of India, AIR 1994 SC 1918.
+• Kuldip Nayyar V. Union of India, AIR 2006 SC312.
+• A.D.M. Jabalpur V. ShivkantShakla, AIR 1976 SC1207.
+• Remshwar Prasad V. Union of India, AIR 2006 SC980.
+• Keshav Singh in re, AIR 1965 SC 745.
+• Union of India V. Talsiram, AIR 1985 SC 1416.
+• Atiabari Tea Estate Co.V. State of Assam, AIR 1961SC232.
+• SBP & Co. Vs. Patel Engg. Ltd. 2005 (8) SCC 618.
+• Krishna Bhagya Jala Nigam Ltd. Vs. G. Arischandra Reddy (2007) 2 SCC 720.
+• Oil & Natural Gas Corporation Vs. Saw Pipes Ltd. 2003 (4) SCALE 92 – 185.
+Prescribed Legislations:
+1. RTI Act 2005 with latest amendments
+
+--- PAGE 20 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-II
+Law for Engineers-II
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE-I ISE-2 Quiz Total
+HSM42
+Theory 40 40 20 100
+Laboratory -- -- -- --
+* ISE will be evaluated based on marks scored in assignments/presentations/group discussions, out of
+100.
+Pre-requisite Course Codes, if any. Law for Engineers-I
+Course Outcomes (CO): At the end of the course students will be able to
+CO1 Establish connections between the responsibilities of engineers and the diverse organizational
+structures and governance models they operate within.
+CO2 Investigate and implement various legal statutes and regulations pertinent to engineering
+methodologies.
+CO3 Recognize the significance of intellectual property legislation within contemporary
+engineering, alongside the ethical dilemmas it presents.
+CO4
+Demonstrate proficiency in analyzing intricate intellectual property scenarios, identifying
+infringement criteria, and strategizing product clearance to mitigate the likelihood of patent
+violations.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+
+--- PAGE 21 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. L
+Hrs.
+ISE
+Hrs
+1 Title Business Organizations and E-Governance:
+8
+1
+Sole Traders, Partnerships, Companies, The Company’s
+Act: Introduction, Memorandum of Association,
+Articles of Association, Prospectus, Shares, Directors,
+General Meetings and Proceedings, Auditor, Winding
+up. E-Governance and the role of engineers in E -
+Governance
+6,7,8,9,10
+2 Title The law relating to Patents in India:
+7
+1 Law relating to Patents under the Patents Act, 1970,
+Patentable inventions with special reference to
+biotechnology products, Patent protection for computer
+programs, Process of obtaining patent –application,
+examination, opposition, and sealing of patents, Patent
+cooperation treaty and grounds for opposition, Rights,
+and obligations of the pa tentee, Duration of patents –
+law and policy considerations, Infringement and related
+remedies.
+1,2,4,5
+3 Title Law relating to Trademarks in India: 7 1
+Law relating to Trademarks under the Trademark Act,
+1999 including Rationale of protection of trademarks as
+Commercial aspect and Consumer rights, Trademarks,
+registration, procedures, Distinction between trademark
+and property mark, Doctrine of deceptive similarity,
+Passing off an infringement and remedies;
+3
+4 Title The law relating to copyrights in India 6
+Meaning of copyright literary, dramatics and musical
+works, sound records and cinematographic films,
+computer programs, Ownership of copyrights, Criteria
+of infringement, Piracy in Internet – Remedies and
+procedures in India;
+3
+5 Self
+Study
+1. Acts
+2. Case studies
+6*
+Total (*Not included) 28 hrs
+
+--- PAGE 22 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+List of activities:
+Sr.
+No
+Title of the assignments Marks
+1 ISE 1 – Presentation on Acts 40
+2 ISE 2 – Group discussion on Case studies 40
+3 Quiz - MCQ 20
+Total 100
+Suggested Readings:
+Sr.
+No
+Title Authors Publisher
+1 Intellectual Property Law P. Narayan Eastern Law House, New
+Delhi
+2 Gearing up for Patents: The
+Indian Scenario
+Prabudh Ganguli Orient Longman
+3 Patents, Trademarks, Designs and
+Geological Indications
+BL Wadehra Universal Law
+4 Intellectual Property Rights Law
+in India
+T. Ramappa Asia Law House
+5 Intellectual Property Rights: Law and Practice, Module III by ICSI (only relevant sections)
+6 Executive program study material Company Law, Module II, by ICSI (The Institute of
+Companies Secretaries of India) (Only relevant sections i.e., Study 1, 4 and
+36).https://www.icsi.edu/media/webmodules/publications/Company%20Law.pdf
+7 The Companies ACT, 2013
+8 Handbook on e-Governance Project Lifecycle, Department of Electronics & Information
+Technology, Government of India,
+9 https://www.meity.gov.in/writereaddata/files/eGovernance_Project_Lifecycle_Participant_Hand
+book-5Day_CourseV1_20412.pdf
+10 Companies Act, 2013 Key highlights and analysis by PWC.
+https://www.pwc.in/assets/pdfs/publications/2013/companies-act-2013-key-highlightsandanalysis.pdf
+
+--- PAGE 23 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Program Outcomes (PO):
+PO1: Engineerin g Knowledge: The ability to apply knowledge of mathematics, engineering and science to
+solve complex engineering problems.
+PO2: Problem Analysis: The ability to identify, formulate and analyze engineering problems.
+PO3: Design/development of Solutions: The ability to design a system, component, or process to meet desired
+needs within realistic constraints such as environmental, social, ethical.
+PO4: Conduct Investigations of Complex Problems: Ability to conduct investigation of complex problems
+and find appropriate solution leading to valid conclusion.
+PO5: Modern Tool usage: An ability to use the techniques, skills, and modern engineering tools necessary for
+telecom engineering practice.
+PO6: The Engineer and Society: Ability to be aware of societal, health, safety, cultural, legal issues and
+responsibilities relevant to professional engineering practice.
+PO7: Environment and Sustainability: The broad education necessary to understand the impact of engineering
+solutions in environmental and societal context.
+PO8: Ethics: Apply professional ethics to engineering practices.
+PO9: Individual and Team Work: The ability to function in multi-disciplinary teams by involving in technical
+activities.
+PO10: Communication: The ability to comprehend, present and document effectively.
+PO11: Project M anagement and Finance: Ability to apply engineering and management principles.
+PO12: Life-long Learning: The ability to engage in lifelong learning with advances in technology
+
+--- PAGE 24 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-I
+Sanskrit-I
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE-I ISE-2 Quiz Total
+HSM51
+Theory 40 40 20 100
+Laboratory -- -- -- --
+* ISE will be evaluated on the basis of marks scored in assignments/presentations/group discussion, out of
+150.
+Sanskrit is a Humanities and Social Sciences course being offered to 3rd to 5th semester B. Tech. students as a
+sequel of three courses of 2 credits each.
+These courses enlighten students with fundamental knowledge of the language that has several treatises on
+ancient Indian engineering philosophy that would be relevant for their professional transactions as Engineers.
+The syllabus covers working knowledge of Sanskrit language along with study of selected texts which will
+equip engineering scholars to explore knowledge from ancient literature.
+Pre-requisite Course Codes, if any.
+Course Objective: Learn basic Sanskrit language to be able to read and understand literature
+Course Outcomes (CO): At the end of the course students will be able to
+CO1 Understand basic Sanskrit Language
+CO2 Make simple Sanskrit sentences
+CO3 Exposed to different kinds of Sanskrit literature
+CO4 Enhance memory power
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+
+--- PAGE 25 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Theory Component
+Module
+No. Unit No. Topics Ref. L
+Hrs.
+ISE
+Hrs
+1 Title Alphabet in Sanskrit 3
+1.1 Sanskrit Varṇamālā, pronunciation, rules of writing
+Selected Subhāṣitas
+2 Title Grammar 11
+2.1 Verbs conjugation 1,4,6,10 (select roots)
+Tenses – Present, Imperfect Past, Second Future
+2.2 Introduction to Kāraka, selected nouns and pronouns
+2.3 Sentence construction
+3 Title Introduction to Sanskrit Literature 12
+3.1 Overview of Vedic Literature
+3.2 Overview of Epics and Purāṇas
+3.3 Overview of Classical Sanskrit Literature
+4 Title Introduction to Ancient Indian Engineering Literature 2
+5 Self
+Study(O)
+1. Learning Verbs and Nouns
+2. Learning Subhāṣitas
+Total 28 hrs
+List of activities:
+Sr.
+No
+Title of the assignments Marks
+1 ISE-I 50
+2 ISE-II 50
+3 Quiz 50
+Total 150
+Suggested Readings:
+Sr.
+No
+Title Authors Publisher
+1 Sanskrit Grammar William Whitney Motilal Banarasidas,
+Delhi, Reprint, 2008
+2 History of Indian Literature M. Winternitz Motilal Banarasidas,
+Delhi,
+3 Abhijat Sanskrit Sahityacha Itihas Dr. Sindhu
+Dange (Ed.)
+Rtaayana Sanstha,
+Mumbai
+4
+Referred Case Studies:
+
+--- PAGE 26 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-II
+Sanskrit-II
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE-I ISE-2 Quiz Total
+HSM52
+Theory 40 40 20 100
+Laboratory -- -- -- --
+** ISE will be evaluated on the basis of marks scored in assignments/presentations, out of 150.
+Pre-requisite Course Codes, if any.
+Course Objective: Learn basic Sanskrit language to be able to read and understand literature
+Course Outcomes (CO): At the end of the course students will be able to
+CO1 Understand basic Sanskrit Language
+CO2 Translate simple Sanskrit sentences
+CO3 Read different kinds of Sanskrit literature
+CO4 Enhance memory power
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PEO4 PSO1 PSO2 PSO3
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember Understand Apply Analyze Evaluate Create
+
+--- PAGE 27 ---
+Sardar Patel Institute of Technology
+Bhavan’s Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India
+(Autonomous Institute Affiliated to University of Mumbai)
+Theory Component
+Module
+No. Unit No. Topics Ref. L
+Hrs.
+ISE
+Hrs
+1 Title Grammar 14
+1.1 Verbs conjugation 2,3,5,7,8,9 (select roots)
+Gerunds – Tvanta, Lyabanta and Infinitives
+Selected Sandhi rules and Samās types
+Selected Nouns
+Active and Passive Voice
+2 Title Selected portions from Sanskrit Texts 10
+2.1 Selected Vedic Hymn
+2.2 Selected verses from Kautilya’s Arthaśāstra
+2.3 Excerpt from Sanskrit Drama
+2.4 Story literature
+3 Title Selected verses from Ancient Indian Engineering texts 4
+4 Self
+Study(O)
+1. Learning Verbs and Nouns
+2. Reading Simple Sanskrit material
+6*
+Total (*Not included) 28 hrs
+List of activities:
+Sr.
+No
+Title of the assignments Marks
+1 ISE-I 50
+2 ISE-II 50
+3 Quiz 50
+Total 150
+Suggested Readings:
+Sr.
+No
+Title Authors Publisher
+1 Sanskrit Grammar William Whitney Motilal Banarasidas, Delhi,
+Reprint, 2008
+2
+3
+4
+5
+
+--- PAGE 28 ---
+SYLLABUS
+HSM61 FRENCH Language-I (28 HOURS)
+FROM 2024
+LECT.
+Unit
+No
+Topics Teaching
+Time for
+each concept
+1 1.1 Alphabet 15mins
+1.2 Accents 30 mins
+1.3 Greetings:
+Good morning/ good afternoon/ good evening/ good night
+15 mins
+2
+2.1 Verb conjugation
+Ētre” (To be)
+30 mins
+2.2 Gender:
+Masculine
+Feminine
+30 mins
+3
+3.1 Articles:
+Definite article:le / la / l’/ les
+Indefinite article:un/une/des Articles:
+Definite article:le / la / les
+60 mins
+4 4.1 List of some Masculine and Feminine Nouns
+60 mins
+5 5.1 Revision of Masculine and feminine Nouns
+60 mins
+6
+6.1 List of Adjectives of Quality (Describing
+big/small/adventurous/timid/pessimist/optimist
+30 mins
+6.2 Adjectives of colour and the rules: de quelle couleur?
+30 mins
+7 7.1 Revision of Adjectives of Quality including Adjectives of
+Colour
+60 mins
+8
+8.1 Agreement of Number and Gender of the qualifying adjective
+with the noun
+60 mins
+8.2 Revision of Agreement with Number and Gender
+60 mins
+9 9.1 Conjugation of the verb ‘AVOIR’ in the present tense 60 mins
+
+--- PAGE 29 ---
+affirmative which means “to have” and is used to express ‘age’
+10 10.1 Revision of conjugation of the verb ‘Avoir’
+60 mins
+11 11.1 3 groups of verbs depending on how they end. Conjugation of
+Regular Verbs that end in “ER” suffix
+45 mins
+11.2 List of: commonly used “ER” and “ER” verbs used for student
+teacher communication.
+15 mins
+12 12.1 Revision of ‘Er’ ending verbs with Exercises 60 mins
+13 13.1 Conjugation of ‘ALLER’ which is an Irregular “ER” verb. 60mins
+14 14.1 Revision of the Conjugation of the verb ‘Aller’ which in
+French is an expression to denote “How one is doing”
+60 mins
+15 15.1 Conjugation of Reflexive ER verb S’APPELER’ 60 mins
+16 16.1 Revision of Reflexive Verbs 60 mins
+17 17.1 Conjugation of GER / CER/YER verbs that are tricky 60 mins
+18 18.1 Revision of GER/CER/YER verbs
+19 19.1 Frequently used expressions (thank you/glad to meet you/
+sorry/please)
+30 mins
+20 20.1 Singular and Plural 30 mins
+21 21.1 Revision of Frequently Used Expression
+And Singular and Plural
+22 22.1 Nationalities and Languages 60 mins
+23 23.1 Revision of Nationalities and Languages 60 mins
+24 24.1 Days of the week
+Months of the Year
+Seasons: L’été /L’hiver / L’automne /Le printemps
+Weather
+Comment fait-il aujourdhui? Quel temps fait-il?
+Il fait beau / Il fait chaud / Il fait froid / Il fait frais / Il fait du
+vent
+Verb Conjugation of ‘FAIRE’ – to make / to do / to describe
+weather conditions
+60 mins
+25 25.1 Revision of Days/Months/Seasons/Weather 60 mins
+26 26.1 Numbers from 0 to 69
+Question: Expression: Combien de?
+60 mins
+27 27.1 Revision of Numbers 60 mins
+28 28.1 Paris, capital of France 1.Geography 2.History 3.Public
+Transport 4.Gastronomy 6. Current Affairs 7. Culture
+Fashion/Literature/Art/Theatre/Films 8 Tourism and
+Monuments
+60 mins
+28 hours
+Total Number Lectures: 28 Total Number of hours: 28 hours
+
+--- PAGE 30 ---
+END OF SEMESTER WRITTEN EXAM: 15
+VIVA QUESTION AND ANSWERS: 15
+READING PASSAGE: 10
+CLASS PARTICIPATION: 10
+TOTAL MARKS: 50
+DOUBLED FOR TOTAL MARKS OUT OF 100
+COURSE OBJECTIVES
+1. GRAMMAR: To be able to write and read correctly using appropriate parts of speech.
+• This module covers the French Grammar from basics such as the Alphabet and the Vowels
+• The importance of Accents and their use on vowels which change the meaning and
+pronunciation of the words Article (Definite and Indefinite)
+• Unlike English where the nouns which are neuter the Gender of nouns in French play an
+important role (Masculine and Feminine). The Number of the noun (Singular and Plural)
+becomes equally important for the Agreement of the adjectives.
+• At this basic level only the Present Tense conjugation of verbs will be taught.
+• The student will be able to respond in the Affirmative Mode only.
+• The student will be able to conjugate verbs of regular ER group along with the CER,
+GER and YER verbs, ER ending Reflexive verbs, the two auxiliary irregular verbs
+Avoir and Etre and the irregular verb Aller.
+• The student will be able to write nouns in their singular and plural formats.
+2. VOCABULARY:
+The student will have a considerable amount of vocabulary available at his disposal
+regarding general topics such as Fruits, Vegetables, Animals, Clothing, Description of
+Paris/ France, numbers cardinal and ordinal from 0 to 69, names of countries, nationalities
+and languages spoken. Names of days, months and seasons. The student will also be able
+to express the weather in the different seasons. Short greetings and frequently used
+expressions will help the student get an immediate foothold into the language as he will be
+able to greet people and use appropriate phrases to communicate his gratitude or his
+pleasure or regret his inability to accomplish a task. The information on France and its
+culture will make the student familiar with French concepts.
+3. PHIONETICS: The student will be guided to communicate effectively using appropriate
+intonations, pronunciations and accents.
+4. NON-VERBAL COMMUNICATION SUCH AS GESTURES AND FACIAL
+EXPRESSIONS:
+
+--- PAGE 31 ---
+The student will be guided in understanding non- verbal communication using gestures and
+facial expression that are typically French and that accompany the spoken language. These
+have very culture specific connotation and lend greatly in understanding the French
+language.
+TEXT BOOKS
+OUI JE PARLE FRANCAIS – 1 Méthode de Français MANAK BOOKS by Prochy Master
+BLACKIE & SON PUBLISHERS
+A1 VOCABULAIRE PROGRESSIF DU FRANÇAIS: 3eme édition Claire Miguel
+LES 500 Exercices de Grammaire Hachette: Niveau 1 Anne Akyuz, Bernadette Bazelle -
+Shahmaei, Joel Bonenfant, Marie Françoise Gliemann
+REFERENCE BOOKS.
+NOUVEAU TAXI: Méthode de Français – HACHETTE
+G. MAUGER – COURS DE LA LANGUE ET DE LA CIVILISATION FRANCAISES 1
+– Librairie Hachette
+ADDITIONAL TEACHING TOOLS:
+Internet links to videos such as ‘Learn French with Alexa’ etc are provided for practice
+outside class hours
+This Basic French Syllabus is for LEVEL 2 of 28 hours and the Course file has been
+prepared by: Sabrina Modak
+
+--- PAGE 32 ---
+SYLLABUS
+HSM62 FRENCH LANGUAGE-II (28hrs)
+YEAR 2024
+Module
+No
+Unit
+No
+Topics Hrs
+1. 1.1 INTERROGATIVE FORM: (GRAMMAR)
+Introduction to the Interrogative Form by Inversion.
+Ex:
+Vous avez un livre.
+Avez-vous un livre?
+15mins
+1.2 Interrogative Adverbs: (GRAMMAR)
+1. Why: Pourquoi êtes-vous en retard?
+2. When: Quand arrive-t-il?
+3. Where: Où habitez-vous?
+4. How: Comment-allez-vous?
+5. How much: Combien coûte le cahier?
+6. How many: Combien de langues parlez-vous?
+30 mins
+1.3 Interrogative Pronoun (GRAMMAR)
+1. Qui? Who?
+2. Qui est-ce? Who is it?
+3. Qu’est-ce que? What?
+4. Qu’est-ce que c’est? What is this?
+15 mins
+2
+2.1 Interrogative Adjectives: (GRAMMAR)
+Quel? Quels? Quelle? Quelles?
+1. Quel temps fait-il?
+2. Quelle heure est-il?
+3. Quelle saison aimez-vous?
+4. Quelles fruits aimez-vous?
+30 mins
+2.2 Fruits (10) (VOCABULARY)
+Un abricot: an apricot
+Un ananas: a pineapple
+Une banana: a banana
+Une cerise: a cherry
+Un citron: a lemon
+Une fraise: a strawberry
+Une orange: an orange
+Une poire: a pear
+30 mins
+
+--- PAGE 33 ---
+Une pomme: an apple
+Une tomate: a tomato
+Vegetables (10) (VOCABULARY)
+De l’ail
+Un brocoli
+Une carotte
+Un champignon
+Une courgette
+Un oignon
+Un poireau
+Un poivron
+Une pomme de terre/une patate
+Une salade
+FRUITS AND VEGETABLES PHONETICS)
+Oral repetition in class for pronunciation
+And supporting teaching materials like Audio visual links
+3
+3.1 NEGATIVE FORM FOR CONJUGATION (GRAMMAR)
+Ne ……pas
+60 mins
+4 4.1 Les vêtements (VOCABULARY)
+Une chemise
+Une robe
+Une jupe
+Une ceinture
+Un pantalon
+Un t-shirt
+Un pantalon
+Un maillot
+Un short
+Un sari
+Des chaussettes
+Des chaussures
+30 mins
+4.1 Les vêtements (PHONETICS)
+Oral repetition in class for pronunciation
+And supporting teaching materials like Audio visual links
+30 mins
+5 5.1 France Part 1 (VOCABULARY)
+1. Les vins
+2. Les fromages
+3. La monnaie
+60 mins
+
+--- PAGE 34 ---
+4. Les parfums
+France Part 2
+1. La mode
+2. Les Automobiles
+3. Le drapeau
+4. La cuisine
+FRANCE (PHONETICS)
+Oral repetition in class for pronunciation
+And supporting teaching materials like Audio visual links
+How the French use: non-verbal communication such as
+gestures and facial expressions
+6
+6.1 3 groups of verbs depending on how they end.
+ER/IR/RE
+RE: Conjugation of Regular “RE” (GRAMMAR)
+FORMAT 1 (Attendre, Ascendre, Descendre, Entendre,
+Dépendre, Répondre, Fondre, Pendre, Perdre Vendre)
+FORMAT 2 (Prendre, Surprendre, Reprendre, Apprendre and
+Comprendre)
+60mins
+7 7.1 IR: Conjugation of Regular “IR” (Agir, Avertir)
+(GRAMMAR)
+60 mins
+8 8.1 Les Animaux: (VOCABULARY)
+1. Sauvages et 2. De la ferme 3 Domestiques
+30 mins
+8.2 Les Animaux: (PHONETICS)
+Oral repetition in class for pronunciation
+And supporting teaching materials like Audio visual links
+30 mins
+9 9.1 Possessive adjective: (GRAMMAR)
+Mon/Ma/Mes
+Ton/Ta/Tes
+Son/Sa/Ses
+Notre/Notre/Nos
+Votre/Votre/Vos
+Leur/Leur/Leurs
+60mins
+10 10.1 Contd. Possessive adjective: (GRAMMAR)
+Mon/Ma/Mes
+Ton/Ta/Tes
+Son/Sa/Ses
+Notre/Notre/Nos
+60 mins
+
+--- PAGE 35 ---
+Votre/Votre/Vos
+Leur/Leur/Leurs
+11
+11.1 Cardinal Numbers (VOCABULARY)
+69 to 100
+Ordinal Numbers
+0 to 100
+60 mins
+12 12.1 Singular (GRAMMAR) 30 mins
+12.2 Plural (GRAMMAR) 30 mins
+13 13.1 Names of Countries / Nationalities (VOCABULARY) 30 mins
+13.1 Names Countries / Nationalities (VOCABULARY) 30 mins
+14
+14.1 Names of Languages (VOCABULARY) 60 mins
+28 hours
+Total Number Lectures: 14 Total Number of hours: 28 hours
+END OF SEMESTER WRITTEN EXAM: 15
+VIVA QUESTION AND ANSWERS: 15
+READING PASSAGE: 10
+CLASS PARTICIPATION: 10
+TOTAL MARKS: 50
+DOUBLED FOR TOTAL MARKS OUT OF 100
+COURSE OBJECTIVES
+5. GRAMMAR: To be able to write and read correctly using appropriate parts of speech.
+This module covers the 2 forms of expression: Negative and Interrogative.
+• The student will be able to respond in the negative and also make queries.
+• The student will be able to conjugate verbs of 2 groups ‘RE’ and ‘IR’.
+• The student will learn to show ‘possession’ by using adjectives.
+• The student will be able to write nouns in their singular and plural formats.
+6. VOCABULARY: The student will have a considerable amount of vocabulary available at
+his disposal regarding general topics such as food, clothing, description of France, numbers
+cardinal and ordinal from 70 to 100, names of countries, nationalities and languages
+spoken.
+7. PHIONETICS: The student will be guided to communicate effectively using appropriate
+intonations, pronunciations and accents.
+8. NON-VERBAL COMMUNICATION SUCH AS GESTURES AND FACIAL
+EXPRESSIONS:
+
+--- PAGE 36 ---
+The student will be guided in understanding non- verbal communication using gestures and
+facial expression that are typically French and that accompany the spoken language. These
+have very culture specific connotation and lend greatly in understanding the French
+language.
+TEXT BOOKS
+OUI JE PARLE FRANCAIS – 1 Méthode de Français MANAK BOOKS by Prochy Master
+BLACKIE & SON PUBLISHERS
+A1 VOCABULAIRE PROGRESSIF DU FRANÇAIS: 3eme édition Claire Miguel
+LES 500 Exercices de Grammaire Hachette: Niveau 1 Anne Akyuz, Bernadette Bazelle -
+Shahmaei, Joel Bonenfant, Marie Françoise Gliemann
+REFERENCE BOOKS.
+NOUVEAU TAXI: Méthode de Français – HACHETTE
+G. MAUGER – COURS DE LA LANGUE ET DE LA CIVILISATION FRANCAISES 1
+– Librairie Hachette
+ADDITIONAL TEACHING TOOLS:
+Internet links to videos such as ‘Learn French with Alexa’ etc are provided for practice
+outside class hours
+This Basic French Syllabus is for LEVEL 2 of 28 hours and the Course file has
+been prepared by: Sabrina Modak
+
+--- PAGE 37 ---
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-I
+German Language-I
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+HSM71
+Theory 20 20 60 100
+Laboratory - -- - -
+Pre-requisite Course Codes, if any.
+Course Objective:
+Course Outcomes (CO): At the end of the course students will be able to
+EC301.1 greet others, introduce themselves and their colleagues, ask and answer simple questions
+about their daily routines, describe their city and apartment, and engage in basic
+conversations about eating and drinking habits.
+EC301.2 insight into German culture, including typical eating and drinking habits, daily routines, and
+social customs related to spending time with friends and making contacts.
+EC301.3 develop practical language skills necessary for everyday life situations, such as ordering
+food and drinks in a restaurant, asking for directions in the city, making plans with friends,
+and describing their living arrangements.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC301.1 3
+EC301.2 3
+EC301.3 3
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC301.1
+EC301.2
+EC301.3
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember✓ Understand✓ Apply✓ Analyze Evaluate Create
+
+--- PAGE 38 ---
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1
+Title Language skills 1 - Introduce yourself - Say Hello: Vocabulary:
+Numbers upto 100, Names of countries and their languages,
+Grammar: Wh-questions, Statement, Verbs and Personal pronouns,
+Culture: Countries and Languages
+1 07
+1.1 Greet and say goodbye
+1.2 Introduce oneself and others
+1.3 Share postal address, email address, telephone number
+1.4 Read alphabets
+2 Title Language skills 2 - My Colleagues and I: Vocabulary: Hobbies,
+Days of the week, Professions, Months, Seasons, Grammar:
+Classification of nouns as per masculine, feminine and neuter
+gender, Plural forms, Yes/No questions, Verbs – to have, to be
+Culture: Reading about seasons and related hobbies
+1 07
+2.1 Speak about hobbies, fixing a date, days of the week
+2.2 Speak about work, timings, seasons
+2.2 Fill up a form about personal details
+3 Title In the city: Vocabulary: Sightseeing places, Modes of transport,
+Directions, Grammar: Definite and indefinite article, Negation,
+Imperative, Culture: Events held at various monuments in the city
+of Hamburg
+1 07
+3.1 Name places of interest and cities
+3.2 Ask about the address of a particular place
+3.3 Describe a way to a particular place using various means of
+transport
+4 Title Eating and Drinking habits of Germans- Vocabulary: Meals,
+Grocery items, Drinks, Vegetables and other perishable items
+1 07
+4.1 Read and speak about food items eaten at various meals
+4.2 Differentiate between places of shopping
+4.3 Make a shopping list
+5 Self
+Study
+NPTEL online lectures on German Language 06*
+(*Not Included ) Total 26
+Textbooks
+Sr. No Title Edition Authors Publisher Year
+1 Netzwerk A1 (As per the
+Eurpean Framework of
+Reference)
+
+--- PAGE 39 ---
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-II
+German Language-II
+2 0 0 3 5 2 0 0 2
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+HSM72
+Theory 20 20 60 100
+Laboratory - -- - -
+Pre-requisite Course Codes, if any.
+Course Objective:
+Course Outcomes (CO): At the end of the course students will be able to
+EC302.1 expand their vocabulary related to greetings, introductions, professions, city landmarks
+and locations, food and drinks, daily activities, leisure activities with friends, and housing.
+EC302.2 read and comprehend simple texts related to the topics covered in the syllabus, such as
+descriptions of city landmarks, apartment features, daily routines, and social activities.
+EC302.3 develop basic writing skills to compose short texts or emails introducing themselves,
+describing their daily routines, or making plans with friends.
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC302.1 3
+EC302.2 3
+EC302.3 3
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC302.1
+EC302.2
+EC302.3
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember✓ Understand✓ Apply✓ Analyze Evaluate Create
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1 Title Continue with the theme of Eating and Drinking habits of
+Germans - Vocabulary: Advanced, related to food, items at the
+supermarket, table manners, Grammar: Syntax
+1 06
+
+--- PAGE 40 ---
+Subject/Verb/Object, Accusative case, Verbs with accusative case,
+Negation in accusative, Culture: Reading and understanding short
+texts about how and what people from Germany, Austria and
+Switzerland eat?
+1.1 Make a list of items to be purchased from the supermarket
+1.2 Lead conversations in a supermarket or the marketplace with the
+seller
+1.3 Write a dialogue about food appreciation while having meals
+2 Title Daily Routine - Vocabulary: Daily routine, timings, family,
+Grammar: Time specifications (using at, from to, till), Possessive
+article, Modal verbs (mr + accusative), personal pronouns, past
+tense of verbs (haben and sein), Culture: Reading about pub culture
+in Germany, Austria and Switzerland
+1 07
+2.1 Understand the clock and time, Specify time, date and month
+2.2 Calender entry as per the day, date and time and be able to speak
+about it.
+2.3 Fix an appointment and to cancel it apologetically, talk about
+family
+3 Title Continuation from the workbook on Spending Time with
+friends, Contacts - Vocabulary: Day in the office, telephonic
+conversations, model letters, learning different languages in
+Europe, Grammar: Prepositions in dative case, articles of nouns in
+dative case, possessive articles in accusative case, Culture: Social
+networking in Germany, Austria and Switzerland
+1 07
+3.1 Decline official appointments, Understand and give instructions,
+understand content of official/unofficial letters and reply, Find
+appropriate information from texts, Understand situations in a
+conversation and to participate in such conversations
+3.2 Understand classifieds, describe an apartment, Plan interiors for the
+apartment, Reply to an invitation (email), Speak about interiors of
+the room, Express about likes and dislikes about the apartment,
+Write a text about the apartment.
+3.3
+4 Self
+Study
+NPTEL online lectures on German Language 06
+Total 26
+Text Books
+Sr. No Title Edition Authors Publisher Year
+1 Netzwerk A1 (As per the
+Eurpean Framework of
+Reference)
+
+--- PAGE 41 ---
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-I
+Japanese Language-I
+2 0 0 5 7 2 0 0 2
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+HSM81
+Theory 20 20 60 100
+Laboratory -- -- -- --
+Pre-requisite Course Codes, if any. None
+Course Objective:
+Course Outcomes (CO): At the end of the course students will be able to
+EC301.1 Articulate nuances of Japanese Language and Culture
+EC301.2 Write and Read Hiragana Script
+EC301.3 Write and Read Katakana Script
+EC301.4 Write and Read Kanji Script
+EC301.5 Kanji Based on Verb Conjugation of masu, desu, arimasu, imasu
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC301.1
+EC301.2
+EC301.3
+EC301.4
+EC301.5
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC301.1
+EC301.2
+EC301.3
+EC301.4
+EC301.5
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember✓ Understand✓ Apply Analyze Evaluate Create
+
+--- PAGE 42 ---
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1
+2
+Title Introduction to Japanese language & culture 1,2 6
+1.1 Explanation about 3 scripts in Japanese. Hiragana, Katakana and Kanji
+with Examples.
+Greetings
+1.2 Greetings and Introduction to Hiragana script writing Practice
+Starting from a, I u e o to あ、い う え お to ha hi fu he ho
+1.3 Hiragana - wa o n
+2 Title Hiragana 1,2 4
+2.1 Hiragana - wa o n
+2.2 Hiragana chart till ga gi gu ge goto pa pi pu pe po and jodakshar kya
+kyu kyo till pya pyu pyo
+3 Title Katakana script 1,2 6
+3.1 Introduction to kanji script and Basic grammar pattern.
+S wa o Desu
+3.2 Difference between Masu and Desu.(Present tense positive, negative,
+past positive negative)
+4 Title Grammar -1 1,2 6
+4.1 Introduction to partials
+Wa ka no
+4.2 Anatawa nihonjin desu
+Self introduction and Basic Construction
+4.3 Kore wa tsukue desu
+Demonstrative words and chart This That and over there
+Introduction of verb Masu and Desu and difference between them
+5 Title Grammar -2 1,2 6
+5.1 Koko ni Denwa Ga arimasu
+Demonstrative words and chart This That and over there
+Introduction of verb arimasu- for non living objects
+5.2 Koko ni hito ga imasu
+Demonstrative words and chart This That and over there
+Introduction of verb imasu- for living objects
+Kanji based on lesson verb conjugation chart
+5.3 Akai ringo wa ikutsu arimasu ka?
+Question words Ka Ga Ikutsu
+Kanjis
+6 Self
+Study Complex Kanji and grammar patterns and vocabulary 1,2 6*
+Total 28
+*not included in cumulative hours
+Text Books
+Sr. No Title Edition Authors Publisher Year
+1 Nihongo shoho 1 Shinobu Suzuki,
+Ikuo Kawase
+Bonjinsha,
+Tōkyō
+1985, Updated
+version 2020
+2 Balbharti – Japanese
+Textbook (Grade 11,12)
+2022 Balbharti Maharashtra
+State
+2022
+Reference Sites
+Sr. No Title Edition Authors Publisher Year
+1 www.mlc.co.jp
+2 The Japan Society
+
+--- PAGE 43 ---
+Course
+(Category)
+Code
+Course Name
+Teaching Scheme
+(Hrs/week) Credits Assigned
+L T P O E L T P Total
+HSSM-II
+Japanese Language-II
+2 0 0 5 7 2 0 0 2
+Examination Scheme
+Component ISE (%) MSE (%) ESE (%) Total
+HSM82
+Theory 20 20 60 100
+Laboratory -- -- -- --
+Pre-requisite Course Codes, if any. Japanese 1
+Course Objective:
+Course Outcomes (CO): At the end of the course students will be able to
+EC301.1 Articulate nuances of Japanese Language and Culture
+EC301.2 Write and Read Hiragana Script
+EC301.3 Write and Read Katakana Script
+EC301.4 Write and Read Kanji Script
+EC301.5 Kanji Based on Verb Conjugation of masu, desu, arimasu, imasu
+CO-PO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PO1 PO2 PO3 PO4 PO5 PO6 PO7 PO8 PO9 PO10 PO11 PO12
+EC301.1
+EC301.2
+EC301.3
+EC301.4
+EC301.5
+CO-PEO/PSO Correlation Matrix (3-Strong, 2-Moderate, 1-Weak Correlation)
+PEO1 PEO2 PEO3 PSO1 PSO2 PSO3
+EC301.1
+EC301.2
+EC301.3
+EC301.4
+EC301.5
+BLOOM’S Levels Targeted (Pl. Tick appropriate)
+Remember✓ Understand✓ Apply Analyze Evaluate Create
+
+--- PAGE 44 ---
+Theory Component
+Module
+No.
+Unit
+No. Topics Ref. Hrs.
+1
+2
+Title Counting 1,2 8
+1.1 Bara no hana wa ippon ikura desu ka?
+Counters in Japanese, chart measure words for various objects
+kanjis introduction to partials
+1.2 Aanatawa ashita doko e ikimasu ka?
+Particles, Kanji
+1.3 Nichi youbi wan ani o shimasu ka?
+Daily schedule related verbs verb chart, Kanjis
+2 Title Adjectives I ending and non I ending adjectives 1,2 6
+2.1 Watashi wa asa hayaku okimasu.
+2.2 kino wa atsu katta desu
+adjectives conjugation based on tenses,Kanjis
+3 Title Conjugate te form of the verb, kanjis 1,2 6
+3.1 Nihon e benkyo ni iki masu
+kanjis
+3.2 Are wa doko e iku basu desu ka?
+3.3 Nanji ni uchi wo dete, gakkou e ikimasu ka?
+4 Title Te kudasai, ii masu 1,2 8
+4.1 Nanji ni uchi wo dete, gakkou e ikimasu ka?
+4.2 Kono hon o kaite kudasai –
+Introduction of te kudasai pattern, Kanjis
+4.3 Eigo de nani wo iimasu ka?
+introcution of To ii masu Pattern, Kanjis
+6 Self
+Study Advance Kanji and grammar patterns and vocabulary 1,2 6*
+Total 28
+*not included in cumulative hours
+Text Books
+Sr. No Title Edition Authors Publisher Year
+1 Nihongo shoho 1 Shinobu
+Suzuki, Ikuo
+Kawase
+Bonjinsha,
+Tōkyō
+1985 Updated
+version 2020
+2 Balbharti – Japanese
+Textbook (Grade 11,12)
+2022 Balbharti Maharashtra
+State
+2022
+Reference Sites
+Sr. No Title Edition Authors Publisher Year
+1 www.mlc.co.jp
+2 The Japan Society

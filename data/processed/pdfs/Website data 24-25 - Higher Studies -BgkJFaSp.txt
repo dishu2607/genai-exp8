@@ -1,0 +1,37 @@
+--- PAGE 1 ---
+Batch : 2025
+Students opting for higher studies
+S.No. Graduating year of the
+Student
+Name of the
+University/Institutions
+Number of
+Students admitted
+Year of
+admission
+1 2024-25 UC Davis 1 2025-26
+2 2024-25 Rutgers University 3 2025-26
+3 2024-25 Stevens institute of technology 1 2025-26
+4 2024-25 Columbia University 1 2025-26
+5 2024-25
+University of Massachusetts,
+Amherst 3 2025-26
+6 2024-25
+University of Wisconsin -
+Madison 1 2025-26
+7 2024-25 Tufts University 1 2025-26
+8 2024-25 University of California 2 2025-26
+9 2024-25
+Georgia Institute of
+Technology 1 2025-26
+10 2024-25 University of Pennsylvania 1 2025-26
+11 2024-25 University of Illinois 2 2025-26
+12 2024-25 Purdue University 1 2025-26
+13 2024-25 New York University (NYU) 1 2025-26
+14 2024-25
+University of Colorado
+Boulder 1 2025-26
+15 2024-25 Carnegie Mellon University 1 2025-26
+16 2024-25 Stony Brook University 2 2025-26
+17 2024-25 University of Minnesota 1 2025-26
+Total 24
