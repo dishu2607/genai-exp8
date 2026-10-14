@@ -1,24 +1,27 @@
-cat > .gitignore <<'EOF'
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-
-# Virtual environments
-venv/
-.venv/
-env/
 
 # Secrets
 .env
 .env.*
 !.env.example
 
-# Jupyter
-.ipynb_checkpoints/
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
 
-# OS/editor files
+# Raw and generated corpus
+data/raw/
+data/processed/
+data/index/
+data/metadata/
+data/backup/
+
+# Temporary files
+*~
+*.tmp
 .DS_Store
-.vscode/
-.idea/
-EOF
+
+# Local experiment outputs
+# Uncomment if you want to exclude all experiment results
+# experiments/

@@ -1,0 +1,1397 @@
+[
+  {
+    "id": 1,
+    "topic": "Course identity",
+    "question": "What is the course code for Engineering Calculus?",
+    "expected": [
+      "MA101"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 1.437,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "The course code for **Engineering Calculus** is **MA101**【PASSAGE 1】【PASSAGE 2】【STRUCTURED LOOKUP RESULT】.",
+    "rag_latency_seconds": 1.351,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --\n\n[PASSAGE 3]\nSection: Online Resources:\n- 1) [https://nptel.ac.in/courses/111105121](https://nptel.ac.in/courses/111105121) - 2) [https://www.khanacademy.org/math/multivariable-calculus](https://www.khanacademy.org/math/multivariable-calculus) <!-- image -->\n\n[PASSAGE 4]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\n(R25: For Batches of 2025-29, 2026-30, 2027-31, and 2028-32) Table 1: Nomenclature of the Courses\n\n[PASSAGE 5]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->\n\n[PASSAGE 6]\nSection: Evaluation Scheme\n- 1) Laboratory Evaluation consists of Practical and Oral Examination based on the syllabus covering both Laboratory Teaching and all experiments. - 2) C Programming language is mandatory for all experiments in Laboratory component.\n\nSTRUCTURED LOOKUP RESULT:\n{\n  \"status\": \"candidate\",\n  \"course_code\": \"MA101\",\n  \"course_name\": \"Engineering Calculus\",\n  \"credits\": null,\n  \"sources\": [\n    {\n      \"table\": 9,\n      \"row\": 2,\n      \"heading\": \"Curriculum Structure\"\n    }\n  ]\n}",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.032018,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.029877,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.015385,
+        "prior": 0.0,
+        "chunk": "Section: Online Resources:\n- 1) [https://nptel.ac.in/courses/111105121](https://nptel.ac.in/courses/111105121) - 2) [https://www.khanacademy.org/math/multivariable-calculus](https://www.khanacademy.org/math/multivariable-calculus) <!-- image -->"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015152,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\n(R25: For Batches of 2025-29, 2026-30, 2027-31, and 2028-32) Table 1: Nomenclature of the Courses"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.014706,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.014706,
+        "prior": 0.0,
+        "chunk": "Section: Evaluation Scheme\n- 1) Laboratory Evaluation consists of Practical and Oral Examination based on the syllabus covering both Laboratory Teaching and all experiments. - 2) C Programming language is mandatory for all experiments in Laboratory component."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "topic": "Course identity",
+    "question": "What is the full course name associated with MA101?",
+    "expected": [
+      "Engineering Calculus"
+    ],
+    "answerable": true,
+    "icl_answer": "The full course name for MA101 is **Engineering Calculus**.",
+    "icl_latency_seconds": 0.893,
+    "icl_correct": true,
+    "icl_abstained": false,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "The full course name for **MA101** is **Engineering Calculus**【PASSAGE 1】.",
+    "rag_latency_seconds": 1.443,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nCourse Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems.\nCourse Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:-\nMA101.1 a function | Differentiate | partially and find extreme values of a given function.\nMA101.2 Find the nth order |  | derivative of a given function.\nMA101.3 Expand a given function |  | as a power series.\n\n[PASSAGE 4]\nSection: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nMA101.4 Calculate the value of |  | integrals in one variable using different techniques.\nMA101.5 Solve multiple integral |  | in various coordinate systems and use to calculate area.\n\n[PASSAGE 5]\nCurriculum record candidate\nCourse code: MA201\nCourse name: Differential Equations and Complex Analysis\nSemester: Not specified\nCredits: Not established\nSource heading: Sardar Patel Institute of Technology\nSource table: 12\nSource row: 2\n\n[PASSAGE 6]\nCurriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3\n\nSTRUCTURED LOOKUP RESULT:\n{\n  \"status\": \"candidate\",\n  \"course_code\": \"MA101\",\n  \"course_name\": \"Engineering Calculus\",\n  \"credits\": null,\n  \"sources\": [\n    {\n      \"table\": 9,\n      \"row\": 2,\n      \"heading\": \"Curriculum Structure\"\n    }\n  ]\n}",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.032787,
+        "prior": 0.26,
+        "chunk": "Curriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.014706,
+        "prior": 0.2,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.030159,
+        "prior": 0.12,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nCourse Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems.\nCourse Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:-\nMA101.1 a function | Differentiate | partially and find extreme values of a given function.\nMA101.2 Find the nth order |  | derivative of a given function.\nMA101.3 Expand a given function |  | as a power series."
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.029644,
+        "prior": 0.12,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nMA101.4 Calculate the value of |  | integrals in one variable using different techniques.\nMA101.5 Solve multiple integral |  | in various coordinate systems and use to calculate area."
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.016129,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: MA201\nCourse name: Differential Equations and Complex Analysis\nSemester: Not specified\nCredits: Not established\nSource heading: Sardar Patel Institute of Technology\nSource table: 12\nSource row: 2"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015873,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "topic": "Credits",
+    "question": "How many credits does MA101 carry?",
+    "expected": null,
+    "answerable": null,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 1.044,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "The available evidence does not give a definitive answer.\n\n* Passage 1 (Curriculum record) lists the credits for MA101 as “Not established.”  \n* Passage 2 contains a table that shows a “Credits Assigned – Total” value of **4** for an entry titled *Engineering Calculus*, but that row is labeled “BSES” rather than the course code MA101, and the subsequent row that does show the code MA101 only provides assessment‑scheme percentages, not credit numbers.\n\nBecause the sources conflict—one explicitly says the credit value is not established, while the other suggests 4 credits but does not clearly associate that total with the MA101 code—we cannot state with certainty how many credits MA101 carries.",
+    "rag_latency_seconds": 2.04,
+    "rag_correct": null,
+    "rag_abstained": false,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nMA101.4 Calculate the value of |  | integrals in one variable using different techniques.\nMA101.5 Solve multiple integral |  | in various coordinate systems and use to calculate area.\n\n[PASSAGE 4]\nSection: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nCourse Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems.\nCourse Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:-\nMA101.1 a function | Differentiate | partially and find extreme values of a given function.\nMA101.2 Find the nth order |  | derivative of a given function.\nMA101.3 Expand a given function |  | as a power series.\n\n[PASSAGE 5]\nCurriculum record candidate\nCourse code: MA201\nCourse name: Differential Equations and Complex Analysis\nSemester: Not specified\nCredits: Not established\nSource heading: Sardar Patel Institute of Technology\nSource table: 12\nSource row: 2\n\n[PASSAGE 6]\nCurriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3\n\nSTRUCTURED LOOKUP RESULT:\n{\n  \"status\": \"candidate\",\n  \"course_code\": \"MA101\",\n  \"course_name\": \"Engineering Calculus\",\n  \"credits\": null,\n  \"sources\": [\n    {\n      \"table\": 9,\n      \"row\": 2,\n      \"heading\": \"Curriculum Structure\"\n    }\n  ]\n}",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.032787,
+        "prior": 0.26,
+        "chunk": "Curriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.016129,
+        "prior": 0.2,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.031498,
+        "prior": 0.12,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nMA101.4 Calculate the value of |  | integrals in one variable using different techniques.\nMA101.5 Solve multiple integral |  | in various coordinate systems and use to calculate area."
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015625,
+        "prior": 0.12,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nCourse Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems.\nCourse Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:-\nMA101.1 a function | Differentiate | partially and find extreme values of a given function.\nMA101.2 Find the nth order |  | derivative of a given function.\nMA101.3 Expand a given function |  | as a power series."
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.016129,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: MA201\nCourse name: Differential Equations and Complex Analysis\nSemester: Not specified\nCredits: Not established\nSource heading: Sardar Patel Institute of Technology\nSource table: 12\nSource row: 2"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015873,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "topic": "Semester structure",
+    "question": "Which semesters are covered by the First-Year Engineering syllabus?",
+    "expected": [
+      "Semester I",
+      "Semester II"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 0.793,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "The First‑Year Engineering syllabus is organized for **Semester I and Semester II**【PASSAGE 4】.",
+    "rag_latency_seconds": 0.894,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->\n\n[PASSAGE 2]\nSection: B. Tech. (First Year Engineering)\nSyllabus (BSESEC) <!-- image --> Bharatiya Vidya Bhavan's\n\n[PASSAGE 3]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\n(R25: For Batches of 2025-29, 2026-30, 2027-31, and 2028-32) Table 1: Nomenclature of the Courses\n\n[PASSAGE 4]\nSection: Syllabus (Semester I-II)\n<!-- image -->\n\n[PASSAGE 5]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable 2: Abbreviations\n\n[PASSAGE 6]\nSection: Mini Project (Running Throughout the Semester)\nEach student team shall select one engineering problem from domains such as: - Smart Cities - Healthcare Technology - Sustainable Energy - Agriculture &amp; Food Systems - Industrial Automation - Education Technology - Environmental Sustainability - Assistive Technologies - Transportation Systems - Industry 4.0 Laboratory Component: Experiments 1-10 shall collectively contribute to the semester-long Design Thinking Mini Project.",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.032266,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.032018,
+        "prior": 0.0,
+        "chunk": "Section: B. Tech. (First Year Engineering)\nSyllabus (BSESEC) <!-- image --> Bharatiya Vidya Bhavan's"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.032002,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\n(R25: For Batches of 2025-29, 2026-30, 2027-31, and 2028-32) Table 1: Nomenclature of the Courses"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.031281,
+        "prior": 0.0,
+        "chunk": "Section: Syllabus (Semester I-II)\n<!-- image -->"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.03055,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable 2: Abbreviations"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015385,
+        "prior": 0.0,
+        "chunk": "Section: Mini Project (Running Throughout the Semester)\nEach student team shall select one engineering problem from domains such as: - Smart Cities - Healthcare Technology - Sustainable Energy - Agriculture &amp; Food Systems - Industrial Automation - Education Technology - Environmental Sustainability - Assistive Technologies - Transportation Systems - Industry 4.0 Laboratory Component: Experiments 1-10 shall collectively contribute to the semester-long Design Thinking Mini Project."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "topic": "Curriculum overview",
+    "question": "What is the official title of the syllabus document?",
+    "expected": [
+      "First Year Engineering",
+      "Semester I-II"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 1.615,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "The supplied evidence contains two different headings that could be interpreted as the document’s title:\n\n* **Passage 1** – the section is headed **“Syllabus (Semester I‑II)”**.  \n* **Passage 3** – the section is headed **“Syllabus (BSESEC)”** (under “B. Tech. (First Year Engineering)”).\n\nBecause the evidence presents two distinct titles, the exact official title of the syllabus document cannot be determined unambiguously from the material provided. The document appears to be titled either “Syllabus (Semester I‑II)” or “Syllabus (BSESEC)”, but the evidence does not clarify which is the definitive official title.",
+    "rag_latency_seconds": 1.7,
+    "rag_correct": true,
+    "rag_abstained": true,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nSection: Syllabus (Semester I-II)\n<!-- image -->\n\n[PASSAGE 2]\nSection: Evaluation Scheme\n- 1) Laboratory Evaluation consists of Practical and Oral Examination based on the syllabus covering both Laboratory Teaching and all experiments. - 2) C Programming language is mandatory for all experiments in Laboratory component.\n\n[PASSAGE 3]\nSection: B. Tech. (First Year Engineering)\nSyllabus (BSESEC) <!-- image --> Bharatiya Vidya Bhavan's\n\n[PASSAGE 4]\nSection: Reference Books:\nTable type: other_table\nTable number: 79\nSr. No. | Title | Edition | Authors | Publisher | Year\n1. | Oxford Practice Grammar | 1999 | John Eastwood | Oxford, India | 1999\n2. | English Grammar for Today | 2005 | Geoffrey Leech | Palgrave, UK | 2005\n3. | Communication Skills | 2010 | Dr. Meera Bharwani | Synergy Knowledgeware, India | 2010\n4. | Communication Skills | 2011 | Meenakshi Raman, Sangeeta Sharma | Oxford, India | 2011\n5. | Effective Technical Communication | 2018 | M. Ashraf Rizvi | McGraw Hill, India | 2018\n\n[PASSAGE 5]\nSection: Theory Component:\nTable type: other_table\nTable number: 13\nModule No. | Unit No. | Topics | Ref | Hrs.\n2. | Title | Linear Differential Equations of higher order | 1,2,3 | 11\n2. | 2.1 | Linear Differential Equation with constant coefficient- complementary function, particular integrals of differential equation of the type f(D)y = X where X is 𝑒 𝑎𝑥 , sin(ax+b), cos(ax+b), 𝑥𝑚, 𝑒 𝑎𝑥V, xV, where V is a function of x. |  | 7\n2. | 2.2 | Cauchy's homogeneous linear differential equation and Method of variation of parameters for second order. |  | 2\n2. | 2.3 | System of Differential Equations. |  | 2\n3. | Title | Complex Numbers | 1,2,3 | 11\n\n[PASSAGE 6]\nSection: Text books:\nTable type: other_table\nTable number: 78\nSr. No. | Title | Edition | Authors | Publisher | Year\n1. | Technical Communication: Principles and Practice | 4 th Edition | Meenakshi Raman and Sangeeta Sharma | Oxford University Press | 2022\n2. | A Concise Public Speaking Handbook | 6 th Edition | Beebe, Steven A and Susan J. Beebe | Pearson | 2024",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.031099,
+        "prior": 0.0,
+        "chunk": "Section: Syllabus (Semester I-II)\n<!-- image -->"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: Evaluation Scheme\n- 1) Laboratory Evaluation consists of Practical and Oral Examination based on the syllabus covering both Laboratory Teaching and all experiments. - 2) C Programming language is mandatory for all experiments in Laboratory component."
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: B. Tech. (First Year Engineering)\nSyllabus (BSESEC) <!-- image --> Bharatiya Vidya Bhavan's"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Reference Books:\nTable type: other_table\nTable number: 79\nSr. No. | Title | Edition | Authors | Publisher | Year\n1. | Oxford Practice Grammar | 1999 | John Eastwood | Oxford, India | 1999\n2. | English Grammar for Today | 2005 | Geoffrey Leech | Palgrave, UK | 2005\n3. | Communication Skills | 2010 | Dr. Meera Bharwani | Synergy Knowledgeware, India | 2010\n4. | Communication Skills | 2011 | Meenakshi Raman, Sangeeta Sharma | Oxford, India | 2011\n5. | Effective Technical Communication | 2018 | M. Ashraf Rizvi | McGraw Hill, India | 2018"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Theory Component:\nTable type: other_table\nTable number: 13\nModule No. | Unit No. | Topics | Ref | Hrs.\n2. | Title | Linear Differential Equations of higher order | 1,2,3 | 11\n2. | 2.1 | Linear Differential Equation with constant coefficient- complementary function, particular integrals of differential equation of the type f(D)y = X where X is 𝑒 𝑎𝑥 , sin(ax+b), cos(ax+b), 𝑥𝑚, 𝑒 𝑎𝑥V, xV, where V is a function of x. |  | 7\n2. | 2.2 | Cauchy's homogeneous linear differential equation and Method of variation of parameters for second order. |  | 2\n2. | 2.3 | System of Differential Equations. |  | 2\n3. | Title | Complex Numbers | 1,2,3 | 11"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015625,
+        "prior": 0.0,
+        "chunk": "Section: Text books:\nTable type: other_table\nTable number: 78\nSr. No. | Title | Edition | Authors | Publisher | Year\n1. | Technical Communication: Principles and Practice | 4 th Edition | Meenakshi Raman and Sangeeta Sharma | Oxford University Press | 2022\n2. | A Concise Public Speaking Handbook | 6 th Edition | Beebe, Steven A and Susan J. Beebe | Pearson | 2024"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "topic": "Curriculum categories",
+    "question": "What does BSESC stand for in the curriculum classification table?",
+    "expected": [
+      "Basic Science",
+      "Engineering Science Courses"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine what BSESC stands for from the supplied syllabus evidence.",
+    "icl_latency_seconds": 1.161,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "In the curriculum classification table, the abbreviation **BSESC** stands for **“Basic Science & Engineering Science Courses.”**【PASSAGE 6】",
+    "rag_latency_seconds": 3.005,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: AS115\nCourse name: Professional Communication\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 8\n\n[PASSAGE 2]\nCurriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2\n\n[PASSAGE 3]\nCurriculum record candidate\nCourse code: CECS101\nCourse name: Imperative Programming Lab\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 7\n\n[PASSAGE 4]\nCurriculum record candidate\nCourse code: AS113\nCourse name: Design Thinking/ Engineering Exploration\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 6\n\n[PASSAGE 5]\nCurriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3\n\n[PASSAGE 6]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESC | Basic Science & Engineering Science Courses\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESEC | Basic Science & Engineering Science Elective Courses\nSkill Based Courses (SBC) | SEC | Skill Enhancement Course\nSkill Based Courses (SBC) | LLC | Liberal Learning Courses\nHumanities | HSSMC | Humanities, Social Science and Management Courses",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.016129,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: AS115\nCourse name: Professional Communication\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 8"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.015873,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.015625,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: CECS101\nCourse name: Imperative Programming Lab\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 7"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015385,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: AS113\nCourse name: Design Thinking/ Engineering Exploration\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 6"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015152,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.032787,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESC | Basic Science & Engineering Science Courses\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESEC | Basic Science & Engineering Science Elective Courses\nSkill Based Courses (SBC) | SEC | Skill Enhancement Course\nSkill Based Courses (SBC) | LLC | Liberal Learning Courses\nHumanities | HSSMC | Humanities, Social Science and Management Courses"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "topic": "Curriculum categories",
+    "question": "What does BSESEC stand for?",
+    "expected": [
+      "Basic Science",
+      "Engineering Science Elective Courses"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 3.927,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "The provided evidence does not give a full expansion of the acronym **BSESEC**. The only information shown is that the syllabus is labeled “(BSESEC)” and is associated with “Bharatiya Vidya Bhavan’s,” but the exact words represented by the letters B S E S E C are not stated in the excerpts.",
+    "rag_latency_seconds": 7.588,
+    "rag_correct": false,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nSection: B. Tech. (First Year Engineering)\nSyllabus (BSESEC) <!-- image --> Bharatiya Vidya Bhavan's\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 88\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Engineering Physics | 2 | 0 | 2 | 6 | 10 | 2 | 0 | 1 | 3\nBSESEC | Engineering Physics | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC |  | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total (%)\nAS101 / AS201 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\n |  | Laboratory | Laboratory | 80 | 80 | - | - | 20 | 20 | 100\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 143\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Thermal and | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC |  | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC | Fluid | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS110 / AS210 | Engineering | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS110 / AS210 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --\n\n[PASSAGE 4]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 122\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Biology for Engineers | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Biology for Engineers | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC | Biology for Engineers | Component ISE | Component ISE | Component ISE | (%) MSE | (%) MSE | (%) ESE | (%) ESE | (%) Total | (%) Total\nAS106 / AS206 | Biology for Engineers | Theory | Theory | Theory | 20 | 20 | 20 60 | 20 60 | 100 | 100\nAS106 / AS206 | Biology for Engineers | Laboratory | Laboratory | Laboratory | -- | -- | -- -- | -- -- | -- | --\n\n[PASSAGE 5]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 135\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC |  | 2 | 0 | 2 | 6 | 10 | 2 | 0 | 1 | 3\nBSESEC |  | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC |  | Signal and Systems Component | Signal and Systems Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS108 / AS208 |  | Theory | Theory |  |  | 20 | 20 | 60 | 60 | 100\nAS108 / AS208 |  | Laboratory | Laboratory | 80 | 80 | -- | -- | 20 | 20 | 100\n\n[PASSAGE 6]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 129\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Principles of Electromagnetics | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Principles of Electromagnetics | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC | Principles of Electromagnetics | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS107 / AS207 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\n |  | Laboratory | Laboratory | - | - | -- | -- | - | - | -",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.032266,
+        "prior": 0.0,
+        "chunk": "Section: B. Tech. (First Year Engineering)\nSyllabus (BSESEC) <!-- image --> Bharatiya Vidya Bhavan's"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.031258,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 88\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Engineering Physics | 2 | 0 | 2 | 6 | 10 | 2 | 0 | 1 | 3\nBSESEC | Engineering Physics | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC |  | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total (%)\nAS101 / AS201 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\n |  | Laboratory | Laboratory | 80 | 80 | - | - | 20 | 20 | 100"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.03125,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 143\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Thermal and | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC |  | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC | Fluid | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS110 / AS210 | Engineering | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS110 / AS210 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.030886,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 122\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Biology for Engineers | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Biology for Engineers | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC | Biology for Engineers | Component ISE | Component ISE | Component ISE | (%) MSE | (%) MSE | (%) ESE | (%) ESE | (%) Total | (%) Total\nAS106 / AS206 | Biology for Engineers | Theory | Theory | Theory | 20 | 20 | 20 60 | 20 60 | 100 | 100\nAS106 / AS206 | Biology for Engineers | Laboratory | Laboratory | Laboratory | -- | -- | -- -- | -- -- | -- | --"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.030622,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 135\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC |  | 2 | 0 | 2 | 6 | 10 | 2 | 0 | 1 | 3\nBSESEC |  | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC |  | Signal and Systems Component | Signal and Systems Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS108 / AS208 |  | Theory | Theory |  |  | 20 | 20 | 60 | 60 | 100\nAS108 / AS208 |  | Laboratory | Laboratory | 80 | 80 | -- | -- | 20 | 20 | 100"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.030536,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 129\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Principles of Electromagnetics | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Principles of Electromagnetics | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC | Principles of Electromagnetics | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS107 / AS207 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\n |  | Laboratory | Laboratory | - | - | -- | -- | - | - | -"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "topic": "Curriculum categories",
+    "question": "What does SEC stand for in the course-category table?",
+    "expected": [
+      "Skill Enhancement Course"
+    ],
+    "answerable": true,
+    "icl_answer": "SEC stands for **Skill Enhancement Course**.",
+    "icl_latency_seconds": 5.614,
+    "icl_correct": true,
+    "icl_abstained": false,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "SEC stands for **Skill Enhancement Course**【PASSAGE 2】.",
+    "rag_latency_seconds": 13.056,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 41\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nSEC | Imperative Programming | 0 | 0 | 4 | 2 | 6 | 0 | 0 | 2 | 2\nSEC | Imperative Programming | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nSEC | Imperative Programming | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nCECS101 | Lab | Theory | Theory | - | - | - | - | - | - | -\nCECS101 | Lab | Laboratory | Laboratory | 80 | 80 | -- | -- | 20 | 20 | 100\n\n[PASSAGE 2]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESC | Basic Science & Engineering Science Courses\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESEC | Basic Science & Engineering Science Elective Courses\nSkill Based Courses (SBC) | SEC | Skill Enhancement Course\nSkill Based Courses (SBC) | LLC | Liberal Learning Courses\nHumanities | HSSMC | Humanities, Social Science and Management Courses\n\n[PASSAGE 3]\nSection: Curriculum Structure\nTable type: curriculum_candidate\nTable number: 3\nSEM I - Sr. No. | SEM I - Course Category | SEM I - Abbr. | SEM I - Course Code | SEM I - Course Name | SEM I - L | SEM I - T | SEM I - P | SEM I - SE | SEM I - TE | SEM I - C\n6 | Skill Enhanceme nt Course | SEC | CECS101 | Imperative Programming Lab | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS115 | Professional Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses (Audit) | LLC | LLC101/ LLC102/ LLC103 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | 12/ 13 | 2 | 13/ 11 | 23/ 24 | 50 | 20\n\n[PASSAGE 4]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 80\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nSEC | Corporate Communication | 0 | 1 | 2 | 0 | 3 | 0 | 1 | 1 | 2\nSEC | Corporate Communication | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS215 |  | Component | Component | Component | ISE (%) MSE | ISE (%) MSE | (%) ESE | (%) ESE | (%) | Total\nAS215 | Skills | Theory | Theory | Theory | -- | -- | 50 | 50 | - | -\nAS215 |  | Tutorials | Tutorials | Tutorials | 150 | 150 | - | - | - | 200\n\n[PASSAGE 5]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 48\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nSEC | Object Oriented Programming Lab | 0 | 0 | 4 | 2 | 6 | 0 | 0 | 2 | 2\nSEC | Object Oriented Programming Lab | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nSEC | Object Oriented Programming Lab | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nCECS201 | Object Oriented Programming Lab | Theory | Theory | - | - | - | - | - | - | -\nCECS201 | Object Oriented Programming Lab | Laboratory | Laboratory | 80 | 80 | -- | -- | 20 | 20 | 100\n\n[PASSAGE 6]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 60\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nSEC | Design Thinking | 0 | 1 | 2 | 0 | 3 | 0 | 1 | 1 | 2\nSEC | Design Thinking | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nSEC | Design Thinking | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS113/213 | Design Thinking | Theory | Theory | 20 | 20 | - | - | - | - | 20\nAS113/213 | Design Thinking | Laboratory | Laboratory | 60 | 60 | - | - | 20 | 20 | 80",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.032002,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 41\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nSEC | Imperative Programming | 0 | 0 | 4 | 2 | 6 | 0 | 0 | 2 | 2\nSEC | Imperative Programming | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nSEC | Imperative Programming | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nCECS101 | Lab | Theory | Theory | - | - | - | - | - | - | -\nCECS101 | Lab | Laboratory | Laboratory | 80 | 80 | -- | -- | 20 | 20 | 100"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.031545,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESC | Basic Science & Engineering Science Courses\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESEC | Basic Science & Engineering Science Elective Courses\nSkill Based Courses (SBC) | SEC | Skill Enhancement Course\nSkill Based Courses (SBC) | LLC | Liberal Learning Courses\nHumanities | HSSMC | Humanities, Social Science and Management Courses"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.031319,
+        "prior": 0.0,
+        "chunk": "Section: Curriculum Structure\nTable type: curriculum_candidate\nTable number: 3\nSEM I - Sr. No. | SEM I - Course Category | SEM I - Abbr. | SEM I - Course Code | SEM I - Course Name | SEM I - L | SEM I - T | SEM I - P | SEM I - SE | SEM I - TE | SEM I - C\n6 | Skill Enhanceme nt Course | SEC | CECS101 | Imperative Programming Lab | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS115 | Professional Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses (Audit) | LLC | LLC101/ LLC102/ LLC103 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | 12/ 13 | 2 | 13/ 11 | 23/ 24 | 50 | 20"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.030415,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 80\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nSEC | Corporate Communication | 0 | 1 | 2 | 0 | 3 | 0 | 1 | 1 | 2\nSEC | Corporate Communication | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS215 |  | Component | Component | Component | ISE (%) MSE | ISE (%) MSE | (%) ESE | (%) ESE | (%) | Total\nAS215 | Skills | Theory | Theory | Theory | -- | -- | 50 | 50 | - | -\nAS215 |  | Tutorials | Tutorials | Tutorials | 150 | 150 | - | - | - | 200"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.030331,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 48\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nSEC | Object Oriented Programming Lab | 0 | 0 | 4 | 2 | 6 | 0 | 0 | 2 | 2\nSEC | Object Oriented Programming Lab | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nSEC | Object Oriented Programming Lab | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nCECS201 | Object Oriented Programming Lab | Theory | Theory | - | - | - | - | - | - | -\nCECS201 | Object Oriented Programming Lab | Laboratory | Laboratory | 80 | 80 | -- | -- | 20 | 20 | 100"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.029911,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 60\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nSEC | Design Thinking | 0 | 1 | 2 | 0 | 3 | 0 | 1 | 1 | 2\nSEC | Design Thinking | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nSEC | Design Thinking | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS113/213 | Design Thinking | Theory | Theory | 20 | 20 | - | - | - | - | 20\nAS113/213 | Design Thinking | Laboratory | Laboratory | 60 | 60 | - | - | 20 | 20 | 80"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "topic": "Curriculum categories",
+    "question": "What does LLC stand for in the curriculum classification table?",
+    "expected": [
+      "Liberal Learning Courses"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 2.845,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "LLC is the abbreviation for **“Liberal Learning Courses”** in the curriculum classification table【PASSAGE 6】.",
+    "rag_latency_seconds": 8.11,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2\n\n[PASSAGE 2]\nCurriculum record candidate\nCourse code: AS115\nCourse name: Professional Communication\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 8\n\n[PASSAGE 3]\nCurriculum record candidate\nCourse code: CECS101\nCourse name: Imperative Programming Lab\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 7\n\n[PASSAGE 4]\nCurriculum record candidate\nCourse code: AS113\nCourse name: Design Thinking/ Engineering Exploration\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 6\n\n[PASSAGE 5]\nCurriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3\n\n[PASSAGE 6]\nSection: Curriculum Structure\nTable type: curriculum_candidate\nTable number: 3\nSEM I - Sr. No. | SEM I - Course Category | SEM I - Abbr. | SEM I - Course Code | SEM I - Course Name | SEM I - L | SEM I - T | SEM I - P | SEM I - SE | SEM I - TE | SEM I - C\n6 | Skill Enhanceme nt Course | SEC | CECS101 | Imperative Programming Lab | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS115 | Professional Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses (Audit) | LLC | LLC101/ LLC102/ LLC103 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | 12/ 13 | 2 | 13/ 11 | 23/ 24 | 50 | 20",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.015873,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.015625,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: AS115\nCourse name: Professional Communication\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 8"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.015385,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: CECS101\nCourse name: Imperative Programming Lab\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 7"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015152,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: AS113\nCourse name: Design Thinking/ Engineering Exploration\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 6"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.014925,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.032787,
+        "prior": 0.0,
+        "chunk": "Section: Curriculum Structure\nTable type: curriculum_candidate\nTable number: 3\nSEM I - Sr. No. | SEM I - Course Category | SEM I - Abbr. | SEM I - Course Code | SEM I - Course Name | SEM I - L | SEM I - T | SEM I - P | SEM I - SE | SEM I - TE | SEM I - C\n6 | Skill Enhanceme nt Course | SEC | CECS101 | Imperative Programming Lab | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS115 | Professional Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses (Audit) | LLC | LLC101/ LLC102/ LLC103 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | 12/ 13 | 2 | 13/ 11 | 23/ 24 | 50 | 20"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "topic": "Curriculum categories",
+    "question": "What does HSSMC stand for?",
+    "expected": [
+      "Humanities",
+      "Social Science",
+      "Management Courses"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 0.889,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "HSSMC stands for **Humanities, Social Science and Management Courses**【PASSAGE 1】.",
+    "rag_latency_seconds": 13.221,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESC | Basic Science & Engineering Science Courses\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESEC | Basic Science & Engineering Science Elective Courses\nSkill Based Courses (SBC) | SEC | Skill Enhancement Course\nSkill Based Courses (SBC) | LLC | Liberal Learning Courses\nHumanities | HSSMC | Humanities, Social Science and Management Courses\n\n[PASSAGE 2]\nSection: Laboratory Component:\nTable type: other_table\nTable number: 106\nSr. No. | Title of the Experiment\n1. | Draw the force polygon and determine the equilibrant force for a concurrent coplanar force system.\n2. | Use the conditions of equilibrium for a parallel force system and determine the support reactions.\n3. | Apply the principle of moment for equilibrium of levers.\n4. | Determine the coefficient of friction for glass slab and a metal plate on an inclined plane.\n5. | Determine the axial forces using Lami's theorem for Jib crane apparatus.\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 116\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Materials for EEE | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Materials for EEE | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS105 / AS205 | Materials for EEE | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS105 / AS205 | Materials for EEE | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS105 / AS205 | Materials for EEE | Laboratory | Laboratory | - | - | -- | -- | - | - | -\n\n[PASSAGE 4]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 122\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Biology for Engineers | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Biology for Engineers | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC | Biology for Engineers | Component ISE | Component ISE | Component ISE | (%) MSE | (%) MSE | (%) ESE | (%) ESE | (%) Total | (%) Total\nAS106 / AS206 | Biology for Engineers | Theory | Theory | Theory | 20 | 20 | 20 60 | 20 60 | 100 | 100\nAS106 / AS206 | Biology for Engineers | Laboratory | Laboratory | Laboratory | -- | -- | -- -- | -- -- | -- | --\n\n[PASSAGE 5]\nSection: Reference Books\nTable type: other_table\nTable number: 128\nSr. No. | Title | Edition | Authors | Publisher | Year\n1. | Biology for Engineers | 1 st | Arthur T. Johnson | CRC Press, Taylor and Francis | 2011\n2. | Biology for Engineers |  | Danial Schodek | MIT Press | \n\n[PASSAGE 6]\nSection: 6. Counter using JK Flip-Flops and Asynchronous\n1. Design and Implement MOD 4 UP &amp; Down counters using JK Flip-Flops 2. Design and Implement MOD 10 Asynchronous counters using IC 7490 Activity for Fast Learner: Use 7-segment display for showing counting of 2 to 8 using decade counter.",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESC | Basic Science & Engineering Science Courses\nBasic Sciences and Engineering Sciences Courses (BSES) | BSESEC | Basic Science & Engineering Science Elective Courses\nSkill Based Courses (SBC) | SEC | Skill Enhancement Course\nSkill Based Courses (SBC) | LLC | Liberal Learning Courses\nHumanities | HSSMC | Humanities, Social Science and Management Courses"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Laboratory Component:\nTable type: other_table\nTable number: 106\nSr. No. | Title of the Experiment\n1. | Draw the force polygon and determine the equilibrant force for a concurrent coplanar force system.\n2. | Use the conditions of equilibrium for a parallel force system and determine the support reactions.\n3. | Apply the principle of moment for equilibrium of levers.\n4. | Determine the coefficient of friction for glass slab and a metal plate on an inclined plane.\n5. | Determine the axial forces using Lami's theorem for Jib crane apparatus."
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 116\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Materials for EEE | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Materials for EEE | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS105 / AS205 | Materials for EEE | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS105 / AS205 | Materials for EEE | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS105 / AS205 | Materials for EEE | Laboratory | Laboratory | - | - | -- | -- | - | - | -"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015625,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 122\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Biology for Engineers | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Biology for Engineers | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC | Biology for Engineers | Component ISE | Component ISE | Component ISE | (%) MSE | (%) MSE | (%) ESE | (%) ESE | (%) Total | (%) Total\nAS106 / AS206 | Biology for Engineers | Theory | Theory | Theory | 20 | 20 | 20 60 | 20 60 | 100 | 100\nAS106 / AS206 | Biology for Engineers | Laboratory | Laboratory | Laboratory | -- | -- | -- -- | -- -- | -- | --"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015385,
+        "prior": 0.0,
+        "chunk": "Section: Reference Books\nTable type: other_table\nTable number: 128\nSr. No. | Title | Edition | Authors | Publisher | Year\n1. | Biology for Engineers | 1 st | Arthur T. Johnson | CRC Press, Taylor and Francis | 2011\n2. | Biology for Engineers |  | Danial Schodek | MIT Press | "
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015152,
+        "prior": 0.0,
+        "chunk": "Section: 6. Counter using JK Flip-Flops and Asynchronous\n1. Design and Implement MOD 4 UP &amp; Down counters using JK Flip-Flops 2. Design and Implement MOD 10 Asynchronous counters using IC 7490 Activity for Fast Learner: Use 7-segment display for showing counting of 2 to 8 using decade counter."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "topic": "Curriculum categories",
+    "question": "What does PCC stand for in the curriculum classification table?",
+    "expected": [
+      "Program Core Courses"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 5.801,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "PCC stands for **Program Core Courses**【PASSAGE 6】.",
+    "rag_latency_seconds": 2.11,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: AS115\nCourse name: Professional Communication\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 8\n\n[PASSAGE 2]\nCurriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2\n\n[PASSAGE 3]\nCurriculum record candidate\nCourse code: CECS101\nCourse name: Imperative Programming Lab\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 7\n\n[PASSAGE 4]\nCurriculum record candidate\nCourse code: AS113\nCourse name: Design Thinking/ Engineering Exploration\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 6\n\n[PASSAGE 5]\nCurriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3\n\n[PASSAGE 6]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.030835,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: AS115\nCourse name: Professional Communication\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 8"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.015873,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.015625,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: CECS101\nCourse name: Imperative Programming Lab\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 7"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015385,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: AS113\nCourse name: Design Thinking/ Engineering Exploration\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 6"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015152,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.032787,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "topic": "Curriculum categories",
+    "question": "What does PEC stand for?",
+    "expected": [
+      "Program Elective Courses"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 3.985,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "PEC stands for **Program Elective Courses**【PASSAGE 3】.",
+    "rag_latency_seconds": 9.596,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3\n\n[PASSAGE 2]\nCurriculum record candidate\nCourse code: EC201\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC)/ Basic Electrical & Electronics Engineering (CE & CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Sardar Patel Institute of Technology\nSource table: 12\nSource row: 3\n\n[PASSAGE 3]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor\n\n[PASSAGE 4]\nSection: Laboratory Component:\nTable type: other_table\nTable number: 106\nSr. No. | Title of the Experiment\n1. | Draw the force polygon and determine the equilibrant force for a concurrent coplanar force system.\n2. | Use the conditions of equilibrium for a parallel force system and determine the support reactions.\n3. | Apply the principle of moment for equilibrium of levers.\n4. | Determine the coefficient of friction for glass slab and a metal plate on an inclined plane.\n5. | Determine the axial forces using Lami's theorem for Jib crane apparatus.\n\n[PASSAGE 5]\nSection: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 26\nCourse Outcomes (CO): At the end of the course students will be able to | Course Outcomes (CO): At the end of the course students will be able to\nEC102/202.1 | Analyze different active dc networks in steady state and transient conditions.\nEC102/202.2 | Analyze ac circuit in steady state condition with the knowledge of ac power measurement and resonance.\nEC102/202.3 | Define fundamental principles and characteristics of common electric machines used in common residential and industrial applications\nEC102/202.4 | Discuss about Photovoltaic solar cells, their characteristics and applications with the knowledge of battery storage system\nEC102/202.5 | Examine electrical parameters of the batteries and their selection and design criteria for a specific application\n\n[PASSAGE 6]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 116\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Materials for EEE | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Materials for EEE | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS105 / AS205 | Materials for EEE | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS105 / AS205 | Materials for EEE | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS105 / AS205 | Materials for EEE | Laboratory | Laboratory | - | - | -- | -- | - | - | -",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.016393,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.015385,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: EC201\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC)/ Basic Electrical & Electronics Engineering (CE & CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Sardar Patel Institute of Technology\nSource table: 12\nSource row: 3"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.032522,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Laboratory Component:\nTable type: other_table\nTable number: 106\nSr. No. | Title of the Experiment\n1. | Draw the force polygon and determine the equilibrant force for a concurrent coplanar force system.\n2. | Use the conditions of equilibrium for a parallel force system and determine the support reactions.\n3. | Apply the principle of moment for equilibrium of levers.\n4. | Determine the coefficient of friction for glass slab and a metal plate on an inclined plane.\n5. | Determine the axial forces using Lami's theorem for Jib crane apparatus."
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 26\nCourse Outcomes (CO): At the end of the course students will be able to | Course Outcomes (CO): At the end of the course students will be able to\nEC102/202.1 | Analyze different active dc networks in steady state and transient conditions.\nEC102/202.2 | Analyze ac circuit in steady state condition with the knowledge of ac power measurement and resonance.\nEC102/202.3 | Define fundamental principles and characteristics of common electric machines used in common residential and industrial applications\nEC102/202.4 | Discuss about Photovoltaic solar cells, their characteristics and applications with the knowledge of battery storage system\nEC102/202.5 | Examine electrical parameters of the batteries and their selection and design criteria for a specific application"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 116\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Materials for EEE | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Materials for EEE | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS105 / AS205 | Materials for EEE | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS105 / AS205 | Materials for EEE | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS105 / AS205 | Materials for EEE | Laboratory | Laboratory | - | - | -- | -- | - | - | -"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "topic": "Curriculum categories",
+    "question": "What does OEC stand for?",
+    "expected": [
+      "Open Elective Courses"
+    ],
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 0.893,
+    "icl_correct": false,
+    "icl_abstained": true,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "OEC stands for **Open Elective Courses**【PASSAGE 1】.",
+    "rag_latency_seconds": 7.63,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 98\n2. |  | numericals for calculations of Gross and Net calorific values. |  | \n2. | 2.2 | Petrol vs Diesel w.r.t. constitution, performance and specifications | 1,2, 3 | 2\n2. | 2.3 | Calculations for requirement of only Oxygen and air (by weight and by volume only) for given solid & gaseous fuels. | 2,2 | 2\n2. | 2.4 | Alternate fuels and Hydrogen Economy | 1, 2 | 2\n | Title | Battery Technology |  | \n | 3.1 | Introduction, Important terms, Lead Acid storage Cell, Rechargeable Lithium ion batteries | 1, 3 | 3\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 36\n |  | convention), working principle and emf equation of transformer |  | \nTotal (*not included) | Total (*not included) | Total (*not included) | Total (*not included) | 42\n\n[PASSAGE 4]\nSection: Laboratory Component:\nTable type: other_table\nTable number: 106\nSr. No. | Title of the Experiment\n1. | Draw the force polygon and determine the equilibrant force for a concurrent coplanar force system.\n2. | Use the conditions of equilibrium for a parallel force system and determine the support reactions.\n3. | Apply the principle of moment for equilibrium of levers.\n4. | Determine the coefficient of friction for glass slab and a metal plate on an inclined plane.\n5. | Determine the axial forces using Lami's theorem for Jib crane apparatus.\n\n[PASSAGE 5]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 146\n |  | Law, Convection, Newton-Richmann's Law of Cooling, Concept of Forced and Natural Convection, Radiation, Stefan-Boltzmann's Law, Problems |  | \nTotal (*Not Included) | Total (*Not Included) | Total (*Not Included) | Total (*Not Included) | 42\n\n[PASSAGE 6]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 116\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Materials for EEE | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Materials for EEE | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS105 / AS205 | Materials for EEE | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS105 / AS205 | Materials for EEE | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS105 / AS205 | Materials for EEE | Laboratory | Laboratory | - | - | -- | -- | - | - | -",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.032522,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.03009,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 98\n2. |  | numericals for calculations of Gross and Net calorific values. |  | \n2. | 2.2 | Petrol vs Diesel w.r.t. constitution, performance and specifications | 1,2, 3 | 2\n2. | 2.3 | Calculations for requirement of only Oxygen and air (by weight and by volume only) for given solid & gaseous fuels. | 2,2 | 2\n2. | 2.4 | Alternate fuels and Hydrogen Economy | 1, 2 | 2\n | Title | Battery Technology |  | \n | 3.1 | Introduction, Important terms, Lead Acid storage Cell, Rechargeable Lithium ion batteries | 1, 3 | 3"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 36\n |  | convention), working principle and emf equation of transformer |  | \nTotal (*not included) | Total (*not included) | Total (*not included) | Total (*not included) | 42"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Laboratory Component:\nTable type: other_table\nTable number: 106\nSr. No. | Title of the Experiment\n1. | Draw the force polygon and determine the equilibrant force for a concurrent coplanar force system.\n2. | Use the conditions of equilibrium for a parallel force system and determine the support reactions.\n3. | Apply the principle of moment for equilibrium of levers.\n4. | Determine the coefficient of friction for glass slab and a metal plate on an inclined plane.\n5. | Determine the axial forces using Lami's theorem for Jib crane apparatus."
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 146\n |  | Law, Convection, Newton-Richmann's Law of Cooling, Concept of Forced and Natural Convection, Radiation, Stefan-Boltzmann's Law, Problems |  | \nTotal (*Not Included) | Total (*Not Included) | Total (*Not Included) | Total (*Not Included) | 42"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 116\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Materials for EEE | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Materials for EEE | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS105 / AS205 | Materials for EEE | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS105 / AS205 | Materials for EEE | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS105 / AS205 | Materials for EEE | Laboratory | Laboratory | - | - | -- | -- | - | - | -"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "topic": "Curriculum categories",
+    "question": "What does MDM stand for?",
+    "expected": [
+      "Multidisciplinary Minor"
+    ],
+    "answerable": true,
+    "icl_answer": "MDM stands for Multidisciplinary Minor.",
+    "icl_latency_seconds": 6.172,
+    "icl_correct": true,
+    "icl_abstained": false,
+    "icl_scoring_status": "automatic_keyword_proxy",
+    "rag_answer": "MDM stands for **Multidisciplinary Minor**【PASSAGE 1】.",
+    "rag_latency_seconds": 10.151,
+    "rag_correct": true,
+    "rag_abstained": false,
+    "rag_scoring_status": "automatic_keyword_proxy",
+    "rag_evidence": "[PASSAGE 1]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: curriculum_candidate\nTable number: 4\nSEM II - Sr. No. | SEM II - Course Category | SEM II - Abbr. | SEM II - Course Code | SEM II - Course Name | SEM II - L | SEM II - T | SEM II - P | SEM II - SE | SEM II - TE | SEM II - C\n6 | Skill Enhanceme nt Course | SEC | CECS201 /CECS20 2 | Object Oriented Programming Lab (CE & CSE)/Data Structure Lab (ECE) | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS215 | Corporate Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses | LLC | LLC201/ LLC202/ LLC203 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | Total | 12/ 13 2 | 13/ 11 | 23/ 24 | 50 | 20\n\n[PASSAGE 3]\nSection: Laboratory Component:\nTable type: other_table\nTable number: 106\nSr. No. | Title of the Experiment\n1. | Draw the force polygon and determine the equilibrant force for a concurrent coplanar force system.\n2. | Use the conditions of equilibrium for a parallel force system and determine the support reactions.\n3. | Apply the principle of moment for equilibrium of levers.\n4. | Determine the coefficient of friction for glass slab and a metal plate on an inclined plane.\n5. | Determine the axial forces using Lami's theorem for Jib crane apparatus.\n\n[PASSAGE 4]\nSection: Curriculum Structure\nTable type: curriculum_candidate\nTable number: 3\nSEM I - Sr. No. | SEM I - Course Category | SEM I - Abbr. | SEM I - Course Code | SEM I - Course Name | SEM I - L | SEM I - T | SEM I - P | SEM I - SE | SEM I - TE | SEM I - C\n6 | Skill Enhanceme nt Course | SEC | CECS101 | Imperative Programming Lab | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS115 | Professional Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses (Audit) | LLC | LLC101/ LLC102/ LLC103 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | 12/ 13 | 2 | 13/ 11 | 23/ 24 | 50 | 20\n\n[PASSAGE 5]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 116\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Materials for EEE | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Materials for EEE | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS105 / AS205 | Materials for EEE | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS105 / AS205 | Materials for EEE | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS105 / AS205 | Materials for EEE | Laboratory | Laboratory | - | - | -- | -- | - | - | -\n\n[PASSAGE 6]\nSection: Sardar Patel Institute of Technology\nTable type: curriculum_candidate\nTable number: 4\nSEM II - Sr. No. | SEM II - Course Category | SEM II - Abbr. | SEM II - Course Code | SEM II - Course Name | SEM II - L | SEM II - T | SEM II - P | SEM II - SE | SEM II - TE | SEM II - C\n1 | Basic & Engg. Sciences | BSES | MA201 | Differential Equations and Complex Analysis | 3 | 1 | 0 | 7 | 11 | 4\n2 | Basic & Engg. Sciences | BSES | EC201/ EC202/ EC203 | Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC)/ Basic Electrical & Electronics Engineering (CE & CSE) | 3 | 0 | 2 | 6 | 11 | 4\n3 | Basic Science & Engg. Sciences Elective | BSESE | AS2XX | Please refer to Table 3 | 2/3 |  | 2/0 | 6/7 | 10 | 3\n4 | Open Elective | OE-II | OE2XX | Please refer to Table 4 | 3 | 0 | 0 | 0 | 3 | 3\n5 | Skill Enhanceme nt Course | SEC | AS213/ AS214 | Design Thinking/ Engineering Exploration | 0 | 1 | 2 | 0 | 3 | 2",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.032522,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: curriculum_candidate\nTable number: 4\nSEM II - Sr. No. | SEM II - Course Category | SEM II - Abbr. | SEM II - Course Code | SEM II - Course Name | SEM II - L | SEM II - T | SEM II - P | SEM II - SE | SEM II - TE | SEM II - C\n6 | Skill Enhanceme nt Course | SEC | CECS201 /CECS20 2 | Object Oriented Programming Lab (CE & CSE)/Data Structure Lab (ECE) | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS215 | Corporate Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses | LLC | LLC201/ LLC202/ LLC203 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | Total | 12/ 13 2 | 13/ 11 | 23/ 24 | 50 | 20"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Laboratory Component:\nTable type: other_table\nTable number: 106\nSr. No. | Title of the Experiment\n1. | Draw the force polygon and determine the equilibrant force for a concurrent coplanar force system.\n2. | Use the conditions of equilibrium for a parallel force system and determine the support reactions.\n3. | Apply the principle of moment for equilibrium of levers.\n4. | Determine the coefficient of friction for glass slab and a metal plate on an inclined plane.\n5. | Determine the axial forces using Lami's theorem for Jib crane apparatus."
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Curriculum Structure\nTable type: curriculum_candidate\nTable number: 3\nSEM I - Sr. No. | SEM I - Course Category | SEM I - Abbr. | SEM I - Course Code | SEM I - Course Name | SEM I - L | SEM I - T | SEM I - P | SEM I - SE | SEM I - TE | SEM I - C\n6 | Skill Enhanceme nt Course | SEC | CECS101 | Imperative Programming Lab | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS115 | Professional Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses (Audit) | LLC | LLC101/ LLC102/ LLC103 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | 12/ 13 | 2 | 13/ 11 | 23/ 24 | 50 | 20"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 116\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC | Materials for EEE | 3 | 0 | 0 | 7 | 10 | 3 | 0 | 0 | 3\nBSESEC | Materials for EEE | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nAS105 / AS205 | Materials for EEE | Component | Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS105 / AS205 | Materials for EEE | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nAS105 / AS205 | Materials for EEE | Laboratory | Laboratory | - | - | -- | -- | - | - | -"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015625,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: curriculum_candidate\nTable number: 4\nSEM II - Sr. No. | SEM II - Course Category | SEM II - Abbr. | SEM II - Course Code | SEM II - Course Name | SEM II - L | SEM II - T | SEM II - P | SEM II - SE | SEM II - TE | SEM II - C\n1 | Basic & Engg. Sciences | BSES | MA201 | Differential Equations and Complex Analysis | 3 | 1 | 0 | 7 | 11 | 4\n2 | Basic & Engg. Sciences | BSES | EC201/ EC202/ EC203 | Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC)/ Basic Electrical & Electronics Engineering (CE & CSE) | 3 | 0 | 2 | 6 | 11 | 4\n3 | Basic Science & Engg. Sciences Elective | BSESE | AS2XX | Please refer to Table 3 | 2/3 |  | 2/0 | 6/7 | 10 | 3\n4 | Open Elective | OE-II | OE2XX | Please refer to Table 4 | 3 | 0 | 0 | 0 | 3 | 3\n5 | Skill Enhanceme nt Course | SEC | AS213/ AS214 | Design Thinking/ Engineering Exploration | 0 | 1 | 2 | 0 | 3 | 2"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "topic": "Course list",
+    "question": "List the courses prescribed for Semester I.",
+    "expected": null,
+    "answerable": true,
+    "icl_answer": "I’m sorry, but I cannot determine the courses prescribed for Semester I from the supplied evidence.",
+    "icl_latency_seconds": 4.563,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "**Courses shown for Semester I (as per the curriculum table in the evidence):**\n\n| Course Code | Course Name |\n|-------------|-------------|\n| CECS101 | Imperative Programming Lab |\n| AS115 | Professional Communication |\n| LLC101 / LLC102 / LLC103 | Art of Living / Leadership for Youth / Harmony with Nature (Liberal Learning – audit) |\n\n*The table excerpt provided includes only these three entries for Semester I; if the original curriculum contains additional courses, they are not present in the supplied evidence.*",
+    "rag_latency_seconds": 7.697,
+    "rag_correct": null,
+    "rag_abstained": false,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nSection: Curriculum Structure\nTable type: curriculum_candidate\nTable number: 3\nSEM I - Sr. No. | SEM I - Course Category | SEM I - Abbr. | SEM I - Course Code | SEM I - Course Name | SEM I - L | SEM I - T | SEM I - P | SEM I - SE | SEM I - TE | SEM I - C\n6 | Skill Enhanceme nt Course | SEC | CECS101 | Imperative Programming Lab | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS115 | Professional Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses (Audit) | LLC | LLC101/ LLC102/ LLC103 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | 12/ 13 | 2 | 13/ 11 | 23/ 24 | 50 | 20\n\n[PASSAGE 2]\nSection: Syllabus (Semester I-II)\n<!-- image -->\n\n[PASSAGE 3]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\n(R25: For Batches of 2025-29, 2026-30, 2027-31, and 2028-32) Table 1: Nomenclature of the Courses\n\n[PASSAGE 4]\nSection: Mini Project (Running Throughout the Semester)\n<!-- image -->\n\n[PASSAGE 5]\nSection: † Laboratory Teaching and Experiment List\n1. Laboratory Teaching - Linear and Non-linear Data structures. Stack and Queues as ADT and its Operations. Title of Experiment - Experiment based Stack and/or Queue data structure in linear and/or non-linear implementation to solve the given problem. 2. Laboratory Teaching - Singly and Doubly Linked List as ADT and its Operations. Title of Experiment - Experiment based Singly and/or Doubly Linked List to solve the given problem. <!-- image -->\n\n[PASSAGE 6]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.015625,
+        "prior": 0.08,
+        "chunk": "Section: Curriculum Structure\nTable type: curriculum_candidate\nTable number: 3\nSEM I - Sr. No. | SEM I - Course Category | SEM I - Abbr. | SEM I - Course Code | SEM I - Course Name | SEM I - L | SEM I - T | SEM I - P | SEM I - SE | SEM I - TE | SEM I - C\n6 | Skill Enhanceme nt Course | SEC | CECS101 | Imperative Programming Lab | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS115 | Professional Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses (Audit) | LLC | LLC101/ LLC102/ LLC103 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | 12/ 13 | 2 | 13/ 11 | 23/ 24 | 50 | 20"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.032787,
+        "prior": 0.0,
+        "chunk": "Section: Syllabus (Semester I-II)\n<!-- image -->"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.031514,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\n(R25: For Batches of 2025-29, 2026-30, 2027-31, and 2028-32) Table 1: Nomenclature of the Courses"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.03055,
+        "prior": 0.0,
+        "chunk": "Section: Mini Project (Running Throughout the Semester)\n<!-- image -->"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: † Laboratory Teaching and Experiment List\n1. Laboratory Teaching - Linear and Non-linear Data structures. Stack and Queues as ADT and its Operations. Title of Experiment - Experiment based Stack and/or Queue data structure in linear and/or non-linear implementation to solve the given problem. 2. Laboratory Teaching - Singly and Doubly Linked List as ADT and its Operations. Title of Experiment - Experiment based Singly and/or Doubly Linked List to solve the given problem. <!-- image -->"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "topic": "Course list",
+    "question": "List the courses prescribed for Semester II.",
+    "expected": null,
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 4.664,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "**Courses prescribed for Semester II (as shown in the curriculum tables):**\n\n| Sr No. | Course Code(s) | Course Name |\n|--------|----------------|-------------|\n| 1 | MA201 | Differential Equations and Complex Analysis |\n| 2 | EC201 / EC202 / EC203 | Digital Systems and Microprocessors / Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE & CSE) |\n| 3 | AS2XX | Please refer to Table 3 |\n| 4 | OE2XX | Please refer to Table 4 |\n| 5 | AS213 / AS214 | Design Thinking / Engineering Exploration |\n| 6 | CECS201 / CECS202 | Object Oriented Programming Lab (CE & CSE) / Data Structure Lab (ECE) |\n| 7 | AS215 | Corporate Communication |\n| 8 | LLC201 / LLC202 / LLC203 | Art of Living / Leadership for Youth / Harmony with Nature |\n\n*Sources:* PASSAGE 2 (rows 1‑5) and PASSAGE 1 (rows 6‑8) provide the semester‑II course codes and names.",
+    "rag_latency_seconds": 7.169,
+    "rag_correct": null,
+    "rag_abstained": false,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nSection: Sardar Patel Institute of Technology\nTable type: curriculum_candidate\nTable number: 4\nSEM II - Sr. No. | SEM II - Course Category | SEM II - Abbr. | SEM II - Course Code | SEM II - Course Name | SEM II - L | SEM II - T | SEM II - P | SEM II - SE | SEM II - TE | SEM II - C\n6 | Skill Enhanceme nt Course | SEC | CECS201 /CECS20 2 | Object Oriented Programming Lab (CE & CSE)/Data Structure Lab (ECE) | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS215 | Corporate Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses | LLC | LLC201/ LLC202/ LLC203 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | Total | 12/ 13 2 | 13/ 11 | 23/ 24 | 50 | 20\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: curriculum_candidate\nTable number: 4\nSEM II - Sr. No. | SEM II - Course Category | SEM II - Abbr. | SEM II - Course Code | SEM II - Course Name | SEM II - L | SEM II - T | SEM II - P | SEM II - SE | SEM II - TE | SEM II - C\n1 | Basic & Engg. Sciences | BSES | MA201 | Differential Equations and Complex Analysis | 3 | 1 | 0 | 7 | 11 | 4\n2 | Basic & Engg. Sciences | BSES | EC201/ EC202/ EC203 | Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC)/ Basic Electrical & Electronics Engineering (CE & CSE) | 3 | 0 | 2 | 6 | 11 | 4\n3 | Basic Science & Engg. Sciences Elective | BSESE | AS2XX | Please refer to Table 3 | 2/3 |  | 2/0 | 6/7 | 10 | 3\n4 | Open Elective | OE-II | OE2XX | Please refer to Table 4 | 3 | 0 | 0 | 0 | 3 | 3\n5 | Skill Enhanceme nt Course | SEC | AS213/ AS214 | Design Thinking/ Engineering Exploration | 0 | 1 | 2 | 0 | 3 | 2\n\n[PASSAGE 3]\nSection: Syllabus (Semester I-II)\n<!-- image -->\n\n[PASSAGE 4]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\n(R25: For Batches of 2025-29, 2026-30, 2027-31, and 2028-32) Table 1: Nomenclature of the Courses\n\n[PASSAGE 5]\nSection: Mini Project (Running Throughout the Semester)\n<!-- image -->\n\n[PASSAGE 6]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.016129,
+        "prior": 0.08,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: curriculum_candidate\nTable number: 4\nSEM II - Sr. No. | SEM II - Course Category | SEM II - Abbr. | SEM II - Course Code | SEM II - Course Name | SEM II - L | SEM II - T | SEM II - P | SEM II - SE | SEM II - TE | SEM II - C\n6 | Skill Enhanceme nt Course | SEC | CECS201 /CECS20 2 | Object Oriented Programming Lab (CE & CSE)/Data Structure Lab (ECE) | 0 | 0 | 4 | 2 | 6 | 2\n7 | Skill Enhanceme nt Course | SEC | AS215 | Corporate Communication | 0 | 1 | 2 | 2 | 5 | 2\n8 | Liberal Learning Courses | LLC | LLC201/ LLC202/ LLC203 | Art of Living/ Leadership for Youth/ Harmony with Nature | 0 | 0 | 1 | 0 | 1 | NC\nTotal | Total | Total | Total | Total | Total | 12/ 13 2 | 13/ 11 | 23/ 24 | 50 | 20"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.015625,
+        "prior": 0.08,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: curriculum_candidate\nTable number: 4\nSEM II - Sr. No. | SEM II - Course Category | SEM II - Abbr. | SEM II - Course Code | SEM II - Course Name | SEM II - L | SEM II - T | SEM II - P | SEM II - SE | SEM II - TE | SEM II - C\n1 | Basic & Engg. Sciences | BSES | MA201 | Differential Equations and Complex Analysis | 3 | 1 | 0 | 7 | 11 | 4\n2 | Basic & Engg. Sciences | BSES | EC201/ EC202/ EC203 | Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC)/ Basic Electrical & Electronics Engineering (CE & CSE) | 3 | 0 | 2 | 6 | 11 | 4\n3 | Basic Science & Engg. Sciences Elective | BSESE | AS2XX | Please refer to Table 3 | 2/3 |  | 2/0 | 6/7 | 10 | 3\n4 | Open Elective | OE-II | OE2XX | Please refer to Table 4 | 3 | 0 | 0 | 0 | 3 | 3\n5 | Skill Enhanceme nt Course | SEC | AS213/ AS214 | Design Thinking/ Engineering Exploration | 0 | 1 | 2 | 0 | 3 | 2"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.032787,
+        "prior": 0.0,
+        "chunk": "Section: Syllabus (Semester I-II)\n<!-- image -->"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.031514,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\n(R25: For Batches of 2025-29, 2026-30, 2027-31, and 2028-32) Table 1: Nomenclature of the Courses"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.03055,
+        "prior": 0.0,
+        "chunk": "Section: Mini Project (Running Throughout the Semester)\n<!-- image -->"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.029877,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 1\nGroups | Abbreviation | Course Category\nProgram Related Courses (PRC) | PCC | Program Core Courses\nProgram Related Courses (PRC) | PEC | Program Elective Courses\nProgram Related Courses (PRC) | ELC | Experiential Leaning Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | OEC | Open Elective Courses\nMulti-Cross-Trans disciplinary courses (MCTD) | MDM | Multidisciplinary Minor"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "topic": "Learning outcomes",
+    "question": "What learning outcomes are listed for Engineering Calculus?",
+    "expected": null,
+    "answerable": true,
+    "icl_answer": "I cannot determine the learning outcomes for Engineering Calculus from the supplied evidence.",
+    "icl_latency_seconds": 6.853,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "The supplied evidence does not contain any learning‑outcome statements that are explicitly linked to the course **Engineering Calculus** (MA101). The outcome list in Passage 2 is presented without a course identifier, so it cannot be confirmed as belonging to Engineering Calculus. Consequently, based on the available evidence, no learning outcomes can be provided for Engineering Calculus.",
+    "rag_latency_seconds": 9.956,
+    "rag_correct": null,
+    "rag_abstained": true,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 68\nCourse Outcomes (CO): At the End of the course students will be able to | Course Outcomes (CO): At the End of the course students will be able to\nAS114/214.1 | Explain the role of engineering, science, technology, and ethics in solving real- world problems responsibly.\nAS114/214.2 | Apply project management and teamwork principles to plan and execute need statements.\nAS114/214.3 | Analyze engineering solutions using sustainability, life cycle assessment, embodied energy, carbon footprint, and basic mechanism concepts.\nAS114/214.4 | Develop feasible design concepts using problem definition, function structure, morphological chart, ideation, and product architecture.\nAS114/214.5 | Create and implement basic engineering prototypes using virtual modelling tools, embedded platforms, and hardware-software interfacing.\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --\n\n[PASSAGE 4]\nSection: Reference Books:\nTable type: other_table\nTable number: 87\nSr. No. | Title | Edition | Authors | Publisher | Year\n6. | Emotional Intelligence: Why It Can Matter More Than IQ | Updated Edition | Daniel Goleman | Bloomsbury Publishing | 2020\n7. | Crucial Conversations: Tools for Talking When Stakes Are High | 3rd Edition | Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler | McGraw-Hill | 2022\n8. | Business Ethics: Concepts and Cases | 9th Edition | Manuel G. Velasquez | Pearson | 2023\n9. | Intellectual Property Rights | 3rd Edition | C. Chellamuthu and V. K. S. K. Subramanian | PHI Learning | 2022\n\n[PASSAGE 5]\nSection: Pre-requisites Course Codes, if any. HSC Level Chemistry\nTable type: outcomes_or_details\nTable number: 96\nCourse Outcomes (CO):At the End of the course students will be able to: | Course Outcomes (CO):At the End of the course students will be able to:\nAS102.1 / AS202.1 Apply principles of industrial water quality estimation and analyze water treatment methods such as softening, filtration, desalination, and wastewater treatment for industrial and environmental applications | \n/ Compare different sources of energy like conventional fossil fuels, alternative fuels, batteries, Hydrogen fuel cells with respect to availability, working principles, constitution, efficiency of performance and environmental impact. | AS102.2 AS202.2\nAS102.3 / AS202.3 Identify methods for corrosion control based on knowledge of different types of corrosion and factors affecting rate of corrosion | \nUnderstand the structure and properties of advanced polymeric materials like conducting polymers, engineering polymers and liquid crystal polymers for modern engineering applications. | AS102.4 / AS202.4\n/ Understand sustainability and environmental issues in chemical industries. | AS102.5 AS202.5\n\n[PASSAGE 6]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.015152,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 68\nCourse Outcomes (CO): At the End of the course students will be able to | Course Outcomes (CO): At the End of the course students will be able to\nAS114/214.1 | Explain the role of engineering, science, technology, and ethics in solving real- world problems responsibly.\nAS114/214.2 | Apply project management and teamwork principles to plan and execute need statements.\nAS114/214.3 | Analyze engineering solutions using sustainability, life cycle assessment, embodied energy, carbon footprint, and basic mechanism concepts.\nAS114/214.4 | Develop feasible design concepts using problem definition, function structure, morphological chart, ideation, and product architecture.\nAS114/214.5 | Create and implement basic engineering prototypes using virtual modelling tools, embedded platforms, and hardware-software interfacing."
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.015385,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.014925,
+        "prior": 0.0,
+        "chunk": "Section: Reference Books:\nTable type: other_table\nTable number: 87\nSr. No. | Title | Edition | Authors | Publisher | Year\n6. | Emotional Intelligence: Why It Can Matter More Than IQ | Updated Edition | Daniel Goleman | Bloomsbury Publishing | 2020\n7. | Crucial Conversations: Tools for Talking When Stakes Are High | 3rd Edition | Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler | McGraw-Hill | 2022\n8. | Business Ethics: Concepts and Cases | 9th Edition | Manuel G. Velasquez | Pearson | 2023\n9. | Intellectual Property Rights | 3rd Edition | C. Chellamuthu and V. K. S. K. Subramanian | PHI Learning | 2022"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.014493,
+        "prior": 0.0,
+        "chunk": "Section: Pre-requisites Course Codes, if any. HSC Level Chemistry\nTable type: outcomes_or_details\nTable number: 96\nCourse Outcomes (CO):At the End of the course students will be able to: | Course Outcomes (CO):At the End of the course students will be able to:\nAS102.1 / AS202.1 Apply principles of industrial water quality estimation and analyze water treatment methods such as softening, filtration, desalination, and wastewater treatment for industrial and environmental applications | \n/ Compare different sources of energy like conventional fossil fuels, alternative fuels, batteries, Hydrogen fuel cells with respect to availability, working principles, constitution, efficiency of performance and environmental impact. | AS102.2 AS202.2\nAS102.3 / AS202.3 Identify methods for corrosion control based on knowledge of different types of corrosion and factors affecting rate of corrosion | \nUnderstand the structure and properties of advanced polymeric materials like conducting polymers, engineering polymers and liquid crystal polymers for modern engineering applications. | AS102.4 / AS202.4\n/ Understand sustainability and environmental issues in chemical industries. | AS102.5 AS202.5"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.014286,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "topic": "Course structure",
+    "question": "What do L, T, P, C, SE, and TE mean in the syllabus abbreviations table?",
+    "expected": null,
+    "answerable": true,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 6.679,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "**L** – Lecture Hour  \n**T** – Tutorial Hour  \n**P** – Laboratory Hour  \n**C** – Credit Assigned  \n**SE** – Self‑Engagement of learners in Hours  \n**TE** – Total Engagement of learners in Hours  \n\n(These definitions are taken directly from the syllabus abbreviations table in the provided evidence.)",
+    "rag_latency_seconds": 8.294,
+    "rag_correct": null,
+    "rag_abstained": false,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 2\nAbbreviations | Abbreviations | Abbreviations | Abbreviations\nL | Lecture Hour | SE | Self-Engagement of learners in Hours\nT | Tutorial Hour | TE | Total Engagement of learners in Hours\nP | Laboratory Hour | C | Credit Assigned\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 77\n4. | ISE 4 - Critical Reading | 10\n5. | ISE 5 - Routine Letters and Business Writing | 20\n6. | ISE 6 - Storytelling | 20\n7. | ISE 7 - Conversational Skills | 10\n8. | ISE 8 - Formal Speech | 15\n9. | ISE 9 - Group Presentation | 15\n\n[PASSAGE 4]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 11\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Differential Equations and Complex | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Differential Equations and Complex | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Differential Equations and Complex | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA201 | Analysis | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA201 | Analysis | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --\n\n[PASSAGE 5]\nSection: Laboratory Component:\nTable type: other_table\nTable number: 76\nSr. No. | Title of the assignments | Marks\n1. | ISE 1 - Communication Theory | 10\n2. | ISE 2 - Listening Comprehension (Audio) & Note-taking (TED Talk) | 20\n3. | ISE 3 - Creative Writing | 20\n\n[PASSAGE 6]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 135\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC |  | 2 | 0 | 2 | 6 | 10 | 2 | 0 | 1 | 3\nBSESEC |  | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC |  | Signal and Systems Component | Signal and Systems Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS108 / AS208 |  | Theory | Theory |  |  | 20 | 20 | 60 | 60 | 100\nAS108 / AS208 |  | Laboratory | Laboratory | 80 | 80 | -- | -- | 20 | 20 | 100",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.032787,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable type: other_table\nTable number: 2\nAbbreviations | Abbreviations | Abbreviations | Abbreviations\nL | Lecture Hour | SE | Self-Engagement of learners in Hours\nT | Tutorial Hour | TE | Total Engagement of learners in Hours\nP | Laboratory Hour | C | Credit Assigned"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.03031,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 5\nCourse (Category) - Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Engineering Calculus | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Engineering Calculus | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Engineering Calculus | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA101 |  | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA101 |  | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 77\n4. | ISE 4 - Critical Reading | 10\n5. | ISE 5 - Routine Letters and Business Writing | 20\n6. | ISE 6 - Storytelling | 20\n7. | ISE 7 - Conversational Skills | 10\n8. | ISE 8 - Formal Speech | 15\n9. | ISE 9 - Group Presentation | 15"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 11\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSES | Differential Equations and Complex | 3 | 1 | 0 | 7 | 11 | 3 | 1 | 0 | 4\nBSES | Differential Equations and Complex | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSES | Differential Equations and Complex | Component | Component | ISE(%) | ISE(%) | MSE(%) | MSE(%) | ESE(%) | ESE(%) | Total\nMA201 | Analysis | Theory | Theory | 20 | 20 | 20 | 20 | 60 | 60 | 100\nMA201 | Analysis | Laboratory | Laboratory | -- | -- | -- | -- | -- | -- | --"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Laboratory Component:\nTable type: other_table\nTable number: 76\nSr. No. | Title of the assignments | Marks\n1. | ISE 1 - Communication Theory | 10\n2. | ISE 2 - Listening Comprehension (Audio) & Note-taking (TED Talk) | 20\n3. | ISE 3 - Creative Writing | 20"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 135\nCourse (Category) Code | Course Name | Teaching Scheme (Hrs/week) - L | Teaching Scheme (Hrs/week) - T | Teaching Scheme (Hrs/week) - P | Teaching Scheme (Hrs/week) - SE | Teaching Scheme (Hrs/week) - TE | Credits Assigned - L | Credits Assigned - T | Credits Assigned - P | Credits Assigned - Total\nBSESEC |  | 2 | 0 | 2 | 6 | 10 | 2 | 0 | 1 | 3\nBSESEC |  | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme | Examination Scheme\nBSESEC |  | Signal and Systems Component | Signal and Systems Component | ISE (%) | ISE (%) | MSE (%) | MSE (%) | ESE (%) | ESE (%) | Total\nAS108 / AS208 |  | Theory | Theory |  |  | 20 | 20 | 60 | 60 | 100\nAS108 / AS208 |  | Laboratory | Laboratory | 80 | 80 | -- | -- | 20 | 20 | 100"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "topic": "Assessment",
+    "question": "What assessment components and marks are prescribed for MA101?",
+    "expected": null,
+    "answerable": true,
+    "icl_answer": "I cannot determine the assessment components and marks for MA101 from the supplied evidence.",
+    "icl_latency_seconds": 2.992,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "ERROR: Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-120b` in organization `org_01krbtt3gkf29ryytzy13n385b` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6334, Requested 1707. Please try again in 307.5ms. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "rag_latency_seconds": null,
+    "rag_correct": null,
+    "rag_abstained": null,
+    "rag_scoring_status": "error",
+    "rag_evidence": "",
+    "retrieval_details": []
+  },
+  {
+    "id": 20,
+    "topic": "Teaching structure",
+    "question": "What are the lecture, tutorial, and practical hours for MA101?",
+    "expected": null,
+    "answerable": true,
+    "icl_answer": "I cannot determine the lecture, tutorial, and practical hours for MA101 from the supplied evidence.",
+    "icl_latency_seconds": 3.041,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "The supplied evidence does not contain any information about the number of lecture, tutorial, or practical hours for MA101. Therefore, I cannot provide those details.",
+    "rag_latency_seconds": 1.815,
+    "rag_correct": null,
+    "rag_abstained": true,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nCourse Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems.\nCourse Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:-\nMA101.1 a function | Differentiate | partially and find extreme values of a given function.\nMA101.2 Find the nth order |  | derivative of a given function.\nMA101.3 Expand a given function |  | as a power series.\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nMA101.4 Calculate the value of |  | integrals in one variable using different techniques.\nMA101.5 Solve multiple integral |  | in various coordinate systems and use to calculate area.\n\n[PASSAGE 4]\nCurriculum record candidate\nCourse code: MA201\nCourse name: Differential Equations and Complex Analysis\nSemester: Not specified\nCredits: Not established\nSource heading: Sardar Patel Institute of Technology\nSource table: 12\nSource row: 2\n\n[PASSAGE 5]\nCurriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3\n\n[PASSAGE 6]\nSection: Online Resources:\n- 1) Fundamentals of Engineering Materials: Introduction to Materials Science and Engineering - YouTube - 2) [Magnetic materials: Concepts in Magnetism and Superconductivity NPTEL Study Materials - Video Lectures &amp; Resources | NPTELPrep](https://nptelprep.in/courses/115105131/materials) - 3) [Advanced and Emerging Materials: Advanced Materials Lecture Series | IAAM](https://www.iaamonline.org/advanced-materials-lecture-series) <!-- image -->\n\nSTRUCTURED LOOKUP RESULT:\n{\n  \"status\": \"candidate\",\n  \"course_code\": \"MA101\",\n  \"course_name\": \"Engineering Calculus\",\n  \"credits\": null,\n  \"sources\": [\n    {\n      \"table\": 9,\n      \"row\": 2,\n      \"heading\": \"Curriculum Structure\"\n    }\n  ]\n}",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.016393,
+        "prior": 0.26,
+        "chunk": "Curriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.016129,
+        "prior": 0.12,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nCourse Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems. | Course Objective: To develop mathematical skills for solving engineering problems.\nCourse Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:- | Course Outcomes (CO): At the End of the course students will be able to:-\nMA101.1 a function | Differentiate | partially and find extreme values of a given function.\nMA101.2 Find the nth order |  | derivative of a given function.\nMA101.3 Expand a given function |  | as a power series."
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.015385,
+        "prior": 0.12,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: outcomes_or_details\nTable number: 6\nPre-requisite Course Codes, if any. | Pre-requisite Course Codes, if any. | Basics of derivatives and integration done earlier.\nMA101.4 Calculate the value of |  | integrals in one variable using different techniques.\nMA101.5 Solve multiple integral |  | in various coordinate systems and use to calculate area."
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015625,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: MA201\nCourse name: Differential Equations and Complex Analysis\nSemester: Not specified\nCredits: Not established\nSource heading: Sardar Patel Institute of Technology\nSource table: 12\nSource row: 2"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.014925,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: EC101\nCourse name: Digital Systems and Microprocessors/ Basic Electrical Engineering (EXTC) / Basic Electrical & Electronics Engineering (CE&CSE)\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 3"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.030579,
+        "prior": 0.0,
+        "chunk": "Section: Online Resources:\n- 1) Fundamentals of Engineering Materials: Introduction to Materials Science and Engineering - YouTube - 2) [Magnetic materials: Concepts in Magnetism and Superconductivity NPTEL Study Materials - Video Lectures &amp; Resources | NPTELPrep](https://nptelprep.in/courses/115105131/materials) - 3) [Advanced and Emerging Materials: Advanced Materials Lecture Series | IAAM](https://www.iaamonline.org/advanced-materials-lecture-series) <!-- image -->"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "topic": "Document scope",
+    "question": "What was the average CGPA of students who graduated from SPIT last year?",
+    "expected": null,
+    "answerable": false,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 2.369,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "The provided evidence does not contain any information about the average CGPA of students who graduated from Sardar Patel Institute of Technology (SPIT) last year. Therefore, I cannot answer that question based on the available data.",
+    "rag_latency_seconds": 5.124,
+    "rag_correct": null,
+    "rag_abstained": true,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: AS115\nCourse name: Professional Communication\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 8\n\n[PASSAGE 2]\nCurriculum record candidate\nCourse code: AS113\nCourse name: Design Thinking/ Engineering Exploration\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 6\n\n[PASSAGE 3]\nSection: Pre-requisites Course Codes, if any. HSC Level Chemistry\nTable type: outcomes_or_details\nTable number: 96\nCourse Outcomes (CO):At the End of the course students will be able to: | Course Outcomes (CO):At the End of the course students will be able to:\n/ Use electrochemical and analytical techniques such as pH-metric, conductometric, potentiometric, and iodometric titrations for analysis of water and in the interest of public heath and environment. | AS102.6 AS102.6\n\n[PASSAGE 4]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->\n\n[PASSAGE 5]\nSection: In Semester Evaluation:\n- The students will be assessed during the entire course duration; this ISE will carry 80% of the weightage. - Students are expected to get involved in each and every activity of the course. The progress will be evaluated on continuous basis, having regular assessment points. It will be shared by faculty. - In continuous assessment focus shall also be on each individual student, assessment based on individual's contribution in group activity, their understanding and response to questions. - The End Semester Evaluation (ESE) shall be scheduled during the last week of semester. During the ESE, internal faculties and external experts will be invited to evaluate the final Prototype of the Idea Statement. - The course will end with an Exhibition event. During this Exhibition, groups will showcase their working prototype and the entire institute (students, faculties) will be invited to visit the Exhibition. - The best 2 or 3 groups will be shortlisted at the end of the course. The ranking of shortlisted projects will be given by higher authorities and domain experts. <!-- image -->\n\n[PASSAGE 6]\nSection: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) divisible by 8 and arrange the numbers in ascending order and store the result in specified memory location 10. Array Transfer from one memory location to other on simulator Objective: Perform block transfer of 10, 8-bit numbers from location C500H to C600H. Activity for Fast Learner: Write a program generate Fibonacci series for 50 numbers and store the result in memory location starting from C600H",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.015625,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: AS115\nCourse name: Professional Communication\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 8"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.014706,
+        "prior": 0.06,
+        "chunk": "Curriculum record candidate\nCourse code: AS113\nCourse name: Design Thinking/ Engineering Exploration\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 6"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.03031,
+        "prior": 0.0,
+        "chunk": "Section: Pre-requisites Course Codes, if any. HSC Level Chemistry\nTable type: outcomes_or_details\nTable number: 96\nCourse Outcomes (CO):At the End of the course students will be able to: | Course Outcomes (CO):At the End of the course students will be able to:\n/ Use electrochemical and analytical techniques such as pH-metric, conductometric, potentiometric, and iodometric titrations for analysis of water and in the interest of public heath and environment. | AS102.6 AS102.6"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: In Semester Evaluation:\n- The students will be assessed during the entire course duration; this ISE will carry 80% of the weightage. - Students are expected to get involved in each and every activity of the course. The progress will be evaluated on continuous basis, having regular assessment points. It will be shared by faculty. - In continuous assessment focus shall also be on each individual student, assessment based on individual's contribution in group activity, their understanding and response to questions. - The End Semester Evaluation (ESE) shall be scheduled during the last week of semester. During the ESE, internal faculties and external experts will be invited to evaluate the final Prototype of the Idea Statement. - The course will end with an Exhibition event. During this Exhibition, groups will showcase their working prototype and the entire institute (students, faculties) will be invited to visit the Exhibition. - The best 2 or 3 groups will be shortlisted at the end of the course. The ranking of shortlisted projects will be given by higher authorities and domain experts. <!-- image -->"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) divisible by 8 and arrange the numbers in ascending order and store the result in specified memory location 10. Array Transfer from one memory location to other on simulator Objective: Perform block transfer of 10, 8-bit numbers from location C500H to C600H. Activity for Fast Learner: Write a program generate Fibonacci series for 50 numbers and store the result in memory location starting from C600H"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "topic": "Document scope",
+    "question": "What was the highest placement package offered at SPIT this year?",
+    "expected": null,
+    "answerable": false,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 2.046,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "The provided evidence does not contain any information about placement packages at SPIT, so I cannot answer the question based on the available sources.",
+    "rag_latency_seconds": 7.203,
+    "rag_correct": null,
+    "rag_abstained": true,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable 2: Abbreviations\n\n[PASSAGE 2]\nSection: In Semester Evaluation:\n- The students will be assessed during the entire course duration; this ISE will carry 80% of the weightage. - Students are expected to get involved in each and every activity of the course. The progress will be evaluated on continuous basis, having regular assessment points. It will be shared by faculty. - In continuous assessment focus shall also be on each individual student, assessment based on individual's contribution in group activity, their understanding and response to questions. - The End Semester Evaluation (ESE) shall be scheduled during the last week of semester. During the ESE, internal faculties and external experts will be invited to evaluate the final Prototype of the Idea Statement. - The course will end with an Exhibition event. During this Exhibition, groups will showcase their working prototype and the entire institute (students, faculties) will be invited to visit the Exhibition. - The best 2 or 3 groups will be shortlisted at the end of the course. The ranking of shortlisted projects will be given by higher authorities and domain experts. <!-- image -->\n\n[PASSAGE 3]\nSection: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->\n\n[PASSAGE 4]\nSection: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) divisible by 8 and arrange the numbers in ascending order and store the result in specified memory location 10. Array Transfer from one memory location to other on simulator Objective: Perform block transfer of 10, 8-bit numbers from location C500H to C600H. Activity for Fast Learner: Write a program generate Fibonacci series for 50 numbers and store the result in memory location starting from C600H\n\n[PASSAGE 5]\nSection: Pre-requisites Course Codes, if any. HSC Level Chemistry\nTable type: outcomes_or_details\nTable number: 96\nCourse Outcomes (CO):At the End of the course students will be able to: | Course Outcomes (CO):At the End of the course students will be able to:\n/ Use electrochemical and analytical techniques such as pH-metric, conductometric, potentiometric, and iodometric titrations for analysis of water and in the interest of public heath and environment. | AS102.6 AS102.6\n\n[PASSAGE 6]\nSection: Laboratory Component:\nTable type: other_table\nTable number: 84\nSr. No. | Title of the assignments | Marks\n1. | ISE 1 - Resume Writing | 10\n2. | ISE 2 - Group Discussion | 20\n3. | ISE 3 - Interview Skills | 20\n4. | ISE 4 - Business Proposal Writing & Pitching | 20\n5. | ISE 5 - Formal Report Writing | 20",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\nTable 2: Abbreviations"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: In Semester Evaluation:\n- The students will be assessed during the entire course duration; this ISE will carry 80% of the weightage. - Students are expected to get involved in each and every activity of the course. The progress will be evaluated on continuous basis, having regular assessment points. It will be shared by faculty. - In continuous assessment focus shall also be on each individual student, assessment based on individual's contribution in group activity, their understanding and response to questions. - The End Semester Evaluation (ESE) shall be scheduled during the last week of semester. During the ESE, internal faculties and external experts will be invited to evaluate the final Prototype of the Idea Statement. - The course will end with an Exhibition event. During this Exhibition, groups will showcase their working prototype and the entire institute (students, faculties) will be invited to visit the Exhibition. - The best 2 or 3 groups will be shortlisted at the end of the course. The ranking of shortlisted projects will be given by higher authorities and domain experts. <!-- image -->"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: 2026 ITERATION: FIRST YEAR ENGINEERING\n<!-- image -->"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) divisible by 8 and arrange the numbers in ascending order and store the result in specified memory location 10. Array Transfer from one memory location to other on simulator Objective: Perform block transfer of 10, 8-bit numbers from location C500H to C600H. Activity for Fast Learner: Write a program generate Fibonacci series for 50 numbers and store the result in memory location starting from C600H"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Pre-requisites Course Codes, if any. HSC Level Chemistry\nTable type: outcomes_or_details\nTable number: 96\nCourse Outcomes (CO):At the End of the course students will be able to: | Course Outcomes (CO):At the End of the course students will be able to:\n/ Use electrochemical and analytical techniques such as pH-metric, conductometric, potentiometric, and iodometric titrations for analysis of water and in the interest of public heath and environment. | AS102.6 AS102.6"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015625,
+        "prior": 0.0,
+        "chunk": "Section: Laboratory Component:\nTable type: other_table\nTable number: 84\nSr. No. | Title of the assignments | Marks\n1. | ISE 1 - Resume Writing | 10\n2. | ISE 2 - Group Discussion | 20\n3. | ISE 3 - Interview Skills | 20\n4. | ISE 4 - Business Proposal Writing & Pitching | 20\n5. | ISE 5 - Formal Report Writing | 20"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "topic": "Document scope",
+    "question": "What is the personal phone number of the institute director?",
+    "expected": null,
+    "answerable": false,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 2.105,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "The provided evidence does not contain any information about the personal phone number of the institute director.",
+    "rag_latency_seconds": 6.699,
+    "rag_correct": null,
+    "rag_abstained": true,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nSection: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) 9. Creative Confidence 1st Tom Kelley and David Kelley Crown Business 2013\n\n[PASSAGE 2]\nSection: Theory Component:\nTable type: other_table\nTable number: 13\nModule No. | Unit No. | Topics | Ref | Hrs.\n2. | Title | Linear Differential Equations of higher order | 1,2,3 | 11\n2. | 2.1 | Linear Differential Equation with constant coefficient- complementary function, particular integrals of differential equation of the type f(D)y = X where X is 𝑒 𝑎𝑥 , sin(ax+b), cos(ax+b), 𝑥𝑚, 𝑒 𝑎𝑥V, xV, where V is a function of x. |  | 7\n2. | 2.2 | Cauchy's homogeneous linear differential equation and Method of variation of parameters for second order. |  | 2\n2. | 2.3 | System of Differential Equations. |  | 2\n3. | Title | Complex Numbers | 1,2,3 | 11\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 85\n6. | ISE 6 - Presentation | 10\n7. | ISE 7 - Meeting | 20\n8. | ISE 8 - Minutes of the Meeting | 10\n9. | ISE 9 - Research Paper Writing | 10\n10. | Class Behavior and Etiquette | 10\nTOTAL | TOTAL | 150\n\n[PASSAGE 4]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 51\n4. | Title | Control Structures and Iterative Programming | 1,2 | 8\n10. | 10.1 | Healthcare Management. | 1,2 | 4\n10. | 10.2 | Insurance System. | 1,2 | 4\n10. | 10.3 | Exception handling. | 1,2 | 4\n10. | 10.4 10.5 | Polymorphic billing. Enterprise application. | 1,2 | 4\nTotal Lab Hours | Total Lab Hours | Total Lab Hours | Total Lab Hours | 52\n\n[PASSAGE 5]\nSection: Evaluation Scheme\n- 1) Laboratory Evaluation consists of Practical and Oral Examination based on the syllabus covering both Laboratory Teaching and all experiments. - 2) C Programming language is mandatory for all experiments in Laboratory component.\n\n[PASSAGE 6]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 51\n4. | Title | Control Structures and Iterative Programming | 1,2 | 8\n9. | 9.1 | Utility Billing. | 1,2 | 4\n9. | 9.2 | Student Evaluation. | 1,2 | 4\n9. | 9.3 | Interface extension. | 1,2 | 4\n9. | 9.4 | Interface integration. | 1,2 | 4\n10. | Title | Exception Handling and Enterprise Applications | 1,2 | 4",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) 9. Creative Confidence 1st Tom Kelley and David Kelley Crown Business 2013"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: Theory Component:\nTable type: other_table\nTable number: 13\nModule No. | Unit No. | Topics | Ref | Hrs.\n2. | Title | Linear Differential Equations of higher order | 1,2,3 | 11\n2. | 2.1 | Linear Differential Equation with constant coefficient- complementary function, particular integrals of differential equation of the type f(D)y = X where X is 𝑒 𝑎𝑥 , sin(ax+b), cos(ax+b), 𝑥𝑚, 𝑒 𝑎𝑥V, xV, where V is a function of x. |  | 7\n2. | 2.2 | Cauchy's homogeneous linear differential equation and Method of variation of parameters for second order. |  | 2\n2. | 2.3 | System of Differential Equations. |  | 2\n3. | Title | Complex Numbers | 1,2,3 | 11"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 85\n6. | ISE 6 - Presentation | 10\n7. | ISE 7 - Meeting | 20\n8. | ISE 8 - Minutes of the Meeting | 10\n9. | ISE 9 - Research Paper Writing | 10\n10. | Class Behavior and Etiquette | 10\nTOTAL | TOTAL | 150"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 51\n4. | Title | Control Structures and Iterative Programming | 1,2 | 8\n10. | 10.1 | Healthcare Management. | 1,2 | 4\n10. | 10.2 | Insurance System. | 1,2 | 4\n10. | 10.3 | Exception handling. | 1,2 | 4\n10. | 10.4 10.5 | Polymorphic billing. Enterprise application. | 1,2 | 4\nTotal Lab Hours | Total Lab Hours | Total Lab Hours | Total Lab Hours | 52"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Evaluation Scheme\n- 1) Laboratory Evaluation consists of Practical and Oral Examination based on the syllabus covering both Laboratory Teaching and all experiments. - 2) C Programming language is mandatory for all experiments in Laboratory component."
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015625,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 51\n4. | Title | Control Structures and Iterative Programming | 1,2 | 8\n9. | 9.1 | Utility Billing. | 1,2 | 4\n9. | 9.2 | Student Evaluation. | 1,2 | 4\n9. | 9.3 | Interface extension. | 1,2 | 4\n9. | 9.4 | Interface integration. | 1,2 | 4\n10. | Title | Exception Handling and Enterprise Applications | 1,2 | 4"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "topic": "Document scope",
+    "question": "What was the attendance percentage of a specific student in Semester I?",
+    "expected": null,
+    "answerable": false,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 2.104,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "The provided evidence does not contain any information about a student’s attendance percentage in Semester I, so the attendance percentage cannot be determined from the available material.",
+    "rag_latency_seconds": 3.239,
+    "rag_correct": null,
+    "rag_abstained": true,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nCurriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2\n\n[PASSAGE 2]\nSection: In Semester Evaluation:\n- The students will be assessed during the entire course duration; this ISE will carry 80% of the weightage. - Students are expected to get involved in each and every activity of the course. The progress will be evaluated on continuous basis, having regular assessment points. It will be shared by faculty. - In continuous assessment focus shall also be on each individual student, assessment based on individual's contribution in group activity, their understanding and response to questions. - The End Semester Evaluation (ESE) shall be scheduled during the last week of semester. During the ESE, internal faculties and external experts will be invited to evaluate the final Prototype of the Idea Statement. - The course will end with an Exhibition event. During this Exhibition, groups will showcase their working prototype and the entire institute (students, faculties) will be invited to visit the Exhibition. - The best 2 or 3 groups will be shortlisted at the end of the course. The ranking of shortlisted projects will be given by higher authorities and domain experts. <!-- image -->\n\n[PASSAGE 3]\nSection: Syllabus (Semester I-II)\n<!-- image -->\n\n[PASSAGE 4]\nSection: 8. Addition and Subtraction of Two 8-bit and 16-bit Numbers\n1. Implement the addition and subtraction of two 8-bit numbers stored in memory locations using the 8085 microprocessor. 2. Implement the addition and subtraction of two 16-bit numbers stored in memory locations using the 8085 microprocessor. 3. Store the result of each operation in a specific memory location. Activity for Fast Learner: Write a program for multiplication of two 16-bit numbers and store the result in specific location\n\n[PASSAGE 5]\nSection: Mini Project (Running Throughout the Semester)\n<!-- image -->\n\n[PASSAGE 6]\nSection: Lab Component:\nTable type: other_table\nTable number: 92\nSr. No. | Title of the Experiment*\n1. | Determination of energy band gap of a semiconductor using four probe method\n2. | Study of I-V characteristics of a Zener diode\n3. | Determination of the type of semiconductor sample, concentration of charge carriers and its mobility using Hall Effect\n4. | Determination of Planck's constant using photo vacuum tube\n5. | Measurement of ultrasonic velocity in liquid medium using ultrasonic interferometer",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.014925,
+        "prior": 0.14,
+        "chunk": "Curriculum record candidate\nCourse code: MA101\nCourse name: Engineering Calculus\nSemester: Not specified\nCredits: Not established\nSource heading: Curriculum Structure\nSource table: 9\nSource row: 2"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.032522,
+        "prior": 0.0,
+        "chunk": "Section: In Semester Evaluation:\n- The students will be assessed during the entire course duration; this ISE will carry 80% of the weightage. - Students are expected to get involved in each and every activity of the course. The progress will be evaluated on continuous basis, having regular assessment points. It will be shared by faculty. - In continuous assessment focus shall also be on each individual student, assessment based on individual's contribution in group activity, their understanding and response to questions. - The End Semester Evaluation (ESE) shall be scheduled during the last week of semester. During the ESE, internal faculties and external experts will be invited to evaluate the final Prototype of the Idea Statement. - The course will end with an Exhibition event. During this Exhibition, groups will showcase their working prototype and the entire institute (students, faculties) will be invited to visit the Exhibition. - The best 2 or 3 groups will be shortlisted at the end of the course. The ranking of shortlisted projects will be given by higher authorities and domain experts. <!-- image -->"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.031258,
+        "prior": 0.0,
+        "chunk": "Section: Syllabus (Semester I-II)\n<!-- image -->"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: 8. Addition and Subtraction of Two 8-bit and 16-bit Numbers\n1. Implement the addition and subtraction of two 8-bit numbers stored in memory locations using the 8085 microprocessor. 2. Implement the addition and subtraction of two 16-bit numbers stored in memory locations using the 8085 microprocessor. 3. Store the result of each operation in a specific memory location. Activity for Fast Learner: Write a program for multiplication of two 16-bit numbers and store the result in specific location"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Mini Project (Running Throughout the Semester)\n<!-- image -->"
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Lab Component:\nTable type: other_table\nTable number: 92\nSr. No. | Title of the Experiment*\n1. | Determination of energy band gap of a semiconductor using four probe method\n2. | Study of I-V characteristics of a Zener diode\n3. | Determination of the type of semiconductor sample, concentration of charge carriers and its mobility using Hall Effect\n4. | Determination of Planck's constant using photo vacuum tube\n5. | Measurement of ultrasonic velocity in liquid medium using ultrasonic interferometer"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "topic": "Document scope",
+    "question": "What is tomorrow's weather forecast for Mumbai?",
+    "expected": null,
+    "answerable": false,
+    "icl_answer": "I cannot determine that from the supplied syllabus.",
+    "icl_latency_seconds": 1.783,
+    "icl_correct": null,
+    "icl_abstained": true,
+    "icl_scoring_status": "manual_review_required",
+    "rag_answer": "The provided evidence contains information about academic topics, laboratory evaluations, and institutional details, but it does not include any weather forecast data for Mumbai. Therefore, I cannot answer the question about tomorrow’s weather forecast for Mumbai based on the given evidence.",
+    "rag_latency_seconds": 10.177,
+    "rag_correct": null,
+    "rag_abstained": true,
+    "rag_scoring_status": "manual_review_required",
+    "rag_evidence": "[PASSAGE 1]\nSection: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) divisible by 8 and arrange the numbers in ascending order and store the result in specified memory location 10. Array Transfer from one memory location to other on simulator Objective: Perform block transfer of 10, 8-bit numbers from location C500H to C600H. Activity for Fast Learner: Write a program generate Fibonacci series for 50 numbers and store the result in memory location starting from C600H\n\n[PASSAGE 2]\nSection: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) 2. Design and implement SR, JK, D &amp; T using MSI circuit. (verify race around condition in JK FF and remedies to avoid the same) Activity for Fast Learner: Obtain \"BNC\" flip flop using J-K Flipflop. The \"BNC\" flip flop has following truth table:\n\n[PASSAGE 3]\nSection: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) 6. Engineering Physics Second B.K. Pandey and S. Chaturvedi Cengage 2022\n\n[PASSAGE 4]\nSection: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 146\n |  | Law, Convection, Newton-Richmann's Law of Cooling, Concept of Forced and Natural Convection, Radiation, Stefan-Boltzmann's Law, Problems |  | \nTotal (*Not Included) | Total (*Not Included) | Total (*Not Included) | Total (*Not Included) | 42\n\n[PASSAGE 5]\nSection: Evaluation Scheme\n- 1) Laboratory Evaluation consists of Practical and Oral Examination based on the syllabus covering both Laboratory Teaching and all experiments. - 2) C Programming language is mandatory for all experiments in Laboratory component.\n\n[PASSAGE 6]\nSection: Theory Component:\nTable type: other_table\nTable number: 13\nModule No. | Unit No. | Topics | Ref | Hrs.\n2. | Title | Linear Differential Equations of higher order | 1,2,3 | 11\n2. | 2.1 | Linear Differential Equation with constant coefficient- complementary function, particular integrals of differential equation of the type f(D)y = X where X is 𝑒 𝑎𝑥 , sin(ax+b), cos(ax+b), 𝑥𝑚, 𝑒 𝑎𝑥V, xV, where V is a function of x. |  | 7\n2. | 2.2 | Cauchy's homogeneous linear differential equation and Method of variation of parameters for second order. |  | 2\n2. | 2.3 | System of Differential Equations. |  | 2\n3. | Title | Complex Numbers | 1,2,3 | 11",
+    "retrieval_details": [
+      {
+        "rank": 1,
+        "rrf_score": 0.031025,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) divisible by 8 and arrange the numbers in ascending order and store the result in specified memory location 10. Array Transfer from one memory location to other on simulator Objective: Perform block transfer of 10, 8-bit numbers from location C500H to C600H. Activity for Fast Learner: Write a program generate Fibonacci series for 50 numbers and store the result in memory location starting from C600H"
+      },
+      {
+        "rank": 2,
+        "rrf_score": 0.030331,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) 2. Design and implement SR, JK, D &amp; T using MSI circuit. (verify race around condition in JK FF and remedies to avoid the same) Activity for Fast Learner: Obtain \"BNC\" flip flop using J-K Flipflop. The \"BNC\" flip flop has following truth table:"
+      },
+      {
+        "rank": 3,
+        "rrf_score": 0.016393,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nBhavan's Campus, Munshi Nagar, Andheri (West), Mumbai-400058-India (Autonomous Institute Affiliated to University of Mumbai) 6. Engineering Physics Second B.K. Pandey and S. Chaturvedi Cengage 2022"
+      },
+      {
+        "rank": 4,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Sardar Patel Institute of Technology\nTable type: other_table\nTable number: 146\n |  | Law, Convection, Newton-Richmann's Law of Cooling, Concept of Forced and Natural Convection, Radiation, Stefan-Boltzmann's Law, Problems |  | \nTotal (*Not Included) | Total (*Not Included) | Total (*Not Included) | Total (*Not Included) | 42"
+      },
+      {
+        "rank": 5,
+        "rrf_score": 0.016129,
+        "prior": 0.0,
+        "chunk": "Section: Evaluation Scheme\n- 1) Laboratory Evaluation consists of Practical and Oral Examination based on the syllabus covering both Laboratory Teaching and all experiments. - 2) C Programming language is mandatory for all experiments in Laboratory component."
+      },
+      {
+        "rank": 6,
+        "rrf_score": 0.015873,
+        "prior": 0.0,
+        "chunk": "Section: Theory Component:\nTable type: other_table\nTable number: 13\nModule No. | Unit No. | Topics | Ref | Hrs.\n2. | Title | Linear Differential Equations of higher order | 1,2,3 | 11\n2. | 2.1 | Linear Differential Equation with constant coefficient- complementary function, particular integrals of differential equation of the type f(D)y = X where X is 𝑒 𝑎𝑥 , sin(ax+b), cos(ax+b), 𝑥𝑚, 𝑒 𝑎𝑥V, xV, where V is a function of x. |  | 7\n2. | 2.2 | Cauchy's homogeneous linear differential equation and Method of variation of parameters for second order. |  | 2\n2. | 2.3 | System of Differential Equations. |  | 2\n3. | Title | Complex Numbers | 1,2,3 | 11"
+      }
+    ]
+  }
+]

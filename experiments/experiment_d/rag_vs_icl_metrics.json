@@ -1,0 +1,27 @@
+{
+  "experiment": "ICL vs Hybrid RAG",
+  "question_count": 25,
+  "evaluation_warning": "Keyword accuracy is only a proxy. expected=None items require manual review against the syllabus. Do not report these figures as definitive accuracy or hallucination rates.",
+  "ICL": {
+    "total_questions": 25,
+    "automatically_scored_questions": 13,
+    "correct_answers": 3,
+    "keyword_accuracy_percent": 23.08,
+    "manual_review_questions": 12,
+    "unanswerable_questions": 5,
+    "unanswerable_non_abstentions": 0,
+    "unanswerable_non_abstention_rate_percent": 0.0,
+    "mean_latency_seconds": 3.051
+  },
+  "RAG": {
+    "total_questions": 25,
+    "automatically_scored_questions": 13,
+    "correct_answers": 12,
+    "keyword_accuracy_percent": 92.31,
+    "manual_review_questions": 12,
+    "unanswerable_questions": 5,
+    "unanswerable_non_abstentions": 0,
+    "unanswerable_non_abstention_rate_percent": 0.0,
+    "mean_latency_seconds": 6.22
+  }
+}
